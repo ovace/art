@@ -85,3 +85,8 @@ Films I almost put on the best list:
 - Il Posto
 - Andrei Rublev
 
+#New Ones
+
+- 6th sense
+- Seven 1995
+- Matrix
