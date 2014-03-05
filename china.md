@@ -45,3 +45,7 @@ The river, board middle line, affects 2 pieces: the elephant cannot cross it, an
 In [Japanese Chess](http://en.wikipedia.org/wiki/Shogi#Drops) (将棋, shōgi), you can use one of your turns to put a captured piece into any position of the board.
 
 Every piece can be promoted to an new one with specific new moves (most of them equal to another piece) when they reach the further third of the board, not just the last line as in occidental chess. Pieces are then turned over to show the promoted side.
+
+#Tales
+
+<http://en.wikipedia.org/wiki/Urashima_Tar%C5%8D> 8th century Japanese story of future time travel (time passes slowly) for a man who saves a turtle and is invited to the dragon god palace
