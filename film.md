@@ -2,7 +2,7 @@
 
 Bestof lists which I generally approve:
 
-- Citerium Collection: almost anything is watchable
+- Criterion Collection: almost anything is watchable: http://www.criterion.com/library/list_view?b=Criterion&p=1&pp=all&s=spine
 
 #Category
 

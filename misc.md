@@ -1,6 +1,10 @@
 Uncategorized random stuff that I found interesting (like Twitter but version controlled!)
 
-- en.wikipedia.org/wiki/Parthenogenesis
+- <http://en.wikipedia.org/wiki/Ceremonial_first_pitch>
+
+    American baseball culture.
+
+- <http://en.wikipedia.org/wiki/Parthenogenesis>
 
     Giving birth without sex.
 
@@ -8,7 +12,7 @@ Uncategorized random stuff that I found interesting (like Twitter but version co
 
     Lizards, birds, and simpler all have.
 
-- en.wikipedia.org/wiki/Polyploid
+- <http://en.wikipedia.org/wiki/Polyploid>
 
     Many species have more than 2 pairs of each chromosome:
 
