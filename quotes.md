@@ -12,6 +12,8 @@ Without technology, one cannot survive. Without art, one cannot live.
 
 #By others
 
+Whom the gods would destroy, they first make mad (spoken by Prometheus in Longfellow's poem The Masque of Pandora)
+
 True laziness is hard work. (forum tagline). More true to me than the famous Bill Gate "I choose a lazy person to do a hard job."
 
 Dying well is easy, living is not. (Rome, Open City)

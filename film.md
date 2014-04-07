@@ -85,8 +85,13 @@ Films I almost put on the best list:
 - Il Posto
 - Andrei Rublev
 
-#New Ones
+##New Ones
 
 - 6th sense
 - Seven 1995
 - Matrix
+
+#Terms
+
+- [Splatter, gorno, torture porn](http://en.wikipedia.org/wiki/Splatter_film)
+- [snuff films](http://en.wikipedia.org/wiki/Snuff_film): real deaths caught on tape

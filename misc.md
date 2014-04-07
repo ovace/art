@@ -1,4 +1,12 @@
-Uncategorized random stuff that I found interesting (like Twitter but version controlled!)
+Uncategorized random stuff that I found interesting. Version controlled Twitter.
+
+- <http://en.wikipedia.org/wiki/Starquake_%28astrophysics%29> If the 1979 starquake had happened 5 times closer, we'd be dead =)
+
+- <http://en.wikipedia.org/wiki/Richter_magnitude_scale#Richter_magnitudes>
+
+- <http://en.wikipedia.org/wiki/List_of_gestures>.
+
+- <http://en.wikipedia.org/wiki/Bloodhound>. Dog that can smell very well, specially for tracking people and animals.
 
 - <http://en.wikipedia.org/wiki/Ceremonial_first_pitch>
 
@@ -21,7 +29,7 @@ Uncategorized random stuff that I found interesting (like Twitter but version co
 
         Mamals have monoploid reproductive cells.
 
-    - procariotes: all monoploid.
+    - prokaryotes: all monoploid.
 
 - <http://en.wikipedia.org/wiki/Boysenberry>
 
