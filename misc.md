@@ -1,5 +1,7 @@
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+- <http://en.wikipedia.org/wiki/General_Idi_Amin_Dada:_A_Self_Portrait> because he did not like the editing of the film, he rounded up 200 French citizens in Uganda and threatned to kill them unless the film was edited as he liked it.
+
 - <http://en.wikipedia.org/wiki/Starquake_%28astrophysics%29> If the 1979 starquake had happened 5 times closer, we'd be dead =)
 
 - <http://en.wikipedia.org/wiki/Richter_magnitude_scale#Richter_magnitudes>
