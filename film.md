@@ -4,9 +4,13 @@ Bestof lists which I generally approve:
 
 - Criterion Collection: almost anything is watchable: http://www.criterion.com/library/list_view?b=Criterion&p=1&pp=all&s=spine
 
-#Category
+#Facts
 
-Films I love by category.
+- <http://en.wikipedia.org/wiki/All_persons_fictitious_disclaimer>: use started after a 1932 MGM movie Rasputin and the Empress was sued for suggesting sexual assault of a living princess. I don't see how such superficial notices could avoid a law suite, since what you actually do is more important than what you say you do. This is probably why there have been so many ironic uses for it.
+
+- <http://en.wikipedia.org/wiki/General_Idi_Amin_Dada:_A_Self_Portrait>: because he did not like the editing of the film, he rounded up 200 French citizens in Uganda and threatened to kill them unless the film was edited as he liked it.
+
+#Films I like
 
 ##Violent
 
