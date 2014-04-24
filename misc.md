@@ -1,5 +1,9 @@
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+- <http://en.wikipedia.org/wiki/File:Touched_by_His_Noodly_Appendage.jpg> Anti religion zealotism.
+
+- <http://en.wikipedia.org/wiki/Uranium_glass>
+
 - <http://en.wikipedia.org/wiki/Starquake_%28astrophysics%29> If the 1979 starquake had happened 5 times closer, we'd be dead =)
 
 - <http://en.wikipedia.org/wiki/Richter_magnitude_scale#Richter_magnitudes>
