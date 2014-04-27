@@ -15,10 +15,15 @@ List:
     - shui zhu niu rou
     - dishes with intestines
 
-- La chine sur la langue (舌尖美味)
+- Délices de Shandong (山东小馆)
+
+    88 Boulevard de l'Hôpital  
+    75013 Paris, France
+
+- La Chine sur la langue (舌尖美味)
 
     163 rue Saint-Denis (Croissement de Rue St Denis et de Rue Greneta)  
-    75002 Paris 
+    75002 Paris
 
     - ma la tang
     - jing dong da bing
@@ -27,3 +32,16 @@ List:
 
     8 Rue de la Tacherie  
     75004 Paris
+
+- Quatre Amis (那家小馆)
+
+    29 rue de Charenton  
+    75012 Paris
+
+- Royal Tching Tao (青岛人家)
+
+    8 Rue du Bel-Air  
+    75012 Paris
+
+    - shi zi tou
+    - song shu gui yu (松鼠桂鱼)
