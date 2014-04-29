@@ -8,7 +8,7 @@ Funding possibilities for startups with focus on the education domain.
 
 Education and publishing technology focused:
 
-- [Edsurge](https://www.edsurge.com/). News site focused on education technology and enterprises.
+-   [Edsurge](https://www.edsurge.com/). News site focused on education technology and enterprises.
     - [Large Education Focused Incubator List](https://www.edsurge.com/incubators)
 
 General IT news sites:
