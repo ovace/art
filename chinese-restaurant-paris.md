@@ -7,6 +7,8 @@ Paris has one of the largest Chinese communities outside of China, and there mus
 
 **Traiteur**: traiteurs are simpler restaurants that let you see pre-made food and choose how big your portions will be. They are the best way to eat a cheap and balanced meal in Paris, but generally not considered *great* Chinese food.
 
+So called **"Asian"** restaurants which mix either of Chinese / Japanese / Vietnamese / Thai are very rarely very good. Conversely, restaurants that specialize in a single region of China are more likely to be good (bot not certainly good). It is already difficult to do the cuisine for one part of China well, imagine for multiple countries.
+
 List:
 
 - Chez Yong (鼎鼎香)
@@ -47,3 +49,7 @@ List:
 
     - shi zi tou
     - song shu gui yu (松鼠桂鱼)
+
+Other similar lists:
+
+- <http://carnetdecroute.blogspot.fr/> French only, but similar to this list.
