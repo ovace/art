@@ -6,6 +6,10 @@ Funding possibilities for startups with focus on the education domain.
 - [Hewlett Foundation OER](http://www.hewlett.org/programs/education/open-educational-resources). No individuals, unlikely to grant spontaneous requests, priority to charity.
 - edcrunch [philanthropy](http://edcrunch.org/show-me-the-money/foundations-and-philanthropy/) and [investors](http://edcrunch.org/show-me-the-money/accelerators-and-investors).
 
+General funding possibilities:
+
+- [F6S](http://www.f6s.com/): incubator aggregator. Very complete.
+
 Education and publishing technology focused:
 
 -   [Edsurge](https://www.edsurge.com/). News site focused on education technology and enterprises.
