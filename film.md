@@ -2,7 +2,7 @@
 
 Bestof lists which I generally approve:
 
-- Criterion Collection: almost anything is watchable: http://www.criterion.com/library/list_view?b=Criterion&p=1&pp=all&s=spine
+- Criterion Collection: almost anything is watchable: <http://www.criterion.com/library/list_view?b=Criterion&p=1&pp=all&s=spine>
 
 #Facts
 
@@ -11,6 +11,8 @@ Bestof lists which I generally approve:
 - <http://en.wikipedia.org/wiki/General_Idi_Amin_Dada:_A_Self_Portrait>: because he did not like the editing of the film, he rounded up 200 French citizens in Uganda and threatened to kill them unless the film was edited as he liked it.
 
 #Films I like
+
+I like: war, mafia, Japan, China, samurai, western, suspense, thriller, horror, 70's, 20's, documentary, noir, nouvelle vague, social critique and satire, sci-fi, minimalism
 
 ##Violent
 
@@ -70,7 +72,7 @@ Bestof lists which I generally approve:
 
 - 2001 Space Odyssey
 - Blane Runner
-- Metropolois 1927
+- Metropolis 1927
 
 ##Misc
 

@@ -99,3 +99,9 @@ The great march was his amazing successful escape from Chiang's impending attack
 His peasant guerrilla strategy was also rather successful against technically superior Japan. His force was in the large amounts of people, not in high tech.
 
 After WW2, Mao and Chiang agreed to peace under American supervision: saw each other face to face and discussed for 6 weeks. However, as Japanese withdrew, both started getting ready for war: American backed Chiang, and Russia backed Mao.
+
+# Western perception
+
+Funny things about how Westerners have perceived and imagined China, spcially in the past when information was less available.
+
+- [Fu Manchu](http://en.wikipedia.org/wiki/Fu_Manchu)
