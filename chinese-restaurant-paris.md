@@ -11,7 +11,7 @@ So called **"Asian"** restaurants which mix either of Chinese / Japanese / Vietn
 
 List:
 
-- Chez Yong (鼎鼎香)
+-   Chez Yong (鼎鼎香)
 
     42, rue de la Colonie  
     75013 Paris
@@ -19,12 +19,12 @@ List:
     - shui zhu niu rou
     - dishes with intestines
 
-- Délices de Shandong (山东小馆)
+-   Délices de Shandong (山东小馆)
 
     88 Boulevard de l'Hôpital  
     75013 Paris, France
 
-- La Chine sur la langue (舌尖美味)
+-   La Chine sur la langue (舌尖美味)
 
     163 rue Saint-Denis (Croissement de Rue St Denis et de Rue Greneta)  
     75002 Paris
@@ -32,23 +32,34 @@ List:
     - ma la tang
     - jing dong da bing
 
-- Le céleste gourmand (福来居)
+-   Le céleste gourmand (福来居)
 
     8 Rue de la Tacherie  
     75004 Paris
 
-- Quatre Amis (那家小馆)
+-    Quatre Amis (那家小馆)
 
     29 rue de Charenton  
     75012 Paris
 
-- Royal Tching Tao (青岛人家)
+-   Royal Tching Tao (青岛人家)
 
     8 Rue du Bel-Air  
     75012 Paris
 
     - shi zi tou
     - song shu gui yu (松鼠桂鱼)
+
+-   Tien Hiang (天香)
+
+    14, rue Bichat  
+    75010 paris
+
+    Vegetarian food: most dishes are an imitation of a dish with meat.
+
+    Not as good as the original meat for me, but very interesting and good for a change.
+
+    Chinese vegetarians are rare. In theory, the origin of the food in this restaurant is Hong Kong Buddhism (Buddhist monks cannot eat meat, while other believers can.)
 
 Other similar lists:
 
