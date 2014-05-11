@@ -10,13 +10,40 @@ General funding possibilities:
 
 - [F6S](http://www.f6s.com/): incubator aggregator. Very complete.
 
-Education and publishing technology focused:
+General startup aggregators / incubators:
 
--   [Edsurge](https://www.edsurge.com/). News site focused on education technology and enterprises.
-    - [Large Education Focused Incubator List](https://www.edsurge.com/incubators)
+- [AngelList](https://angel.co/)
 
-General IT news sites:
+# News
+
+General:
 
 - [Tech Crunch](techcrunch.com)
 - [pandodaily](http://pando.com/)
 - [recode](http://recode.net/)
+- <http://www.theregister.co.uk>
+
+Education:
+
+-   [Edsurge](https://www.edsurge.com/). News site focused on education technology and enterprises.
+    - [Large Education Focused Incubator List](https://www.edsurge.com/incubators)
+
+Publishing:
+
+Git:
+
+- Git Minutes <http://episodes.gitminutes.com/>
+
+# Education websites
+
+No text development focus, only a bunch of metadata:
+
+- Udemy <https://www.udemy.com>
+- Eliademy <https://eliademy.com>
+
+# Developer tools
+
+Web IDEs with terminal:
+
+- <https://koding.com>. Chromebook default "application" for Terminal.
+- <https://codeanywhere.com>

@@ -111,3 +111,10 @@ Once upon a time in the west:
 - 1:06: its almost like holding a gun. Only much more powerful.
 - 1:50: there were no dollars on 'em' days
 - 2:14: so you found out you weren't a business man after all.
+
+#Best scenes
+
+##Life of Brian
+
+- stoning
+- Biggus Dickus

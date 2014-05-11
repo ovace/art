@@ -4,6 +4,10 @@ I might include Japanese / Korean / Vietnamese stuff here too because they are a
 
 Chinese can count up to 10 with **one hand**: <http://en.wikipedia.org/wiki/Chinese_number_gestures>. Every Chinese knows those signs and uses them instinctively.
 
+#Food etiquette
+
+Everyone eats directly from a shared plate. In more formal occasions, specially in Japan, and when touching food that you are not going to eat immediately (e.g. to separate iiao zi to avoid them from sticking together) people may use the back of the chopstick for hygienic purposes.
+
 #Numbered lists
 
 Chinese people love to enumerate common concepts.
