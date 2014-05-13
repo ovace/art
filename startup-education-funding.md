@@ -9,6 +9,7 @@ Funding possibilities for startups with focus on the education domain.
 General funding possibilities:
 
 - [F6S](http://www.f6s.com/): incubator aggregator. Very complete.
+- [Unltd](http://unltd.org.uk/path/). UK habitants only.
 
 General startup aggregators / incubators:
 
@@ -18,10 +19,11 @@ General startup aggregators / incubators:
 
 General:
 
-- [Tech Crunch](techcrunch.com)
+- [Tech Crunch](http://techcrunch.com)
 - [pandodaily](http://pando.com/)
 - [recode](http://recode.net/)
 - <http://www.theregister.co.uk>
+- [Forbes](http://www.forbes.com/), many useful columns for entrepreneurs: news and advice. Amazing ammount of posts, sometimes hard to find relevant info.
 
 Education:
 

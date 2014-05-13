@@ -118,3 +118,7 @@ Once upon a time in the west:
 
 - stoning
 - Biggus Dickus
+
+#Misc
+
+- American Age Rating System: <https://en.wikipedia.org/wiki/Rated_PG>

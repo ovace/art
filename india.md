@@ -8,6 +8,12 @@
 
 - http://en.wikipedia.org/wiki/Gulab_Jamun
 
+##Indian bakery
+
+India adopted British Western style bakeries and made some adaptations.
+
+Most notably, you can find Western style doughs with Indian fillings.
+
 # Gurdwara
 
 # Sikh temple
