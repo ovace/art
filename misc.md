@@ -1,6 +1,10 @@
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
--   <https://en.wikipedia.org/wiki/Codex_Leicester> Manuscript by Da Vinci. Most expensive book in the world: 30Mi by Bill Gates in 1994. Quote wikipedia:
+-   <https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality>. Ammount of discussion on an issue is inversely proportional to its complexity.
+
+-   <https://en.wikipedia.org/wiki/Biological_immortality>. Some species are believed to be immortal.
+
+-   <https://en.wikipedia.org/wiki/Codex_Leicester>. Manuscript by Da Vinci. Most expensive book in the world: 30Mi by Bill Gates in 1994. Quote wikipedia:
 
     > an explanation of why fossils can be found on mountains. Hundreds of years before plate tectonics became accepted scientific theory, Leonardo believed that mountains had previously formed sea beds, which were gradually lifted until they formed mountains.
 

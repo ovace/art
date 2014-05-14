@@ -49,3 +49,10 @@ Web IDEs with terminal:
 
 - <https://koding.com>. Chromebook default "application" for Terminal.
 - <https://codeanywhere.com>
+
+# CI
+
+- <https://github.com/travis-ci/travis-ci>
+- <https://github.com/drone/drone>       Go. Docker.
+- <https://github.com/jenkinsci/jenkins> Java.
+- <https://github.com/defunkt/cijoe>     Ruby.

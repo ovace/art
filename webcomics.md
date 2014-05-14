@@ -7,8 +7,6 @@
     - <http://xkcd.com/937>
     - <http://xkcd.com/946>
 
--   <http://threewordphrase.com/hostage.htm>
-
 -   <www.smbc-comics.com>
 
     - <http://www.smbc-comics.com/?id=2999#comic>
@@ -17,3 +15,10 @@
     - <http://www.smbc-comics.com/?id=3287#comic>
     - <http://www.smbc-comics.com/?id=3290#comic>
     - <http://www.smbc-comics.com/?id=3292#comic>
+    - <http://www.smbc-comics.com/?id=3355#comic>
+
+    Tier 2:
+
+    - <http://www.smbc-comics.com/?id=3346#comic>
+
+-   <http://threewordphrase.com/hostage.htm>
