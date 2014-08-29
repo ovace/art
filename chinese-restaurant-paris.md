@@ -50,6 +50,13 @@ List:
     - shi zi tou
     - song shu gui yu (松鼠桂鱼)
 
+-   Deux Fois Plus De Piment (绝代双椒)
+
+    Address: 33 Rue Saint-Sébastien  
+    75011 Paris, France
+
+    Sichuan.
+
 -   Tien Hiang (天香)
 
     14, rue Bichat  

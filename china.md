@@ -4,9 +4,15 @@ I might include Japanese / Korean / Vietnamese stuff here too because they are a
 
 Chinese can count up to 10 with **one hand**: <http://en.wikipedia.org/wiki/Chinese_number_gestures>. Every Chinese knows those signs and uses them instinctively.
 
+#Food
+
+- https://en.wikipedia.org/wiki/Rice_paper Vietnamese. Must put into water for 15 seconds before using.
+
 #Food etiquette
 
 Everyone eats directly from a shared plate. In more formal occasions, specially in Japan, and when touching food that you are not going to eat immediately (e.g. to separate iiao zi to avoid them from sticking together) people may use the back of the chopstick for hygienic purposes.
+
+---
 
 #Numbered lists
 
@@ -16,29 +22,31 @@ This tendency also exists in other cultures, but it is specially strong in the C
 
 This is a list of some of the most important and interesting ones.
 
-- <https://en.wikipedia.org/wiki/Eight_Principles_of_Yong>
+-   <https://en.wikipedia.org/wiki/Eight_Principles_of_Yong>
 
     Eight principles of Yong.
 
     永字八法
 
-- <https://en.wikipedia.org/wiki/Four_Treasures_of_the_Study>
+-   <https://en.wikipedia.org/wiki/Four_Treasures_of_the_Study>
 
     Four treasures of the study
 
     文房四宝
 
-- <https://en.wikipedia.org/wiki/Four_Gentlemen>
+-   <https://en.wikipedia.org/wiki/Four_Gentlemen>
 
     Four gentlemen.
 
     四君子
 
-- <https://en.wikipedia.org/wiki/Three_Friends_of_Winter>
+-   <https://en.wikipedia.org/wiki/Three_Friends_of_Winter>
 
     Three friends of winter.
 
     岁寒三友
+
+-   Eight regional cuisines of China: Shandong, Guangdong, Sichuan, Hunan, Jiangsu, Zhejiang, Fujian, Anhui.
 
 #Chess
 
@@ -104,8 +112,65 @@ His peasant guerrilla strategy was also rather successful against technically su
 
 After WW2, Mao and Chiang agreed to peace under American supervision: saw each other face to face and discussed for 6 weeks. However, as Japanese withdrew, both started getting ready for war: American backed Chiang, and Russia backed Mao.
 
-# Western perception
+#Western perception
 
-Funny things about how Westerners have perceived and imagined China, spcially in the past when information was less available.
+Funny things about how Westerners have perceived and imagined China, specially in the past when information was less available.
 
 - [Fu Manchu](http://en.wikipedia.org/wiki/Fu_Manchu)
+
+#Koans
+
+-   <https://en.wikipedia.org/wiki/The_Gateless_Gate>
+
+        Two monks were watching a flag flapping in the wind. One said to the other, "The flag is moving."
+        The other replied, "The wind is moving."
+        Huineng overheard this. He said, "Not the flag, not the wind; mind is moving."
+
+
+<!-- -->
+
+    Two hands clap and there is a sound. What is the sound of one hand?
+    - Hakuin Ekaku
+
+<!-- -->
+
+    If you meet the Buddha, kill him. (逢佛殺佛，逢祖殺祖)
+    - Linji
+
+<!-- -->
+
+    A monk asked Dongshan Shouchu, "What is Buddha?" Dongshan said, "Three pounds of flax." (This is a fragment of case #18 of the Wumenguan as well as case #12 of the Blue Cliff Record.)
+
+#Tao Te Ching
+
+    We put thirty spokes together and call it a wheel;
+    But it is on the space where there is nothing that the usefulness of the wheel depends.
+    We turn clay to make a vessel;
+    But it is on the space where there is nothing that the usefulness of the vessel depends.
+    We pierce doors and windows to make a house;
+    And it is on these spaces where there is nothing that the usefulness of the house depends.
+    Therefore just as we take advantage of what is, we should recognize the usefulness of what is not.
+
+<!-- -->
+
+    “The best leaders are those their people hardly know exist.
+    The next best is a leader who is loved and praised.
+    Next comes the one who is feared.
+    The worst one is the leader that is despised …
+    The best leaders value their words, and use them sparingly.
+    When they have accomplished their task,
+    the people say, “Amazing!
+    We did it, all by ourselves!”
+
+<!-- -->
+
+    Without going out the door,
+    Know the world.
+    Without looking out the window,
+    See the Way of Heaven.
+
+#Language
+
+##English Chinese subs
+
+-   <https://www.youtube.com/watch?v=nnx1z0iUB4Y>
