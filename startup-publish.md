@@ -10,6 +10,7 @@ Funding possibilities for startups with focus on the education / publishing doma
 - [Hewlett Foundation OER](http://www.hewlett.org/programs/education/open-educational-resources). No individuals, unlikely to grant spontaneous requests, priority to charity.
 - edCrunch [philanthropy](http://edcrunch.org/show-me-the-money/foundations-and-philanthropy/) and [investors](http://edcrunch.org/show-me-the-money/accelerators-and-investors).
 - [MacArthur foundation](http://www.macfound.org/programs/fellows/strategy/). Any domain, but someone must nominate you, and you must already be already a genius on your domain. US residents / citizens only.
+- [Michael & Susan Dell Foundation](http://www.msdf.org/). Education is one of it's focuses. No individuals.
 
 - [Bauer media 100M in Europe](http://techcrunch.com/2014/08/04/bauer-venture-partners). Not exclusive for publishing, but that will probably be one of their focuses so they can buy back new tech.
 
@@ -54,12 +55,32 @@ No text development focus, only organize metadata on existing text:
 - Udemy <https://www.udemy.com>
 - Eliademy <https://eliademy.com>
 
+# Education enterprises
+
+- <https://www.coursera.org/>
+- <http://www.blackboard.com?lang=en-us>
+
 # Developer tools
 
 Web IDEs with terminal:
 
 - <https://koding.com>. Chromebook default "application" for Terminal.
 - <https://codeanywhere.com>
+
+# Crowdfunding
+
+Solve issue and get paid.
+
+Anyone can post, mostly for open source:
+
+- <http://bountysource.com/>
+- <http://www.freedomsponsors.org/>
+- <https://assembly.com>. Project ownership percentage based method.
+
+Closed source, posted by companies mostly:
+
+- <https://hackerone.com>: security issues that company proposes.
+- <https://www.odesk.com/>
 
 # CI
 

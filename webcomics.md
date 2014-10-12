@@ -1,5 +1,6 @@
 -   <http://xkcd.com/>. Many strips have become widely cited classics.
 
+    - <http://xkcd.com/327/>: Robert drop table students
     - <http://xkcd.com/378>: real programmers use which editor
     - <http://xkcd.com/927>: standards proliferation
     - <http://xkcd.com/930>: what happens on each day of the week

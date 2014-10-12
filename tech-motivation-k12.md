@@ -1,6 +1,6 @@
 What you can say to K12 people to motivate them to learn Math, Physics and the other "hard" sciences.
 
-#Control the future
+# Control the future
 
 Technology is the art of controlling the future to make it better.
 
@@ -8,7 +8,7 @@ Stop and think: if you could control the future, what you do? Wouldn't that be g
 
 Examples:
 
-- I want to get to work faster.
+-   I want to get to work faster.
 
     If I walk it takes 30 minutes.
 
@@ -18,7 +18,7 @@ Examples:
 
     My future improved!
 
-- I want a cheaper newspaper.
+-   I want a cheaper newspaper.
 
     If I go to a newsstand, I pay 1 dollar.
 
@@ -28,7 +28,7 @@ Examples:
 
     My future improved!
 
-#Simple and cool technological questions
+# Simple and cool technological questions
 
 To understand why, see:
 
@@ -44,7 +44,7 @@ To understand why, see:
 
 - what is the shortest path to deliver those goods? <http://valis.cs.uiuc.edu/~sariel/research/CG/applets/tsp/TspAlg.html>
 
-#Holy triad
+# Holy triad
 
 Technology is based on the holy triad:
 
@@ -52,7 +52,7 @@ Technology is based on the holy triad:
 - [mathematics](#mathematics)
 - [computer](#computer)
 
-#Model
+# Model
 
 A model is a piece of information that predicts the future.
 
@@ -71,7 +71,7 @@ The question is then:
 
 This called *optimization*!
 
-##example: girlfriend
+## Example: girlfriend
 
 - Current and past state: You have a girlfriend. You two are not very happy together.
 - Action: you kiss another girl.
@@ -88,7 +88,7 @@ If we change the current state, the future also changes:
 - Action: you kiss another girl.
 - Future state: You two are not very happy together.
 
-##Example: car on road
+## Example: car on road
 
 - Current state: You are in a city A.
 - Action: you drive at 100 km/h during one hour.
@@ -105,7 +105,7 @@ If we change the current state, the future also changes:
 - Action: you drive at 100 km/h during one hour in the direction oposite from A.
 - Future state: you are 200 km from city A.
 
-##Precise models
+## Precise models
 
 If you forget preciseness, all things we do in life counts as technology:
 
@@ -137,7 +137,7 @@ It seems that physics never changes!
 
 For some areas of physics, our models are close to perfection.
 
-##How to write a model down
+## How to write a model down
 
 Models can be written in many languages such as English.
 
@@ -145,7 +145,7 @@ Unfortunately, English is too imprecise for certain models (position of a robot 
 
 The best way to write models is [mathematics](#mathematics).
 
-##how to create a model
+## How to create a model
 
 Do one million experiments with different inputs which you can control.
 
@@ -153,7 +153,7 @@ Measure the output.
 
 Write an equation that predicts the output given the input.
 
-#mathematics
+# Mathematics
 
 Mathematics is precise, this is why it is good to write models with it.
 
@@ -169,7 +169,7 @@ The problem with mathematical models: sometimes you write an equation but solvin
 
 This is why we need [computers](#computer): computers can do those millions of operations for us!
 
-##approximation
+## Approximation
 
 For some mathematical problems it is impossible to precisely write down a solution. Ex: differential equations.
 
@@ -177,25 +177,25 @@ For other problems, find the exact solution would take too much time, but an app
 
 The solution: find an approximation of the solution, which is good enough for practical purposes!
 
-#computer
+# Computer
 
-Computers can manipulate information in a way that is *very*:
+Computers can manipulate information (copy, transfer, delete) in a way that is *very*:
 
 - fast
 - cheap
-- without errors
+- robust, i.e. without few errors
 
 As long as we can write our problems into lots of very simple operations, such as sums or subtractions.
 
 This allows us to:
 
-- solve our models.
+-   solve our models.
 
     The solution of many models comes down to making a huge number of stupid operations. Ex: solving differential equations.
 
     Computers are perfect for that.
 
-- act on a physical systems.
+-   act on a physical systems.
 
     To modify the future we some physical systems, we have to do
 

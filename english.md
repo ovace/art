@@ -4,6 +4,12 @@ As an "advanced" non native speaker, I always learn a few new terms every month.
 
 Here are some cool ones:
 
+-   <http://www.urbandictionary.com/define.php?term=That%27s%20my%20jam!>
+
+    In Brazil we say "beach" instead of jam.
+
+-   <http://en.wikipedia.org/wiki/Heckler>
+
 -   <http://www.urbandictionary.com/define.php?term=glory%20hole>
 
 -   <http://en.wikipedia.org/wiki/Trope_%28literature%29>

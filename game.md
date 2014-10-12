@@ -90,3 +90,28 @@ Wiki: <http://en.wikipedia.org/wiki/Shadowgate>
 Genre: point and click adventure
 
 You can hit and kill yourself!
+
+# Magic the Gathering
+
+-   <http://en.wikipedia.org/wiki/Power_Nine>
+
+-   <http://en.wikipedia.org/wiki/Magic:_The_Gathering#Psychographic_profiles>
+
+-   <http://en.wikipedia.org/wiki/Trading_card#Condition>
+
+    Mint and pristine are fun names.
+
+# Chess
+
+-   <http://en.wikipedia.org/wiki/Windmill_%28chess%29>
+
+    Love chess terms.
+
+-   Chess variants:
+
+    - <https://en.wikipedia.org/wiki/Hexagonal_chess#Gli.C5.84ski.27s_hexagonal_chess>
+    - <https://en.wikipedia.org/wiki/Fairy_chess_piece>
+    - <https://en.wikipedia.org/wiki/Double_Chess>
+    - <https://en.wikipedia.org/wiki/File:Chess_on_the_Dot.jpg>
+    - <https://en.wikipedia.org/wiki/Kung-fu_chess>
+
