@@ -57,8 +57,14 @@ No text development focus, only organize metadata on existing text:
 
 # Education enterprises
 
+## Teaching
+
 - <https://www.coursera.org/>
 - <http://www.blackboard.com?lang=en-us>
+
+## Huge tech oriented publishers
+
+- <http://se.macmillan.com/>
 
 # Developer tools
 

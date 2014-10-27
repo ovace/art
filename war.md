@@ -24,9 +24,53 @@ War, espionage, crime, violence, terorrism, revolution, police. In short: evil, 
 
 # Terrorism
 
--   <http://en.wikipedia.org/wiki/Munich_massacre> by <http://en.wikipedia.org/wiki/Black_September_%28group%29> All 11  hostages killed and 5 of 8 terrorists killed.
+-   <http://en.wikipedia.org/wiki/Munich_massacre> by <http://en.wikipedia.org/wiki/Black_September_%28group%29>
+    All 11  hostages killed and 5 of 8 terrorists killed.
 
-    3 survivors released after <http://en.wikipedia.org/wiki/Lufthansa_Flight_615>, where demands were met. <http://en.wikipedia.org/wiki/Muammar_Gaddafi> gave asylum to the liberated hijackers.
+    3 survivors released after <http://en.wikipedia.org/wiki/Lufthansa_Flight_615>,
+    where demands were met. <http://en.wikipedia.org/wiki/Muammar_Gaddafi> gave asylum to the liberated hijackers.
+
+-   <http://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack> by Aum Shinrikyo.
+
+    It is incredible how a religious group
+    could lead people to do those things. And that was not the only case where they've murdered.
+
+    <https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M#t=114>
+    Theorizes that great growth came from recruiting in top universities,
+    where students where disillusioned by meaningless grading systems.
+
+    The "master" also claims on a television interview that those students wanted spirituality
+    because they were materially wealthy and needed something else. I think this claim is plausible.
+
+    Also Japans' new religions benefited a lot from the end of the War,
+    where at once people saw themselves free to choose.
+
+    Those also theorize that he became bitter with society after he lost the elections.
+
+    Next, he also made links with the Russian, which were also a falling empire that needed stability,
+    and gained followers from the military which actually stole military secrets.
+
+    Part of the chemical experiences where carried in Tokyo itself,
+    and residents even protested against them, but nothing was done:
+    <https://www.youtube.com/watch?v=81uvbbsJC7M>
+
+    <https://www.youtube.com/watch?v=vQ7uz8EYMYo> conjectures that he became such a successful leader
+    due to him being blind from one eye and half blind on the other. As such, he went to a school for the blind,
+    where he was at a very advantageous position to manipulate others.
+
+    It is also interesting to see excerpts from his propaganda animes.
+
+    The "master" on a television show:
+    <https://www.youtube.com/watch?feature=player_detailpage&v=vQ7uz8EYMYo#t=398>
+
+    A parent who appears on street on television saying how the master stole his children away,
+    and his wife urging him to stay away from the camera from fear of backslash:
+    <https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M#t=744>
+
+    This hows how the weapon was prepared and deployed on subway:
+    <https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M>
+    Two bags are put inside a newspaper, then they use an umbrella
+    to cut through both and mix the liquids.
 
 # Crime
 
@@ -36,6 +80,10 @@ War, espionage, crime, violence, terorrism, revolution, police. In short: evil, 
     and probably for good.
 
 # Gear
+
+-   <http://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit>
+
+    Most modern current bomber. 750mi dollars per unit, 2bi considering development. 20 exist. The only one capable of launching standoff weapons today.
 
 -   <http://en.wikipedia.org/wiki/War_pigeon> <http://en.wikipedia.org/wiki/Pigeon_post>
 
@@ -64,6 +112,21 @@ War, espionage, crime, violence, terorrism, revolution, police. In short: evil, 
 -   Classification levels used by the NSA: <https://firstlook.org/theintercept/2014/10/10/core-secrets/> Core secrets being the top level.
 
 -   <http://en.wikipedia.org/wiki/Classified_information_in_the_United_States#Levels_of_classification_used_by_the_U.S._government>
+
+### Chemical
+
+-   <http://en.wikipedia.org/wiki/Sarin>
+
+    Created by the Germans in WW2 but not deployed in that war.
+
+    Used notably on:
+
+    - the Aum Shinrikyo attack
+    - <http://en.wikipedia.org/wiki/Halabja_chemical_attack>
+
+    Bomb to deploy sarin: <http://upload.wikimedia.org/wikipedia/commons/1/18/Demonstration_cluster_bomb.jpg>
+
+-   <http://en.wikipedia.org/wiki/Animal_sentinel>
 
 ## Leaks
 
@@ -124,6 +187,10 @@ War, espionage, crime, violence, terorrism, revolution, police. In short: evil, 
     Started in WW2, with at least on recipient in 2014 for Afghanistan.
 
 # WW2
+
+-   <http://en.wikipedia.org/wiki/Dowding_system>
+
+    The British had started preparing a bit before WW2 started.
 
 -   Rediscovered WW2 propaganda turned pop:
 

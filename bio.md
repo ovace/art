@@ -1,5 +1,11 @@
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   <http://en.wikipedia.org/wiki/Footedness>
+
+    Only half of left handers are also left footed.
+
+    90% of right handed people are also right footed.
+
 -   <http://en.wikipedia.org/wiki/Black_swan>
 
     The black swan, an Australian species, was though not to exist in the past in England, which lead to expressions in England such as the "black swan" philosophical question.

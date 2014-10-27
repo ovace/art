@@ -1,3 +1,5 @@
+-   <http://en.wikipedia.org/wiki/Corporate_DNA>
+
 -   <http://www.paulgraham.com/swan.html>
 
     On startup investment, only the big successes matter financially: 3/4 of Y combinator's money comes from Dropbox and Airbnb alone.

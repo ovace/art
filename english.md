@@ -4,6 +4,10 @@ As an "advanced" non native speaker, I always learn a few new terms every month.
 
 Here are some cool ones:
 
+-   <http://en.wikipedia.org/wiki/Mission_creep>
+
+-   <http://en.wikipedia.org/wiki/Pyrrhic_victory>
+
 -   <http://www.urbandictionary.com/define.php?term=That%27s%20my%20jam!>
 
     In Brazil we say "beach" instead of jam.

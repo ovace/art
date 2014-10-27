@@ -1,3 +1,9 @@
+-   <http://en.wikipedia.org/wiki/Live_action_role-playing_game>
+
+    RPG where people physically act their characters.
+
+    Contrasts with tabletop role-playing game where mostly voice is used, and not always in-character.
+
 -   <https://www.youtube.com/watch?feature=player_embedded&v=7sNge0Ywz-M>
 
     Minecraft CPU.
@@ -91,7 +97,19 @@ Genre: point and click adventure
 
 You can hit and kill yourself!
 
-# Magic the Gathering
+# Not electronic
+
+## Table soccer
+
+-   <http://upload.wikimedia.org/wikipedia/commons/5/50/Kicker-berlin.jpg>
+
+    Huge men!
+
+-   <http://upload.wikimedia.org/wikipedia/commons/e/e5/Foosball11Players.jpg>
+
+    Long table!
+
+## Magic the Gathering
 
 -   <http://en.wikipedia.org/wiki/Power_Nine>
 
@@ -101,7 +119,7 @@ You can hit and kill yourself!
 
     Mint and pristine are fun names.
 
-# Chess
+## Chess
 
 -   <http://en.wikipedia.org/wiki/Windmill_%28chess%29>
 

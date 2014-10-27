@@ -1,5 +1,11 @@
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+-   <http://en.wikipedia.org/wiki/M%C3%BCnchausen_syndrome>
+
+-   <http://en.wikipedia.org/wiki/M%C3%BCnchausen_syndrome_by_proxy>
+
+-   <http://en.wikipedia.org/wiki/Large_denominations_of_United_States_currency>
+
 -   <http://en.wikipedia.org/wiki/Survivalism>
 
 -   <https://en.wikipedia.org/wiki/Astroturfing>
@@ -13,18 +19,6 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
 -   <http://en.wikipedia.org/wiki/Stone_Soup>
 
     To get others to invest, you must have something, even if useless and fake.
-
--   <http://en.wikipedia.org/wiki/Lions_Clubs_International>
-
-    <http://en.wikipedia.org/wiki/Freemasonry>
-
-    <http://en.wikipedia.org/wiki/Rotary_International>
-
-    Similar pseudo secrete organizations with around 1M members, some religious like rituals with or without beliefs, and with a stated purpose of helping their communities.
-
-    In practice, it is likely that those organizations strongly endorse acceptance of the most rich or powerful members of society, and that one major reason why people participate in them is to help themselves.
-
-    In short: like an organized religious cults, but with less emphasis on superstitious beliefs, and more emphasis on elitism and secrecy.
 
 -   <http://en.wikipedia.org/wiki/Moomin>
 
@@ -157,3 +151,19 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
 -   Deadpan humor, dry humor: <http://www.youtube.com/watch?v=WxuhISNpZFk>
 
 -   <http://en.wikipedia.org/wiki/File:Societal_attitudes_towards_homosexuality.svg>
+
+# Closed societies
+
+-   <http://en.wikipedia.org/wiki/Lions_Clubs_International>
+
+    <http://en.wikipedia.org/wiki/Freemasonry>
+
+    <http://en.wikipedia.org/wiki/Rotary_International>
+
+    Similar pseudo secrete organizations with around 1M members, some religious like rituals with or without beliefs, and with a stated purpose of helping their communities.
+
+    In practice, it is likely that those organizations strongly endorse acceptance of the most rich or powerful members of society, and that one major reason why people participate in them is to help themselves.
+
+    In short: like an organized religious cults, but with less emphasis on superstitious beliefs, and more emphasis on elitism and secrecy.
+
+-   <http://en.wikipedia.org/wiki/Jehovah%27s_Witnesses>

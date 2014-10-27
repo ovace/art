@@ -1,6 +1,6 @@
 # Why learn
 
-- beautiful: some stuff is beatiful to learn
+- beautiful: some stuff is beautiful to learn
 - useful: for society, and for yourself (if you help others you feel well and get money to survive).
 
 # English
@@ -23,13 +23,17 @@ If things stop making sense, look up courses for high school for the bases.
 
 Lists of top universities by subject: <http://www.topuniversities.com/subject-rankings>. Subjective but good enough for our purposes.
 
+# What not to learn?
+
+Olympics.
+
 # How to learn
 
 ## Find the sources
 
 Once you have decided the subject, find all the best sources like books or tutorials on the subject.
 
-For certain subjecs you really need non-free books.
+For certain subjects you really need non-free books.
 
 Sometimes there are small tutorials which clarify points that most books don't.
 
@@ -47,11 +51,11 @@ How to find the best books:
 
 A good method to search by ISBN.
 
-The ISBN is a unique identifier of a book in 10 charcters.
+The ISBN is a unique identifier of a book in 10 characters.
 
 You can find ISBNs on Amazon.
 
-For example for [this book](http://www.amazon.com/Calculus-James-Stewart/dp/0538497815) the isbn can be found at `ISBN-10: 0538497815`.
+For example for [this book](http://www.amazon.com/Calculus-James-Stewart/dp/0538497815) THE isbn can be found at `ISBN-10: 0538497815`.
 
 This way you can compare prices across many sites for the exact same book.
 
@@ -72,7 +76,7 @@ Start with sources that are:
 - concrete with lots of examples
 - motivational
 
-and *not* too theorethical.
+and *not* too theoretical.
 
 If things stop making sense, try for 5 more minutes, and then jump:
 
@@ -80,7 +84,7 @@ If things stop making sense, try for 5 more minutes, and then jump:
 - backwards
 - to another book
 
-If you could not understand something, it is because there is someting else missing, possible from another source.
+If you could not understand something, it is because there is something else missing, possible from another source.
 
 Don't wast too much time stuck on a single point: when you less expect you will find the answer.
 
