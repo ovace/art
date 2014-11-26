@@ -193,8 +193,63 @@ The philosophical end dialog is beautiful.
 - How big does your cause have to be before you start killing for it? What about your Party? There's a few million bodies on that path.
 - What rules do you play by? Expediency.
 
+## Man from Earth 2007
+
+Note: 8
+
+<http://en.wikipedia.org/wiki/The_Man_from_Earth>
+
+The writer, <http://en.wikipedia.org/wiki/Jerome_Bixby>, is the same person who wrote the Star Trek "Mirror, Mirror" episode.
+
+#Ultra artistic
+
+-   <http://en.wikipedia.org/wiki/Empire_%281964_film%29>
+
 #Series
 
 | Title           | Year | Note | Hours | Short description                                                                   |
 |-----------------|------|------|-------|-------------------------------------------------------------------------------------|
 | Smiley's people | 1987 | 9    | 6     | Convincing, admiring main character, shows Europe and spy craft with great realism. |
+
+<http://en.wikipedia.org/wiki/Web_series>
+
+<http://en.wikipedia.org/wiki/YouTube_fame>
+
+##True detective
+
+Note: 7.
+
+Good. Some points a bit cliché or overly dramatic,
+but some smart moves like the shootout lying scene which echoes the Godfather's christening scene
+
+The scenery is the most important thing in the series.
+
+##Silicon Valley
+
+Note: 7.
+
+Quite realistic.
+
+Some season 1 episodes lose the edge, but most were good.
+
+##Star Trek
+
+A few gem episodes still worthwhile today, but most not worth it.
+
+##The Wire
+
+Interesting to see how the high level semi-political policeman want to close cases as soon as possible even if it means letting the real deal go by just to save face.
+
+- S01 E03: cool to see how hard it was to get the wire, even when it was obviously necessary.
+- S01 E04: chess scene, speechless crime scene investigation
+- S01 E05: "Major likes assets.", commenting on how taking away the gangster's buildings would bring money into the department.
+
+- S02 E02: Amazing to see how the officers fight to get the murders to someone else's jurisdiction
+- S02 E05: Omar's trial
+- S02 E07: Funeral flower arrangements that look like guns to target drug dealers
+
+- S03 E04: 10s silent investigation scene on Dee's "suicide"
+
+#Webseries
+
+- <https://www.youtube.com/watch?v=fs2wczJXETM>

@@ -1,4 +1,8 @@
-War, espionage, crime, violence, terorrism, revolution, police. In short: evil, fun stuff.
+War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff.
+
+-   <http://en.wikipedia.org/wiki/NATO>
+    The most interesting article by far is No 5: <http://en.wikisource.org/wiki/North_Atlantic_Treaty#Article_5>
+    which was raised only once: September 11.
 
 -   <https://en.wikipedia.org/wiki/Shibboleth> Words used to determine the nationality of the speaker,
     used in many historical situations to kill people from enemy nationalities.
@@ -22,6 +26,8 @@ War, espionage, crime, violence, terorrism, revolution, police. In short: evil, 
     - desertion. Desertion is different from AWL, which is milder.
     - espionage
 
+-   <http://en.wikipedia.org/wiki/Unrestricted_submarine_warfare>
+
 # Terrorism
 
 -   <http://en.wikipedia.org/wiki/Munich_massacre> by <http://en.wikipedia.org/wiki/Black_September_%28group%29>
@@ -30,47 +36,67 @@ War, espionage, crime, violence, terorrism, revolution, police. In short: evil, 
     3 survivors released after <http://en.wikipedia.org/wiki/Lufthansa_Flight_615>,
     where demands were met. <http://en.wikipedia.org/wiki/Muammar_Gaddafi> gave asylum to the liberated hijackers.
 
--   <http://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack> by Aum Shinrikyo.
+## Aum Shinrikyo
 
-    It is incredible how a religious group
-    could lead people to do those things. And that was not the only case where they've murdered.
+<http://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack> by .
 
-    <https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M#t=114>
-    Theorizes that great growth came from recruiting in top universities,
-    where students where disillusioned by meaningless grading systems.
+It is incredible how a religious group
+could lead people to do those things. And that was not the only case where they've murdered.
 
-    The "master" also claims on a television interview that those students wanted spirituality
-    because they were materially wealthy and needed something else. I think this claim is plausible.
+<https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M#t=114>
+Theorizes that great growth came from recruiting in top universities,
+where students where disillusioned by meaningless grading systems.
 
-    Also Japans' new religions benefited a lot from the end of the War,
-    where at once people saw themselves free to choose.
+The "master" also claims on a television interview that those students wanted spirituality
+because they were materially wealthy and needed something else. I think this claim is plausible.
 
-    Those also theorize that he became bitter with society after he lost the elections.
+Also Japans' new religions benefited a lot from the end of the War,
+where at once people saw themselves free to choose.
 
-    Next, he also made links with the Russian, which were also a falling empire that needed stability,
-    and gained followers from the military which actually stole military secrets.
+Those also theorize that he became bitter with society after he lost the elections.
 
-    Part of the chemical experiences where carried in Tokyo itself,
-    and residents even protested against them, but nothing was done:
-    <https://www.youtube.com/watch?v=81uvbbsJC7M>
+Next, he also made links with the Russian, which were also a falling empire that needed stability,
+and gained followers from the military which actually stole military secrets.
 
-    <https://www.youtube.com/watch?v=vQ7uz8EYMYo> conjectures that he became such a successful leader
-    due to him being blind from one eye and half blind on the other. As such, he went to a school for the blind,
-    where he was at a very advantageous position to manipulate others.
+Part of the chemical experiences where carried in Tokyo itself,
+and residents even protested against them, but nothing was done:
+<https://www.youtube.com/watch?v=81uvbbsJC7M>
 
-    It is also interesting to see excerpts from his propaganda animes.
+<https://www.youtube.com/watch?v=vQ7uz8EYMYo> conjectures that he became such a successful leader
+due to him being blind from one eye and half blind on the other. As such, he went to a school for the blind,
+where he was at a very advantageous position to manipulate others.
 
-    The "master" on a television show:
-    <https://www.youtube.com/watch?feature=player_detailpage&v=vQ7uz8EYMYo#t=398>
+It is also interesting to see excerpts from his propaganda animes.
 
-    A parent who appears on street on television saying how the master stole his children away,
-    and his wife urging him to stay away from the camera from fear of backslash:
-    <https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M#t=744>
+The "master" on a television show:
+<https://www.youtube.com/watch?feature=player_detailpage&v=vQ7uz8EYMYo#t=398>
 
-    This hows how the weapon was prepared and deployed on subway:
-    <https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M>
-    Two bags are put inside a newspaper, then they use an umbrella
-    to cut through both and mix the liquids.
+A parent who appears on street on television saying how the master stole his children away,
+and his wife urging him to stay away from the camera from fear of backslash:
+<https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M#t=744>
+
+This hows how the weapon was prepared and deployed on subway:
+<https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M>
+Two bags are put inside a newspaper, then they use an umbrella
+to cut through both and mix the liquids.
+
+## Jim Jones
+
+Jonestown mass suicide. It is interesting to see that the act was triggered
+by increased repression from society towards the cult, much like Aum's.
+
+Another common characteristic is the almost enslavement of followers,
+denying them all leisure, as a way to make them feel their lives meaningful.
+
+Another common characteristic is fleeing the country of origin when repression starts to increase.
+
+Another common point are end of the world predictions.
+
+## Paul Schafer
+
+<http://en.wikipedia.org/wiki/Paul_Sch%C3%A4fer>
+
+This one was a sadist, who teamed up with Pinochet to torture people and was thus protected for years.
 
 # Crime
 
@@ -78,6 +104,17 @@ War, espionage, crime, violence, terorrism, revolution, police. In short: evil, 
 
     Trophy was stolen twice, once before being awarded, the second after,
     and probably for good.
+
+-   <http://www.ehow.com/info_8470033_physical-surveillance-techniques.html>
+
+    Front and follow, ABC, Progressive Phasing and Overwatch
+
+-   <http://en.wikipedia.org/wiki/Affidavit>
+
+-   <http://en.wikipedia.org/wiki/Wheel_clamp> Nice way to make people pay parking tickets.
+
+-   "detention during Her Majesty's pleasure": the names of English charges sound nice
+    no matter how horrible the crimes are: <http://en.wikipedia.org/wiki/Life_imprisonment_in_England_and_Wales>
 
 # Gear
 
@@ -99,21 +136,17 @@ War, espionage, crime, violence, terorrism, revolution, police. In short: evil, 
 
 -   <http://en.wikipedia.org/wiki/Anti-flash_gear>
 
-# Spy
+-   <https://en.wikipedia.org/wiki/Bat_bomb>
 
--   Moscow would prefer spies with family in their home country to prevent them from defecting.
+## Bows
 
--   <http://en.wikipedia.org/wiki/Non-official_cover> NOC
+-   <http://en.wikipedia.org/wiki/Compound_bow> Modern bow with pulleys created in the 1960s.
 
--   <http://en.wikipedia.org/wiki/Five_Eyes>. Major espionage alliance between USA, Canada, UK, Australia and New Zealand.
+-   <http://en.wikipedia.org/wiki/Longbow>
 
--   <http://en.wikipedia.org/wiki/WikiLeaks>. USA imposed an illegal banking barrier on it.
+-   <http://en.wikipedia.org/wiki/Recurve_bow>
 
--   Classification levels used by the NSA: <https://firstlook.org/theintercept/2014/10/10/core-secrets/> Core secrets being the top level.
-
--   <http://en.wikipedia.org/wiki/Classified_information_in_the_United_States#Levels_of_classification_used_by_the_U.S._government>
-
-### Chemical
+## Chemical
 
 -   <http://en.wikipedia.org/wiki/Sarin>
 
@@ -127,6 +160,33 @@ War, espionage, crime, violence, terorrism, revolution, police. In short: evil, 
     Bomb to deploy sarin: <http://upload.wikimedia.org/wikipedia/commons/1/18/Demonstration_cluster_bomb.jpg>
 
 -   <http://en.wikipedia.org/wiki/Animal_sentinel>
+
+# Improvised firearm
+
+-   <http://en.wikipedia.org/wiki/Improvised_firearm>
+
+-   <http://en.wikipedia.org/wiki/3D_printed_firearms>
+
+-   <https://www.youtube.com/watch?v=u-m0RRbfvh4>
+
+    In the US law, only the finished receiver is a firearm: even an 80% finished one is not,
+    nor are any of the other parts.
+
+    There are also gun producers who claim to do it for an anarchism philosophy in which an armed society is fairer because the government cannot oppress it.
+
+# Spy
+
+-   Moscow would prefer spies with family in their home country to prevent them from defecting.
+
+-   <http://en.wikipedia.org/wiki/Non-official_cover> NOC
+
+-   <http://en.wikipedia.org/wiki/Five_Eyes>. Major espionage alliance between USA, Canada, UK, Australia and New Zealand.
+
+-   <http://en.wikipedia.org/wiki/WikiLeaks>. USA imposed an illegal banking barrier on it.
+
+-   Classification levels used by the NSA: <https://firstlook.org/theintercept/2014/10/10/core-secrets/> Core secrets being the top level.
+
+-   <http://en.wikipedia.org/wiki/Classified_information_in_the_United_States#Levels_of_classification_used_by_the_U.S._government>
 
 ## Leaks
 
@@ -159,6 +219,8 @@ War, espionage, crime, violence, terorrism, revolution, police. In short: evil, 
     -   <http://en.wikipedia.org/wiki/Afghan_War_documents_leak>
 
     -   <http://en.wikipedia.org/wiki/Iraq_War_documents_leak>. Documents the large number of civilian deaths that occurred.
+
+-   <http://en.wikipedia.org/wiki/News_International_phone_hacking_scandal>
 
 # Cold war
 

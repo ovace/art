@@ -16,3 +16,15 @@ From: <http://history.cultural-china.com/en/233History3285.html>
 > The young man replied: "There is a cicada resting high on a tree. It is chirping for all it’s worth and drinking in the dew, oblivious of a mantis behind. The mantis, bending over and arching up its front leg, is going to catch the cicada but does not know that there is an oriole beside it. The bird has stretched out its neck, ready to peck at the mantis. Again the oriole is unaware that it is under the threat of my balls, down below. The three creatures all covet gains ahead without being aware of an imminent danger behind."
 >
 > "How well you've put it!" cried the King, and gave up his military venture.
+
+#四舍五入
+
+Round up to nearest integer, approximate.
+
+Literally: discard 4 (as in 1.4 becomes 1), take 5 (as in 1.5 becomes 2).
+
+#解铃系铃
+
+The one who tied the bell (to the tiger), is the one who should untie it.
+
+Meaning: the one who created the problem is the only one who can solve it.

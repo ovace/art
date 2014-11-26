@@ -80,16 +80,18 @@ Contribute to prestigious projects:
 - you will learn from better coders
 - you will get more visibility
 
-"Low level" tools are the most prestigious for large enterprises that need to optimize at low level:
+"Low level" tools are the most useful for large enterprises that need to optimize at low level:
 
 - Kernel and hardware interfacing: file systems, networking, GPUs
 - assembly
 - databases
-- cryptography, security
+- cryptography
 - compilers, interpreters and standard libraries: GCC, Python, Node.js. Garbage collection internals.
 - browser internals: Javascript engines, rendering
 - mathematical libraries
 - Git
+
+Pay huge attention to **security**. Hard to get right, and a single error can cost millions.
 
 # Standards
 
@@ -114,9 +116,21 @@ What are the most important extensions to the standard? How portable are they? E
 
 - ANSI C vs POSIX vs GNU extensions
 
+# Minimal test cases
+
+This is a common mistake amongst beginners. You have a problem that has 2 parts.
+
+When debugging, try hard to reduce the problem to the minimal number of parts possible.
+
+This hugely increases the probability that you will find a solution,
+and if you don't and ask a question on a public forum,
+this hugely increases the likely utility of the question for further readers.
+
+There is even a website dedicated to explaining that to newbs that you can link to: <http://sscce.org/>
+
 # Backups
 
-Do them periodically (Dejadup) on material you generated (not large things you downloaded).
+Do them periodically (Deja Dup) on material you generated (not large things you downloaded).
 
 Use a dedicated home partition.
 
@@ -153,6 +167,13 @@ Learn:
     - interpreters of all major languages: Python, Ruby, Perl
     - MySQL
     - Git
+
+    Even today, when people have a library which they want to run fast and portably on every language,
+    what they do is implement it in C and let other languages bind to it,
+    including in the web development domain. E.g.:
+
+    - <https://github.com/libgit2/libgit2> and <https://github.com/libgit2/rugged>
+    - <https://github.com/sass/libsass> and <https://github.com/sass/node-sass>
 
 -   a weakly typed interpreted language, either Python or Javascript (Node.js)
 
@@ -509,10 +530,6 @@ A few important ones are:
 
     <http://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-an-unsorted-array>
 
-## Design patterns
-
-See [this](design-patterns).
-
 ## GPU programming
 
 TODO
@@ -560,6 +577,14 @@ The following resonate on my mind every week:
         unless true
 
 -   Explicit is better than implicit.
+
+## Architecture
+
+Very high level application organization.
+
+Important, but hard to learn and to formalize.
+
+<http://aosabook.org/en/index.html>, <https://github.com/aosabook/500lines>.
 
 ## Human factors
 

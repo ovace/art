@@ -2,7 +2,11 @@ I have a soft spot for Chinese language and traditional culture.
 
 I might include Japanese / Korean / Vietnamese stuff here too because they are all inside the Sinosphere.
 
-Chinese can count up to 10 with **one hand**: <http://en.wikipedia.org/wiki/Chinese_number_gestures>. Every Chinese knows those signs and uses them instinctively.
+#Hand counting
+
+Chinese can show numbers to others up to 10 with **one hand**: <http://en.wikipedia.org/wiki/Chinese_number_gestures>. Every Chinese knows those signs and uses them instinctively.
+
+Japanese do it like this with both hands: <https://www.youtube.com/watch?v=EoGGexQjDfA>
 
 #Food
 
@@ -169,10 +173,6 @@ Funny things about how Westerners have perceived and imagined China, specially i
     Without looking out the window,
     See the Way of Heaven.
 
-#Language
+#Confucius
 
-Ninja == ren3 zhe3 == 忍者. Sounds similar, same concept in Chinese.
-
-##English Chinese subs
-
--   <https://www.youtube.com/watch?v=nnx1z0iUB4Y>
+I hear and I forget. I see and I remember. I do and I understand.

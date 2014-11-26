@@ -1,5 +1,9 @@
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   <http://en.wikipedia.org/wiki/Guano>
+
+-   <http://en.wikipedia.org/wiki/Paleolithic_diet>
+
 -   <http://en.wikipedia.org/wiki/Footedness>
 
     Only half of left handers are also left footed.
@@ -42,3 +46,7 @@ Animals, plants, biology, evolution, genetics, diseases.
     The most common type of color blindness is Deuteranomaly, present in 5% of European males. It affects red-green discrimination, but does not prevent it entirely.
 
     There are rarer conditions in which red receptors are completely missing, in which red-green discrimination is impossible.
+
+# Psychology
+
+-   <http://en.wikipedia.org/wiki/Recurve_bow>

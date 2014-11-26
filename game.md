@@ -1,3 +1,19 @@
+-   <http://en.wikipedia.org/wiki/Super_3D_Noah%27s_Ark>, rumored to be a revenge from the makers of Wolfenstein
+
+-   <http://en.wikipedia.org/wiki/R.O.B.>, <https://www.youtube.com/watch?v=rvCCgPDcnvQ>
+
+-   <http://en.wikipedia.org/wiki/Penn_%26_Teller%27s_Smoke_and_Mirrors>
+
+-   <http://en.wikipedia.org/wiki/Swordquest>
+
+-   <http://en.wikipedia.org/wiki/North_American_video_game_crash_of_1983>
+
+-   <http://en.wikipedia.org/wiki/Nintendo>
+
+    Nintendo was founded in 1889 as a card manufacturer!
+
+-   <http://en.wikipedia.org/wiki/Winners_Don%27t_Use_Drugs>
+
 -   <http://en.wikipedia.org/wiki/Live_action_role-playing_game>
 
     RPG where people physically act their characters.
@@ -62,6 +78,10 @@
 # PC
 
 ## Free
+
+### teeworlds
+
+Worms FPS CTF.
 
 # Destructive glitches
 
@@ -133,3 +153,8 @@ You can hit and kill yourself!
     - <https://en.wikipedia.org/wiki/File:Chess_on_the_Dot.jpg>
     - <https://en.wikipedia.org/wiki/Kung-fu_chess>
 
+## Candy Land
+
+<http://en.wikipedia.org/wiki/Candy_Land>
+
+Candy Crush obviously ripped it.

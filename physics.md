@@ -1,5 +1,10 @@
 Physics, chemistry, astronomy, geology.
 
+-   <http://en.wikipedia.org/wiki/Rubens%27_tube>
+
+-   <http://en.wikipedia.org/wiki/Ernst_Chladni>, in particular the plate:
+    <https://www.youtube.com/watch?v=wvJAgrUBF4w>
+
 -   <http://en.wikipedia.org/wiki/Uranium_glass>
 
 -   <http://en.wikipedia.org/wiki/Starquake_%28astrophysics%29> If the 1979 starquake had happened 5000 times closer, we'd be dead =)

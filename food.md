@@ -1,3 +1,7 @@
+-   <http://en.wikipedia.org/wiki/Suanmeitang>
+
+    There is a juice. It is smoked!
+
 -   <http://en.wikipedia.org/wiki/Bear_bile>
 
     Used in Chinese Traditional Medicine.

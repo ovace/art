@@ -1,16 +1,14 @@
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+-   <http://en.wikipedia.org/wiki/Numismatics>
+
+-   <http://en.wikipedia.org/wiki/Color_commentator>
+
 -   <http://en.wikipedia.org/wiki/M%C3%BCnchausen_syndrome>
 
 -   <http://en.wikipedia.org/wiki/M%C3%BCnchausen_syndrome_by_proxy>
 
 -   <http://en.wikipedia.org/wiki/Large_denominations_of_United_States_currency>
-
--   <http://en.wikipedia.org/wiki/Survivalism>
-
--   <https://en.wikipedia.org/wiki/Astroturfing>
-
-    Coined by a Senator who said "a fellow from Texas can tell the difference between grass roots and AstroTurf... this is generated mail". He was describing a "mountain of cards and letters" sent to his office to promote insurance industry interests.
 
 -   <http://en.wikipedia.org/wiki/Encyclopedia_Dramatica>
 
@@ -23,14 +21,6 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
 -   <http://en.wikipedia.org/wiki/Moomin>
 
     Ultra popular in Finland and Sweden.
-
--   <http://en.wikipedia.org/wiki/Silent_disco>
-
-    I really hope that takes off, so disco goers will stop annoying me with noise.
-
--   <http://en.wikipedia.org/wiki/Superfood>
-
-    Marketing term.
 
 -   <http://en.wikipedia.org/wiki/Tetration>
 
@@ -69,7 +59,7 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
     > Salt's ability to preserve food ... helped to eliminate the dependence
     > on the seasonal availability of food and it allowed travel over long distances.
 
--   Amazingly luck golf shots: <https://www.youtube.com/watch?v=frIw_CxeKwI>
+-   Amazingly lucky golf shots: <https://www.youtube.com/watch?v=frIw_CxeKwI>
 
     Animal encounters: <https://www.youtube.com/watch?v=43vii7vT44I>
 
@@ -167,3 +157,11 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
     In short: like an organized religious cults, but with less emphasis on superstitious beliefs, and more emphasis on elitism and secrecy.
 
 -   <http://en.wikipedia.org/wiki/Jehovah%27s_Witnesses>
+
+# Takeshi Kitano
+
+- <https://www.youtube.com/watch?v=Fu8aNq62CDc> Interview with Shoko Asahara? Check.
+
+- <https://www.youtube.com/watch?v=Fu8aNq62CDc> Starred in battle Royale as himself? Check.
+
+- <https://www.youtube.com/watch?v=m6MIlJYiJUs> Helped to created insanely hard and weird video game? Check.

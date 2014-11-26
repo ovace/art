@@ -2,7 +2,17 @@
 
 As an "advanced" non native speaker, I always learn a few new terms every month.
 
-Here are some cool ones:
+-   <http://en.wikipedia.org/wiki/Chip_on_shoulder>
+
+-   <http://www.merriam-webster.com/dictionary/tipping%20point>
+
+-   <http://www.merriam-webster.com/dictionary/kvetch>. Yiddish.
+
+-   <http://en.wikipedia.org/wiki/Historical_present>
+
+    In everyday speech, commonly used for communication verbs:
+
+    > I am walking down the street, and this man tells me this ain't my place.
 
 -   <http://en.wikipedia.org/wiki/Mission_creep>
 

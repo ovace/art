@@ -1,3 +1,15 @@
+# Business
+
+-   <http://en.wikipedia.org/wiki/Chinese_wall>
+
+-   <http://en.wikipedia.org/wiki/Eating_your_own_dog_food>
+
+-   <http://en.wikipedia.org/wiki/Clean_room_design>
+
+-   <http://en.wikipedia.org/wiki/IKEA_effect>
+
+-   <http://en.wikipedia.org/wiki/Bring_your_own_device>
+
 -   <http://en.wikipedia.org/wiki/Corporate_DNA>
 
 -   <http://www.paulgraham.com/swan.html>
@@ -65,3 +77,13 @@
 -   <http://en.wikipedia.org/wiki/White-label_product>
 
 -   <http://en.wikipedia.org/wiki/Minimum_viable_product>
+
+## Finance
+
+-   <http://en.wikipedia.org/wiki/Legal_tender> Stuff that can be used to pay, in special money.
+
+    Things which are not tender: checks, credit cards, gold. Some countries however do have legal gold bullion coins.
+
+-   <http://en.wikipedia.org/wiki/Bullion_coin> Weird product: has legal tender way lower than the value of the material.
+
+    Exists in England: <http://en.wikipedia.org/wiki/Sovereign_%28British_coin%29>
