@@ -16,7 +16,7 @@ Learning is no different:
 
 ## English
 
-If you don't know English, you cannot make any real developments on any knowledge domain.
+If you don't know English, you cannot make any real developments on any knowledge domain: **you are useless**.
 
 Learn English before you do anything else.
 
@@ -71,6 +71,14 @@ Step 2:
 Repeat until you reach requirements that you can tackle directly.
 
 ## How to learn
+
+### Text is better than video
+
+Text is faster to edit, takes less memory in your computer, downloads and uploads faster and is easier to search.
+
+A sequence of perfectly chosen images at beats any video visualization.
+
+If you have the choice, choose books over videos: get familiar with the superior medium.
 
 ### Find the sources
 
