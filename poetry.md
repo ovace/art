@@ -1,4 +1,6 @@
-#Origin of the passion
+# Poetry
+
+## Origin of the passion
 
 > When did it start?
 > Those days I'd hide myself in the library...
@@ -6,7 +8,7 @@
 > ... in the library of my high school. So few books, desire for more. The pleasure of closing it with the library lady.
 > In bed with my parents, while they read and I bothered them. I felt so safe. They've planted the seed in my head.
 
-#The boy who swallowed the world
+## The boy who swallowed the world
 
 > Inside the cube
 > the quest goes on

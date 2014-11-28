@@ -1,22 +1,24 @@
-# Food
+# India
+
+## Food
 
 - http://en.wikipedia.org/wiki/Samosa
 
-## Sweet
+### Sweet
 
 - http://en.wikipedia.org/wiki/Kaju_Katli
 
 - http://en.wikipedia.org/wiki/Gulab_Jamun
 
-##Indian bakery
+###Indian bakery
 
 India adopted British Western style bakeries and made some adaptations.
 
 Most notably, you can find Western style doughs with Indian fillings.
 
-# Gurdwara
+## Gurdwara
 
-# Sikh temple
+## Sikh temple
 
 <https://en.wikipedia.org/wiki/Gurdwara>
 

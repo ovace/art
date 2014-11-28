@@ -1,4 +1,9 @@
-Politics, advertisement.
+# Politics
+
+Politics, advertisement, law.
+
+-   <http://en.wikipedia.org/wiki/Blue_law>
+    <http://en.wikipedia.org/wiki/Blue_laws_in_the_United_States>
 
 -   <https://en.wikipedia.org/wiki/Astroturfing>
 
@@ -18,7 +23,7 @@ Politics, advertisement.
 
 -   <http://en.wikipedia.org/wiki/Front_companies>
 
-# Law
+## Law
 
 -   <http://en.wikipedia.org/wiki/Jus_sanguinis>
 

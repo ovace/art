@@ -1,9 +1,11 @@
-# Why learn
+# How to learn
+
+## Why learn
 
 - beautiful: some stuff is beautiful to learn
 - useful: for society, and for yourself (if you help others you feel well and get money to survive).
 
-# English
+## English
 
 If you don't know English, you cannot make any real developments on any knowledge domain.
 
@@ -13,7 +15,7 @@ Write only in English.
 
 Read in English instead of other languages if you have the choice. This is rarely the case as everything is in English.
 
-# What to learn?
+## What to learn?
 
 Decide what you should learn.
 
@@ -23,13 +25,13 @@ If things stop making sense, look up courses for high school for the bases.
 
 Lists of top universities by subject: <http://www.topuniversities.com/subject-rankings>. Subjective but good enough for our purposes.
 
-# What not to learn?
+## What not to learn?
 
 Olympics.
 
-# How to learn
+## How to learn
 
-## Find the sources
+### Find the sources
 
 Once you have decided the subject, find all the best sources like books or tutorials on the subject.
 
@@ -43,7 +45,7 @@ How to find the best books:
 - put the subject name on [Amazon](http://www.amazon.com/) and see the top books.
 - [google](https://google.com) `SUBJECT best books`, or `SUBJECT best tutorials` or `SUBJECT best free books`.
 
-## Get the sources
+### Get the sources
 
 - buy it new
 - buy it used, even if an older version
@@ -66,7 +68,7 @@ Do *not* download material illegally via methods like:
 
 since this bankrupts publishing companies, and inhibits the creation of new books.
 
-## Use the sources
+### Use the sources
 
 First look quickly at all of the sources one by one to find which one seems more interesting, only then go for it.
 
@@ -88,7 +90,7 @@ If you could not understand something, it is because there is something else mis
 
 Don't wast too much time stuck on a single point: when you less expect you will find the answer.
 
-## Write tutorials
+### Write tutorials
 
 Whenever you learn something, *write it down*  on your computer and publish it online to help others and make you famous.
 
@@ -104,7 +106,7 @@ Example:
 
 This will make it clear to you and to others what is not certain.
 
-## Contribute on forums
+### Contribute on forums
 
 E.g.: Stack exchange.
 

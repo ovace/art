@@ -1,3 +1,5 @@
+# War
+
 War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff.
 
 -   <http://en.wikipedia.org/wiki/NATO>
@@ -28,7 +30,7 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
 
 -   <http://en.wikipedia.org/wiki/Unrestricted_submarine_warfare>
 
-# Terrorism
+## Terrorism
 
 -   <http://en.wikipedia.org/wiki/Munich_massacre> by <http://en.wikipedia.org/wiki/Black_September_%28group%29>
     All 11  hostages killed and 5 of 8 terrorists killed.
@@ -36,7 +38,7 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
     3 survivors released after <http://en.wikipedia.org/wiki/Lufthansa_Flight_615>,
     where demands were met. <http://en.wikipedia.org/wiki/Muammar_Gaddafi> gave asylum to the liberated hijackers.
 
-## Aum Shinrikyo
+### Aum Shinrikyo
 
 <http://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack> by .
 
@@ -80,7 +82,7 @@ This hows how the weapon was prepared and deployed on subway:
 Two bags are put inside a newspaper, then they use an umbrella
 to cut through both and mix the liquids.
 
-## Jim Jones
+### Jim Jones
 
 Jonestown mass suicide. It is interesting to see that the act was triggered
 by increased repression from society towards the cult, much like Aum's.
@@ -92,13 +94,13 @@ Another common characteristic is fleeing the country of origin when repression s
 
 Another common point are end of the world predictions.
 
-## Paul Schafer
+### Paul Schafer
 
 <http://en.wikipedia.org/wiki/Paul_Sch%C3%A4fer>
 
 This one was a sadist, who teamed up with Pinochet to torture people and was thus protected for years.
 
-# Crime
+## Crime
 
 -   <http://en.wikipedia.org/wiki/Theft_of_the_Jules_Rimet_Trophy>
 
@@ -116,7 +118,7 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 -   "detention during Her Majesty's pleasure": the names of English charges sound nice
     no matter how horrible the crimes are: <http://en.wikipedia.org/wiki/Life_imprisonment_in_England_and_Wales>
 
-# Gear
+## Gear
 
 -   <http://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit>
 
@@ -138,7 +140,7 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <https://en.wikipedia.org/wiki/Bat_bomb>
 
-## Bows
+### Bows
 
 -   <http://en.wikipedia.org/wiki/Compound_bow> Modern bow with pulleys created in the 1960s.
 
@@ -146,7 +148,7 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <http://en.wikipedia.org/wiki/Recurve_bow>
 
-## Chemical
+### Chemical
 
 -   <http://en.wikipedia.org/wiki/Sarin>
 
@@ -161,7 +163,7 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <http://en.wikipedia.org/wiki/Animal_sentinel>
 
-# Improvised firearm
+## Improvised firearm
 
 -   <http://en.wikipedia.org/wiki/Improvised_firearm>
 
@@ -174,7 +176,7 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
     There are also gun producers who claim to do it for an anarchism philosophy in which an armed society is fairer because the government cannot oppress it.
 
-# Spy
+## Spy
 
 -   Moscow would prefer spies with family in their home country to prevent them from defecting.
 
@@ -188,7 +190,7 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <http://en.wikipedia.org/wiki/Classified_information_in_the_United_States#Levels_of_classification_used_by_the_U.S._government>
 
-## Leaks
+### Leaks
 
 -   <http://en.wikipedia.org/wiki/Edward_Snowden>. NSA methods.
 
@@ -222,7 +224,7 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <http://en.wikipedia.org/wiki/News_International_phone_hacking_scandal>
 
-# Cold war
+## Cold war
 
 -   John le Carré on spy craft and his novels: <https://www.youtube.com/watch?v=89FHIGL3N54>
 
@@ -248,7 +250,7 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
     Started in WW2, with at least on recipient in 2014 for Afghanistan.
 
-# WW2
+## WW2
 
 -   <http://en.wikipedia.org/wiki/Dowding_system>
 
@@ -265,7 +267,7 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <http://en.wikipedia.org/wiki/Operation_Fortitude> WW2 military deception.
 
-# China
+## China
 
 -   <https://www.youtube.com/watch?v=qq8zFLIftGk>. Tank man. Symbol of anti-dictatorship.
 

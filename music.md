@@ -1,34 +1,36 @@
-# I like
+# Music
+
+## I like
 
 - jazz
 - prog rock
 
-# Jazz
+## Jazz
 
-## Chick Corea
+### Chick Corea
 
 Now he sings, now he sobs. Note: 8.
 
-## Jean-luc Ponty
+### Jean-luc Ponty
 
 Aurora. Note: 8.
 
-# Rock
+## Rock
 
-## Gentle Giant
+### Gentle Giant
 
-### Glass House
+#### Glass House
 
 Note: 8
 
-## Queen
+### Queen
 
 Heaven for everyone
 
-## King crimson
+### King crimson
 
-## In the Court of
+### In the Court of
 
 Note: 8
 
-## Perl Jam
+### Perl Jam

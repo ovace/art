@@ -1,3 +1,5 @@
+# Chinese Restaurants in Paris
+
 Paris has one of the largest Chinese communities outside of China, and there must be around 10~20 restaurants which serve food unlike anything you have ever eaten.
 
 **Important**: for all restaurants, ask the waiter for suggestions. Tell him that you:

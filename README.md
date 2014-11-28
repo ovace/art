@@ -12,6 +12,6 @@ Files which may be interesting to other people:
 
 Things which I want to say to K12 people:
 
-- [tech-motivation-k12.md](tech-motivation-k12.md)
-- [how-to-learn.md](how-to-learn.md)
-- [how-to-become-a-good-programmer](how-to-become-a-good-programmer)
+- [essays/tech-motivation-k12.md](essays/tech-motivation-k12.md)
+- [essays/how-to-learn.md](essays/how-to-learn.md)
+- [essays/how-to-become-a-good-programmer](essays/how-to-become-a-good-programmer)

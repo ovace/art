@@ -1,4 +1,4 @@
-# Computer Funny
+# Computer funny
 
 -   <http://en.wikipedia.org/wiki/ReactOS>. Open source Windows clone! It's like Linux vs Unix but Windows version! Arghhh.
 

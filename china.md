@@ -1,24 +1,26 @@
+# China
+
 I have a soft spot for Chinese language and traditional culture.
 
 I might include Japanese / Korean / Vietnamese stuff here too because they are all inside the Sinosphere.
 
-#Hand counting
+##Hand counting
 
 Chinese can show numbers to others up to 10 with **one hand**: <http://en.wikipedia.org/wiki/Chinese_number_gestures>. Every Chinese knows those signs and uses them instinctively.
 
 Japanese do it like this with both hands: <https://www.youtube.com/watch?v=EoGGexQjDfA>
 
-#Food
+##Food
 
 - https://en.wikipedia.org/wiki/Rice_paper Vietnamese. Must put into water for 15 seconds before using.
 
-#Food etiquette
+##Food etiquette
 
 Everyone eats directly from a shared plate. In more formal occasions, specially in Japan, and when touching food that you are not going to eat immediately (e.g. to separate iiao zi to avoid them from sticking together) people may use the back of the chopstick for hygienic purposes.
 
 ---
 
-#Numbered lists
+##Numbered lists
 
 Chinese people love to enumerate common concepts.
 
@@ -52,7 +54,7 @@ This is a list of some of the most important and interesting ones.
 
 -   Eight regional cuisines of China: Shandong, Guangdong, Sichuan, Hunan, Jiangsu, Zhejiang, Fujian, Anhui.
 
-#Chess
+##Chess
 
 In [Chinese Chess](http://en.wikipedia.org/wiki/Xiangqi) (象棋, Xiàngqí) it is possible to do triple and quadruple checks. They are not blockable. In Western chess, only double checks are possible.
 
@@ -64,13 +66,13 @@ In [Japanese Chess](http://en.wikipedia.org/wiki/Shogi#Drops) (将棋, shōgi), 
 
 Every piece can be promoted to an new one with specific new moves (most of them equal to another piece) when they reach the further third of the board, not just the last line as in occidental chess. Pieces are then turned over to show the promoted side.
 
-#Tales
+##Tales
 
 <http://en.wikipedia.org/wiki/Urashima_Tar%C5%8D> 8th century Japanese story of future time travel (time passes slowly) for a man who saves a turtle and is invited to the dragon god palace
 
-#History
+##History
 
-##China the Roots of Madness {documentary}
+###China the Roots of Madness {documentary}
 
 Wiki: <http://en.wikipedia.org/wiki/China:_The_Roots_of_Madness>
 
@@ -78,7 +80,7 @@ Despite possibly biased and CIA made, but it is full of videos and photos, and i
 
 Identification of revolutionaries: look at red marks left by the red scarfs they wore on the previous day: <https://www.youtube.com/watch?feature=player_detailpage&v=uTksmlZ0FPQ#t=1607>
 
-##Japan's role
+###Japan's role
 
 It seems that the Japanese played a role in dividing China. Perhaps if they hadn't attacked, Sun Yat sen would have been able to unify China, and they couldn't have invaded.
 
@@ -88,7 +90,7 @@ The fight against Japan also centered people under his command.
 
 Japan focused attacks on the cities controlled by Chiang, weakening him more than Mao.
 
-##Sun Yat sen
+###Sun Yat sen
 
 He manages to be currently both officially praised by China and Taiwan!
 
@@ -102,11 +104,11 @@ After he died, his movement seems to have split up into communist and Chiang Kai
 
 Mao came out of this on the Communist side. His strategy was to appeal to the peasants to fight a guerrilla war by destroying modern means of transport and communication. His force was not in the big modernizing cities, but in the hatred of the peasants.
 
-##Chiang kai-shek
+###Chiang kai-shek
 
 He was married to an educated American Chinese woman, which reinforced his link to the West.
 
-##Mao
+###Mao
 
 It is incredible how Mao was able to survive impossible situations, and chose the right strategies to become the supreme ruler of China.
 
@@ -116,13 +118,13 @@ His peasant guerrilla strategy was also rather successful against technically su
 
 After WW2, Mao and Chiang agreed to peace under American supervision: saw each other face to face and discussed for 6 weeks. However, as Japanese withdrew, both started getting ready for war: American backed Chiang, and Russia backed Mao.
 
-#Western perception
+##Western perception
 
 Funny things about how Westerners have perceived and imagined China, specially in the past when information was less available.
 
 - [Fu Manchu](http://en.wikipedia.org/wiki/Fu_Manchu)
 
-#Koans
+##Koans
 
 -   <https://en.wikipedia.org/wiki/The_Gateless_Gate>
 
@@ -145,7 +147,7 @@ Funny things about how Westerners have perceived and imagined China, specially i
 
     A monk asked Dongshan Shouchu, "What is Buddha?" Dongshan said, "Three pounds of flax." (This is a fragment of case #18 of the Wumenguan as well as case #12 of the Blue Cliff Record.)
 
-#Tao Te Ching
+##Tao Te Ching
 
     We put thirty spokes together and call it a wheel;
     But it is on the space where there is nothing that the usefulness of the wheel depends.
@@ -173,6 +175,6 @@ Funny things about how Westerners have perceived and imagined China, specially i
     Without looking out the window,
     See the Way of Heaven.
 
-#Confucius
+##Confucius
 
 I hear and I forget. I see and I remember. I do and I understand.

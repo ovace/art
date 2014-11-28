@@ -1,12 +1,8 @@
+# Misc
+
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
 -   <http://en.wikipedia.org/wiki/Numismatics>
-
--   <http://en.wikipedia.org/wiki/Color_commentator>
-
--   <http://en.wikipedia.org/wiki/M%C3%BCnchausen_syndrome>
-
--   <http://en.wikipedia.org/wiki/M%C3%BCnchausen_syndrome_by_proxy>
 
 -   <http://en.wikipedia.org/wiki/Large_denominations_of_United_States_currency>
 
@@ -32,21 +28,13 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
     Wikipedia requires secondary sources to back it's articles: primary could be wrong or unimportant information, tertiary would be too diluted or a simple copy paste with copyright problems.
 
--   <http://en.wikipedia.org/wiki/Japanese_raccoon_dog>
-
-    Important in Japanese culture, features in Nintendo video games, in particular Super Mario Bros. 3 there is a Tanooki suit which allows you to fly and turn into stone.
-
-    Tanookis are said to shapeshift using leaves into other forms to cause mischief, thus the relation to flying (power by leaves) and the Tanooki turning into stone.
-
-    Has been criticized by animal rights: <http://features.peta.org/mario-kills-tanooki/>
-
 -   <http://en.wikipedia.org/wiki/ICAO_spelling_alphabet>
 
 -   <http://en.wikipedia.org/wiki/L._Ron_Hubbard>
 
     Scientology founder.
 
-    His own son said he was a liar, charlatan and mentally unstable.
+    His own son said he was a liar, charlatan and mentally unstable. Poor (?) guy.
 
 -   <http://en.wikipedia.org/wiki/In_medias_res>
 
@@ -59,44 +47,7 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
     > Salt's ability to preserve food ... helped to eliminate the dependence
     > on the seasonal availability of food and it allowed travel over long distances.
 
--   Amazingly lucky golf shots: <https://www.youtube.com/watch?v=frIw_CxeKwI>
-
     Animal encounters: <https://www.youtube.com/watch?v=43vii7vT44I>
-
--   <http://en.wikipedia.org/wiki/Call_sign> jargon for URL in fields like Amateur radio.
-
--   <http://en.wikipedia.org/wiki/Morse_Code>
-
-    Top understanding (*copy* in MC jargon) speed: certainly 40 wpm, possibly up to 72.
-
-    Sending speeds: certainly 20 wpm is common.
-
-    Compare to:
-
-    - reading: 250 wpm at 70% comprehension for average adults, speed reading courses claim 500 wpm at same comprehension.
-
-    Writing speeds TODO:
-
-    - keyboard typing speed: depends on text type.
-        - 163 WPM SXSW competition
-        - 150 WMP over 50 minute periods by Stella Pajunas on Dvorak
-    - keyboard numerical pad: 8k - 10k cph (133 cpm, 26 wpm at 5 chars per word) required by many jobs.
-    - hand writing:
-        - average adult: 31 wpm for memorized text, 22 while copying.
-        - stenography methods: up to 350 wpm in shorthand competitions.
-
--   <http://en.wikipedia.org/wiki/Telegraph>
-
-    Wide class of communication methods that don't exchange solid objects, including:
-
-    -   smoke signals
-    -   reflected light as in the <http://en.wikipedia.org/wiki/Heliograph>
-    -   electricity, starting with the <http://en.wikipedia.org/wiki/Electrical_telegraph>
-        and culminating in the Internet.
-
-        Weber and Gauss were amongst the first implementors of a practical system.
-
--   <http://en.wikipedia.org/wiki/Twinkie_defense>
 
 -   Little Red Ridding Hood was banned by two California school districts because one of the refreshments for her grandmother that Little Red Riding Hood carried in her basket was wine.
 
@@ -110,8 +61,6 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
 -   <https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality>. Amount of discussion on an issue is inversely proportional to its complexity.
 
--   <https://en.wikipedia.org/wiki/Biological_immortality>. Some species are believed to be immortal.
-
 -   <https://en.wikipedia.org/wiki/Codex_Leicester>. Manuscript by Da Vinci. Most expensive book in the world: 30Mi by Bill Gates in 1994. Quote Wikipedia:
 
     > an explanation of why fossils can be found on mountains. Hundreds of years before plate tectonics became accepted scientific theory, Leonardo believed that mountains had previously formed sea beds, which were gradually lifted until they formed mountains.
@@ -124,8 +73,6 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
 -   belfie: bottom selfie. <http://www.urbandictionary.com/define.php?term=belfie>
 
--   <https://en.wikipedia.org/wiki/Charles_Fourier> Socialist philosophy. Cool list of small cities in the US which tried to follow his principles.
-
 -   <http://en.wikipedia.org/wiki/File:Touched_by_His_Noodly_Appendage.jpg> Anti-religious zealotism.
 
 -   <http://en.wikipedia.org/wiki/List_of_gestures>
@@ -135,33 +82,3 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
 -   <http://en.wikipedia.org/wiki/Ceremonial_first_pitch>
 
     American baseball culture.
-
--   You can promote a chess piece to another piece other than queen: <http://en.wikipedia.org/wiki/Underpromotion#Underpromotion>. Only underpromotion to knight can be useful of course, and has happened in professional play.
-
--   Deadpan humor, dry humor: <http://www.youtube.com/watch?v=WxuhISNpZFk>
-
--   <http://en.wikipedia.org/wiki/File:Societal_attitudes_towards_homosexuality.svg>
-
-# Closed societies
-
--   <http://en.wikipedia.org/wiki/Lions_Clubs_International>
-
-    <http://en.wikipedia.org/wiki/Freemasonry>
-
-    <http://en.wikipedia.org/wiki/Rotary_International>
-
-    Similar pseudo secrete organizations with around 1M members, some religious like rituals with or without beliefs, and with a stated purpose of helping their communities.
-
-    In practice, it is likely that those organizations strongly endorse acceptance of the most rich or powerful members of society, and that one major reason why people participate in them is to help themselves.
-
-    In short: like an organized religious cults, but with less emphasis on superstitious beliefs, and more emphasis on elitism and secrecy.
-
--   <http://en.wikipedia.org/wiki/Jehovah%27s_Witnesses>
-
-# Takeshi Kitano
-
-- <https://www.youtube.com/watch?v=Fu8aNq62CDc> Interview with Shoko Asahara? Check.
-
-- <https://www.youtube.com/watch?v=Fu8aNq62CDc> Starred in battle Royale as himself? Check.
-
-- <https://www.youtube.com/watch?v=m6MIlJYiJUs> Helped to created insanely hard and weird video game? Check.

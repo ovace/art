@@ -1,8 +1,10 @@
+# Header increase
+
 General high level tips on how to become a good programmer.
 
 First read [how to learn](how-to-learn.md): those techniques apply to any field of knowledge.
 
-# How to type
+## How to type
 
 - user four fingers
 - use closes finger
@@ -11,7 +13,7 @@ First read [how to learn](how-to-learn.md): those techniques apply to any field 
 
 Saves time and preserves your arm.
 
-# Make cheatsheets
+## Make cheatsheets
 
 Everything you learn, write it down! You will forget it later.
 
@@ -21,7 +23,7 @@ Publish your cheats so that others can use them too.
 
 Always use correct grammar, and make things as understandable as possible.
 
-## Write assertion cheatsheets
+### Write assertion cheatsheets
 
 Whenever possible, write tutorials in code and assert automatically wherever possible.
 
@@ -33,7 +35,7 @@ Bad:
 
     printf("%d", 1 + 1);
 
-# Self advertising
+## Self advertising
 
 Besides being good, you also have to convince people of it
 so that you can get better jobs and achieve your goals.
@@ -46,7 +48,7 @@ Make a web page containing:
 Always search accounts / blogs of who makes software you like:
 they are potential teammates or supporters.
 
-## Consistent public image
+### Consistent public image
 
 Use the same photo, username and header image on *every* account.
 
@@ -54,25 +56,25 @@ Link to your web page from every account that allows it.
 
 Get a domain name based on your name, e.g. `cirosantilli.com`.
 
-## Stack Overflow
+### Stack Overflow
 
 Use it. Contribute to it.
 
-## GitHub
+### GitHub
 
 Use it.
 
 Upload every line of code or text you write.
 
-## Twitter
+### Twitter
 
 For certain fields, specially web development, use it to find other people who work on the same domain of you.
 
-## Open source
+### Open source
 
 Find applications that interest you and improve programs.
 
-## Prestigious projects
+### Prestigious projects
 
 Contribute to prestigious projects:
 
@@ -93,7 +95,7 @@ Contribute to prestigious projects:
 
 Pay huge attention to **security**. Hard to get right, and a single error can cost millions.
 
-# Standards
+## Standards
 
 When you start learning something, immediately start trying to understand its standards.
 
@@ -116,7 +118,7 @@ What are the most important extensions to the standard? How portable are they? E
 
 - ANSI C vs POSIX vs GNU extensions
 
-# Minimal test cases
+## Minimal test cases
 
 This is a common mistake amongst beginners. You have a problem that has 2 parts.
 
@@ -128,7 +130,7 @@ this hugely increases the likely utility of the question for further readers.
 
 There is even a website dedicated to explaining that to newbs that you can link to: <http://sscce.org/>
 
-# Backups
+## Backups
 
 Do them periodically (Deja Dup) on material you generated (not large things you downloaded).
 
@@ -136,7 +138,7 @@ Use a dedicated home partition.
 
 Use a dotfiles on GitHub.
 
-# Tools
+## Tools
 
 General tools and applied topics which you should consider learning.
 
@@ -144,7 +146,7 @@ But do not forget: algorithms are as important than tools,
 since a single algorithm can be used by one thousand tools.
 The ideal is to take a middle path and learn both.
 
-## OS choice
+### OS choice
 
 Use Linux.
 
@@ -154,9 +156,9 @@ There are many more open source projects than in Linux that you can contribute t
 
 Learn about POSIX: <https://github.com/cirosantilli/linux/tree/master/posix>
 
-## Languages
+### Languages
 
-### Programming
+#### Programming
 
 Learn:
 
@@ -218,18 +220,18 @@ Considerations:
     - learn that language!
     - **don't** recode the project!
 
-### Data languages
+#### Data languages
 
 - XML
 - JSON
 
-### Markup languages
+#### Markup languages
 
 - HTML
 - LaTeX
 - Markdown
 
-## Web development
+### Web development
 
 -   HTML
 
@@ -259,7 +261,7 @@ Considerations:
     - deal with permissions you lack on server
     - ssh
 
-### Multiple browsers
+#### Multiple browsers
 
 Have at least two browsers, one main where you are logged in all your websites,
 and one secondary, which you will use to see how other users see your profiles.
@@ -271,7 +273,7 @@ For websites that allow you limited unsigned entry, have a third browser to test
 
 E.g. on Ubuntu 12.04 I run Firefox (primary), Chromium (secondary) and Chrome (unsigned).
 
-## Filesystem
+### Filesystem
 
 One of the first things you should understand better as a programmer is your filesystem.
 
@@ -306,12 +308,12 @@ One of the first things you should understand better as a programmer is your fil
 
 -   symlinks vs hardlinks, and other pseudo files like Windows / XDG desktop shortcuts
 
-## Databases
+### Databases
 
 - MySQL
 - SQLite
 
-## Important programs for life
+### Important programs for life
 
 -   dropdown terminal emulator: Guake.
 
@@ -346,7 +348,7 @@ One of the first things you should understand better as a programmer is your fil
 
     Find in files.
 
-### Shell
+#### Shell
 
 -   Each terminal can run one ore more languages. The most important ones are:
 
@@ -414,15 +416,15 @@ One of the first things you should understand better as a programmer is your fil
 
 -   interactive vs. non-interactive
 
-## Assembler
+### Assembler
 
 Understand exactly what operations a processor can do.
 
 <http://www.bottomupcs.com/>
 
-## Data representation
+### Data representation
 
-### character representation
+#### character representation
 
 Understand:
 
@@ -430,7 +432,7 @@ Understand:
 - Unicode
 - UTF8
 
-### Integer representation
+#### Integer representation
 
 -   binary, hexa
 
@@ -439,15 +441,15 @@ Understand:
     - one's complement
     - 2-complement
 
-### Float representation
+#### Float representation
 
 Understand how floating point numbers are represented.
 
-## IPC
+### IPC
 
-## Concurrency
+### Concurrency
 
-## Multithreading
+### Multithreading
 
 -   thread vs process.
 
@@ -465,7 +467,7 @@ Understand how floating point numbers are represented.
         - PCI
         - USB
 
-## Operating systems
+### Operating systems
 
 You must learn how your operating system works.
 
@@ -474,23 +476,23 @@ so understand Linux.
 
 Topics which you should look into:
 
-### Program memory space
+#### Program memory space
 
 Address, operational system division:
 
 -   <www.dirac.org/linux/gdb/02a-Memory_Layout_And_The_Stack.php>
 
-### Driver programming
+#### Driver programming
 
 - <http://www.linuxjournal.com/article/7353> Control a lamp. Contains C code.
 
 - <http://www.freesoftwaremagazine.com/articles/drivers_linux>
 
-### Executable files
+#### Executable files
 
 ELF files, including libraries
 
-## Hardware
+### Hardware
 
 -   Memory: registers vs caches vs RAM vs ROM (BIOS) vs VRAM vs HD.
 
@@ -500,7 +502,7 @@ ELF files, including libraries
 
 -   Buses: <http://computer.howstuffworks.com/pci1.htm>
 
-## Optimizing code
+### Optimizing code
 
 More important than those are to first:
 
@@ -520,7 +522,7 @@ A few important ones are:
 
 - register renaming: <http://en.wikipedia.org/wiki/Register_renaming>
 
-## Automatic optimization
+### Automatic optimization
 
 -   branch prediction
 
@@ -530,19 +532,19 @@ A few important ones are:
 
     <http://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-an-unsorted-array>
 
-## GPU programming
+### GPU programming
 
 TODO
 
-## SemVer
+### SemVer
 
-## Semantic versioning
+### Semantic versioning
 
 Popular standard for program versioning <http://semver.org/> formalized by Tom Preston-Werner.
 
-# Philosophy
+## Philosophy
 
-## Programming and ideas
+### Programming and ideas
 
     ideas (that can be programmed)
     +
@@ -553,7 +555,7 @@ Popular standard for program versioning <http://semver.org/> formalized by Tom P
 - without ideas, programming is useless!
 - without programming, some ideas are useless!
 
-## Imperfection
+### Imperfection
 
 It is the work of a programmer to search perfection,
 while accepting that imperfection is inevitable.
@@ -561,7 +563,7 @@ while accepting that imperfection is inevitable.
 When in doubt, look, decide, and follow your decision all the time,
 knowing that all other choices are also imperfect.
 
-## Design patterns
+### Design patterns
 
 Learn from the Zen of Python <http://legacy.python.org/dev/peps/pep-0020/>.
 The following resonate on my mind every week:
@@ -578,7 +580,7 @@ The following resonate on my mind every week:
 
 -   Explicit is better than implicit.
 
-## Architecture
+### Architecture
 
 Very high level application organization.
 
@@ -586,7 +588,7 @@ Important, but hard to learn and to formalize.
 
 <http://aosabook.org/en/index.html>, <https://github.com/aosabook/500lines>.
 
-## Human factors
+### Human factors
 
 Unfortunately, even as a programmer you still have to deal with humans,
 those unpredictable and hard to optimize systems.

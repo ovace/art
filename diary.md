@@ -11,7 +11,7 @@ format? Exactly what I had thought at first. He's sharp.
 
 ## 2014-11-25 Dancing with little Chinese girl
 
-I was dancing in Place de la Republique, when a small girl came with her mother.
+I was dancing in Place de la République, when a small girl came with her mother.
 
 The girl started watching me, then came over. I looked at the mother to see if it was OK, she smiled, and so I started dance / playing with the little girl.
 

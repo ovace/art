@@ -1,9 +1,11 @@
+# Chengyu
+
 This contains my favorite [chengyu](http://en.wikipedia.org/wiki/Chengyu) (four character Chinese sayings).
 
 I may copy explanations from other sources just in case their links break.
 This will be clearly indicated.
 
-#螳螂捕蝉 tang lang bu chan
+##螳螂捕蝉 tang lang bu chan
 
 From: <http://history.cultural-china.com/en/233History3285.html>
 
@@ -17,13 +19,13 @@ From: <http://history.cultural-china.com/en/233History3285.html>
 >
 > "How well you've put it!" cried the King, and gave up his military venture.
 
-#四舍五入
+##四舍五入
 
 Round up to nearest integer, approximate.
 
 Literally: discard 4 (as in 1.4 becomes 1), take 5 (as in 1.5 becomes 2).
 
-#解铃系铃
+##解铃系铃
 
 The one who tied the bell (to the tiger), is the one who should untie it.
 

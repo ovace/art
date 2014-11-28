@@ -1,3 +1,13 @@
+# Game
+
+-   <http://en.wikipedia.org/wiki/Japanese_raccoon_dog>
+
+    Important in Japanese culture, features in Nintendo video games, in particular Super Mario Bros. 3 there is a Tanooki suit which allows you to fly and turn into stone.
+
+    Tanookis are said to shapeshift using leaves into other forms to cause mischief, thus the relation to flying (power by leaves) and the Tanooki turning into stone.
+
+    Has been criticized by animal rights: <http://features.peta.org/mario-kills-tanooki/>
+
 -   <http://en.wikipedia.org/wiki/Super_3D_Noah%27s_Ark>, rumored to be a revenge from the makers of Wolfenstein
 
 -   <http://en.wikipedia.org/wiki/R.O.B.>, <https://www.youtube.com/watch?v=rvCCgPDcnvQ>
@@ -75,15 +85,15 @@
 
     Yearly event: <http://tay.kotaku.com/agdq-2014-easy-links-to-every-single-run-1499638499>
 
-# PC
+## PC
 
-## Free
+### Free
 
-### teeworlds
+#### teeworlds
 
 Worms FPS CTF.
 
-# Destructive glitches
+## Destructive glitches
 
 -   Pokemon Yellow arbitrary code execution: <https://www.youtube.com/watch?v=3UnB1fomvAw>
 
@@ -99,9 +109,9 @@ Worms FPS CTF.
 
     <http://arstechnica.com/gaming/2014/01/how-an-emulator-fueled-robot-reprogrammed-super-mario-world-on-the-fly/>
 
-# NES
+## NES
 
-## Adventures of Lolo
+### Adventures of Lolo
 
 Wiki: <http://en.wikipedia.org/wiki/Adventures_of_Lolo>
 
@@ -109,7 +119,7 @@ Genre: puzzle
 
 Some very interesting puzzles, great controls, horribly repetitive music.
 
-## Shadowgate
+### Shadowgate
 
 Wiki: <http://en.wikipedia.org/wiki/Shadowgate>
 
@@ -117,9 +127,9 @@ Genre: point and click adventure
 
 You can hit and kill yourself!
 
-# Not electronic
+## Not electronic
 
-## Table soccer
+### Table soccer
 
 -   <http://upload.wikimedia.org/wikipedia/commons/5/50/Kicker-berlin.jpg>
 
@@ -129,7 +139,7 @@ You can hit and kill yourself!
 
     Long table!
 
-## Magic the Gathering
+### Magic the Gathering
 
 -   <http://en.wikipedia.org/wiki/Power_Nine>
 
@@ -139,7 +149,9 @@ You can hit and kill yourself!
 
     Mint and pristine are fun names.
 
-## Chess
+### Chess
+
+-   You can promote a chess piece to another piece other than queen: <http://en.wikipedia.org/wiki/Underpromotion#Underpromotion>. Only underpromotion to knight can be useful of course, and has happened in professional play.
 
 -   <http://en.wikipedia.org/wiki/Windmill_%28chess%29>
 
@@ -153,7 +165,7 @@ You can hit and kill yourself!
     - <https://en.wikipedia.org/wiki/File:Chess_on_the_Dot.jpg>
     - <https://en.wikipedia.org/wiki/Kung-fu_chess>
 
-## Candy Land
+### Candy Land
 
 <http://en.wikipedia.org/wiki/Candy_Land>
 

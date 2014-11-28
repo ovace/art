@@ -1,10 +1,12 @@
+# History
+
 History, anthropology.
 
 -   <http://en.wikipedia.org/wiki/Great_Famine_%28Ireland%29>
 
 -   <http://en.wikipedia.org/wiki/Birch_bark_manuscript>
 
-# Anthropology
+## Anthropology
 
 -   <http://en.wikipedia.org/wiki/Lykov_family>
 
@@ -28,13 +30,13 @@ History, anthropology.
 
 -   <http://en.wikipedia.org/wiki/Survivalism>
 
-# Geology
+## Geology
 
 -   <http://en.wikipedia.org/wiki/Weald%E2%80%93Artois_Anticline>
 
     Up until the end of the glacial period 10k years ago, England was linked to France.
 
-# Mythology
+## Mythology
 
 -   <http://en.wikipedia.org/wiki/Baptism_of_Jesus>
 

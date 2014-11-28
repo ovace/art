@@ -25,5 +25,3 @@ I also claim that there is a **5th** treasure missing from the original Four bec
 Whichever brands you pick (I've been following the path of Firefox + Vim + Krusader + Git + Python), these are the tools with which every programmer lives by every day.
 
 They should be mastered and cherished by all of those who follow the path.
-
-# Drafts

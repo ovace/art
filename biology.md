@@ -1,4 +1,8 @@
+# Biology
+
 Animals, plants, biology, evolution, genetics, diseases.
+
+-   <https://en.wikipedia.org/wiki/Biological_immortality>. Some species are believed to be immortal.
 
 -   <http://en.wikipedia.org/wiki/Guano>
 
@@ -47,6 +51,10 @@ Animals, plants, biology, evolution, genetics, diseases.
 
     There are rarer conditions in which red receptors are completely missing, in which red-green discrimination is impossible.
 
-# Psychology
+## Psychology
+
+-   <http://en.wikipedia.org/wiki/M%C3%BCnchausen_syndrome>
+
+-   <http://en.wikipedia.org/wiki/M%C3%BCnchausen_syndrome_by_proxy>
 
 -   <http://en.wikipedia.org/wiki/Recurve_bow>
