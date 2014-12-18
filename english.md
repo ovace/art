@@ -73,3 +73,9 @@ As an "advanced" non native speaker, I always learn a few new terms every month.
 -   [Guerrilla](http://en.wikipedia.org/wiki/Guerrilla_warfare) comes from Spanish, used in English since 1908. TODO: which particular movements / articles popularized the word?
 
 -   <http://en.wikipedia.org/wiki/White-label_product>
+
+## Slang
+
+-   <http://www.urbandictionary.com/define.php?term=Weeaboo>
+
+-   <http://www.urbandictionary.com/define.php?term=Waifu>

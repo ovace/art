@@ -203,6 +203,28 @@ Note: 8
 
 The writer, <http://en.wikipedia.org/wiki/Jerome_Bixby>, is the same person who wrote the Star Trek "Mirror, Mirror" episode.
 
+## Crocodile Dundee
+
+- <https://www.youtube.com/watch?v=01NHcTM5IA4> Is that a knife?
+
 ## Ultra artistic
 
 -   <http://en.wikipedia.org/wiki/Empire_%281964_film%29>
+
+## Battle Royale 2000
+
+Note: 8
+
+Forget the big evil guy and the super intelligent nerd and it's great.
+
+## Hunger games 1 2012
+
+Note: 7
+
+Despite being an unintentional copy of Battle Royale, it is still quite good.
+
+## Hunger games 2 2013
+
+Note: 7
+
+Slightly less focused than the first, but also good.

@@ -1,5 +1,13 @@
 # Computer funny
 
+-   <http://en.wikipedia.org/wiki/Martian_packet>
+
+-   <http://en.wikipedia.org/wiki/Quantified_Self>
+
+-   <http://en.wikipedia.org/wiki/Streisand_effect>
+
+-   <http://en.wikipedia.org/wiki/Illegal_prime>
+
 -   <http://en.wikipedia.org/wiki/ReactOS>. Open source Windows clone! It's like Linux vs Unix but Windows version! Arghhh.
 
 -   <http://en.wikipedia.org/wiki/Chinese_wall#Computer_science>

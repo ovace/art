@@ -4,6 +4,8 @@ General high level tips on how to become a good programmer.
 
 First read [how to learn](how-to-learn.md): those techniques apply to any field of knowledge.
 
+For a huge list of free programming resources, see: <https://github.com/vhf/free-programming-books>
+
 ## How to type
 
 - user four fingers

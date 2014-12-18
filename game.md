@@ -85,6 +85,12 @@
 
     Yearly event: <http://tay.kotaku.com/agdq-2014-easy-links-to-every-single-run-1499638499>
 
+## Toy
+
+-   <http://en.wikipedia.org/wiki/Kendama>
+
+    <https://www.youtube.com/watch?v=iFiiXkonsXY>
+
 ## PC
 
 ### Free
@@ -126,6 +132,14 @@ Wiki: <http://en.wikipedia.org/wiki/Shadowgate>
 Genre: point and click adventure
 
 You can hit and kill yourself!
+
+## Mods
+
+Ultra hard SMB mods:
+
+-   <https://www.youtube.com/watch?v=DDNQ-P5XijE> Relies heavily on glitches like wall jumping, key flying, and collision detection errors.
+
+-   <https://www.youtube.com/watch?v=2srrl5k5e4s> Relies heavily on precision object throwing and flying.
 
 ## Not electronic
 

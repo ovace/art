@@ -120,6 +120,8 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 ## Gear
 
+-   <https://en.wikipedia.org/wiki/Ghillie_suit>
+
 -   <http://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit>
 
     Most modern current bomber. 750mi dollars per unit, 2bi considering development. 20 exist. The only one capable of launching standoff weapons today.
@@ -182,7 +184,9 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <http://en.wikipedia.org/wiki/Non-official_cover> NOC
 
--   <http://en.wikipedia.org/wiki/Five_Eyes>. Major espionage alliance between USA, Canada, UK, Australia and New Zealand.
+-   <http://en.wikipedia.org/wiki/Five_Eyes>. Major espionage alliance between USA, Canada, UK, Australia and New Zealand. Officially acknowledged in 2005.
+
+-   <http://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29>. Created in 2007, leaked in 2013 by Snowden. I just love the spy craft slides leaked.
 
 -   <http://en.wikipedia.org/wiki/WikiLeaks>. USA imposed an illegal banking barrier on it.
 

@@ -1,5 +1,11 @@
 # Computer
 
+-   <http://en.wiktionary.org/wiki/vim> is also an English word that means vigour. How righteous. Compare to `git` :).
+
+-   <http://en.wikipedia.org/wiki/Blind_carbon_copy>
+
+-   I've discovered the meaning of CC in email: <http://en.wikipedia.org/wiki/Carbon_copy>
+
 -   <http://builtwith.com>, <http://isitrails.com>
 
 -   <http://en.wikipedia.org/wiki/Trusted_timestamping>
@@ -162,6 +168,42 @@ Many versions:
 ### People
 
 -   Larry Ellison on CNN Fortune: <https://www.youtube.com/watch?v=1cYy-b7qfCE>
+
+-   Dim Dotcom <http://en.wikipedia.org/wiki/Kim_Dotcom>
+
+    1.5M profit from insider trading? Check.
+
+    Number 1 player in Call of Duty 3 amongst 15M player? Check.
+
+    Founder of megaupload.com and later arrested by the FBI? Check.
+
+### Stallman
+
+"I have done your mother" reply to "what have you done?" in a context of comparison to Steve Jobs (TODO proof):
+
+> Well rude comments don't deserve replies but I'll "come at you" anyway.
+
+> Over my career I have tried to be an advocate of truely free software, I have have helped develop the GPL license, I have done most of GNU, a vital part of any system with the Linux kernel which runs on millions of computers around the world and disk space-wise is bigger, I have done your mother, and have also written and manager emacs for many years. I also have a good interest in foreign languages and Hungarian folk dancing.
+
+### Grace Hopper
+
+<http://en.wikiquote.org/wiki/Grace_Hopper>
+
+She said:
+
+> It's easier to ask forgiveness than it is to get permission.
+
+which is now often used as a programming principle meaning that it is better to try and deal with exceptions than check if exceptions won't be raised.
+
+Letterman interview: <https://www.youtube.com/watch?v=1-vcErOPofQ>
+
+### History
+
+-   <http://en.wikipedia.org/wiki/Antikythera_mechanism>
+
+### Non silicon
+
+-   <http://highscalability.com/blog/2012/6/13/why-my-soap-film-is-better-than-your-hadoop-cluster.html>
 
 ## Companies
 

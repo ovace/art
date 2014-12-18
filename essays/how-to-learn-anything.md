@@ -6,8 +6,10 @@ Humans have a single motivation in life: **become powerful**.
 
 Learning is no different:
 
-- **useful**: improve food, housing, health, etc. for others, feel good about it and get money in the process
-- **beautiful**: feel good, help others learn it and feel good, and get money in the process
+- **useful**: improve food, housing, health, etc. for others
+- **beautiful**: teach others so they feel the beauty
+
+Helping others makes you feel good and get money.
 
 ## Why not to learn
 
