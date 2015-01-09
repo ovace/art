@@ -1,5 +1,7 @@
 # Computer
 
+-   Weird. Experienced enterprise programmers in France know Stack Overflow and how to use it's lightweight markup language, but not the name "Markdown".
+
 -   <http://en.wiktionary.org/wiki/vim> is also an English word that means vigour. How righteous. Compare to `git` :).
 
 -   <http://en.wikipedia.org/wiki/Blind_carbon_copy>

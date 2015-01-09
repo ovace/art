@@ -1,5 +1,15 @@
 # Business
 
+-   <http://en.wikipedia.org/wiki/Income_statement>, P&L.
+
+-   <http://en.wikipedia.org/wiki/Security_%28finance%29>
+
+    - Debt: banknotes, bonds and debentures
+    - <http://en.wikipedia.org/wiki/Stock>: common stock
+    - <http://en.wikipedia.org/wiki/Derivative_%28finance%29>: forwards, futures, options and swaps
+
+-   <http://en.wikipedia.org/wiki/Trading_room>, <http://www.investopedia.com/terms/t/tradingdesk.asp>
+
 -   <http://en.wikipedia.org/wiki/Chinese_wall>
 
 -   <http://en.wikipedia.org/wiki/Eating_your_own_dog_food>
