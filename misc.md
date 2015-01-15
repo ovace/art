@@ -8,8 +8,6 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
 -   <http://en.wikipedia.org/wiki/Numismatics>
 
--   <http://en.wikipedia.org/wiki/Large_denominations_of_United_States_currency>
-
 -   <http://en.wikipedia.org/wiki/Encyclopedia_Dramatica>
 
     Weird funny hate speech Uncyclopedia.

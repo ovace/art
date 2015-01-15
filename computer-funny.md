@@ -1,5 +1,47 @@
 # Computer funny
 
+-   <https://en.wikipedia.org/wiki/Geek_Code>, <http://mj.ucw.cz/geek/>
+
+-   <https://twitter.com/idiot/status/580452127769800705>, and many more from the author
+
+-   Hell is other peoples' code. TODO attribution.
+
+-   <https://www.thc.org/root/phun/unmaintain.html>
+
+-   <http://www.urbandictionary.com/define.php?term=nasal%20demons>
+
+-   <http://en.wikipedia.org/wiki/Blinkenlights>
+
+-   <http://en.wikipedia.org/wiki/Spinning_pinwheel> Apple's mouse wait form.
+
+    A.K.A. "Spinning Beach Ball of Death".
+
+-   Simplest binary keyboard: <https://plus.google.com/100559605525858397490/posts/6cc9f7jAkNQ>
+
+-   <http://en.wikipedia.org/wiki/Big_ball_of_mud>
+
+-   <http://blog.codinghorror.com/new-programming-jargon/> by Atwood
+
+    http://blog.codinghorror.com/new-programming-jargon/
+
+    Larger, less good superset: <http://www.dodgycoder.net/2011/11/yoda-conditions-pokemon-exception.html>
+
+-   <http://en.wikipedia.org/wiki/Yoda_conditions>
+
+-   <http://en.wikipedia.org/wiki/File:Munitions_T-shirt_%28front%29.jpg>
+
+    It actually contains a 3 liner implementation of RSA in Perl: <http://www.cypherspace.org/adam/rsa/>
+
+    Reminds me of the illegal primes.
+
+-   <http://c2.com/cgi/wiki?StudiedUnderTheGreatLiszt>
+
+-   <http://c2.com/cgi/wiki?SeagullConsultant>
+
+-   <http://c2.com/cgi/wiki?SlideWare>
+
+-   <http://c2.com/cgi/wiki?HighlyPaidConsultant>
+
 -   <http://en.wikipedia.org/wiki/Martian_packet>
 
 -   <http://en.wikipedia.org/wiki/Quantified_Self>
@@ -31,8 +73,6 @@
 -   Program that will execute only once: <http://codegolf.stackexchange.com/a/28685/20603>
 
 -   <http://en.wikipedia.org/wiki/Halt_and_Catch_Fire>
-
--   <http://en.wikipedia.org/wiki/Pentium_F00F_bug>
 
 -   Vigil language: <https://github.com/munificent/vigil>
 
@@ -119,6 +159,28 @@
 In Vim:
 
     :help 42
+
+## Kernel
+
+-   <https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/stable_api_nonsense.txt?id=v4.0> filename
+
+-   <http://durak.org/sean/pubs/kfc/>
+
+-   The Linux kernel has `make clean`, but also a more radical clean called:
+
+        make mrproper
+
+    This is likely a reference to <https://en.wikipedia.org/wiki/Mr._Clean> in German (and Finnish?).
+
+-   <https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/ManagementStyle?id=v4.0>
+
+-   End of kernel `CREDITS`:
+
+        # Don't add your name here, unless you really _are_ after Marc
+        # alphabetically. Leonard used to be very proud of being the
+        # last entry, and he'll get positively pissed if he can't even
+        # be second-to-last.  (and this file really _is_ supposed to be
+        # in alphabetic order)
 
 ## Joke software
 

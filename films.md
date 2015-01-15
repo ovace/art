@@ -212,6 +212,14 @@ Note: 4
 
 Sucks. Too much cheap psychology, too little action. I only finished it because I was in the cinema with my GF...
 
+## Documentary
+
+### Ambassador 2011
+
+Note: 7
+
+<http://en.wikipedia.org/wiki/The_Ambassador_%282011_film%29>
+
 ## Films I haven't watched in full but that interest me for some reason
 
 - <http://en.wikipedia.org/wiki/Empire_%281964_film%29>. Several hours of the empire state building. Nothing else.

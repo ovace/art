@@ -1,5 +1,31 @@
 # Food
 
+-   <https://en.wikipedia.org/wiki/Loquat>
+
+-   <http://en.wikipedia.org/wiki/Corn_smut#Culinary_uses>
+
+-   <http://en.wikipedia.org/wiki/H%C3%A1karl>. Fermented salted Icelandic shark that would be poisonous without the treatment.
+
+-   <http://en.wikipedia.org/wiki/Asafoetida>
+
+    Western guy cooking with it: <https://www.youtube.com/watch?v=67w296P0SLY>
+
+    Publicity: <https://www.youtube.com/watch?v=HG6vV7lhdfk>
+
+-   <http://en.wikipedia.org/wiki/Malt>. Finally I understand what it is: germinated cereals.
+
+    They are put into water to germinate, then germination is stopped by drying them up.
+
+-   <http://en.wikipedia.org/wiki/Natt%C5%8D>. Highly fermented soy beans.
+
+-   <http://en.wikipedia.org/wiki/Sannakji>. Korean octopus served alive and moving. Reminds me of ikizukuri.
+
+-   <http://en.wikipedia.org/wiki/H%C3%A1karl>.
+
+-   <http://en.wikipedia.org/wiki/Acquired_taste>. Great source of notoriously bad foods.
+
+-   <http://en.wikipedia.org/wiki/Vegemite> yeast paste.
+
 -   <http://en.wikipedia.org/wiki/Trail_mix> So that has a precise name in English.
 
 -   <http://en.wikipedia.org/wiki/M%26M%27s>

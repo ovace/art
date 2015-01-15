@@ -1,5 +1,21 @@
 # Game
 
+-   <http://starcraft.wikia.com/wiki/Lee_Seung_Seop>
+
+-   <https://en.wikipedia.org/wiki/Shutdown_law>
+
+-   <http://en.wikipedia.org/wiki/Mario_Segale>, the guy after whom Mario might have been named.
+
+    Nintendo sales were doing very bad in America and they owned money to their landlord Segale.
+
+-   <https://www.youtube.com/watch?v=M55Bpm38qqE> Sonic was critical for selling Sega, like Mario was for Nintendo.
+
+-   Super cool to see the early prototype: <https://www.youtube.com/watch?v=myhBphil-Uw>
+
+-   Mega Man is blue because it was the color with the most tonalities for the early consoles.
+
+-   <http://en.wikipedia.org/wiki/Universal_City_Studios,_Inc._v._Nintendo_Co.,_Ltd.>
+
 -   <http://en.wikipedia.org/wiki/Japanese_raccoon_dog>
 
     Important in Japanese culture, features in Nintendo video games, in particular Super Mario Bros. 3 there is a Tanooki suit which allows you to fly and turn into stone.
@@ -87,9 +103,21 @@
 
 ## Toy
 
+-   <http://en.wikipedia.org/wiki/Choose_Your_Own_Adventure> Book series that lets you choose your own path.
+
+    I remember picking up one of those in Portuguese when younger. Pretty cool, but I did not know what was behind it.
+
+    Also one of the predecessors of "Open ended" / "nonlinear" games.
+
 -   <http://en.wikipedia.org/wiki/Kendama>
 
     <https://www.youtube.com/watch?v=iFiiXkonsXY>
+
+### Rubik's cube
+
+- 	Largest in the world as of 2015: 17^3.
+
+- 	<http://twistypuzzles.com/> master forum of Rubik's cube variants
 
 ## PC
 

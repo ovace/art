@@ -55,4 +55,16 @@ Interesting to see how the high level semi-political policeman want to close cas
 
 ## Webseries
 
+### Angry Video Game Nerd
+
 - <https://www.youtube.com/watch?v=fs2wczJXETM>
+
+### Gaming historian
+
+<https://www.youtube.com/watch?v=XdeDtiobyNc>
+
+### Epic rap battles of history
+
+- <https://www.youtube.com/watch?v=dX_1B0w7Hzc> Jobs
+- <https://www.youtube.com/watch?v=dX_1B0w7Hzc> Obama
+- <https://www.youtube.com/watch?v=ZT2z0nrsQ8o> Stalin

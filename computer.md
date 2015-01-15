@@ -1,5 +1,27 @@
 # Computer
 
+-   <https://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_M%C5%ABs%C4%81_al-Khw%C4%81rizm%C4%AB>
+
+-   <http://stackoverflow.com/editing-help#spoilers>
+
+-   <https://en.wikipedia.org/wiki/Fedora>
+
+-   <https://en.wikipedia.org/wiki/Electronic_sports>
+
+-   <http://en.wikipedia.org/wiki/ROT13>
+
+-   <http://en.wikipedia.org/wiki/Firmware>. Read only software embedded into hardware at manufacture time.
+
+-   <http://en.wikipedia.org/wiki/HyperCard> Apple program was one of the pre-internet inspirations for wikis.
+
+-   <http://en.wikipedia.org/wiki/Fabless_manufacturing>
+
+-   <http://en.wikipedia.org/wiki/Network_operating_system>
+
+-   <http://en.wikipedia.org/wiki/Rich_Internet_application>. Groups Flash, JavaFX and Siverlight. Aka stuff that will be killed by Js.
+
+-   <http://en.wikipedia.org/wiki/Single-letter_second-level_domain>
+
 -   Whenever I see a SaaS website that has no login (but rather some requires-human-feedback form), I just think: bullshit, does not scale. Next one, please.
 
 -   <http://en.wikipedia.org/wiki/IOS_jailbreaking> How can it be legal to sell such self blocked devices in which you cannot touch your hardware? And how can such devices have huge market share?
@@ -152,6 +174,14 @@
 
     Found it on the film <https://en.wikipedia.org/wiki/Z_%28film%29>
 
+## Cool websites
+
+-   Google search by image: <https://images.google.com>, <http://search-by-drawing.fullstackoptimization.com/> and the Firefox plugin that does it on right click: <https://addons.mozilla.org/en-US/firefox/addon/google-search-by-image/>
+
+-   Google view moments: <http://mashable.com/2013/06/10/google-street-view-embarrassing/#gallery/x-embarrassing-google-street-sightings/54223447b589e465a6000755>
+
+    Where it is located in the world: <http://www.google.com/maps/about/behind-the-scenes/streetview/>
+
 ## Bloat
 
 Many versions:
@@ -177,19 +207,25 @@ Many versions:
 
 -   Black hat, white hack, gray hat: <http://en.wikipedia.org/wiki/Hacker_%28computer_security%29#White_hat>
 
-### People
+## People
 
 -   <http://en.wikipedia.org/wiki/Joel_Spolsky>, Stack Overflow co-founder.
 
 -   Larry Ellison on CNN Fortune: <https://www.youtube.com/watch?v=1cYy-b7qfCE>
 
--   Dim Dotcom <http://en.wikipedia.org/wiki/Kim_Dotcom>
+-   Kim Dotcom <http://en.wikipedia.org/wiki/Kim_Dotcom>
 
     1.5M profit from insider trading? Check.
 
     Number 1 player in Call of Duty 3 amongst 15M player? Check.
 
     Founder of megaupload.com and later arrested by the FBI? Check.
+
+-   <http://en.wikipedia.org/wiki/Aaron_Swartz>
+
+    Died for open source. Markdown and Reddit co-creator.
+
+    `asdf`
 
 ### Stallman
 
@@ -198,6 +234,14 @@ Many versions:
 > Well rude comments don't deserve replies but I'll "come at you" anyway.
 
 > Over my career I have tried to be an advocate of truely free software, I have have helped develop the GPL license, I have done most of GNU, a vital part of any system with the Linux kernel which runs on millions of computers around the world and disk space-wise is bigger, I have done your mother, and have also written and manager emacs for many years. I also have a good interest in foreign languages and Hungarian folk dancing.
+
+[a](http://exmample.com)
+
+### Jobs
+
+<http://en.wikipedia.org/wiki/Steve_Jobs>. So many interesting anecdotes.
+
+Owned 7% of Disney through the Pixar merger...
 
 ### Grace Hopper
 
@@ -219,11 +263,81 @@ Letterman interview: <https://www.youtube.com/watch?v=1-vcErOPofQ>
 
 -   <http://highscalability.com/blog/2012/6/13/why-my-soap-film-is-better-than-your-hadoop-cluster.html>
 
+## Websites
+
+### c2 wiki
+
+<http://c2.com/cgi/wiki?WelcomeVisitors>
+
+2 letter domain!
+
+The first wiki, the software is called <http://en.wikipedia.org/wiki/WikiWikiWeb>
+
+Many interesting programming discussions which is its original purpose.
+
+Became read-only in 2014 because of vandalism.
+
 ## Companies
 
 GitHub:
 
 - <https://www.youtube.com/watch?v=zEYjJoF2RAY>
+
+### Sun
+
+I feel this is a cool company that made lots of interesting software.
+
+<http://www.informationweek.com/it-leadership/why-sun-microsystems-failed/d/d-id/1096377?>
+
+McNealy, co-founder, said:
+
+> "The mistake we made was putting it on our own hardware. If we hadn't metal-wrapped it, it would have been more widely adopted. If we had put Solaris early on an Intel box, Linux never would have never happened."
+
+And now Oracle continues selling it in their SPARC hardware...
+
+If only they hadn't done that mistake, maybe Solaris would have dominated and prevent the current Linux distribution mess...
+
+---
+
+Sun also talked to IBM when selling out: <http://en.wikipedia.org/wiki/Sun_acquisition_by_Oracle>
+
+### Intel
+
+<http://en.wikipedia.org/wiki/McAfee>
+
+Founders were ex-Fairchild.
+
+Started as a memory manufacturer, and grew in the 80's by supplying IBM with chips.
+
+It is considered an IBM's greatest fault to have outsourced hardware to Intel, and operating system to Windows. Reminds me of the Sony / Nintendo breakdown at the CD revolution of the 90's, which enormously benefited Sony, and seriously hurt Nintendo which did not see the technological wave coming.
+
+In the 90's, benefited enormously with the Windows partnership, labeled <http://en.wikipedia.org/wiki/Wintel>
+
+In 2011, bough McAffee, which will be renamed to Intel security.
+
+### Microsoft
+
+IBM's importance was so great to Windows that it is still referred to as PC by less technical people... which derives from IBM PC which DOS powered!
+
+Microsoft sold lots of UNIX in the 80's: <http://en.wikipedia.org/wiki/Xenix>
+
+### Apple
+
+Made up by two Steve's.
+
+<http://en.wikipedia.org/wiki/Paul_Terrell> and the Byte shop were the first sellers. Jobs managed to get the parts for the first 50 computer batch on credit with only with the COD promise from the retailer, so they gave away no equity.
+
+Shareholder number 2 at the IPO <http://en.wikipedia.org/wiki/Mike_Markkula> was an angel investor. He got rich with shares from Fairchild which he got through marketing and "retired" at 32. Then he was lured out of retirement only to invest in Apple... Lol wasn't he rich enough?
+
+10 initial employees: <http://www.businessinsider.com/apple-early-employees-2011-5?op=1&IR=T>
+
+Apple only transitioned to Intel chips in 2005, from it's older <http://en.wikipedia.org/wiki/PowerPC> (Apply / IBM / Motorola alliance made). So *this* is where PowerPC on the Linux kernel tree comes from.
+
+### Fairchild
+
+Father of Intel and AMD.
+
+<http://en.wikipedia.org/wiki/Traitorous_eight>
 
 ## Strategy
 
@@ -271,3 +385,9 @@ Impressive iOS feature to a programmer that never touched smartphones:
 Useful:
 
 - Software and hardware version: `Settings > General > About`. Software version under `Version`, hardware under `Model`. Interpret hardware version: <http://www.forbes.com/sites/adriankingsleyhughes/2012/09/17/how-do-i-correctly-identify-my-iphone-so-i-can-sell-it/>
+
+## Security
+
+- <http://blackcubeltd.com/>
+
+- <https://en.wikipedia.org/wiki/Unit_8200>

@@ -100,6 +100,7 @@ Contribute to prestigious projects:
 - browser internals: JavaScript engines, rendering
 - mathematical libraries
 - Git
+- 2D rendering
 
 Pay huge attention to **security**. Hard to get right, and a single error can cost millions.
 
@@ -193,7 +194,7 @@ Considerations:
 
 -   Niches matter. Some languages dominate certain application spaces.
 
-    - PHP, Ruby, Javascript == web
+    - PHP, Ruby, JavaScript == web
     - Fortran == numerical
 
 -   All major programming languages have the same theoretical power as they are Turing complete.
@@ -238,6 +239,16 @@ Considerations:
 - HTML
 - LaTeX
 - Markdown
+
+### Language tools
+
+Once you have chosen a language, there is a standard set of tools that you need to learn to work with the language:
+
+- the compiler and interpreter. Learn the options from the command line.
+- build system and package manager. E.g.: `make` for C++, Rake and Bundler for Ruby, etc.
+- IDE. Only use once you can compile from the command line.
+- lint tool: checks your style and code smells
+- coverage tool: checks how much of your code is covered by your tests
 
 ### Web development
 

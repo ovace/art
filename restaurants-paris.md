@@ -2,6 +2,12 @@
 
 ## Chinese
 
+Other similar lists:
+
+- <http://carnetdecroute.blogspot.fr/> French only, but similar to this list.
+
+### Introduction
+
 I am strongly biased towards Chinese food, and I think it is the best option to eat in Paris.
 
 Paris has one of the largest Chinese communities outside of China, and there must be around 10~20 restaurants which serve food unlike anything you have ever eaten.
@@ -15,59 +21,65 @@ Paris has one of the largest Chinese communities outside of China, and there mus
 
 So called **"Asian"** restaurants which mix either of Chinese / Japanese / Vietnamese / Thai are very rarely very good. Conversely, restaurants that specialize in a single region of China are more likely to be good (bot not certainly good). It is already difficult to do the cuisine for one part of China well, imagine for multiple countries.
 
-List:
+### List
 
 -   Chez Yong (鼎鼎香)
 
-    42, rue de la Colonie  
-    75013 Paris
+    42, rue de la Colonie - 75013 Paris
 
     - shui zhu niu rou
     - dishes with intestines
 
 -   Délices de Shandong (山东小馆)
 
-    88 Boulevard de l'Hôpital  
-    75013 Paris
+    88 Boulevard de l'Hôpital - 75013 Paris
 
 -   La Chine sur la langue (舌尖美味)
 
-    163 rue Saint-Denis (Croissement de Rue St Denis et de Rue Greneta)  
-    75002 Paris
+    163 rue Saint-Denis - 75002 Paris
 
     - Spicy soup with Chinese charcuteries. Ma la tang.
     - Large dry and thin bread. Jing dong da bing. 京东大饼. [Picture](http://www.nipic.com/show/1/55/7885c266f22649ae.html).
 
-    8 Rue de la Tacherie  
-    75004 Paris
-
 -   Quatre Amis (那家小馆)
 
-    29 rue de Charenton  
-    75012 Paris
+    29 rue de Charenton - 75012 Paris
 
     - Fried octopus.
     - Shui zhu niu rou.
 
+-   Le Céleste Gourmand (福来居, fu lai ju)
+
+    8 Rue de la Tacherie - 75004 Paris
+
+-   L'Orient d'Or (福源丰)
+
+    22, Rue de trévise - 75009 Paris
+
+    - Galettes croustillantes au canard (xiang su ya dai bing, 香酥鸭带饼)
+    - Poisson pimentee (suan tang yu, 酸汤鱼)
+    - Soupe aux cartilages de porc avec algues (hai dai pau gu tang, 海带排骨汤)
+
+    Hunan style.
+
+    25 euros / person.
+
 -   Royal Tching Tao (青岛人家)
 
-    8 Rue du Bel-Air  
-    75012 Paris
+    8 Rue du Bel-Air - 75012 Paris
 
-    - Pork meat balls. Shi zi tou.
-    - Sweet fish. Song shu gui yu (松鼠桂鱼)
+    - Galettes croustillantes au canard. Shi zi tou.
+    - Sweet fish （Song shu gui yu 松鼠桂鱼)
 
 -   Deux Fois Plus De Piment (绝代双椒)
 
-    Address: 33 Rue Saint-Sébastien  
-    75011 Paris
+    Address: 33 Rue Saint-Sébastien - 75011 Paris
 
-    Sichuan.
+    Sichuan style.
 
 -   Tien Hiang (天香)
 
-    14, rue Bichat  
-    75010
+    14, rue Bichat - 75010 Paris
 
     Vegetarian food: most dishes are an imitation of a dish with meat.
 
@@ -75,9 +87,33 @@ List:
 
     Chinese vegetarians are rare. In theory, the origin of the food in this restaurant is Hong Kong Buddhism (Buddhist monks cannot eat meat, while other believers can.)
 
-Other similar lists:
+-   Autour du Yangtse (食尚煮意)
 
-- <http://carnetdecroute.blogspot.fr/> French only, but similar to this list.
+    12 Rue du Helder - 75009 Paris
+
+    - Marmite de poisson et de tofu (豆花鱼)
+    - Saliva chiken (口水鸡)
+    - Aubergines farcies sur plaqua chauffante (铁板脆皮茄)
+
+    <http://www.autourduyangtse.com/>
+
+-   Likafo (利口福酒家)
+
+    39 Avenue de Choisy - 75013 Paris
+
+    <https://www.facebook.com/pages/LIKAFO-%E5%88%A9%E5%8F%A3%E7%A6%8F%E9%85%92%E5%AE%B6/139814799396>
+
+    [Meigan cai](http://en.wikipedia.org/wiki/Meigan_cai) roast pork (梅菜扣肉) <http://img.epochtimes.com/i6/901120923161469.jpg>
+
+### Noodle
+
+Noodle is not as outstanding as regular dishes, but can be cheaper, and good when you want to eat less, and some taste very well.
+
+-   Noodle No 1
+
+    54 rue Sainte Anne - 75002 Paris
+
+    - Soupe aux nouilles pimentées
 
 ## Non-Chinese
 
@@ -87,15 +123,13 @@ Jewish:
 
 -   La Boutique Jaune de Sacha Finkelsztajn.
 
-    27 Rue des Rosiers  
-    75004 Paris
+    27 Rue des Rosiers - 75004 Paris
 
     Pastry shop.
 
 -   L'As Du Fallafel and other nearby fallafel shops.
 
-    32-34 Rue des Rosiers
-    75004 Paris
+    32-34 Rue des Rosiers - 75004 Paris
 
     The most basic fallafel dish.
 
@@ -103,7 +137,6 @@ Mexican:
 
 -   Anahuacalli
 
-    30 Rue des Bernardins  
-    75005 Paris
+    30 Rue des Bernardins - 75005 Paris
 
     Tacos de la Merced.

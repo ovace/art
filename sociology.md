@@ -2,6 +2,10 @@
 
 Social movements and practices.
 
+-   <https://en.wikipedia.org/wiki/Muk-bang>, <https://www.youtube.com/watch?v=5wjXJL6ZwLk>
+
+-   <http://en.wikipedia.org/wiki/Lying_in_state>
+
 -   <http://en.wikipedia.org/wiki/Metal_detector#As_a_hobby>
 
 -   <http://en.wikipedia.org/wiki/File:Societal_attitudes_towards_homosexuality.svg>

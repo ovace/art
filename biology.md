@@ -2,6 +2,34 @@
 
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   <http://en.wikipedia.org/wiki/Diphallia>, <http://www.xnxx.com/video7260086/latina_loves_her_sexy_double_dilemma>
+
+-   <http://en.wikipedia.org/wiki/Abigail_and_Brittany_Hensel>, <http://en.wikipedia.org/wiki/Polycephaly>
+
+-   Species with very few specimens:
+
+    <http://en.wikipedia.org/wiki/Lists_of_IUCN_Red_List_Critically_Endangered_species>
+
+    - <http://en.wikipedia.org/wiki/Yangtze_giant_softshell_turtle> only 4 known, if you count the one in Vietnam which the Vietnamese say it's another species. 2 at Suzhou, and we hope they feel like breeding some day...
+
+-   <http://en.wikipedia.org/wiki/Port-wine_stain>
+
+-   <http://en.wikipedia.org/wiki/Shivering>. Babies don't shiver.
+
+-   <http://en.wikipedia.org/wiki/Brown_adipose_tissue>. There are two types. This one is common in newborns, which don't shiver, and hibernating mammals.
+
+-   <http://en.wikipedia.org/wiki/Kava>. Mistyped Java.
+
+-   <http://en.wikipedia.org/wiki/Hagfish>. Only vertebrate that has a skull and no spinal cord and no pineal gland.
+
+    <http://en.wikipedia.org/wiki/Hagfish#Commercial_use> says that only one species is eaten, and in particular the slime it produces is used in a similar way to egg white. The hide can also be used for wallets.
+
+    It is also served while moving in the plate: <https://www.youtube.com/watch?v=JjxxOSu40Y8>
+
+    And the slime can suffocate the attacker: <https://www.youtube.com/watch?v=bqk0mnMgwUQ&list=PLmQzYrtR9NBQ8fpE22UDOPqXRyJhPPtFP>
+
+    It just waits at the bottom for up to 6 months without eating for a dead animal to drop nearby.
+
 -   <http://en.wikipedia.org/wiki/Komondor> <https://www.youtube.com/watch?v=6HsNwqnDmk8>
 
     So much hair!
@@ -64,3 +92,7 @@ Animals, plants, biology, evolution, genetics, diseases.
 -   <http://en.wikipedia.org/wiki/M%C3%BCnchausen_syndrome_by_proxy>
 
 -   <http://en.wikipedia.org/wiki/Recurve_bow>
+
+## Animals
+
+-   <https://www.youtube.com/watch?v=D2SoGHFM18I>. Fox jumping into snow head first to catch rat.

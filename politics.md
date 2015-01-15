@@ -2,6 +2,14 @@
 
 Politics, advertisement, law.
 
+-   <http://en.wikipedia.org/wiki/United_States_embargoes>
+
+    <http://en.wikipedia.org/wiki/International_Emergency_Economic_Powers_Act>
+
+-   <http://en.wikipedia.org/wiki/Fuddle_duddle>
+
+-   <http://en.wikipedia.org/wiki/Unparliamentary_language> Funny way to call it. And lists are so funny!
+
 -   When you have a proposal, start by making it to people from the low level of the organization and then go up.
 
     This way, if you find that the idea is bad and stop at some point, big boss won't know and won't think bad of you.
@@ -30,13 +38,3 @@ Politics, advertisement, law.
     <https://www.youtube.com/watch?v=RZtaZTEO3jA>
 
 -   <http://en.wikipedia.org/wiki/Front_companies>
-
-## Law
-
--   <http://en.wikipedia.org/wiki/Jus_sanguinis>
-
--   <http://en.wikipedia.org/wiki/Jus_soli>
-
--   <http://en.wikipedia.org/wiki/Doing_business_as>
-
--   <http://en.wikipedia.org/wiki/Alimony>

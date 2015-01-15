@@ -30,6 +30,16 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
 
 -   <http://en.wikipedia.org/wiki/Unrestricted_submarine_warfare>
 
+## Naval
+
+-   <http://en.wikipedia.org/wiki/U-boat>. In German, means just submarine.
+
+-   <http://en.wikipedia.org/wiki/Convoy>
+
+-   <http://en.wikipedia.org/wiki/Letter_of_marque>
+
+-   <http://en.wikipedia.org/wiki/Privateer>
+
 ## Terrorism
 
 -   <http://en.wikipedia.org/wiki/Munich_massacre> by <http://en.wikipedia.org/wiki/Black_September_%28group%29>
@@ -102,29 +112,11 @@ Another common point are end of the world predictions.
 
 This one was a sadist, who teamed up with Pinochet to torture people and was thus protected for years.
 
-## Crime
-
--   <http://en.wikipedia.org/wiki/Pizzo_%28extortion%29>
-
--   <http://en.wikipedia.org/wiki/Ponzi_scheme>
-
--   <http://en.wikipedia.org/wiki/Theft_of_the_Jules_Rimet_Trophy>
-
-    Trophy was stolen twice, once before being awarded, the second after,
-    and probably for good.
-
--   <http://www.ehow.com/info_8470033_physical-surveillance-techniques.html>
-
-    Front and follow, ABC, Progressive Phasing and Overwatch
-
--   <http://en.wikipedia.org/wiki/Affidavit>
-
--   <http://en.wikipedia.org/wiki/Wheel_clamp> Nice way to make people pay parking tickets.
-
--   "detention during Her Majesty's pleasure": the names of English charges sound nice
-    no matter how horrible the crimes are: <http://en.wikipedia.org/wiki/Life_imprisonment_in_England_and_Wales>
-
 ## Gear
+
+-   <http://en.wikipedia.org/wiki/Whirlwind_I>, <http://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment>
+
+-   <http://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment>
 
 -   <https://en.wikipedia.org/wiki/Ghillie_suit>
 
@@ -263,6 +255,10 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
     Started in WW2, with at least on recipient in 2014 for Afghanistan.
 
 ## WW2
+
+-   <http://en.wikipedia.org/wiki/Office_of_Strategic_Services>
+
+    USA intelligence operations. Spy fiction prototype. CIA predecessor.
 
 -   <http://en.wikipedia.org/wiki/Dowding_system>
 

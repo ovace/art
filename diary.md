@@ -2,12 +2,9 @@
 
 ## 2014-06 Mozilla Sprint 2014
 
-Talked on Skype with WriteLaTeX John Lees-Miller,
-W3C editor Robin Berjon, MathJax fred-wang and other similar minded people.
+Talked on Skype with WriteLaTeX John Lees-Miller, W3C editor Robin Berjon, MathJax fred-wang and other similar minded people.
 
-I told Berjon about the IETF desire to standardize a Markdown MIME-type,
-he immediately replied: what good is it to have a MIME-type for an underspecified
-format? Exactly what I had thought at first. He's sharp.
+I told Berjon about the IETF desire to standardize a Markdown MIME-type, he immediately replied: what good is it to have a MIME-type for an underspecified format? Exactly what I had thought at first. He's sharp.
 
 ## 2014-11-25 Dancing with little Chinese girl
 
@@ -19,7 +16,7 @@ Her happiness was so pure and intoxicating, not a trace of violence in her actio
 
 When her mother said it was time to go, she didn't want to leave.
 
-## 2014-12-12 Interview at QuartetFS
+## 2014-12-12 Interview at QuartetFS [job]
 
 Today I did my second job interview with the branch head of the enterprise QuartetFS, and he said he will send me a contract tonight. A few thoughts which I had heard many people talk about before, but now have I felt more strongly than ever.
 
@@ -44,3 +41,7 @@ Today I did my second job interview with the branch head of the enterprise Quart
     - when talking about motivation to improve the world, I said that my parents have a very high moral standard
     - when asked how I chose the enterprise, I said I mostly excluded I didn't want to do
     - school grades (B / C but never flunked)
+
+## 2015-04-13 Fired from QuartetFS [job]
+
+TODO

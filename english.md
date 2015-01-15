@@ -2,6 +2,18 @@
 
 As an "advanced" non native speaker, I always learn a few new terms every month.
 
+-   <http://www.urbandictionary.com/define.php?term=floored>
+
+-   <http://www.merriam-webster.com/dictionary/indelible> on a wiki article... a bit partial no?
+
+-   <http://en.wikipedia.org/wiki/Weasel_word>
+
+-   <http://en.wikipedia.org/wiki/Man_cave>
+
+- 	<http://en.wikipedia.org/wiki/Stress_testing>, AKA torture testing.
+
+- 	<http://www.urbandictionary.com/define.php?term=Hangry>
+
 -   <http://en.wikipedia.org/wiki/Chip_on_shoulder>
 
 -   <http://www.merriam-webster.com/dictionary/tipping%20point>
@@ -79,3 +91,9 @@ As an "advanced" non native speaker, I always learn a few new terms every month.
 -   <http://www.urbandictionary.com/define.php?term=Weeaboo>
 
 -   <http://www.urbandictionary.com/define.php?term=Waifu>
+
+## Linguistics
+
+Stuff that happens across languages:
+
+-   <http://en.wikipedia.org/wiki/Minced_oath>

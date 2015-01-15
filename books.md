@@ -4,23 +4,19 @@ My literary interests are similar to my film interests.
 
 ## George Orwell
 
-### 1984
+### 1984 1949
 
 Note: 9
 
 Author: George Orwell
 
-Year: 1949
-
 Insights into communism.
 
 Communism is harder to kill than a one man dictatorship because it is a dictatorship of an entire class.
 
-## Animal farm
+## Animal farm 1945
 
 Note: 8
-
-Year: 1945
 
 Insights into communism.
 
@@ -52,8 +48,16 @@ Many of us feel like he does I guess.
 
 The book's general feeling have a name of a branch of philosophy: <http://en.wikipedia.org/wiki/Absurdism>, of which Camus was a proponent.
 
-## Brave new world
+## Brave new world 1931
 
 Note: 7
 
 Insights into communism / dictatorship / technology dystopia. But less vivid than 1984.
+
+## Darkness at Noon 1942
+
+<http://en.wikipedia.org/wiki/Darkness_at_Noon>
+
+Note: 7
+
+About <http://en.wikipedia.org/wiki/Moscow_Trials>

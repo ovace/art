@@ -1,0 +1,21 @@
+# Law
+
+-   <https://en.wikipedia.org/wiki/Pyramid_scheme>
+
+-   <http://en.wikipedia.org/wiki/Courtroom_sketch> interesting. In the age of camera, there is still one application for sketching.
+
+-   <http://en.wikipedia.org/wiki/Lane_splitting>
+
+-   <http://en.wikipedia.org/wiki/Grandfather_clause>
+
+-   <http://en.wikipedia.org/wiki/Generic_trademark>
+
+-   <http://en.wikipedia.org/wiki/Fantasy_defense>
+
+-   <http://en.wikipedia.org/wiki/Jus_sanguinis>
+
+-   <http://en.wikipedia.org/wiki/Jus_soli>
+
+-   <http://en.wikipedia.org/wiki/Doing_business_as>
+
+-   <http://en.wikipedia.org/wiki/Alimony>
