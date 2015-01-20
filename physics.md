@@ -2,6 +2,8 @@
 
 Physics, chemistry, astronomy, geology.
 
+-   <http://en.wikipedia.org/wiki/Radium_Girls>
+
 -   <http://en.wikipedia.org/wiki/Rubens%27_tube>
 
 -   <http://en.wikipedia.org/wiki/Ernst_Chladni>, in particular the plate:
@@ -20,8 +22,7 @@ Physics, chemistry, astronomy, geology.
     - spontaneous formation after Big Bang: light elements
     - inside stars reactions: up to Iron.
     - inside supernovas: up to plutonium.
-    - <http://en.wikipedia.org/wiki/Cosmic_ray_spallation>.
-        Explains extra abundance of certain light elements.
+    - <http://en.wikipedia.org/wiki/Cosmic_ray_spallation>. Explains extra abundance of certain light elements.
 
 -   <http://en.wikipedia.org/wiki/Plutonium>
 

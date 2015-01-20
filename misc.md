@@ -2,6 +2,10 @@
 
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+-   <http://en.wikipedia.org/wiki/Stroboscopic_effect>
+
+-   <http://en.wikipedia.org/wiki/Conflation>. Has happened to many mythological figures.
+
 -   <http://en.wikipedia.org/wiki/Numismatics>
 
 -   <http://en.wikipedia.org/wiki/Large_denominations_of_United_States_currency>

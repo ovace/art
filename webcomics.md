@@ -7,6 +7,7 @@
     - <http://xkcd.com/505/>: simulation by rocks
     - <http://xkcd.com/688/>: ink graph self-description
     - <http://xkcd.com/730/>: circuit diagram
+    - <http://xkcd.com/806/>: Shibboleet technical support
     - <http://xkcd.com/810/>: constructive automated spam
     - <http://xkcd.com/927>: standards proliferation
     - <http://xkcd.com/930>: what happens on each day of the week

@@ -1,5 +1,13 @@
 # Computer
 
+-   <http://en.wikipedia.org/wiki/IOS_jailbreaking> How can it be legal to sell such self blocked devices in which you cannot touch your hardware? And how can such devices have huge market share?
+
+-   <https://en.wikipedia.org/wiki/Red_Star_OS> North Korean Linux based OS. Apparently closed source, and cannot be run outside of Korea. Blatantly copies the Windows UI feel.
+
+    Cuba also has one: Nova: <http://en.wikipedia.org/wiki/Nova_%28operating_system%29>
+
+    And China had one too: <http://en.wikipedia.org/wiki/Red_Flag_Linux>
+
 -   <http://en.wiktionary.org/wiki/vim> is also an English word that means vigour. How righteous. Compare to `git` :).
 
 -   <http://en.wikipedia.org/wiki/Blind_carbon_copy>
@@ -167,6 +175,8 @@ Many versions:
 
 ### People
 
+-   <http://en.wikipedia.org/wiki/Joel_Spolsky>, Stack Overflow co-founder.
+
 -   Larry Ellison on CNN Fortune: <https://www.youtube.com/watch?v=1cYy-b7qfCE>
 
 -   Dim Dotcom <http://en.wikipedia.org/wiki/Kim_Dotcom>
@@ -246,3 +256,14 @@ I'm not a design person, but sometimes I'm surprised.
     -   objects that are version controlled and where you want to allow editing
         multiple fields on a single edit, operation e.g. Stack Overflow questions
         which have title, body and tags.
+
+## iPhone
+
+Impressive iOS feature to a programmer that never touched smartphones:
+
+- fingerprint unlock
+- continuity
+
+Useful:
+
+- Software and hardware version: `Settings > General > About`. Software version under `Version`, hardware under `Model`. Interpret hardware version: <http://www.forbes.com/sites/adriankingsleyhughes/2012/09/17/how-do-i-correctly-identify-my-iphone-so-i-can-sell-it/>

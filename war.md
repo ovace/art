@@ -38,6 +38,8 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
     3 survivors released after <http://en.wikipedia.org/wiki/Lufthansa_Flight_615>,
     where demands were met. <http://en.wikipedia.org/wiki/Muammar_Gaddafi> gave asylum to the liberated hijackers.
 
+-   <http://en.wikipedia.org/wiki/Air_France_Flight_8969>
+
 ### Aum Shinrikyo
 
 <http://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack> by .
@@ -101,6 +103,10 @@ Another common point are end of the world predictions.
 This one was a sadist, who teamed up with Pinochet to torture people and was thus protected for years.
 
 ## Crime
+
+-   <http://en.wikipedia.org/wiki/Pizzo_%28extortion%29>
+
+-   <http://en.wikipedia.org/wiki/Ponzi_scheme>
 
 -   <http://en.wikipedia.org/wiki/Theft_of_the_Jules_Rimet_Trophy>
 
@@ -179,6 +185,8 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
     There are also gun producers who claim to do it for an anarchism philosophy in which an armed society is fairer because the government cannot oppress it.
 
 ## Spy
+
+-   <http://en.wikipedia.org/wiki/Watergate_scandal>. Coined the suffix `-gate`: <http://en.wikipedia.org/wiki/List_of_scandals_with_%22-gate%22_suffix>
 
 -   Moscow would prefer spies with family in their home country to prevent them from defecting.
 

@@ -124,29 +124,6 @@ Funny things about how Westerners have perceived and imagined China, specially i
 
 - [Fu Manchu](http://en.wikipedia.org/wiki/Fu_Manchu)
 
-##Koans
-
--   <https://en.wikipedia.org/wiki/The_Gateless_Gate>
-
-        Two monks were watching a flag flapping in the wind. One said to the other, "The flag is moving."
-        The other replied, "The wind is moving."
-        Huineng overheard this. He said, "Not the flag, not the wind; mind is moving."
-
-
-<!-- -->
-
-    Two hands clap and there is a sound. What is the sound of one hand?
-    - Hakuin Ekaku
-
-<!-- -->
-
-    If you meet the Buddha, kill him. (逢佛殺佛，逢祖殺祖)
-    - Linji
-
-<!-- -->
-
-    A monk asked Dongshan Shouchu, "What is Buddha?" Dongshan said, "Three pounds of flax." (This is a fragment of case #18 of the Wumenguan as well as case #12 of the Blue Cliff Record.)
-
 ##Tao Te Ching
 
     We put thirty spokes together and call it a wheel;

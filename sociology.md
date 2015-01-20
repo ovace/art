@@ -2,6 +2,8 @@
 
 Social movements and practices.
 
+-   <http://en.wikipedia.org/wiki/Metal_detector#As_a_hobby>
+
 -   <http://en.wikipedia.org/wiki/File:Societal_attitudes_towards_homosexuality.svg>
 
     The world sucks.

@@ -76,6 +76,12 @@ For certain fields, specially web development, use it to find other people who w
 
 Find applications that interest you and improve programs.
 
+### Improvement suggestions to closed source
+
+Whenever you find a typo or missing feature on a closed source project, make a suggestion on their tracker / email contact.
+
+I have received a few invitations for job interviews like that.
+
 ### Prestigious projects
 
 Contribute to prestigious projects:
@@ -91,7 +97,7 @@ Contribute to prestigious projects:
 - databases
 - cryptography
 - compilers, interpreters and standard libraries: GCC, Python, Node.js. Garbage collection internals.
-- browser internals: Javascript engines, rendering
+- browser internals: JavaScript engines, rendering
 - mathematical libraries
 - Git
 

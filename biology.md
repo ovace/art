@@ -2,6 +2,10 @@
 
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   <http://en.wikipedia.org/wiki/Komondor> <https://www.youtube.com/watch?v=6HsNwqnDmk8>
+
+    So much hair!
+
 -   <https://www.youtube.com/watch?v=BWAK0J8Uhzk> driving dog
 
 -   <https://en.wikipedia.org/wiki/Biological_immortality>. Some species are believed to be immortal.

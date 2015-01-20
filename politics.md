@@ -2,6 +2,14 @@
 
 Politics, advertisement, law.
 
+-   When you have a proposal, start by making it to people from the low level of the organization and then go up.
+
+    This way, if you find that the idea is bad and stop at some point, big boss won't know and won't think bad of you.
+
+    If the idea survives, you will know every argumentation line that is likely to come up.
+
+    Specially important because the big decision makers don't have much time, so your proposal must be flawless when it reaches them.
+
 -   <http://en.wikipedia.org/wiki/Blue_law>
     <http://en.wikipedia.org/wiki/Blue_laws_in_the_United_States>
 

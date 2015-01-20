@@ -1,5 +1,15 @@
 # Food
 
+-   <http://en.wikipedia.org/wiki/Trail_mix> So that has a precise name in English.
+
+-   <http://en.wikipedia.org/wiki/M%26M%27s>
+
+    Idea copied from something he saw on the Spanish civil war: hard external coating to prevent the chocolate interior from melting.
+
+    Red M&M disappeared for 10 years because a red dye, not used in M&M was considered carcinogen and replaced by orange.
+
+    Restored later after a joke by a consumer grew to huge proportions.
+
 -   <http://en.wikipedia.org/wiki/Suanmeitang>
 
     There is a juice. It is smoked!
