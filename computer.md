@@ -1,5 +1,7 @@
 # Computer
 
+-   Whenever I see a SaaS website that has no login (but rather some requires-human-feedback form), I just think: bullshit, does not scale. Next one, please.
+
 -   <http://en.wikipedia.org/wiki/IOS_jailbreaking> How can it be legal to sell such self blocked devices in which you cannot touch your hardware? And how can such devices have huge market share?
 
 -   <https://en.wikipedia.org/wiki/Red_Star_OS> North Korean Linux based OS. Apparently closed source, and cannot be run outside of Korea. Blatantly copies the Windows UI feel.
