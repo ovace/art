@@ -50,6 +50,8 @@ Note: 8
 
 Many of us feel like he does I guess.
 
+The book's general feeling have a name of a branch of philosophy: <http://en.wikipedia.org/wiki/Absurdism>, of which Camus was a proponent.
+
 ## Brave new world
 
 Note: 7

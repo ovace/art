@@ -42,6 +42,12 @@ Social movements and practices.
 
 ## Religion
 
+-   <http://en.wikipedia.org/wiki/Discordianism>
+
+    Pseudo parody religion created in 1965.
+
+    The Discordian calendar has the `ddate` implementation on `utils-linux`!
+
 -   <http://www.bbc.co.uk/newsround/24118241>
 
 -   <http://en.wikipedia.org/wiki/Cargo_cult>,
