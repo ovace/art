@@ -1,5 +1,11 @@
 # Law
 
+-   <http://en.wikipedia.org/wiki/Berne_Convention>
+
+-   <https://en.wikipedia.org/wiki/Happy_Birthday_to_You>
+
+-   <https://en.wikipedia.org/wiki/Civil_law_%28legal_system%29> vs <https://en.wikipedia.org/wiki/Common_law>
+
 -   <https://en.wikipedia.org/wiki/Pyramid_scheme>
 
 -   <http://en.wikipedia.org/wiki/Courtroom_sketch> interesting. In the age of camera, there is still one application for sketching.

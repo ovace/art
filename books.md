@@ -14,6 +14,16 @@ Insights into communism.
 
 Communism is harder to kill than a one man dictatorship because it is a dictatorship of an entire class.
 
+Winston's clarity is amazing:
+
+> we are interested solely in power. Not wealth or luxury or long
+life or happiness: only power, pure power. What pure power means you will
+understand presently. We are different from all the oligarchies of the
+past, in that we know what we are doing. All the others, even those who
+resembled ourselves, were cowards and hypocrites. The German Nazis and the
+Russian Communists came very close to us in their methods, but they never
+had the courage to recognize their own motives
+
 ## Animal farm 1945
 
 Note: 8
@@ -61,3 +71,7 @@ Insights into communism / dictatorship / technology dystopia. But less vivid tha
 Note: 7
 
 About <http://en.wikipedia.org/wiki/Moscow_Trials>
+
+## Not read
+
+- <https://en.wikipedia.org/wiki/Julian_%28novel%29>

@@ -1,4 +1,4 @@
-# My family
+# People with my family name
 
 People who share the name with me, or close derivatives.
 

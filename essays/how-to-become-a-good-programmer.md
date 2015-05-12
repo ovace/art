@@ -1,4 +1,4 @@
-# Header increase
+# How to become a good programmer
 
 General high level tips on how to become a good programmer.
 
@@ -108,20 +108,26 @@ Pay huge attention to **security**. Hard to get right, and a single error can co
 
 When you start learning something, immediately start trying to understand its standards.
 
-Download the documentation, learn where to find all its versions online.
-Try to understand it as early as possible while you go through tutorials.
+Download the documentation, learn where to find all its versions online. Try to understand it as early as possible while you go through tutorials.
 
-Find the most famous style guides if applicable.
-They are often from big companies. Many technologies offer multiple ways to do things.
-Learn from the start which one is the best in general.  Also great way to learn new features.
-E.g.: [Google](http://google-styleguide.googlecode.com/), [GitHub](https://github.com/styleguide),
-[Thoughbot.inc](https://github.com/thoughtbot/guides).
+### Portability
 
-What is the state of implementations? Are they consistent with one another?
-Are they updated. Example:
+Following standards gives you portability.
+
+Always try to use the least dependencies possible on backwards compatible standards. E.g., if you can do something easily in C89, why use C99 for a few language features? C89 gives you Windows compilation!
+
+### Style guides
+
+Find the most famous style guides if applicable. They are often from big companies. Many technologies offer multiple ways to do things. Learn from the start which one is the best in general.  Also great way to learn new features. E.g.: [Google](http://google-styleguide.googlecode.com/), [GitHub](https://github.com/styleguide), [Thoughbot.inc](https://github.com/thoughtbot/guides).
+
+### Implementation state
+
+What is the state of implementations? Are they consistent with one another? Are they updated. Example:
 
 - standard: W3C HTML or CSS
 - semi-compatible implementations: browsers: Firefox, Chrome, IE
+
+### Standard extensions
 
 What are the most important extensions to the standard? How portable are they? Examples:
 

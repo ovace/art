@@ -2,6 +2,10 @@
 
 Social movements and practices.
 
+-   <https://en.wikipedia.org/wiki/Sign_of_the_horns>
+
+-   <https://en.wikipedia.org/wiki/Alcoholics_Anonymous>
+
 -   <https://en.wikipedia.org/wiki/Muk-bang>, <https://www.youtube.com/watch?v=5wjXJL6ZwLk>
 
 -   <http://en.wikipedia.org/wiki/Lying_in_state>
@@ -46,6 +50,8 @@ Social movements and practices.
 
 ## Religion
 
+-   <http://en.wikipedia.org/wiki/Four_Horsemen_of_the_Apocalypse>
+
 -   <http://en.wikipedia.org/wiki/Discordianism>
 
     Pseudo parody religion created in 1965.
@@ -54,9 +60,6 @@ Social movements and practices.
 
 -   <http://www.bbc.co.uk/newsround/24118241>
 
--   <http://en.wikipedia.org/wiki/Cargo_cult>,
-    jokingly adapted to programming and science bad practices:
-    <http://en.wikipedia.org/wiki/Cargo_cult_programming>,
-    <http://en.wikipedia.org/wiki/Cargo_cult_science>
+-   <http://en.wikipedia.org/wiki/Cargo_cult>, jokingly adapted to programming and science bad practices: <http://en.wikipedia.org/wiki/Cargo_cult_programming>, <http://en.wikipedia.org/wiki/Cargo_cult_science>
 
 -   <http://en.wikipedia.org/wiki/Millennarianism_in_colonial_societies>

@@ -2,13 +2,21 @@
 
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   Fugu fish, <https://en.wikipedia.org/wiki/Fugu>, highly poisonous Japanese delicacy.
+
+-   <https://en.wikipedia.org/wiki/Cotard_delusion>
+
+-   <https://en.wikipedia.org/wiki/Alien_hand_syndrome>
+
+-   <https://en.wikipedia.org/wiki/Capgras_delusion>
+
 -   <http://en.wikipedia.org/wiki/Diphallia>, <http://www.xnxx.com/video7260086/latina_loves_her_sexy_double_dilemma>
 
 -   <http://en.wikipedia.org/wiki/Abigail_and_Brittany_Hensel>, <http://en.wikipedia.org/wiki/Polycephaly>
 
 -   Species with very few specimens:
 
-    <http://en.wikipedia.org/wiki/Lists_of_IUCN_Red_List_Critically_Endangered_species>
+    - <http://en.wikipedia.org/wiki/Lists_of_IUCN_Red_List_Critically_Endangered_species>
 
     - <http://en.wikipedia.org/wiki/Yangtze_giant_softshell_turtle> only 4 known, if you count the one in Vietnam which the Vietnamese say it's another species. 2 at Suzhou, and we hope they feel like breeding some day...
 

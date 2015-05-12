@@ -216,3 +216,11 @@ Often expressed as the percentage of the stock that is paid.
 Cash is the most common form of payment, but there are also payments by other means, such as giving more shares.
 
 Companies declare individually when they will pay dividends: <http://www.investopedia.com/university/introduction-to-dividends/dividend-dates.asp> TODO what are the legal constraints? How often do companies usually do it?
+
+## Marketing
+
+- <http://en.wikipedia.org/wiki/Registered_trademark_symbol>, <http://en.wikipedia.org/wiki/Trademark_symbol>
+
+- <https://en.wikipedia.org/wiki/Compact_%28newspaper%29>
+
+- <https://en.wikipedia.org/wiki/Broadsheet>

@@ -2,6 +2,8 @@
 
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+-   <https://www.youtube.com/watch?v=EsWPnpZLiLs>
+
 -   <http://en.wikipedia.org/wiki/Stroboscopic_effect>
 
 -   <http://en.wikipedia.org/wiki/Conflation>. Has happened to many mythological figures.

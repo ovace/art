@@ -1,5 +1,7 @@
 # French
 
+-   <https://en.wikipedia.org/wiki/Long_and_short_scales>
+
 -   <http://fr.wiktionary.org/wiki/choper>
 
 -   <http://en.wiktionary.org/wiki/niquer>, and in particular "être niqué" when something bad happens. This is very light.

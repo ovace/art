@@ -163,3 +163,9 @@ I hear and I forget. I see and I remember. I do and I understand.
 ## Japan
 
 <http://en.wikipedia.org/wiki/Kawaii>. Also a porn genre. Weird.
+
+## Books
+
+On Wikipedia, always check the French page for Chinese subjects, it often has much more material than the English one.
+
+- 200 AD medicine <https://en.wikipedia.org/wiki/Shennong_Ben_Cao_Jing>

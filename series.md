@@ -53,6 +53,16 @@ Interesting to see how the high level semi-political policeman want to close cas
 
 - S03 E04: 10s silent investigation scene on Dee's "suicide"
 
+### Rome HBO 2005
+
+<https://en.wikipedia.org/wiki/Rome_%28TV_series%29>
+
+Note: 7
+
+Watched: 2015-05
+
+A bit exaggerated like most series, but did teach me a few things about politics and the Romans.
+
 ## Webseries
 
 ### Angry Video Game Nerd
@@ -62,6 +72,10 @@ Interesting to see how the high level semi-political policeman want to close cas
 ### Gaming historian
 
 <https://www.youtube.com/watch?v=XdeDtiobyNc>
+
+### Happy video game nerd
+
+<https://www.youtube.com/user/lophatjello/videos?shelf_id=0&view=0&sort=p>
 
 ### Epic rap battles of history
 

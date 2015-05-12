@@ -1,4 +1,6 @@
-# The Four Treasures of the Hacker: a Parallel between Chinese and Hacker Culture
+# The Four Treasures of the Hacker
+
+A Parallel between Chinese and Hacker Culture.
 
 In Chinese traditional culture, four tools are considered the most important for scholars: 
 

@@ -1,5 +1,17 @@
 # Computer
 
+-   <https://expertflow.wordpress.com/>
+
+-   <http://en.wikipedia.org/wiki/Tivoization>
+
+-   Google graph string occurrences through time: <https://books.google.com/ngrams/graph?content=programing%2C+programming&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cprograming%3B%2Cc0%3B.t1%3B%2Cprogramming%3B%2Cc0> Great for linguistics.
+
+-   <https://thehackerblog.com/how-i-got-5000-github-followers-in-less-than-24-hours/>
+
+-   <http://textfiles.com/>
+
+-   <https://en.wikipedia.org/wiki/8.3_filename>
+
 -   <https://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_M%C5%ABs%C4%81_al-Khw%C4%81rizm%C4%AB>
 
 -   <http://stackoverflow.com/editing-help#spoilers>

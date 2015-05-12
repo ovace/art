@@ -7,14 +7,14 @@ Except for the [essays/](essays/) directory, which contains stuff that I mostly 
 
 If you think something belongs on a list, PR. Because of the subjective nature of this repo, I may chose to decline PRs without much logical reason, but I will take it into consideration with all my heart =).
 
-Files which may be interesting to other people:
-
-- [misc.md](misc.md): main dump of interesting things.
-- [war.md](computer.md)
-- [computer.md](computer.md)
-
-Things which I want to say to K12 people:
-
-- [essays/tech-motivation-k12.md](essays/tech-motivation-k12.md)
-- [essays/how-to-learn.md](essays/how-to-learn.md)
-- [essays/how-to-become-a-good-programmer](essays/how-to-become-a-good-programmer)
+1.  Featured
+    1.  [misc.md](misc.md): main dump of interesting things.
+    1.  [war.md](computer.md)
+    1.  [computer.md](computer.md)
+        1. [computer-funny.md](computer-funny.md)
+1.  Engineering
+    1. Electronics
+1.  Things which I want to say to K12 people
+    1. [essays/tech-motivation-k12.md](essays/tech-motivation-k12.md)
+    1. [essays/how-to-learn.md](essays/how-to-learn.md)
+    1. [essays/how-to-become-a-good-programmer](essays/how-to-become-a-good-programmer)

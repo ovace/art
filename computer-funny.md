@@ -1,5 +1,21 @@
 # Computer funny
 
+-   <https://en.wikipedia.org/wiki/PC_booter>, <https://en.wikipedia.org/wiki/List_of_PC_booter_games>
+
+-   <https://github.com/gkoberger/stacksort>
+
+-   HTML of urban dictionary:
+
+        <!DOCTYPE html>
+        <html lang='en-US' prefix='og: http://ogp.me/ns#'>
+        <!--
+                _|_  _  _    _|. __|_. _  _  _  _
+            |_|| |_)(_|| |  (_||(_ | |(_)| |(_||\/
+                                                /
+
+            Need help? http://bit.ly/urbandictionary-help
+        -->
+
 -   <https://en.wikipedia.org/wiki/Geek_Code>, <http://mj.ucw.cz/geek/>
 
 -   <https://twitter.com/idiot/status/580452127769800705>, and many more from the author
@@ -160,7 +176,21 @@ In Vim:
 
     :help 42
 
+Exuberant tags `man ctags`:
+
+    BUGS
+
+        Ctags has more options than ls(1).
+
 ## Kernel
+
+-   Kernel 4.0 `arch/Kconfig`:
+
+        #
+        # ABI hall of shame
+        #
+
+    Contains beautifully named configs like `CLONE_BACKWARDS`.
 
 -   <https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/stable_api_nonsense.txt?id=v4.0> filename
 
@@ -198,7 +228,7 @@ This will also include funny smoke tests:
     sudo apt-get install bb
     bb
 
-###sl
+### sl
 
 For correcting people who change `ls` into `sl`.
 
@@ -209,7 +239,7 @@ Also see:
 
     man sl
 
-###lolcat
+### lolcat
 
 Cat with diagonal rainbow colors:
 

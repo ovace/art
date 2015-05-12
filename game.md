@@ -1,5 +1,7 @@
 # Game
 
+-   <https://en.wikipedia.org/wiki/The_Stanley_Parable>
+
 -   <http://starcraft.wikia.com/wiki/Lee_Seung_Seop>
 
 -   <https://en.wikipedia.org/wiki/Shutdown_law>
@@ -212,3 +214,7 @@ Ultra hard SMB mods:
 <http://en.wikipedia.org/wiki/Candy_Land>
 
 Candy Crush obviously ripped it.
+
+## Decompiled
+
+-   <https://github.com/iimarckus/pokered/>

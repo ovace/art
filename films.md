@@ -19,6 +19,8 @@ Bestof lists which I generally approve:
 
 - <http://en.wikipedia.org/wiki/All_persons_fictitious_disclaimer>: use started after a 1932 MGM movie Rasputin and the Empress was sued for suggesting sexual assault of a living princess. I don't see how such superficial notices could avoid a law suite, since what you actually do is more important than what you say you do. This is probably why there have been so many ironic uses for it.
 
+- Han shot first: <https://www.youtube.com/watch?v=Xezn-0xottw>
+
 ## Subjects I like
 
 - war
@@ -189,6 +191,8 @@ Best moments:
 - a television editor that worked for Dada made a mistake, which was identified by the director of this film.
 
 ### Hunger games
+
+Clear influence from 1984, and he 1984 1984 movie.
 
 #### Hunger games 1
 

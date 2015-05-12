@@ -2,6 +2,16 @@
 
 As an "advanced" non native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Cuckold>
+
+-   <http://en.wikipedia.org/wiki/Pied-%C3%A0-terre>
+
+-   <https://en.wikipedia.org/wiki/Call_a_spade_a_spade>
+
+-   <https://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none>
+
+-   red-headed stepchild: <http://www.urbandictionary.com/define.php?term=red+headed+stepchild>
+
 -   <http://www.urbandictionary.com/define.php?term=floored>
 
 -   <http://www.merriam-webster.com/dictionary/indelible> on a wiki article... a bit partial no?

@@ -32,3 +32,8 @@ Physics, chemistry, astronomy, geology.
 
     Formed by the Big Bang, half life big enough to be observable today on Earth.
 
+## Funny
+
+-   Rutherford: All science is either physics or stamp collecting.
+
+-   Feymann safe picking: <http://qr.ae/03Xzq>

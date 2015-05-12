@@ -256,6 +256,8 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 ## WW2
 
+-   <http://www.walltowatch.com/view/32432/The+Everlasting+Shadows+Of+Hiroshima>
+
 -   <http://en.wikipedia.org/wiki/Office_of_Strategic_Services>
 
     USA intelligence operations. Spy fiction prototype. CIA predecessor.

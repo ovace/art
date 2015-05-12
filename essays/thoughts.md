@@ -1,8 +1,8 @@
 # Thoughts
 
-Love watching my colleagues freely mixing French and Arab every 2 sentences when talking to their personal friends.
-
 Short thoughts which I had and amused me for a few seconds.
+
+Love watching my colleagues freely mixing French and Arab every 2 sentences when talking to their personal friends.
 
 To succeed in creation: be half action, half planing. (2014-03, while developing GitLab, before success =))
 

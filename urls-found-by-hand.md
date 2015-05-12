@@ -48,6 +48,7 @@ Computers:
 - empty
     - <http://virus.com/>
     - <http://hack.com>. 2015-04: redirects to yeah.com
+- <https://jazz.net/>: IBM project management with Git repositories
 
 Interjections and particles:
 
@@ -112,3 +113,9 @@ Google:
 GitHub:
 
 - <http://readme.md/> to some guys project
+
+Countries:
+
+- <http://brazil.com/>
+- <http://usa.com/>
+- <http://uk.com/>

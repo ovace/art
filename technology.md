@@ -2,7 +2,7 @@
 
 Computer specifics not here.
 
--   Amazingly lucky golf shots: <https://www.youtube.com/watch?v=frIw_CxeKwI>
+-   <https://en.wikipedia.org/wiki/5_Whys>
 
 -   <http://en.wikipedia.org/wiki/Call_sign> jargon for URL in fields like Amateur radio.
 
@@ -38,7 +38,6 @@ Computer specifics not here.
 
     -   reflected light as in the <http://en.wikipedia.org/wiki/Heliograph>
 
-    -   electricity, starting with the <http://en.wikipedia.org/wiki/Electrical_telegraph>
-        and culminating in the Internet.
+    -   electricity, starting with the <http://en.wikipedia.org/wiki/Electrical_telegraph> and culminating in the Internet.
 
         Weber and Gauss were amongst the first implementors of a practical system.

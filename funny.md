@@ -1,5 +1,9 @@
 # Funny
 
+-   <https://en.wikipedia.org/wiki/Happy_number>
+
+-   <https://en.wikipedia.org/wiki/Belphegor%27s_prime>
+
 -   <http://en.wikipedia.org/wiki/Surreal_humour>
 
 -   <http://en.wikipedia.org/wiki/Anti-humor>
