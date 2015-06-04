@@ -72,6 +72,29 @@ Note: 7
 
 About <http://en.wikipedia.org/wiki/Moscow_Trials>
 
-## Not read
+## I Claudius 1934
 
+<https://en.wikipedia.org/wiki/I,_Claudius>
+
+Note: 8
+
+Read: 2015-05
+
+## Trivia
+
+- <https://en.wikipedia.org/wiki/Autobiography_of_Mark_Twain>: took 100 years to be released.
+
+## TODO
+
+- <https://en.wikipedia.org/wiki/The_Call_of_the_Wild>
+- <https://en.wikipedia.org/wiki/The_Secret_Agent>
+- <https://en.wikipedia.org/wiki/Slaughterhouse-Five>
+
+TODO find
+
+- <https://en.wikipedia.org/wiki/Death_Comes_for_the_Archbishop>
 - <https://en.wikipedia.org/wiki/Julian_%28novel%29>
+- <https://en.wikipedia.org/wiki/The_Magus_%28novel%29>
+- <https://en.wikipedia.org/wiki/The_Bridge_of_San_Luis_Rey>
+- <https://en.wikipedia.org/wiki/All_the_King%27s_Men>
+- <https://en.wikipedia.org/wiki/U.S.A._%28trilogy%29> TODO find

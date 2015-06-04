@@ -1,5 +1,11 @@
 # Law
 
+-   <https://en.wikipedia.org/wiki/Trial_in_absentia>
+
+-   <http://www.idiotlaws.com/6-dildo-limit/>
+
+-   <https://en.wikipedia.org/wiki/Caveat_emptor>
+
 -   <http://en.wikipedia.org/wiki/Berne_Convention>
 
 -   <https://en.wikipedia.org/wiki/Happy_Birthday_to_You>

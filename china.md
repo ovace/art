@@ -4,6 +4,12 @@ I have a soft spot for Chinese language and traditional culture.
 
 I might include Japanese / Korean / Vietnamese stuff here too because they are all inside the Sinosphere.
 
+- <https://en.wikipedia.org/wiki/Eastern_Lightning>
+
+- <https://en.wikipedia.org/wiki/Bigu_%28avoiding_grains%29>
+
+- <https://en.wikipedia.org/wiki/Shennong>
+
 ## Hand counting
 
 Chinese can show numbers to others up to 10 with **one hand**: <http://en.wikipedia.org/wiki/Chinese_number_gestures>. Every Chinese knows those signs and uses them instinctively.

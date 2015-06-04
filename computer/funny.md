@@ -1,5 +1,11 @@
 # Computer funny
 
+-   Open source fundamentalist :-) <http://keithcu.com/wordpress/?page_id=407>
+
+-   1000 dollars for the first person who read the EULA <http://techtalk.pcpitstop.com/2012/06/12/it-pays-to-read-license-agreements-7-years-later/>
+
+-   <https://en.wikipedia.org/wiki/Elephant_in_Cairo>
+
 -   <https://en.wikipedia.org/wiki/PC_booter>, <https://en.wikipedia.org/wiki/List_of_PC_booter_games>
 
 -   <https://github.com/gkoberger/stacksort>

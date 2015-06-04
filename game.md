@@ -1,6 +1,6 @@
 # Game
 
--   <https://en.wikipedia.org/wiki/The_Stanley_Parable>
+-   Demake: <https://en.wikipedia.org/wiki/Video_game_remake#.22Demakes.22>
 
 -   <http://starcraft.wikia.com/wiki/Lee_Seung_Seop>
 
@@ -103,6 +103,10 @@
 
     Yearly event: <http://tay.kotaku.com/agdq-2014-easy-links-to-every-single-run-1499638499>
 
+## Nintendo
+
+-   <http://news.cnet.com/Nintendo-offers-glove-to-prevent-joystick-injuries/2100-1040_3-237808.html>
+
 ## Toy
 
 -   <http://en.wikipedia.org/wiki/Choose_Your_Own_Adventure> Book series that lets you choose your own path.
@@ -170,6 +174,18 @@ Ultra hard SMB mods:
 -   <https://www.youtube.com/watch?v=DDNQ-P5XijE> Relies heavily on glitches like wall jumping, key flying, and collision detection errors.
 
 -   <https://www.youtube.com/watch?v=2srrl5k5e4s> Relies heavily on precision object throwing and flying.
+
+## Innovative
+
+<https://en.wikipedia.org/wiki/The_Stanley_Parable>
+
+<https://en.wikipedia.org/wiki/Mister_Mosquito>
+
+<https://en.wikipedia.org/wiki/Papers,_Please>
+
+## Bad
+
+<https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29>
 
 ## Not electronic
 

@@ -2,6 +2,14 @@
 
 As an "advanced" non native speaker, I always learn a few new terms every month.
 
+-   <http://www.thefreedictionary.com/frogmarched>
+
+-   <http://www.urbandictionary.com/define.php?term=pixel+pusher>
+
+-   <https://en.wikipedia.org/wiki/Backronym>
+
+-   <https://en.wikipedia.org/wiki/Tall_tale>
+
 -   <https://en.wikipedia.org/wiki/Cuckold>
 
 -   <http://en.wikipedia.org/wiki/Pied-%C3%A0-terre>
@@ -107,3 +115,9 @@ As an "advanced" non native speaker, I always learn a few new terms every month.
 Stuff that happens across languages:
 
 -   <http://en.wikipedia.org/wiki/Minced_oath>
+
+## Memes
+
+-   y u no
+
+-   <https://en.wikipedia.org/wiki/Rule_34_%28Internet_meme%29>

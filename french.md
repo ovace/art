@@ -1,5 +1,9 @@
 # French
 
+-   <https://fr.wiktionary.org/wiki/trois_fois_rien>
+
+-   <https://fr.wiktionary.org/wiki/se_sortir_les_doigts_du_cul>
+
 -   <https://en.wikipedia.org/wiki/Long_and_short_scales>
 
 -   <http://fr.wiktionary.org/wiki/choper>

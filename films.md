@@ -12,6 +12,7 @@ Bestof lists which I generally approve:
 - [Splatter, gorno, torture porn](http://en.wikipedia.org/wiki/Splatter_film)
 - [snuff films](http://en.wikipedia.org/wiki/Snuff_film): real deaths caught on tape
 - [Stock footage](https://en.wikipedia.org/wiki/Stock_footage)
+- <https://en.wikipedia.org/wiki/Slasher_film>
 
 ## Misc
 

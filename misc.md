@@ -2,6 +2,10 @@
 
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+-   <https://en.wikipedia.org/wiki/Heroic_Age_of_Antarctic_Exploration>
+
+    - <https://en.wikipedia.org/wiki/Robert_Falcon_Scott> Lost by one month, didn't know until he got there!
+
 -   <https://www.youtube.com/watch?v=EsWPnpZLiLs>
 
 -   <http://en.wikipedia.org/wiki/Stroboscopic_effect>

@@ -42,6 +42,21 @@ Today I did my second job interview with the branch head of the enterprise Quart
     - when asked how I chose the enterprise, I said I mostly excluded I didn't want to do
     - school grades (B / C but never flunked)
 
-## 2015-04-13 Fired from QuartetFS [job]
+## 2015-05-28
 
-TODO
+Xiaohua's birthday.
+
+I bought some sweets for breakfast.
+
+Lin Jie called me so that I would not forget, because Xiaohua always tells her I'm very forgetful, but I hadn't. It was funny and thoughtful, she is a friend to be trusted.
+
+We got the letter Xiaohua's naturalization was adjourned, bad birthday gift :-)
+
+## 2015-06-03
+
+Passed IBM online test. Two types of questions:
+
+- given a sequence of numbers, which of the ones below fits the patter?
+- model 2 line problems and solve systems of linear equations in 2 variables real quick
+
+So stupid, nothing to do with actual programming. Not sure I want to work there anymore.

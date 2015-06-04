@@ -1,5 +1,7 @@
 # Funny
 
+-   <https://twitter.com/adme_ru/status/220020694283595776>
+
 -   <https://en.wikipedia.org/wiki/Happy_number>
 
 -   <https://en.wikipedia.org/wiki/Belphegor%27s_prime>

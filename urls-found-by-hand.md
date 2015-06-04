@@ -83,11 +83,6 @@ Vulgar:
     - <http://vagina.com/>
 - <http://damn.com/>
 
-Misc:
-
-- <http://www.gay.com/>. Gay dating.
-- <http://www.lesbian.com/>
-
 Religious:
 
 - <http://god.com/> some church
@@ -119,3 +114,9 @@ Countries:
 - <http://brazil.com/>
 - <http://usa.com/>
 - <http://uk.com/>
+
+Misc:
+
+- <http://www.gay.com/>. Gay dating.
+- <http://www.lesbian.com/>
+- <http://www.military.com>

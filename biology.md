@@ -2,6 +2,12 @@
 
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   <https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault>
+
+-   <https://en.wikipedia.org/wiki/Club_foot>
+
+-   <https://en.wikipedia.org/wiki/Superfecundation>
+
 -   Fugu fish, <https://en.wikipedia.org/wiki/Fugu>, highly poisonous Japanese delicacy.
 
 -   <https://en.wikipedia.org/wiki/Cotard_delusion>

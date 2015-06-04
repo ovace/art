@@ -54,3 +54,9 @@ Multiply the memory usage by 2: 增加两倍内存 zeng1 jia1 liang bei nei4 cun
 ### APP
 
 APP, like iPhone app, is mentioned as three separate letters: 'A', 'P', 'P'. Funny.
+
+### 大义灭亲
+
+### da4 yi4 mie4 qin1
+
+Punish own's family is justice demands it.

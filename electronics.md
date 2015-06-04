@@ -9,3 +9,7 @@ Main hardware simulators:
 ## SPICE
 
 -   <http://electronics.stackexchange.com/questions/55087/spice-simulator-at-linux>
+
+## Robots
+
+- <https://en.wikipedia.org/wiki/RepRap_Project>

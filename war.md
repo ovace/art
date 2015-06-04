@@ -1,10 +1,12 @@
 # War
 
-War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff.
+War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff, which I wish did not happen.
 
--   <http://en.wikipedia.org/wiki/NATO>
-    The most interesting article by far is No 5: <http://en.wikisource.org/wiki/North_Atlantic_Treaty#Article_5>
-    which was raised only once: September 11.
+-   <https://en.wikipedia.org/wiki/False_flag>
+
+-   <https://en.wikipedia.org/wiki/Closed_city>
+
+-   <http://en.wikipedia.org/wiki/NATO> The most interesting article by far is No 5: <http://en.wikisource.org/wiki/North_Atlantic_Treaty#Article_5> which was raised only once: September 11.
 
 -   <https://en.wikipedia.org/wiki/Shibboleth> Words used to determine the nationality of the speaker,
     used in many historical situations to kill people from enemy nationalities.
@@ -42,65 +44,47 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
 
 ## Terrorism
 
--   <http://en.wikipedia.org/wiki/Munich_massacre> by <http://en.wikipedia.org/wiki/Black_September_%28group%29>
-    All 11  hostages killed and 5 of 8 terrorists killed.
+-   <http://en.wikipedia.org/wiki/Munich_massacre> by <http://en.wikipedia.org/wiki/Black_September_%28group%29> All 11  hostages killed and 5 of 8 terrorists killed.
 
-    3 survivors released after <http://en.wikipedia.org/wiki/Lufthansa_Flight_615>,
-    where demands were met. <http://en.wikipedia.org/wiki/Muammar_Gaddafi> gave asylum to the liberated hijackers.
+    3 survivors released after <http://en.wikipedia.org/wiki/Lufthansa_Flight_615>, where demands were met. <http://en.wikipedia.org/wiki/Muammar_Gaddafi> gave asylum to the liberated hijackers.
 
 -   <http://en.wikipedia.org/wiki/Air_France_Flight_8969>
+
+-   <https://en.wikipedia.org/wiki/Inspire_%28magazine%29>
 
 ### Aum Shinrikyo
 
 <http://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack> by .
 
-It is incredible how a religious group
-could lead people to do those things. And that was not the only case where they've murdered.
+It is incredible how a religious group could lead people to do those things. And that was not the only case where they've murdered.
 
-<https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M#t=114>
-Theorizes that great growth came from recruiting in top universities,
-where students where disillusioned by meaningless grading systems.
+<https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M#t=114> Theorizes that great growth came from recruiting in top universities, where students where disillusioned by meaningless grading systems.
 
-The "master" also claims on a television interview that those students wanted spirituality
-because they were materially wealthy and needed something else. I think this claim is plausible.
+The "master" also claims on a television interview that those students wanted spirituality because they were materially wealthy and needed something else. I think this claim is plausible.
 
-Also Japans' new religions benefited a lot from the end of the War,
-where at once people saw themselves free to choose.
+Also Japans' new religions benefited a lot from the end of the War, where at once people saw themselves free to choose.
 
 Those also theorize that he became bitter with society after he lost the elections.
 
-Next, he also made links with the Russian, which were also a falling empire that needed stability,
-and gained followers from the military which actually stole military secrets.
+Next, he also made links with the Russian, which were also a falling empire that needed stability, and gained followers from the military which actually stole military secrets.
 
-Part of the chemical experiences where carried in Tokyo itself,
-and residents even protested against them, but nothing was done:
-<https://www.youtube.com/watch?v=81uvbbsJC7M>
+Part of the chemical experiences where carried in Tokyo itself, and residents even protested against them, but nothing was done: <https://www.youtube.com/watch?v=81uvbbsJC7M>
 
-<https://www.youtube.com/watch?v=vQ7uz8EYMYo> conjectures that he became such a successful leader
-due to him being blind from one eye and half blind on the other. As such, he went to a school for the blind,
-where he was at a very advantageous position to manipulate others.
+<https://www.youtube.com/watch?v=vQ7uz8EYMYo> conjectures that he became such a successful leader due to him being blind from one eye and half blind on the other. As such, he went to a school for the blind, where he was at a very advantageous position to manipulate others.
 
 It is also interesting to see excerpts from his propaganda animes.
 
-The "master" on a television show:
-<https://www.youtube.com/watch?feature=player_detailpage&v=vQ7uz8EYMYo#t=398>
+The "master" on a television show: <https://www.youtube.com/watch?feature=player_detailpage&v=vQ7uz8EYMYo#t=398>
 
-A parent who appears on street on television saying how the master stole his children away,
-and his wife urging him to stay away from the camera from fear of backslash:
-<https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M#t=744>
+A parent who appears on street on television saying how the master stole his children away, and his wife urging him to stay away from the camera from fear of backslash: <https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M#t=744>
 
-This hows how the weapon was prepared and deployed on subway:
-<https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M>
-Two bags are put inside a newspaper, then they use an umbrella
-to cut through both and mix the liquids.
+This hows how the weapon was prepared and deployed on subway: <https://www.youtube.com/watch?feature=player_detailpage&v=81uvbbsJC7M> Two bags are put inside a newspaper, then they use an umbrella to cut through both and mix the liquids.
 
 ### Jim Jones
 
-Jonestown mass suicide. It is interesting to see that the act was triggered
-by increased repression from society towards the cult, much like Aum's.
+Jonestown mass suicide. It is interesting to see that the act was triggered by increased repression from society towards the cult, much like Aum's.
 
-Another common characteristic is the almost enslavement of followers,
-denying them all leisure, as a way to make them feel their lives meaningful.
+Another common characteristic is the almost enslavement of followers, denying them all leisure, as a way to make them feel their lives meaningful.
 
 Another common characteristic is fleeing the country of origin when repression starts to increase.
 
@@ -113,6 +97,10 @@ Another common point are end of the world predictions.
 This one was a sadist, who teamed up with Pinochet to torture people and was thus protected for years.
 
 ## Gear
+
+-   <https://en.wikipedia.org/wiki/Active_Denial_System> Human microwave.
+
+-   <https://en.wikipedia.org/wiki/Laser_Weapon_System>
 
 -   <http://en.wikipedia.org/wiki/Whirlwind_I>, <http://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment>
 
@@ -163,6 +151,16 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <http://en.wikipedia.org/wiki/Animal_sentinel>
 
+### Nuclear
+
+- <http://nuclearsecrecy.com/nukemap/>
+
+- <https://www.youtube.com/watch?v=LLCF7vPanrY>
+
+- <https://en.wikipedia.org/wiki/Fizzle_%28nuclear_test%29>
+
+- <https://en.wikipedia.org/wiki/Trinity_(nuclear_test)>
+
 ## Improvised firearm
 
 -   <http://en.wikipedia.org/wiki/Improvised_firearm>
@@ -177,6 +175,14 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
     There are also gun producers who claim to do it for an anarchism philosophy in which an armed society is fairer because the government cannot oppress it.
 
 ## Spy
+
+-   <https://en.wikipedia.org/wiki/Illegals_Program>
+
+    In the USA, any agent for a foreign government must notify the to the Attorney General <https://www.law.cornell.edu/uscode/text/18/951> This is generally spies.
+
+-   <https://en.wikipedia.org/wiki/Atomic_spies>
+
+    -   <https://en.wikipedia.org/wiki/Klaus_Fuchs>
 
 -   <http://en.wikipedia.org/wiki/Watergate_scandal>. Coined the suffix `-gate`: <http://en.wikipedia.org/wiki/List_of_scandals_with_%22-gate%22_suffix>
 
@@ -230,6 +236,8 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 ## Cold war
 
+-   <https://en.wikipedia.org/wiki/Operation_Northwoods>
+
 -   John le Carré on spy craft and his novels: <https://www.youtube.com/watch?v=89FHIGL3N54>
 
     Intelligence differs from the police: you don't arrest people. You identify and watch them to get further information.
@@ -256,6 +264,8 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 ## WW2
 
+-   <https://en.wikipedia.org/wiki/Katyn_massacre>, confirmed by documents released in 1992.
+
 -   <http://www.walltowatch.com/view/32432/The+Everlasting+Shadows+Of+Hiroshima>
 
 -   <http://en.wikipedia.org/wiki/Office_of_Strategic_Services>
@@ -276,6 +286,12 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
     Largest Jewish uprising in WW2. Depicted in the The Pianist 2002 film.
 
 -   <http://en.wikipedia.org/wiki/Operation_Fortitude> WW2 military deception.
+
+### Funny
+
+- <https://www.youtube.com/watch?v=ofI7D2Faivw>
+
+- Modification XXX beer bomber <http://www.ghostgrey.gaetanmarie.com/articles/2010/Modification%20XXX/Modification%20XXX%20-%20Beer-carrying%20Spitfires.htm>
 
 ## China
 
@@ -306,3 +322,11 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
     China's reply strategy is to discredit the person as being at a lower Government level than actual, and charges of corruption.
 
     There are many cold war / dictatorship pilot defection precedents: <http://en.wikipedia.org/wiki/First_MiG_behind_the_Iron_Curtain>
+
+## Torture
+
+- <https://en.wikipedia.org/wiki/White_torture>
+
+- <https://en.wikipedia.org/wiki/Waterboarding>
+
+- <https://en.wiktionary.org/wiki/tiger_bench>

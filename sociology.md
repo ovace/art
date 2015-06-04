@@ -2,6 +2,14 @@
 
 Social movements and practices.
 
+-   <https://www.youtube.com/watch?v=2zYAt_67lh8>
+
+-   <https://en.wikipedia.org/wiki/Gyaru>
+
+-   <https://en.wikipedia.org/wiki/Otherkin>
+
+-   <https://en.wikipedia.org/wiki/Lolita_fashion>
+
 -   <https://en.wikipedia.org/wiki/Sign_of_the_horns>
 
 -   <https://en.wikipedia.org/wiki/Alcoholics_Anonymous>
@@ -34,6 +42,8 @@ Social movements and practices.
 
 ## Closed societies
 
+-   <https://en.wikipedia.org/wiki/Bohemian_Grove>
+
 -   <http://en.wikipedia.org/wiki/Lions_Clubs_International>
 
     <http://en.wikipedia.org/wiki/Freemasonry>
@@ -50,6 +60,18 @@ Social movements and practices.
 
 ## Religion
 
+-   <https://en.wikipedia.org/wiki/Fight_Club>
+
+-   <https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29>
+
+    > The group earned revenues by offering professional website development for paying clients under the name Higher Source.
+
+-   <https://en.wikipedia.org/wiki/UFO_religion>
+
+-   <https://en.wikipedia.org/wiki/Order_of_the_Solar_Temple>
+
+-   <http://www.orange-papers.org/orange-cult_q0.html>
+
 -   <http://en.wikipedia.org/wiki/Four_Horsemen_of_the_Apocalypse>
 
 -   <http://en.wikipedia.org/wiki/Discordianism>
@@ -63,3 +85,17 @@ Social movements and practices.
 -   <http://en.wikipedia.org/wiki/Cargo_cult>, jokingly adapted to programming and science bad practices: <http://en.wikipedia.org/wiki/Cargo_cult_programming>, <http://en.wikipedia.org/wiki/Cargo_cult_science>
 
 -   <http://en.wikipedia.org/wiki/Millennarianism_in_colonial_societies>
+
+## Sexuality
+
+-   <https://en.wikipedia.org/wiki/Bi-curious>
+
+-   <https://en.wikipedia.org/wiki/Kinsey_scale>
+
+-   <https://en.wikipedia.org/wiki/Questioning_%28sexuality_and_gender%29>
+
+-   <https://en.wikipedia.org/wiki/Heteroflexibility>
+
+-   <https://en.wikipedia.org/wiki/Mixed-orientation_marriage>
+
+-   <https://en.wikipedia.org/wiki/Klein_Sexual_Orientation_Grid>
