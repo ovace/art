@@ -115,6 +115,10 @@ Noodle is not as outstanding as regular dishes, but can be cheaper, and good whe
 
     - Soupe aux nouilles pimentées
 
+-   Noodle bar
+
+    - 31 Rue nationale, 75013 Paris, France
+
 ## Non-Chinese
 
 There are a few non-Chinese ones that interested me.

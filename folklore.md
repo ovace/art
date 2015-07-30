@@ -1,6 +1,10 @@
 # Folklore
 
-Folklore.
+-   <https://en.wikipedia.org/wiki/Nibelungenlied> 13th century German saga.
+
+-   <https://en.wikipedia.org/wiki/Legends_about_Theoderic_the_Great> 10th - 15th century German saga.
+
+-   <https://en.wikipedia.org/wiki/V%C3%B6lsunga_saga> 13th century Iceland saga.
 
 -   <http://en.wikipedia.org/wiki/Sandman>, mentioned in <http://en.wikipedia.org/wiki/Smiley%27s_People>
 

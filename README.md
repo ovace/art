@@ -10,7 +10,7 @@ If you think something belongs on a list, PR. Because of the subjective nature o
 1.  Featured
     1.  [misc.md](misc.md): main dump of interesting things.
     1.  [war.md](computer.md)
-    1.  [computer.md](computer.md)
+    1.  [Computer](computer/)
         1. [computer-funny.md](computer-funny.md)
 1.  Engineering
     1. Electronics

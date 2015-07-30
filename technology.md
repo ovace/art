@@ -2,6 +2,8 @@
 
 Computer specifics not here.
 
+-   <https://en.wikipedia.org/wiki/Fingerprint> Weight of a fingerprint.
+
 -   <https://en.wikipedia.org/wiki/5_Whys>
 
 -   <http://en.wikipedia.org/wiki/Call_sign> jargon for URL in fields like Amateur radio.

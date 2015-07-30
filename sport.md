@@ -2,6 +2,8 @@
 
 Sport, dance, physical performances.
 
+-   <http://en.wikipedia.org/wiki/Shin-kicking>, very British
+
 -   Battle rope: <https://www.youtube.com/watch?v=__bv4D7ii_0>
 
 -   Pavel Kashin parkour death: <https://www.youtube.com/watch?v=iTbrRblUmDs>

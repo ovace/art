@@ -1,5 +1,7 @@
 # Crime
 
+-   <https://en.wikipedia.org/wiki/Pyramid_scheme>
+
 -   <https://en.wikipedia.org/wiki/D._B._Cooper> successful plane hijack
 
 -   <http://www.foxnews.com/story/2006/07/06/pepsi-alerted-coca-cola-to-stolen-coke-secrets-offer.html>

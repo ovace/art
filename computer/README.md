@@ -1,5 +1,39 @@
 # Computer
 
+-   <https://www.youtube.com/watch?v=PF7EpEnglgk>
+
+    Computers from the 80s had no multi-tasking.
+
+    You just put a floppy disk in, and reset it.
+
+-   <https://www.youtube.com/watch?v=XC_T5mvuguw> Bits and bytes, Canadian computer television tutorials from 1983!
+
+-   <https://en.wikipedia.org/wiki/Referer_spam>
+
+-   <https://en.wikipedia.org/wiki/User-generated_content>
+
+-   <https://en.wikipedia.org/wiki/Tripod.com>
+
+    Pre dot-com user generated content pioneer.
+
+-   <https://en.wikipedia.org/wiki/Click-to-donate_site>, pre dot-com bubble phenomena.
+
+    Makes no sense today as bot can easily do it...
+
+-   <https://en.wikipedia.org/wiki/Quine_%28computing%29>
+
+    The empty program once won the IOCCC for worst abuse of the rules.
+
+-   <https://en.wikipedia.org/wiki/Volunteer_computing>
+
+    - <http://folding.stanford.edu/home/>
+    - <https://en.wikipedia.org/wiki/SETI@home>
+    - <https://en.wikipedia.org/wiki/Distributed.net>
+
+-   <https://en.wikipedia.org/wiki/RSA_Secret-Key_Challenge>
+
+-   <https://www.youtube.com/watch?v=5Qj8p-PEwbI>
+
 -   <https://en.wikipedia.org/wiki/Leet>
 
 -   <http://bitcoin.stackexchange.com/questions/10320/how-useful-is-a-javascript-miner> <http://crasseux.com/bitcoin/>
@@ -208,15 +242,6 @@ Many versions:
 
 <http://en.wikipedia.org/wiki/Second-system_effect>
 
-## Stack overflow
-
--   <http://meta.stackexchange.com/questions/17204/six-simple-tips-to-get-stack-overflow-reputation-fast>
-
-    - good formatting
-    - niches
-
--   <http://stackoverflow.com/a/1732454/895245> Bobince's famous poetic answer on it is not possible to parse HTML with regex.
-
 ## Hacker culture
 
 -   <http://en.wikipedia.org/wiki/Script_kiddie>
@@ -357,3 +382,25 @@ Useful:
     Floating point imprecision because time unit was 1/10 which is not representable.
 
     Caused friendly fire killing 28 soldiers.
+
+## Tor
+
+`.onion` "top level domains", that are not actually top level domains.
+
+How to find content:
+
+-   <http://tor.stackexchange.com/questions/4619/how-do-i-find-onion-sites>
+
+-   <http://tor.stackexchange.com/questions/3896/where-i-can-find-export-or-download-the-biggest-list-of-all-onion-addresses>
+
+-   <http://www.quora.com/What-are-some-cool-deep-Internet-websites>
+
+-   <http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page>
+
+    <https://en.wikipedia.org/wiki/The_Hidden_Wiki>
+
+    Front page is a well maintained list of illegal things.
+
+## JavaScript demos
+
+-   <http://js1k.com/>

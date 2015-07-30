@@ -1,5 +1,29 @@
 # Computer funny
 
+
+-   `man xclip`:
+
+        EXAMPLES
+            I hate man pages without examples!
+
+            [gives some examples]
+
+-   <https://wiki.ubuntu.com/X/SwatTeam>
+
+    X problems are so notoriously hard that the Ubuntu Team calls themselves SWAT.
+
+-   <http://research.microsoft.com/en-us/people/mickens/thenightwatch.pdf>
+
+    Amazing satire glamorizing system programming.
+
+-   <https://github.com/philipl/pifs>
+
+-   wetware <https://en.wikipedia.org/wiki/Wetware_%28brain%29>
+
+-   <http://en.wikipedia.org/wiki/List_of_lists_of_lists>
+
+-   <http://en.wikipedia.org/wiki/Wikipedia:List_of_hoaxes_on_Wikipedia/Bicholim_conflict>
+
 -   Open source fundamentalist :-) <http://keithcu.com/wordpress/?page_id=407>
 
 -   1000 dollars for the first person who read the EULA <http://techtalk.pcpitstop.com/2012/06/12/it-pays-to-read-license-agreements-7-years-later/>
@@ -10,7 +34,7 @@
 
 -   <https://github.com/gkoberger/stacksort>
 
--   HTML of urban dictionary:
+-   HTML comment ASCII art:
 
         <!DOCTYPE html>
         <html lang='en-US' prefix='og: http://ogp.me/ns#'>
@@ -128,8 +152,6 @@
 -   [Sockpuppet](http://en.wikipedia.org/wiki/Sockpuppet_%28Internet%29)
 
 -   [Heisenbug](http://en.wikipedia.org/wiki/heisenbug)
-
--   [BMP C++ program](http://stackoverflow.com/a/5509538/895245)
 
 -   [w3schools](https://chrome.google.com/webstore/detail/w3schools-hider/igiahejkpbnbnekdaefddmdceocmjpll). The site is considered so bad, but has such huge Google Rating, that a Google Chrome extension was created to block it from Google searches.
 
@@ -289,3 +311,22 @@ Boring... but wait! Try this:
     aptitude -vvvv moo
     aptitude -vvvvv moo
     aptitude -vvvvvv moo
+
+## Stack Overflow
+
+-   <http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454>
+
+-   <http://meta.stackexchange.com/questions/9134/jon-skeet-facts>
+
+-   <http://stackoverflow.com/questions/4561256/ascii-art-in-html-comments-fad-or-function>
+
+-   [BMP C++ program](http://stackoverflow.com/a/5509538/895245)
+
+-   Jon Skeet rep explodes data type  http://meta.stackexchange.com/a/1852/200117
+
+-   <http://meta.stackexchange.com/questions/17204/six-simple-tips-to-get-stack-overflow-reputation-fast>
+
+    - good formatting
+    - niches
+
+-   <http://stackoverflow.com/a/1732454/895245> Bobince's famous poetic answer on it is not possible to parse HTML with regex.

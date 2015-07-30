@@ -2,6 +2,14 @@
 
 History, anthropology.
 
+-   <https://en.wikipedia.org/wiki/Exploration_of_Africa#Antiquity>
+
+    First round trip of Africa was in -600. Took 3 years.
+
+-   <https://en.wikipedia.org/wiki/Quipu>
+
+-   <https://en.wikipedia.org/wiki/Jimmy_Carter_rabbit_incident>
+
 -   <http://en.wikipedia.org/wiki/Great_Famine_%28Ireland%29>
 
 -   <http://en.wikipedia.org/wiki/Birch_bark_manuscript>

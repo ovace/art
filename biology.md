@@ -2,6 +2,16 @@
 
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   <https://en.wikipedia.org/wiki/Head_transplant>
+
+-   Proteins named after video games:
+
+    - <http://en.wikipedia.org/wiki/Sonic_hedgehog>
+    - Ex Pokemon: <http://en.wikipedia.org/wiki/Zbtb7>
+    - <http://en.wikipedia.org/wiki/Pikachurin>
+
+-   <http://en.wikipedia.org/wiki/Isolated_brain>
+
 -   <https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault>
 
 -   <https://en.wikipedia.org/wiki/Club_foot>

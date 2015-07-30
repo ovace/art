@@ -1,5 +1,11 @@
 # Funny
 
+-   <https://en.wikipedia.org/wiki/Bogdanov_affair>
+
+-   <https://en.wikipedia.org/wiki/John_Urschel> maths + footballer
+
+-   <https://en.wikipedia.org/wiki/Gaydar>
+
 -   <https://twitter.com/adme_ru/status/220020694283595776>
 
 -   <https://en.wikipedia.org/wiki/Happy_number>

@@ -1,5 +1,7 @@
 # French
 
+-   <http://fr.wikipedia.org/wiki/Rital>
+
 -   <https://fr.wiktionary.org/wiki/trois_fois_rien>
 
 -   <https://fr.wiktionary.org/wiki/se_sortir_les_doigts_du_cul>

@@ -2,6 +2,8 @@
 
 War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff, which I wish did not happen.
 
+-   <https://en.wikipedia.org/wiki/Killed_in_action>
+
 -   <https://en.wikipedia.org/wiki/False_flag>
 
 -   <https://en.wikipedia.org/wiki/Closed_city>

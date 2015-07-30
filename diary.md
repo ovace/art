@@ -60,3 +60,35 @@ Passed IBM online test. Two types of questions:
 - model 2 line problems and solve systems of linear equations in 2 variables real quick
 
 So stupid, nothing to do with actual programming. Not sure I want to work there anymore.
+
+## 2015-06-22
+
+Fete de la musique.
+
+At midnight the police told us that the noise was legal, and we had to go to a hotel to sleep.
+
+Xiaohua found on the website that is should go up to 00h30, but they had others otherwise because we live in a street with many bars.
+
+## 2015-06-26
+
+USA supreme court said gay marriage is legal in all states.
+
+Stack Overflow, GitHub and Google search "gay" added rainbow easter eggs to their websites, Facebook an image editor that adds the rainbow flag to your picture https://www.facebook.com/celebratepride
+
+## 2015-07-12
+
+Today was the first day that Xiaohua told me that she would leave me if I didn't get money.
+
+What started this was her mother telling her that it is bad to live with someone if you are not married (because you shouldn't fuck).
+
+She is also worried that she might not get a job after finishing her doctorate in maths, because it is very hard, very few places per year.
+
+And she wants to marry in a French castle, which would cost 10k Euros.
+
+She made me cry.
+
+I'm looking for something interesting to do and learning about compilers. I have wasted my life before I started programming interesting stuff. I can't leave it now. I hope she can understand.
+
+I will try never to touch her until we are married. I don't care. As long as I can do what matters.
+
+I dreamed about when I was doing a masters in Jussieu. I felt stupid there there as I had in university, but felt very guilty to leave.

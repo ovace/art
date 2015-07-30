@@ -80,21 +80,69 @@ Note: 8
 
 Read: 2015-05
 
+## Call of Cthulhu 1928
+
+Note: 6
+
+Readable, but a bit too wordy style, and could be longer.
+
+<https://en.wikipedia.org/wiki/The_Call_of_Cthulhu>
+
+## Magus 1965
+
+<https://en.wikipedia.org/wiki/The_Magus_%28novel%29>
+
+Note: 7
+
+<https://en.wikipedia.org/wiki/The_Magus_%28novel%2s9>
+
+I don't like love stories much, but this one is good because of the great amount of general intelligent remarks made.
+
+I have to look more on the post-modern style.
+
+## Bridge of San Luis Rey
+
+Note: 8
+
+<https://en.wikipedia.org/wiki/The_Bridge_of_San_Luis_Rey>
+
+Short and sweet.
+
+Good psychological analysis of characters.
+
+Optimistic.
+
 ## Trivia
 
 - <https://en.wikipedia.org/wiki/Autobiography_of_Mark_Twain>: took 100 years to be released.
 
+## Started but could not continue
+
+- <https://en.wikipedia.org/wiki/The_Secret_Agent>. Made me too nervous, and style too verbose for my taste.
+
 ## TODO
 
 - <https://en.wikipedia.org/wiki/The_Call_of_the_Wild>
-- <https://en.wikipedia.org/wiki/The_Secret_Agent>
 - <https://en.wikipedia.org/wiki/Slaughterhouse-Five>
+- <https://en.wikipedia.org/wiki/U.S.A._%28trilogy%29> TODO find
+- <https://en.wikipedia.org/wiki/Julian_%28novel%29>
 
 TODO find
 
 - <https://en.wikipedia.org/wiki/Death_Comes_for_the_Archbishop>
-- <https://en.wikipedia.org/wiki/Julian_%28novel%29>
-- <https://en.wikipedia.org/wiki/The_Magus_%28novel%29>
-- <https://en.wikipedia.org/wiki/The_Bridge_of_San_Luis_Rey>
-- <https://en.wikipedia.org/wiki/All_the_King%27s_Men>
-- <https://en.wikipedia.org/wiki/U.S.A._%28trilogy%29> TODO find
+
+Anti Chinese dictatorship:
+
+- <https://en.wikipedia.org/wiki/Murong_Xuecun>
+
+## Illegal sources
+
+https://opentrackers.org/downloading-ebooks-textbooks/
+
+Google will *not* rank those well, you have to search in them:
+
+- http://libgen.org (down 2015)
+- http://bookfi.org (Russian interface)
+- http://bookzz.org looks like an English clone of bookfi
+
+https://www.reddit.com/r/Piracy/

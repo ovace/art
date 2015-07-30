@@ -30,7 +30,7 @@ Finally, Huike came forth, bowed deeply in silence and stood up straight.
 
 Bodhidharma said, "You have attained my marrow."
 
-##Koans
+## Koans
 
 ### Gateless gate
 
@@ -39,7 +39,6 @@ Bodhidharma said, "You have attained my marrow."
         Two monks were watching a flag flapping in the wind. One said to the other, "The flag is moving."
         The other replied, "The wind is moving."
         Huineng overheard this. He said, "Not the flag, not the wind; mind is moving."
-
 
 Two hands clap and there is a sound. What is the sound of one hand? - Hakuin Ekaku
 

@@ -64,17 +64,60 @@ Father of Intel and AMD.
 
 ## Google
 
+-   https://en.wikipedia.org/wiki/Googolplex is 10^Googol.
+
+    Carl Sagan mentions them in Cosmos Ep. 9.
+
 -   Weird interface languages:
 
-    - <https://www.google.com/?hl=xx-pirate>
+    - <https://www.google.com/?hl=xx-pirate>, also accessible with: <https://www.google.com/?hl=xx-pirate&q=this+is+pirate+mode>
     - <https://www.google.com/?hl=xx-bork>
     - <https://www.google.com/?hl=xx-hacker>
     - <https://www.google.com/?hl=kn>
 
 -   Search easter eggs:
 
+    Destructive:
+
     - <https://www.google.com/search?q=askew>
-    - <https://www.google.com/search?client=ubuntu&channel=fs&q=anagram&ie=utf-8&oe=utf-8>
+    - <https://www.google.com/search?client=ubuntu&channel=fs&q=tilt&ie=utf-8&oe=utf-8>
+    - <https://www.google.com/search?q=do+a+barrel+roll> or <https://www.google.com/search?client=ubuntu&channel=fs&q=z+or+r+twice&ie=utf-8&oe=utf-8> (Star Fox reference)
+    - <https://www.google.com/search?q=zerg+rush>, explanation: <http://www.urbandictionary.com/define.php?term=zerg+rush>
+    - <https://www.google.com/search?q=Google+in+1998&gws_rd=ssl>
+    - <https://www.google.com/search?client=ubuntu&channel=fs&q=blink+html&ie=utf-8&oe=utf-8>
+    - <https://www.google.com/search?client=ubuntu&channel=fs&q=Festivus&ie=utf-8&oe=utf-8>, meaning: <https://en.wikipedia.org/wiki/Festivus>
+    - <https://www.google.com/search?client=ubuntu&channel=fs&q=Conway%27s+Game+of+Life&ie=utf-8&oe=utf-8>
+
+    Image:
+
+    - <https://www.google.com/search?q=Atari+breakout&num=50&client=ubuntu&hs=qHS&channel=fs&source=lnms&tbm=isch&sa=X&ei=Q5yVVZGIAcSdsgG50oCADw&ved=0CAcQ_AUoAQ&biw=1600&bih=805>
+
+    Did you mean:
+
+    - <https://www.google.com/search?q=recursion>
+    - <https://www.google.com/search?q=anagram>, <https://www.google.com/search?client=ubuntu&channel=fs&q=define+anagram&ie=utf-8&oe=utf-8>
+
+    Widgets:
+
+    - <https://www.google.com/search?q=answer+to+life+the+universe+and+everything>: 42
+    - <https://www.google.com/search?q=once+in+a+blue+moon>: 1.16699016 × 10-8 hertz, which is about 2 years, the actual period of blue moons
+    - <https://www.google.com/search?client=ubuntu&channel=fs&q=flip+a+coin&ie=utf-8&oe=utf-8>
+    - <https://www.google.com/search?q=Google+in+1998&gws_rd=ssl>
+    - <https://www.google.com/search?client=ubuntu&channel=fs&q=hodor&ie=utf-8&oe=utf-8>
+    - <https://www.google.com/search?client=ubuntu&channel=fs&q=Bletchley+Park&ie=utf-8&oe=utf-8>
+    - <https://www.google.com/search?client=ubuntu&channel=fs&q=harrison+ford+Bacon+Number&ie=utf-8&oe=utf-8>, meaning: <https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon>
+
+    Limited time:
+
+    - ASCII art: showed the logo in ASCII art
+    - gay: shortly after the 2015 pro gay marriage supreme court ruling
+
+    YouTube:
+
+    - <https://www.youtube.com/results?search_query=Beam+me+up+scotty>
+    - <https://www.youtube.com/results?search_query=use+the+force+luke>
+    - <https://www.youtube.com/results?search_query=doge+meme>
+    - YouTube's Snakey
 
 -   <http://www.theregister.co.uk/2009/01/31/google_malware_snafu/>
 
@@ -83,3 +126,7 @@ Father of Intel and AMD.
 -   Google groups was another company that Google bought Deja Usenet, written in Java: <https://en.wikipedia.org/wiki/Google_Groups>
 
     It was just a web interface for Usenet, and still holds Usenet discussions like Torvalds vs ast https://groups.google.com/forum/#!topic/comp.os.minix/wlhw16QWltI[1-25]
+
+## Facebook
+
+- Bloomberg documentary: https://www.youtube.com/watch?v=5WiDIhIkPoM

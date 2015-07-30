@@ -2,6 +2,8 @@
 
 Painting, sculpture, dance.
 
+-   <https://en.wikipedia.org/wiki/Son_et_lumi%C3%A8re_%28show%29>
+
 -   <https://en.wikipedia.org/wiki/Street_art>
 
 -   <https://en.wikipedia.org/wiki/Ego_Leonard>

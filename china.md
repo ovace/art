@@ -4,6 +4,10 @@ I have a soft spot for Chinese language and traditional culture.
 
 I might include Japanese / Korean / Vietnamese stuff here too because they are all inside the Sinosphere.
 
+- <https://en.wikipedia.org/wiki/Pinky_swear>
+
+- <https://www.youtube.com/watch?v=baQT0pwvXKQ> traditional explosive popcorn machine
+
 - <https://en.wikipedia.org/wiki/Eastern_Lightning>
 
 - <https://en.wikipedia.org/wiki/Bigu_%28avoiding_grains%29>
@@ -134,7 +138,29 @@ Funny things about how Westerners have perceived and imagined China, specially i
 
 - [Fu Manchu](http://en.wikipedia.org/wiki/Fu_Manchu)
 
-## Tao Te Ching
+## Japan
+
+- <http://en.wikipedia.org/wiki/Kawaii>. Also a porn genre. Weird.
+
+- <https://en.wikipedia.org/wiki/Japanese_idol>
+
+- <https://en.wikipedia.org/wiki/Gyaru>
+
+- <https://en.wikipedia.org/wiki/Lolita_fashion>
+
+## Korea
+
+## Books
+
+On Wikipedia, always check the French page for Chinese subjects, it often has much more material than the English one.
+
+- 200 AD medicine <https://en.wikipedia.org/wiki/Shennong_Ben_Cao_Jing>
+
+## Wisdom
+
+- Japanese sayings <http://www.cs.cmu.edu/~fgandon/miscellaneous/japan/>
+
+### Tao Te Ching
 
     We put thirty spokes together and call it a wheel;
     But it is on the space where there is nothing that the usefulness of the wheel depends.
@@ -162,16 +188,20 @@ Funny things about how Westerners have perceived and imagined China, specially i
     Without looking out the window,
     See the Way of Heaven.
 
-## Confucius
+### Confucius
 
 I hear and I forget. I see and I remember. I do and I understand.
 
-## Japan
+### Websites
 
-<http://en.wikipedia.org/wiki/Kawaii>. Also a porn genre. Weird.
+-   <https://en.wikipedia.org/wiki/CSDN>
 
-## Books
+    <http://csdn.net/>
 
-On Wikipedia, always check the French page for Chinese subjects, it often has much more material than the English one.
+    10M people developer community.
 
-- 200 AD medicine <https://en.wikipedia.org/wiki/Shennong_Ben_Cao_Jing>
+-   <https://en.wikipedia.org/wiki/Zhihu>
+
+    <http://www.zhihu.com>
+
+    Q&A, like Quora.

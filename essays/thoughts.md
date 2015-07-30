@@ -1,5 +1,7 @@
 # Thoughts
 
+Having to fill those ugly .docx forms for enterprises makes me sick. Huge turnoff. Almost certain that they won't understand what you want you know, and what you want to do. Talking to someone is the only way for they to understand what you want to do.
+
 Short thoughts which I had and amused me for a few seconds.
 
 Love watching my colleagues freely mixing French and Arab every 2 sentences when talking to their personal friends.

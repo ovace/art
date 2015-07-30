@@ -1,5 +1,29 @@
 # Game
 
+-   <https://en.wikipedia.org/wiki/Monopoly_%28game%29> The game Monopoly was initially a critic on monopolies!
+
+-   <https://en.wikipedia.org/wiki/The_Goat_Puzzle>
+
+-   <https://en.wikipedia.org/wiki/Paint_by_number>
+
+-   <https://en.wikipedia.org/wiki/Parlour_game>
+
+-   Games and dimensions
+
+    -   <https://www.youtube.com/watch?v=9yW--eQaA2I> 4D game
+
+    -   <http://en.wikipedia.org/wiki/2.5D>
+
+-   <https://en.wikipedia.org/wiki/Quick_time_event>
+
+-   <https://en.wikipedia.org/wiki/Final_Fantasy> got its name because it was a last ditch effort by its creator to make a successful game. If it did not sell well, he'd go back to university.
+
+-   <http://www.nintendolife.com/news/2015/01/ninterview_learning_retro_secrets_with_a_former_nintendo_game_play_counselor> game counselors!
+
+-   <http://www.ongamers.com/articles/league-of-legends-player-who-reportedly-made-terrorist-threat-faces-up-to-10-years-in-prison/1100-894/>
+
+-   <http://www.telegraph.co.uk/news/worldnews/europe/france/7771505/Video-game-fanatic-hunts-down-and-stabs-rival-player-who-killed-character-online.html>
+
 -   Demake: <https://en.wikipedia.org/wiki/Video_game_remake#.22Demakes.22>
 
 -   <http://starcraft.wikia.com/wiki/Lee_Seung_Seop>
@@ -63,8 +87,6 @@
     Big Rigs: one of the worst commercialized games ever.
 
 -   Blind folded Mike Tyson's Punch-out <https://www.youtube.com/watch?v=CvzIb53Lcno>
-
--   <http://en.wikipedia.org/wiki/2.5D>
 
 -   <http://en.wikipedia.org/wiki/SimCity>
 
@@ -177,11 +199,15 @@ Ultra hard SMB mods:
 
 ## Innovative
 
-<https://en.wikipedia.org/wiki/The_Stanley_Parable>
+## Weird
+
+<https://en.wikipedia.org/wiki/The_Stanley_Parable> Appeared in House of Cards: <https://www.youtube.com/watch?v=LWUNxcvZCpg>
 
 <https://en.wikipedia.org/wiki/Mister_Mosquito>
 
 <https://en.wikipedia.org/wiki/Papers,_Please>
+
+<https://www.youtube.com/watch?v=FazPFFoTAyM> Plug and play.
 
 ## Bad
 

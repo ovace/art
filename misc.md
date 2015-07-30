@@ -2,6 +2,10 @@
 
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+-   <http://gay-or-straight.com/>
+
+-   <https://en.wikipedia.org/wiki/Folly>
+
 -   <https://en.wikipedia.org/wiki/Heroic_Age_of_Antarctic_Exploration>
 
     - <https://en.wikipedia.org/wiki/Robert_Falcon_Scott> Lost by one month, didn't know until he got there!
@@ -90,3 +94,9 @@ Uncategorized random stuff that I found interesting. Version controlled Twitter.
 -   <http://en.wikipedia.org/wiki/Ceremonial_first_pitch>
 
     American baseball culture.
+
+## Weird
+
+-   <https://en.wikipedia.org/wiki/Zombo.com>
+
+-   <http://www.ratemypoo.com>

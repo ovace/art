@@ -1,5 +1,17 @@
 # Food
 
+-   <https://en.wikipedia.org/wiki/Virgin_boy_egg> 童子蛋 literally boy's egg, cooked in urine of young boys.
+
+-   <https://en.wikipedia.org/wiki/Toast_sandwich> British.
+
+-   <https://en.wikipedia.org/wiki/Whole_stuffed_camel> Camel stuffed with lambs stuffed with chicken.
+
+-   <https://en.wikipedia.org/wiki/Turducken> Turkey stuffed with chicken stuffed with duck.
+
+-   <https://en.wikipedia.org/wiki/Chicha>
+
+-   <https://en.wikipedia.org/wiki/Kefir> Awesome traditional method of preparation: hanging a bag on the doorway so that others will hit it.
+
 -   <https://en.wikipedia.org/wiki/Loquat>
 
 -   <http://en.wikipedia.org/wiki/Corn_smut#Culinary_uses>

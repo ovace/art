@@ -2,6 +2,16 @@
 
 As an "advanced" non native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Contingency_plan>
+
+-   egregious <http://dictionary.reference.com/browse/egregious>
+
+-   <http://www.urbandictionary.com/define.php?term=laundry+list>
+
+-   <https://en.wikipedia.org/wiki/Conclusion_%28music%29> "outro": intro of the end
+
+-   <http://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo>
+
 -   <http://www.thefreedictionary.com/frogmarched>
 
 -   <http://www.urbandictionary.com/define.php?term=pixel+pusher>

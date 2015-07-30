@@ -2,10 +2,12 @@
 
 -   <http://xkcd.com/>. Many strips have become widely cited classics.
 
+    - <http://xkcd.com/221/>: random number dice roll
     - <http://xkcd.com/327/>: Robert drop table students
     - <http://xkcd.com/378>: real programmers use which editor
     - <http://xkcd.com/505/>: simulation by rocks
     - <http://xkcd.com/688/>: ink graph self-description
+    - <https://xkcd.com/724/>: round Tetris
     - <http://xkcd.com/730/>: circuit diagram
     - <http://xkcd.com/806/>: Shibboleet technical support
     - <http://xkcd.com/810/>: constructive automated spam
@@ -22,8 +24,9 @@
     - <http://xkcd.com/1172>: workflow head spacebar
     - <http://xkcd.com/1185>: ineffective sorts
 
--   <www.smbc-comics.com>
+-   <http://www.smbc-comics.com>
 
+    - <http://www.smbc-comics.com/?id=2195#comic>
     - <http://www.smbc-comics.com/?id=2999#comic>
     - <http://www.smbc-comics.com/?id=3283#comic>
     - <http://www.smbc-comics.com/?id=3285#comic>
@@ -31,9 +34,14 @@
     - <http://www.smbc-comics.com/?id=3290#comic>
     - <http://www.smbc-comics.com/?id=3292#comic>
     - <http://www.smbc-comics.com/?id=3355#comic>
+    - <http://www.smbc-comics.com/?id=2208>
 
     Tier 2:
 
     - <http://www.smbc-comics.com/?id=3346#comic>
 
 -   <http://threewordphrase.com/hostage.htm>
+
+-   <http://www.dobhran.com/humor/GRhumor419.htm> late drunk lipstick
+
+-   <http://www.telegraphcrossfit.com/wp-content/uploads/2013/05/evolution-man-computer.gif>

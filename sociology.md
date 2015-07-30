@@ -2,19 +2,23 @@
 
 Social movements and practices.
 
+-   <https://en.wikipedia.org/wiki/Festivus>
+
+-   <http://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects>
+
+-   <http://en.wikipedia.org/wiki/Name_day>
+
+-   <https://en.wikipedia.org/wiki/T%C4%81_moko>
+
+-   <http://www.urbandictionary.com/define.php?term=manufactured+pop>
+
 -   <https://www.youtube.com/watch?v=2zYAt_67lh8>
 
--   <https://en.wikipedia.org/wiki/Gyaru>
-
 -   <https://en.wikipedia.org/wiki/Otherkin>
-
--   <https://en.wikipedia.org/wiki/Lolita_fashion>
 
 -   <https://en.wikipedia.org/wiki/Sign_of_the_horns>
 
 -   <https://en.wikipedia.org/wiki/Alcoholics_Anonymous>
-
--   <https://en.wikipedia.org/wiki/Muk-bang>, <https://www.youtube.com/watch?v=5wjXJL6ZwLk>
 
 -   <http://en.wikipedia.org/wiki/Lying_in_state>
 
@@ -59,6 +63,14 @@ Social movements and practices.
 -   <http://en.wikipedia.org/wiki/Jehovah%27s_Witnesses>
 
 ## Religion
+
+-   <https://en.wikipedia.org/wiki/Sukyo_Mahikari>
+
+    Believes that Jesus went to Japan, and enforces Japan's role in Christianity. Very nationalistic.
+
+    Believes in a practice where light energy comes out of one's hands into another's both, which should be practiced as often as one wants.
+
+-   <https://en.wikipedia.org/wiki/Operation_Snow_White>
 
 -   <https://en.wikipedia.org/wiki/Fight_Club>
 

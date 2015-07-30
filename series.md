@@ -65,6 +65,14 @@ A bit exaggerated like most series, but did teach me a few things about politics
 
 ## Webseries
 
+## YouTube
+
+`EEVBlog` https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ
+
+ProJared https://www.youtube.com/user/DMJared
+
+OskarPuzzle https://www.youtube.com/channel/UCGJykI0BRfFV044deqERlxQ
+
 ### Angry Video Game Nerd
 
 - <https://www.youtube.com/watch?v=fs2wczJXETM>
@@ -82,3 +90,21 @@ A bit exaggerated like most series, but did teach me a few things about politics
 - <https://www.youtube.com/watch?v=dX_1B0w7Hzc> Jobs
 - <https://www.youtube.com/watch?v=dX_1B0w7Hzc> Obama
 - <https://www.youtube.com/watch?v=ZT2z0nrsQ8o> Stalin
+
+## TODO
+
+-   https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
+
+    The flashbacks into scientific discoveries are the best part of the series.
+
+    Most interesting ones:
+
+    - 1
+
+    We are made of start stuff comes from it! http://www.cnet.com/news/we-are-made-of-star-stuff-a-quick-lesson-on-how/
+
+    EP3: the gravitational influence of the obstetrician is much larger than that of Mars!
+
+    EP5 44min: mixture of atoms to make a human!
+
+    EP10: 19min: reenaction of Hubble's instrumentation

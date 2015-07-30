@@ -2,6 +2,13 @@
 
 Politics, advertisement, law.
 
+-   <https://en.wikipedia.org/wiki/Rechtsstaat>
+
+-   <https://en.wikipedia.org/wiki/Micronation>
+
+    - <https://en.wikipedia.org/wiki/Liberland>
+    - <http://en.wikipedia.org/wiki/Niue>
+
 -   <http://en.wikipedia.org/wiki/United_States_embargoes>
 
     <http://en.wikipedia.org/wiki/International_Emergency_Economic_Powers_Act>
@@ -36,5 +43,3 @@ Politics, advertisement, law.
 -   <http://en.wikipedia.org/wiki/Read_my_lips:_no_new_taxes>
 
     <https://www.youtube.com/watch?v=RZtaZTEO3jA>
-
--   <http://en.wikipedia.org/wiki/Front_companies>
