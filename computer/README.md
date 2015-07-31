@@ -1,5 +1,19 @@
 # Computer
 
+-   Open source bug voting systems (+1: I want this feature) are the purest basis of democracy: you want something done you upvote it to increase the probability.
+
+    Only those who want it will come and find the proposals. No bureaucracy.
+
+-   <https://developer.mozilla.org/en-US/docs/Introduction#Find_a_bug_we%27ve_identified_as_a_good_fit_for_new_contributors.>
+
+    Mozilla has 3 types of beginner friendly bugs which are tagged on the issue tracker:
+
+    - good first bugs
+    - mentored bugs
+    - student projects
+
+    Had never seen the second categories before, very friendly! Great idea.
+
 -   <https://www.youtube.com/watch?v=PF7EpEnglgk>
 
     Computers from the 80s had no multi-tasking.

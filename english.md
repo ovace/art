@@ -2,6 +2,8 @@
 
 As an "advanced" non native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Slam_dunk> Sure outcome.
+
 -   <https://en.wikipedia.org/wiki/Contingency_plan>
 
 -   egregious <http://dictionary.reference.com/browse/egregious>
