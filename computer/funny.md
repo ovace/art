@@ -1,6 +1,5 @@
 # Computer funny
 
-
 -   `man xclip`:
 
         EXAMPLES
@@ -313,6 +312,10 @@ Boring... but wait! Try this:
     aptitude -vvvvvv moo
 
 ## Stack Overflow
+
+-   <http://www.slate.com/blogs/future_tense/2013/10/02/silk_road_s_dread_pirate_ross_ulbricht_asked_stack_overflow_question_under.html>
+
+-   <http://meta.stackoverflow.com/questions/300470/user-gets-publicist-badge-almost-daily?cb=1>
 
 -   <http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454>
 

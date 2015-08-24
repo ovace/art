@@ -6,6 +6,7 @@
     - <http://xkcd.com/327/>: Robert drop table students
     - <http://xkcd.com/378>: real programmers use which editor
     - <http://xkcd.com/505/>: simulation by rocks
+    - <https://xkcd.com/538/>: cryptography vs wrench
     - <http://xkcd.com/688/>: ink graph self-description
     - <https://xkcd.com/724/>: round Tetris
     - <http://xkcd.com/730/>: circuit diagram

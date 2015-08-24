@@ -4,25 +4,31 @@ I have a soft spot for Chinese language and traditional culture.
 
 I might include Japanese / Korean / Vietnamese stuff here too because they are all inside the Sinosphere.
 
-- <https://en.wikipedia.org/wiki/Pinky_swear>
+-   <https://en.wikipedia.org/wiki/Solar_term> 节气
 
-- <https://www.youtube.com/watch?v=baQT0pwvXKQ> traditional explosive popcorn machine
+    Modern Chinese know that they exist, and the names of most of them.
 
-- <https://en.wikipedia.org/wiki/Eastern_Lightning>
+    The names are not perfectly regular: you must memorize them.
 
-- <https://en.wikipedia.org/wiki/Bigu_%28avoiding_grains%29>
+    It also seems that some have slightly more mind share than others, e.g. at https://en.wikipedia.org/wiki/Liqiu , beginning of automn, you should eat meat to prepare for the cold.
 
-- <https://en.wikipedia.org/wiki/Shennong>
+    There is not public holiday on those days.
+
+-   <https://en.wikipedia.org/wiki/Pinky_swear>
+
+-   <https://www.youtube.com/watch?v=baQT0pwvXKQ> traditional explosive popcorn machine
+
+-   <https://en.wikipedia.org/wiki/Eastern_Lightning>
+
+-   <https://en.wikipedia.org/wiki/Bigu_%28avoiding_grains%29>
+
+-   <https://en.wikipedia.org/wiki/Shennong>
 
 ## Hand counting
 
 Chinese can show numbers to others up to 10 with **one hand**: <http://en.wikipedia.org/wiki/Chinese_number_gestures>. Every Chinese knows those signs and uses them instinctively.
 
 Japanese do it like this with both hands: <https://www.youtube.com/watch?v=EoGGexQjDfA>
-
-## Food
-
-- https://en.wikipedia.org/wiki/Rice_paper Vietnamese. Must put into water for 15 seconds before using.
 
 ## Food etiquette
 
@@ -194,14 +200,22 @@ I hear and I forget. I see and I remember. I do and I understand.
 
 ### Websites
 
--   <https://en.wikipedia.org/wiki/CSDN>
-
-    <http://csdn.net/>
-
-    10M people developer community.
-
 -   <https://en.wikipedia.org/wiki/Zhihu>
 
     <http://www.zhihu.com>
 
     Q&A, like Quora.
+
+### Programming
+
+-   <http://www.quora.com/Is-there-a-Chinese-version-of-Stackoverflow-com>
+
+-   <http://v2ex.com/>
+
+    <https://twitter.com/Livid>
+
+-   <https://en.wikipedia.org/wiki/CSDN>
+
+    <http://csdn.net/>
+
+    10M people developer community.

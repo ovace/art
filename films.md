@@ -218,6 +218,14 @@ Note: 4
 
 Sucks. Too much cheap psychology, too little action. I only finished it because I was in the cinema with my GF...
 
+#### Munich 2005
+
+https://en.wikipedia.org/wiki/Munich_%28film%29
+
+Note: 7.
+
+Good, but greatly weakened by the fake French freelance intelligence sellers "Le Group": http://www.slate.com/articles/news_and_politics/life_and_art/2005/12/the_history_behind_munich.html
+
 ## Documentary
 
 ### Ambassador 2011

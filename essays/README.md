@@ -8,6 +8,7 @@
         1.  [Falun Gong persecution zh](falun-gong-persecution-zh.md)
     1.  [Open Sourcer meets B2B](open-sourcer-meets-b2b.md)
         1.  [People with my family name](people-with-my-family-name.md)
+1.  [Replace mailing lists with bug trackers](replace-mailing-lists-with-bug-trackers.md)
 1.  Learning
     1.  [How to learn anything](how-to-learn-anything.md)
     1.  [How to become a good programmer](how-to-become-a-good-programmer.md)

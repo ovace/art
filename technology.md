@@ -2,6 +2,8 @@
 
 Computer specifics not here.
 
+-   <https://en.wikipedia.org/wiki/Sterile_Cockpit_Rule> Human factors.
+
 -   <https://en.wikipedia.org/wiki/Fingerprint> Weight of a fingerprint.
 
 -   <https://en.wikipedia.org/wiki/5_Whys>

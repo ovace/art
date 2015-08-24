@@ -10,8 +10,6 @@ To succeed in creation: be half action, half planing. (2014-03, while developing
 
 We all need a spice of madness to take on the madness that is the world.
 
-The joys of programming. Taking 2 hours to write a program that will run for 1s to accomplish a task you could do stupidly in 5 minutes.
-
 Without technology, one cannot survive. Without art, one cannot live.
 
 Why do countries with the term "Democratic" or related on their official name, tend to be the least democratic? **People**'s Republic of China, "**Democratic** Republic of Congo".

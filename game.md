@@ -1,5 +1,9 @@
 # Game
 
+-   <http://www.gog.com/> Java Script games.
+
+-   <https://en.wikipedia.org/wiki/Immersion_v._Sony>
+
 -   <https://en.wikipedia.org/wiki/Monopoly_%28game%29> The game Monopoly was initially a critic on monopolies!
 
 -   <https://en.wikipedia.org/wiki/The_Goat_Puzzle>

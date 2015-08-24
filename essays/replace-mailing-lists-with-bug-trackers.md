@@ -4,6 +4,8 @@
 
 I am talking to you, big fundamental projects from last century: Linux Kernel GCC https://gcc.gnu.org/lists.html , Binutils https://sourceware.org/binutils/
 
+Some of you are already using Bugzilla for the bugs, so kudos. But if you've seen their benefit, why you still use the mailing list for patches?
+
 Your tooling is still on the last century. There are better tools out there. E.g.: GitLab, GitHub, etc.
 
 Why?

@@ -2,6 +2,16 @@
 
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+-   <https://www.lelo.com/earl> Golden vibrator!!
+
+-   <https://en.wikipedia.org/wiki/Magnetizer>
+
+-   <http://www.imfdb.org/wiki/Main_Page> Wiki dedicated to weapons in movies!
+
+-   <http://www.theguardian.com/world/2013/nov/04/california-police-body-cameras-cuts-violence-complaints-rialto>
+
+    <http://www.wolfcomusa.com/> seller publicity says shows a reenactment of a policeman having to shot a suspect, and ends with: "So that you don't have to spend Millions proving the truth."
+
 -   <http://gay-or-straight.com/>
 
 -   <https://en.wikipedia.org/wiki/Folly>

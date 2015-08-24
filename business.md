@@ -177,6 +177,10 @@ Similarly to stock, derivative markets have been created to give liquidity to de
 
 ## Stock exchange
 
+-   <https://en.wikipedia.org/wiki/Earnings_call>
+
+    <https://investor.google.com/webcast.html>
+
 <http://en.wikipedia.org/wiki/Stock_exchange>
 
 Market for stock trading.

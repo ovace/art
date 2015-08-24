@@ -1,5 +1,7 @@
 # Food
 
+-   <https://en.wikipedia.org/wiki/Horchata>. I've tried it made of Chufa: <https://en.wikipedia.org/wiki/Cyperus_esculentus> Not very good, but interesting.
+
 -   <https://en.wikipedia.org/wiki/Virgin_boy_egg> 童子蛋 literally boy's egg, cooked in urine of young boys.
 
 -   <https://en.wikipedia.org/wiki/Toast_sandwich> British.
@@ -80,3 +82,12 @@
 
     Eating insects.
 
+## China
+
+-   liang ban mian
+
+-   <https://en.wikipedia.org/wiki/Matcha
+
+-   There are mooncakes made of <https://en.wikipedia.org/wiki/Jinhua_ham>
+
+-   <https://en.wikipedia.org/wiki/Rice_paper> Vietnamese. Must put into water for 15 seconds before using.

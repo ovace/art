@@ -16,4 +16,6 @@ Funniest first.
 
     Brazilian and tech related like me, but mostly sales / content now it seems. HP in the US.
 
-<http://en.wikipedia.org/wiki/Ivana_Santilli>. Canadian singer. Pop-electric-chill: <https://www.youtube.com/watch?v=hQRuVN0H8dM>.
+-   <http://en.wikipedia.org/wiki/Ivana_Santilli>. Canadian singer. Pop-electric-chill: <https://www.youtube.com/watch?v=hQRuVN0H8dM>.
+
+-   <https://www.youtube.com/user/PeterSantilliTV> <http://petersantilli.com/> Journalism channel with 40k subscribers. A bit shady.

@@ -39,16 +39,14 @@ Bad:
 
 ## Self advertising
 
-Besides being good, you also have to convince people of it
-so that you can get better jobs and achieve your goals.
+Besides being good, you also have to convince people of it so that you can get better jobs and achieve your goals.
 
 Make a web page containing:
 
 - a list of you open source contributions: <http://www.cirosantilli.com/contrib/>
 - a self evaluation of your knowledge: <http://www.cirosantilli.com/self-evaluation/>
 
-Always search accounts / blogs of who makes software you like:
-they are potential teammates or supporters.
+Always search accounts / blogs of who makes software you like: they are potential teammates or supporters.
 
 ### Consistent public image
 
@@ -104,6 +102,17 @@ Contribute to prestigious projects:
 
 Pay huge attention to **security**. Hard to get right, and a single error can cost millions.
 
+## TODO list
+
+Maintain a file with a TODO list.
+
+Whenever you have a new idea, or want to learn something, do the following:
+
+- can it be done in 5 minutes? Do it now.
+- otherwise, add it to the TODO
+
+Put most important things first on the file. When you do them, delete the entry.
+
 ## Standards
 
 When you start learning something, immediately start trying to understand its standards.
@@ -139,9 +148,7 @@ This is a common mistake amongst beginners. You have a problem that has 2 parts.
 
 When debugging, try hard to reduce the problem to the minimal number of parts possible.
 
-This hugely increases the probability that you will find a solution,
-and if you don't and ask a question on a public forum,
-this hugely increases the likely utility of the question for further readers.
+This hugely increases the probability that you will find a solution, and if you don't and ask a question on a public forum, this hugely increases the likely utility of the question for further readers.
 
 There is even a website dedicated to explaining that to newbs that you can link to: <http://sscce.org/>
 
@@ -157,9 +164,20 @@ Use a dotfiles on GitHub.
 
 General tools and applied topics which you should consider learning.
 
-But do not forget: algorithms are as important than tools,
-since a single algorithm can be used by one thousand tools.
-The ideal is to take a middle path and learn both.
+But do not forget: algorithms are as important than tools, since a single algorithm can be used by one thousand tools. The ideal is to take a middle path and learn both at the same time:
+
+- learn the tools first to see how things are useful
+- learn the theory to see why the tool is made that way, how to improve it, and what are it's theoretical limitations
+
+### Where tools come from
+
+Tools are not magic esoteric objects given by God to man.
+
+Every piece of software has been code by some human at some point in time.
+
+Understanding where the tool comes from, who created it, in which package it is distributed, can give you great insight about what it does.
+
+Whenever you use a command line utility on Ubuntu, check what package it comes from.
 
 ### OS choice
 

@@ -2,6 +2,10 @@
 
 War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff, which I wish did not happen.
 
+-   <http://blogs.rollcall.com/five-by-five/throwbackthursday-why-the-pentagon-has-five-sides/>
+
+-   <https://en.wikipedia.org/wiki/White_phosphorus>
+
 -   <https://en.wikipedia.org/wiki/Killed_in_action>
 
 -   <https://en.wikipedia.org/wiki/False_flag>
@@ -49,6 +53,8 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
 -   <http://en.wikipedia.org/wiki/Munich_massacre> by <http://en.wikipedia.org/wiki/Black_September_%28group%29> All 11  hostages killed and 5 of 8 terrorists killed.
 
     3 survivors released after <http://en.wikipedia.org/wiki/Lufthansa_Flight_615>, where demands were met. <http://en.wikipedia.org/wiki/Muammar_Gaddafi> gave asylum to the liberated hijackers.
+
+    As shown in <https://en.wikipedia.org/wiki/Munich_%28film%29>, some people managed to escape. One of them came back with a kitchen knife and managed to take down one terrorist, but then got shot and died.
 
 -   <http://en.wikipedia.org/wiki/Air_France_Flight_8969>
 
@@ -177,6 +183,10 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
     There are also gun producers who claim to do it for an anarchism philosophy in which an armed society is fairer because the government cannot oppress it.
 
 ## Spy
+
+-   <http://www.imfdb.org/wiki/Assassination_Device>
+
+    <https://en.wikipedia.org/wiki/Improvised_firearm#Cryptic_firearms>
 
 -   <https://en.wikipedia.org/wiki/Illegals_Program>
 

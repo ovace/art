@@ -1,5 +1,23 @@
 # Computer
 
+-   CPU reverse engineer
+
+    6502:
+
+    -   <http://www.visual6502.org/>, presentation: <http://media.ccc.de/browse/congress/2010/27c3-4159-en-reverse_engineering_mos_6502.html#video&t=2089>
+
+        Was used by NES.
+
+        Removing the epoxy from chip carrier to expose the die: <https://www.youtube.com/watch?v=mT1FStxAVz4>
+
+        Transparent packaging: <https://en.wikipedia.org/wiki/File:Microchips.jpg>
+
+    <http://reverseengineering.stackexchange.com/questions/5878/reverse-engineering-modern-intel-cpus>
+
+-   <https://www.kernel.org/doc/Documentation/x86/intel_mpx.txt>
+
+    Intel has software for features which are not yet supported in any CPU and only exist in their emulator: <https://software.intel.com/en-us/articles/intel-software-development-emulator>
+
 -   Open source bug voting systems (+1: I want this feature) are the purest basis of democracy: you want something done you upvote it to increase the probability.
 
     Only those who want it will come and find the proposals. No bureaucracy.

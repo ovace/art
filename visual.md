@@ -21,3 +21,7 @@ Painting, sculpture, dance.
     <http://en.wikipedia.org/wiki/Shepard_tone>
 
     <http://en.wikipedia.org/wiki/Barberpole_illusion>
+
+## Photography
+
+-   <https://en.wikipedia.org/wiki/Full-spectrum_photography>

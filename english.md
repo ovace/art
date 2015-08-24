@@ -1,6 +1,12 @@
 # English
 
-As an "advanced" non native speaker, I always learn a few new terms every month.
+As an "advanced" non-native speaker, I always learn a few new terms every month.
+
+-   <https://en.wikipedia.org/wiki/Caucus>
+
+-   <https://en.wikipedia.org/wiki/Numeracy>
+
+-   <https://en.wikipedia.org/wiki/Standing_ovation>
 
 -   <https://en.wikipedia.org/wiki/Slam_dunk> Sure outcome.
 

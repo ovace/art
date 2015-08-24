@@ -21,6 +21,72 @@ Options:
 
 ## Words
 
+## 牺牲 xi1 sheng1
+
+To sacrifice.
+
+牲 is livestock animal, so likely the origin are animal sacrifices for the gods.
+
+牺 is strongly linked to sacrifice. Cow and alcohol.
+
+To sacrifice for: wei2
+
+他为救落水儿童牺牲了。  
+
+Tā wèi jiù luòshuǐ'értóng xīshēngle.
+
+He lost his life saving the drowning child. 
+
+## 采访 cai3 fang3
+
+To interview.
+
+cai is to collect.
+
+## 活 huo2
+
+Less common sense: Product.
+
+## 假装 jia3 zhuang1
+
+Pretend.
+
+zhuang in the sense of "adorn".
+
+## 表情 biao3 qinq2
+
+(facial) expression.
+
+表情帝 biao3 qing2 di4 (king of facial expression): https://www.youtube.com/watch?v=JimpRoR_AkY
+
+## 暴 bao4
+
+bao4 yu3: torrential rain
+
+bao4 li1: violence
+
+feng1 bao4: storm, serious crisis
+
+## 对折 dui4 zhe2
+
+50% discount.
+
+zhe2 as in da3 zhe2
+
+dui4 as in yi1 dui4, a pair
+
+## 记者 ji1 zhe3
+
+Journalist.
+
+记 ji1 as in 记得 ji1 zhe3 remember
+
+## 支持 zhi1 chi2
+
+Support (someone).
+
+Antonym: 反对 fan3 dui4
+
 ### 固定 gu4 ding4
 
 Fixed, pre-determined without possibility of change, to fix (a date).

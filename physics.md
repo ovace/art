@@ -33,6 +33,8 @@ Physics, chemistry, astronomy, geology.
 
     Formed by the Big Bang, half life big enough to be observable today on Earth.
 
+-   https://www.youtube.com/watch?v=Oke8GinWDG8 Fun with phosphorus.
+
 ## Astronomy
 
 -   https://en.wikipedia.org/wiki/Pioneer_plaque
@@ -205,3 +207,13 @@ Physics, chemistry, astronomy, geology.
 -   Gyroscopes
 
     - <https://www.youtube.com/watch?v=GeyDf4ooPdo>
+
+### DIY
+
+-   CD spectrometer: <https://www.youtube.com/watch?v=ZowYVDQDDZ4>
+
+-   SpectraSnapp <https://www.youtube.com/watch?v=FJ1xOWl5Axk>
+
+## Solid state
+
+-   <https://en.wikipedia.org/wiki/Meissner_effect>

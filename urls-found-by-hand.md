@@ -108,12 +108,20 @@ Google:
 GitHub:
 
 - <http://readme.md/> to some guys project
+- <http://git.io/>: GitHub url shortener
 
 Countries:
 
 - <http://brazil.com/>
 - <http://usa.com/>
 - <http://uk.com/>
+
+Learning:
+
+- <http://study.com/>
+- <http://learn.com/>
+- <http://teach.com/>
+- <http://alphabet.com>: BMW. Google should covet this as in 2015 it changed names.
 
 Misc:
 

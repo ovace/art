@@ -1,5 +1,9 @@
 # Law
 
+-   <https://en.wikipedia.org/wiki/Safe_harbor_%28law%29>
+
+-   <https://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc.> <https://en.wikipedia.org/wiki/First-sale_doctrine>
+
 -   <https://en.wikipedia.org/wiki/Trial_in_absentia>
 
 -   <http://www.idiotlaws.com/6-dildo-limit/>

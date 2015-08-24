@@ -112,6 +112,12 @@ Good psychological analysis of characters.
 
 Optimistic.
 
+## Julian
+
+<https://en.wikipedia.org/wiki/Julian_%28novel%29>
+
+Eunuch's voices are like that of children, and disarm others unconsciously. This makes them powerful politicians.
+
 ## Trivia
 
 - <https://en.wikipedia.org/wiki/Autobiography_of_Mark_Twain>: took 100 years to be released.
@@ -125,7 +131,6 @@ Optimistic.
 - <https://en.wikipedia.org/wiki/The_Call_of_the_Wild>
 - <https://en.wikipedia.org/wiki/Slaughterhouse-Five>
 - <https://en.wikipedia.org/wiki/U.S.A._%28trilogy%29> TODO find
-- <https://en.wikipedia.org/wiki/Julian_%28novel%29>
 
 TODO find
 
