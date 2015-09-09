@@ -15,3 +15,5 @@ Without technology, one cannot survive. Without art, one cannot live.
 Why do countries with the term "Democratic" or related on their official name, tend to be the least democratic? **People**'s Republic of China, "**Democratic** Republic of Congo".
 
 Financial institutions make a lot of money. As a consequence, they adopt new technologies very quickly. The very contrary of educational institutions.
+
+There is a close link between disruptive tech, and the desire to find bugs / exploits in systems. Both of them destabilize enterprises. Woz and Jobs started like that: https://en.wikipedia.org/wiki/Blue_box

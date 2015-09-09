@@ -1,5 +1,13 @@
 # Computer funny
 
+-   <https://en.wikipedia.org/wiki/The_Turk> A cheating Turing test passer.
+
+-   <https://en.wikipedia.org/wiki/TempleOS> Religious OS.
+
+-   <http://en.wikipedia.org/wiki/ReactOS>. Open source Windows clone! It's like Linux vs Unix but Windows version! Arghhh.
+
+    DOS version: <https://en.wikipedia.org/wiki/FreeDOS>
+
 -   `man xclip`:
 
         EXAMPLES
@@ -94,8 +102,6 @@
 -   <http://en.wikipedia.org/wiki/Streisand_effect>
 
 -   <http://en.wikipedia.org/wiki/Illegal_prime>
-
--   <http://en.wikipedia.org/wiki/ReactOS>. Open source Windows clone! It's like Linux vs Unix but Windows version! Arghhh.
 
 -   <http://en.wikipedia.org/wiki/Chinese_wall#Computer_science>
 

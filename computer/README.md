@@ -32,12 +32,6 @@
 
     Had never seen the second categories before, very friendly! Great idea.
 
--   <https://www.youtube.com/watch?v=PF7EpEnglgk>
-
-    Computers from the 80s had no multi-tasking.
-
-    You just put a floppy disk in, and reset it.
-
 -   <https://www.youtube.com/watch?v=XC_T5mvuguw> Bits and bytes, Canadian computer television tutorials from 1983!
 
 -   <https://en.wikipedia.org/wiki/Referer_spam>
@@ -294,11 +288,17 @@ Many versions:
 
     Founder of megaupload.com and later arrested by the FBI? Check.
 
+-   McAfee. Eccentric.
+
+    <https://en.wikipedia.org/wiki/John_McAfee>
+
+    <https://www.youtube.com/watch?v=bKgf5PaBzyg>
+
+    <https://www.youtube.com/watch?v=zIXc_GqIsE0>
+
 -   <http://en.wikipedia.org/wiki/Aaron_Swartz>
 
     Died for open source. Markdown and Reddit co-creator.
-
-    `asdf`
 
 ### Stallman
 
@@ -328,27 +328,23 @@ which is now often used as a programming principle meaning that it is better to 
 
 Letterman interview: <https://www.youtube.com/watch?v=1-vcErOPofQ>
 
-### History
-
--   <http://en.wikipedia.org/wiki/Antikythera_mechanism>
-
 ### Non silicon
 
 -   <http://highscalability.com/blog/2012/6/13/why-my-soap-film-is-better-than-your-hadoop-cluster.html>
 
-## Websites
+## History
 
-### c2 wiki
+-   <https://www.youtube.com/watch?v=yJDv-zdhzMY> Mother of all demos. 1968. Mouse.
 
-<http://c2.com/cgi/wiki?WelcomeVisitors>
+-   <https://www.youtube.com/watch?v=PF7EpEnglgk>
 
-2 letter domain!
+    Computers from the 80s had no multi-tasking or OS.
 
-The first wiki, the software is called <http://en.wikipedia.org/wiki/WikiWikiWeb>
+    You just put a floppy disk in, and reset it.
 
-Many interesting programming discussions which is its original purpose.
+-   <https://en.wikipedia.org/wiki/Apollo_Guidance_Computer> <https://www.youtube.com/watch?v=YIBhPsyYCiM>
 
-Became read-only in 2014 because of vandalism.
+-   <http://en.wikipedia.org/wiki/Antikythera_mechanism>
 
 ## Strategy
 
@@ -403,9 +399,11 @@ Useful:
 
 ## Destructive bugs
 
+-   <https://en.wikipedia.org/wiki/Therac-25> Concurrent programming bug that made radiation therapy machine kill people.
+
 -   <http://archive.wired.com/software/coolapps/news/2005/11/69355>
 
--   Ariane 5 <https://www.youtube.com/watch?v=gp_D8r-2hwk>
+-   Ariane 5 rocket crash: <https://www.youtube.com/watch?v=gp_D8r-2hwk>
 
     Overflow.
 

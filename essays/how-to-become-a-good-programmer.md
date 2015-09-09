@@ -58,17 +58,45 @@ Get a domain name based on your name, e.g. `cirosantilli.com`.
 
 ### Stack Overflow
 
-Use it. Contribute to it.
+Use it. Contribute to it. Two valid methods:
+
+-   when you are researching something, and you find an old question that does not have the perfect answer, create the perfect answer.
+
+-   monitor tags that you love.
+
+    Don't monitor overly generic tags like programming languages: too many people do that, and all new questions are duplicates or off topic.
+
+    Instead, choose niche tags, most often programming *projects* which you are working on. Very few people know about a given project, and it is there that you can really help new users.
 
 ### GitHub
 
 Use it.
 
-Upload every line of code or text you write.
+Upload *every* line of code or text you write. Including school assignments after the deadline.
 
-### Twitter
+Gains:
 
-For certain fields, specially web development, use it to find other people who work on the same domain of you.
+- don't ever lose a line of code again
+- allow the hole world to find your code
+- force yourself to write better code because it is public
+
+Write perfect READMEs and repository descriptions. Good content is useless if people cannot:
+
+- find it
+- get started in 10 seconds
+
+### Project divulgation methods
+
+You have to tell people about your projects, or else they will never find them.
+
+There is a fine line between spam and divulgation, so make sure that you post the links on very closely related threads.
+
+The best methods are:
+
+- Reddit. Either on new threads, or commenting on strictly related threads
+- Hacker News. Featureless Reddit, very popular.
+- Twitter. More personal. Keep low tweet volume to not bore your followers.
+- Stack Overflow. If your question / answer requires a multi-file input to try it out, a `git clone` will be easier for other people, and it will often fit in a cheatsheet repository.
 
 ### Open source
 
@@ -95,10 +123,11 @@ Contribute to prestigious projects:
 - databases
 - cryptography
 - compilers, interpreters and standard libraries: GCC, Python, Node.js. Garbage collection internals.
-- browser internals: JavaScript engines, rendering
-- mathematical libraries
+- Media: formats (websites, audio, videos, images), viewers
 - Git
-- 2D rendering
+- formal algorithm verification: <https://en.wikipedia.org/wiki/Formal_verification>, <http://frama-c.com/>
+- anything that requires knowing mathematics
+- formal proof systems <https://en.wikipedia.org/wiki/Formal_proof> <https://en.wikipedia.org/wiki/Coq>
 
 Pay huge attention to **security**. Hard to get right, and a single error can cost millions.
 
@@ -203,9 +232,7 @@ Learn:
     - MySQL
     - Git
 
-    Even today, when people have a library which they want to run fast and portably on every language,
-    what they do is implement it in C and let other languages bind to it,
-    including in the web development domain. E.g.:
+    Even today, when people have a library which they want to run fast and portably on every language, what they do is implement it in C and let other languages bind to it, including in the web development domain. E.g.:
 
     - <https://github.com/libgit2/libgit2> and <https://github.com/libgit2/rugged>
     - <https://github.com/sass/libsass> and <https://github.com/sass/node-sass>

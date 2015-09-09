@@ -114,7 +114,11 @@ Optimistic.
 
 ## Julian
 
+Note: 8.
+
 <https://en.wikipedia.org/wiki/Julian_%28novel%29>
+
+Maybe just slightly less good than Claudius, but still very interesting.
 
 Eunuch's voices are like that of children, and disarm others unconsciously. This makes them powerful politicians.
 

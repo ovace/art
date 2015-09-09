@@ -14,8 +14,7 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
 
 -   <http://en.wikipedia.org/wiki/NATO> The most interesting article by far is No 5: <http://en.wikisource.org/wiki/North_Atlantic_Treaty#Article_5> which was raised only once: September 11.
 
--   <https://en.wikipedia.org/wiki/Shibboleth> Words used to determine the nationality of the speaker,
-    used in many historical situations to kill people from enemy nationalities.
+-   <https://en.wikipedia.org/wiki/Shibboleth> Words used to determine the nationality of the speaker, used in many historical situations to kill people from enemy nationalities.
 
     Comes from Judges 12:5–6, NJB, where the technique was supposedly used with the Hebrew word Shibboleth.
 
@@ -247,6 +246,16 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 -   <http://en.wikipedia.org/wiki/News_International_phone_hacking_scandal>
 
 ## Cold war
+
+-   https://answers.yahoo.com/question/index?qid=20100128135153AAXT6qU
+
+    Why smack magazines on helmet.
+
+-   SAGE https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment
+
+    One of the largest early computers. IBM designed.
+
+    Official presentation video: <https://www.youtube.com/watch?v=06drBN8nlWg>
 
 -   <https://en.wikipedia.org/wiki/Operation_Northwoods>
 

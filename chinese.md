@@ -19,7 +19,23 @@ Options:
 
 - <https://addons.mozilla.org/en-US/firefox/addon/perapera-kun-chinese-popup-tra/>
 
+## Names
+
+Me: Do you know the Chinese characters of all your friends names?
+
+GF: No.
+
+Me: How do you find them on Chinese websites then?
+
+GF: Call them and ask the characters.
+
 ## Words
+
+## 親華派 qin1 hua2 pai4
+
+https://zh.wikipedia.org/wiki/%E8%A6%AA%E8%8F%AF%E6%B4%BE
+
+Sinophile. GF says it has a Pro-Communist connotation, and that the modern one is 中国发烧友
 
 ## 牺牲 xi1 sheng1
 
@@ -31,11 +47,11 @@ To sacrifice.
 
 To sacrifice for: wei2
 
-他为救落水儿童牺牲了。  
+他为救落水儿童牺牲了。
 
 Tā wèi jiù luòshuǐ'értóng xīshēngle.
 
-He lost his life saving the drowning child. 
+He lost his life saving the drowning child.
 
 ## 采访 cai3 fang3
 
@@ -297,3 +313,15 @@ Simple and good to learn.
 ## Videos
 
 -   <https://www.youtube.com/watch?v=nnx1z0iUB4Y>
+
+## Foreigners who speak well
+
+### Dashan
+
+### 大山
+
+### Mark Rowswell
+
+https://en.wikipedia.org/wiki/Dashan
+
+Also on Quora: http://www.quora.com/Mark-Rowswell

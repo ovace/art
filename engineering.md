@@ -1,5 +1,9 @@
 # Engineering
 
+- <https://www.youtube.com/watch?v=mfgsQX78hg8> 1 trillion FPS camera
+
+    Also allows to see light bounces!
+
 - <https://en.wikipedia.org/wiki/Stepper_motor>
 
 - <https://en.wikipedia.org/wiki/SMT_placement_equipment>
@@ -16,6 +20,12 @@
 
 ## Materials
 
+-   https://www.youtube.com/watch?v=Fg2WzCzKpYU Old chemist playing with large ammounts of super expensive metals like platinum output from a factory.
+
+    Same with gold: https://www.youtube.com/watch?v=CTtf5s2HFkA All gold extracted up to today would take up 20x20x20 cube meters.
+
+    Cool to see how platinum is turned into a cloth for reactions.
+
 -   https://www.youtube.com/watch?v=IjNusHQOhTM Glass
 
     https://en.wikipedia.org/wiki/Float_glass To make very flat glass, it is poured on top of liquid tin, where it floats and does not mix. This method was discovered only in the 50's.
@@ -27,6 +37,10 @@
     Main usage: electricity wires and pipes. Why used for pipes vs PVC: <http://www.ehow.com/about_6452842_copper-used-water-pipes_.html>
 
 -   https://en.wikipedia.org/wiki/Metals_of_antiquity
+
+-   Welding:
+
+    https://en.wikipedia.org/wiki/Spot_welding
 
 -   Ways to shape metal:
 

@@ -24,6 +24,8 @@ I might include Japanese / Korean / Vietnamese stuff here too because they are a
 
 -   <https://en.wikipedia.org/wiki/Shennong>
 
+-   <https://en.wikipedia.org/wiki/Crosstalk_%28comedy%29> <http://chinese.stackexchange.com/questions/786/what-is-the-meaning-of-%E7%9B%B8%E5%A3%B0/788#788>
+
 ## Hand counting
 
 Chinese can show numbers to others up to 10 with **one hand**: <http://en.wikipedia.org/wiki/Chinese_number_gestures>. Every Chinese knows those signs and uses them instinctively.
@@ -154,6 +156,12 @@ Funny things about how Westerners have perceived and imagined China, specially i
 
 - <https://en.wikipedia.org/wiki/Lolita_fashion>
 
+### Japanese
+
+- <http://www.sljfaq.org/afaq/kanji-pronunciation.html>
+
+- <https://en.wikipedia.org/wiki/Pitch_accent>
+
 ## Korea
 
 ## Books
@@ -161,6 +169,8 @@ Funny things about how Westerners have perceived and imagined China, specially i
 On Wikipedia, always check the French page for Chinese subjects, it often has much more material than the English one.
 
 - 200 AD medicine <https://en.wikipedia.org/wiki/Shennong_Ben_Cao_Jing>
+
+- <https://zh.wikipedia.org/wiki/%E5%A1%B5%E5%9F%83%E8%90%BD%E5%AE%9A_%28%E5%B0%8F%E8%AA%AA%29> <https://en.wikipedia.org/wiki/Alai_%28author%29>
 
 ## Wisdom
 
@@ -198,7 +208,19 @@ On Wikipedia, always check the French page for Chinese subjects, it often has mu
 
 I hear and I forget. I see and I remember. I do and I understand.
 
+### Business
+
+-   <http://www.forbes.com/china-billionaires/list/>
+
 ### Websites
+
+General info:
+
+-   http://www.quora.com/Why-do-so-many-Chinese-websites-use-numbers-in-their-domain-names
+
+Communication:
+
+-   <http://www.quora.com/Whats-the-most-famous-social-networking-site-in-China>
 
 -   <https://en.wikipedia.org/wiki/Zhihu>
 
@@ -206,7 +228,19 @@ I hear and I forget. I see and I remember. I do and I understand.
 
     Q&A, like Quora.
 
-### Programming
+-   <https://en.wikipedia.org/wiki/NetEase> Also offers email, top chinese email on GitHub.
+
+Ecommerce:
+
+-   <https://en.wikipedia.org/wiki/JD.com>
+
+Email domains: <http://www.quora.com/Who-are-the-top-5-email-providers-in-China>
+
+-   qq.com
+-   163.com
+-   126.com
+
+#### Programming
 
 -   <http://www.quora.com/Is-there-a-Chinese-version-of-Stackoverflow-com>
 
@@ -219,3 +253,9 @@ I hear and I forget. I see and I remember. I do and I understand.
     <http://csdn.net/>
 
     10M people developer community.
+
+-   <http://www.jobbole.com/>
+
+    TODO recruiting of some kind? "bole" is "talent finder"
+
+-   https://github.com/lifesinger/lifesinger.github.com/issues Why so many followers?

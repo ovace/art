@@ -184,7 +184,7 @@ On its primary page for the This Is Spinal Tap, IMDb displays the user rating fo
 
 As a consequence of the film, real bands and musicians started buying equipment whose knobs went up to 11, or even higher, with Eddie Van Halen reputedly being the first to do so.
 
-#### General Idi Amin Dada 1974
+### General Idi Amin Dada 1974
 
 <http://en.wikipedia.org/wiki/General_Idi_Amin_Dada:_A_Self_Portrait>: because he did not like the editing of the film, he rounded up 200 French citizens in Uganda and threatened to kill them unless the film was edited as he liked it.
 
@@ -218,13 +218,31 @@ Note: 4
 
 Sucks. Too much cheap psychology, too little action. I only finished it because I was in the cinema with my GF...
 
-#### Munich 2005
+### Munich 2005
 
 https://en.wikipedia.org/wiki/Munich_%28film%29
 
 Note: 7.
 
 Good, but greatly weakened by the fake French freelance intelligence sellers "Le Group": http://www.slate.com/articles/news_and_politics/life_and_art/2005/12/the_history_behind_munich.html
+
+### Bicentennial man 1999
+
+https://en.wikipedia.org/wiki/Bicentennial_Man_%28film%29
+
+Note: 7.
+
+Reviews were very bad, but my GF recommended and I found it really not bad!
+
+This falls in our view intersection: it has the tech component which interests us both, and a certain "the world has a fixed order", "people are simple faceted" type of feel good American feeling which soothes us.
+
+### Full Metal Jacket
+
+https://en.wikipedia.org/wiki/Full_Metal_Jacket
+
+Note: 7, 8 for the training first half.
+
+The only thing that spoils the training half is Pyle. His madness feels too fake and visible.
 
 ## Documentary
 

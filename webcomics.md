@@ -22,6 +22,7 @@
     - <http://xkcd.com/977/>: maps
     - <http://xkcd.com/978/>: citogenesis
     - <http://xkcd.com/980/huge>: amazing money usage chart
+    - <http://xkcd.com/1168>: tar command
     - <http://xkcd.com/1172>: workflow head spacebar
     - <http://xkcd.com/1185>: ineffective sorts
 

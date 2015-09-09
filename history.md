@@ -2,6 +2,10 @@
 
 History, anthropology.
 
+-   <https://en.wikipedia.org/wiki/Before_Present>.
+
+    Not actually present, but before 1950 when radio carbon dating was created...
+
 -   <https://en.wikipedia.org/wiki/Exploration_of_Africa#Antiquity>
 
     First round trip of Africa was in -600. Took 3 years.

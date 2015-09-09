@@ -24,8 +24,6 @@ Sun also talked to IBM when selling out: <http://en.wikipedia.org/wiki/Sun_acqui
 
 ## Intel
 
-<http://en.wikipedia.org/wiki/McAfee>
-
 Founders were ex-Fairchild.
 
 Started as a memory manufacturer, and grew in the 80's by supplying IBM with chips.
@@ -56,11 +54,21 @@ Shareholder number 2 at the IPO <http://en.wikipedia.org/wiki/Mike_Markkula> was
 
 Apple only transitioned to Intel chips in 2005, from it's older <http://en.wikipedia.org/wiki/PowerPC> (Apply / IBM / Motorola alliance made). So *this* is where PowerPC on the Linux kernel tree comes from.
 
+<https://en.wikipedia.org/wiki/Integrated_Woz_Machine>
+
 ## Fairchild
 
 Father of Intel and AMD.
 
 <http://en.wikipedia.org/wiki/Traitorous_eight>
+
+## HP
+
+-   <http://www.hp.com/hpinfo/abouthp/histnfacts/museum/earlyinstruments/0002/>
+
+    Their first product was the master thesis of the founder.
+
+    They've named it 200A istead of 001 or something, to make it seems like they had been around in business for some time.
 
 ## Google
 

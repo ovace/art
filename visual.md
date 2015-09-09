@@ -22,6 +22,10 @@ Painting, sculpture, dance.
 
     <http://en.wikipedia.org/wiki/Barberpole_illusion>
 
+## Performance
+
+-   <https://en.wikipedia.org/wiki/Poi_%28performance_art%29>
+
 ## Photography
 
 -   <https://en.wikipedia.org/wiki/Full-spectrum_photography>

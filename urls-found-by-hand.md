@@ -37,7 +37,8 @@ Computers:
 
 - <http://bytes.com>
 - <http://pc.com>: Intel
-- <http://mac.com>: apple.con
+- <http://mac.com>: apple.com
+    - <http://me.com/>: iCloud
 - <http://site.com>: Salesforce
 - <http://www.website.com/>
 - <http://xml.com/>: O'Reilly
@@ -49,9 +50,9 @@ Computers:
     - <http://virus.com/>
     - <http://hack.com>. 2015-04: redirects to yeah.com
 - <https://jazz.net/>: IBM project management with Git repositories
+- <http://cloud.com>: Citrix
 
 Interjections and particles:
-
 
 - <http://yes.com> redirects to <http://rew.fm/>, empty
 - semi-empty:

@@ -25,10 +25,6 @@ Physics, chemistry, astronomy, geology.
     - inside supernovas: up to plutonium.
     - <http://en.wikipedia.org/wiki/Cosmic_ray_spallation>. Explains extra abundance of certain light elements.
 
--   <http://en.wikipedia.org/wiki/Plutonium>
-
-    First discovered as a byproduct of nuclear reactions, then found in trace quantities in nature.
-
 -   <http://en.wikipedia.org/wiki/Primordial_element>
 
     Formed by the Big Bang, half life big enough to be observable today on Earth.
@@ -184,6 +180,28 @@ Physics, chemistry, astronomy, geology.
     - https://en.wikipedia.org/wiki/Near-Earth_supernova
 
     - https://en.wikipedia.org/wiki/Kepler%27s_Supernova 1606, largest and only certain one to be seen, 20k light years away. Lasts months.
+
+## Chemistry
+
+-   <https://www.youtube.com/watch?v=E5p2yooC5fY> Liquid nitrogen triple point with vacuum pump.
+
+-   <http://en.wikipedia.org/wiki/Plutonium>
+
+    First discovered as a byproduct of nuclear reactions, then found in trace quantities in nature.
+
+    It decays too fast. It was first produced in considerable quantities in the 40's for the atomic bombs, where it was used.
+
+    Guys talking about plutoinum: <https://www.youtube.com/watch?v=89UNPdNtOoE>
+
+    Interesting point: scientist wearing glove was pierced by a contamined needle. For the next 50 years, plutonium could be detected in his urine.
+
+    <https://en.wikipedia.org/wiki/Hanford_Site>
+
+    Costs 4400 dollars per gram: <http://hypertextbook.com/facts/2008/AndrewMorel.shtml> Platinium is 33 :-)
+
+    Produces helium from reations, which builds up pressure, and must be accounted for.
+
+    <https://www.reddit.com/r/todayilearned/comments/1o2fod/til_that_in_during_wwii_cambridge_professor_alfie/>
 
 ## Geology
 

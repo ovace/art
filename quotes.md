@@ -1,5 +1,14 @@
 # Quotes
 
+<http://fakebuddhaquotes.com/the-thought-manifests-as-the-word-the-word-manifests-as-the-deed-the-deed-develops-into-habit-and-habit-hardens-into-character/> <http://quoteinvestigator.com/2013/01/10/watch-your-thoughts/>
+
+    Your beliefs become your thoughts,
+    Your thoughts become your words,
+    Your words become your actions,
+    Your actions become your habits,
+    Your habits become your values,
+    Your values become your destiny.”
+
 The world is my country, science my religion. Maybe <https://en.wikiquote.org/wiki/Christiaan_Huygens>
 
 Make something foolproof and only a fool will want to use it. (GDB forum tagline)
