@@ -2,6 +2,8 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wiktionary.org/wiki/moniker>
+
 -   <https://en.wikipedia.org/wiki/Caucus>
 
 -   <https://en.wikipedia.org/wiki/Numeracy>

@@ -48,6 +48,8 @@ Social movements and practices.
 
 ## Closed societies
 
+-   <https://www.youtube.com/watch?v=W2Cv5hZfOmk> <https://en.wikipedia.org/wiki/Vissarion>
+
 -   <https://en.wikipedia.org/wiki/Bohemian_Grove>
 
 -   <http://en.wikipedia.org/wiki/Lions_Clubs_International>

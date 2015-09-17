@@ -131,6 +131,18 @@ Contribute to prestigious projects:
 
 Pay huge attention to **security**. Hard to get right, and a single error can cost millions.
 
+### Analytics
+
+Whenever one person somehow notices you and views your profile, try to discover where this person found you.
+
+If often happens that someone has shared your content.
+
+On your personal webpage, use Google Analytics.
+
+On GitHub, use `/graphs/traffic` whenever you get an upvote for a low voted repository.
+
+Keep public track of all sources that mentioned you. On GitHub, I often use the repository wiki for that.
+
 ## TODO list
 
 Maintain a file with a TODO list.

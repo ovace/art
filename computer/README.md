@@ -174,8 +174,6 @@
 
         GitHub added a special banner on the last commit of an influential Ruby programmer before he died on he same day of a heart attack.
 
--   <http://mrdoob.com/#/147/google_space> super cool 2D physical simulation
-
 -   <http://en.wikipedia.org/wiki/Michael_Widenius> The creator of MySQL loves naming projects after his children! Another Finnish powerhouse.
 
 -   "Atwood's Law" (SO): any application that can be written in JavaScript will eventually be written in JavaScript.
@@ -434,3 +432,13 @@ How to find content:
 ## JavaScript demos
 
 -   <http://js1k.com/>
+
+## Simulations
+
+-   <https://www.youtube.com/watch?v=J9HaT23b-xc> balls on wood stick tower
+
+-   <http://mrdoob.com/#/147/google_space> super cool 2D physical simulation
+
+## Rendering
+
+TODO

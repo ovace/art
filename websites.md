@@ -13,6 +13,15 @@ Quotes:
 - <http://quoteinvestigator.com/>
 - <http://fakebuddhaquotes.com/>
 
+Fake news:
+
+- <http://www.theonion.com/>
+- <http://www.miniharm.com/>
+
+<https://archive.org/web/>:
+
+- <http://ir.lawnet.fordham.edu/flr/vol78/iss1/5/>
+
 ## c2 wiki
 
 <http://c2.com/cgi/wiki?WelcomeVisitors>

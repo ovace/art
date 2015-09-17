@@ -63,33 +63,9 @@ Watched: 2015-05
 
 A bit exaggerated like most series, but did teach me a few things about politics and the Romans.
 
-## Webseries
+### Narcos 2015
 
-## YouTube
-
-`EEVBlog` https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ
-
-ProJared https://www.youtube.com/user/DMJared
-
-OskarPuzzle https://www.youtube.com/channel/UCGJykI0BRfFV044deqERlxQ
-
-### Angry Video Game Nerd
-
-- <https://www.youtube.com/watch?v=fs2wczJXETM>
-
-### Gaming historian
-
-<https://www.youtube.com/watch?v=XdeDtiobyNc>
-
-### Happy video game nerd
-
-<https://www.youtube.com/user/lophatjello/videos?shelf_id=0&view=0&sort=p>
-
-### Epic rap battles of history
-
-- <https://www.youtube.com/watch?v=dX_1B0w7Hzc> Jobs
-- <https://www.youtube.com/watch?v=dX_1B0w7Hzc> Obama
-- <https://www.youtube.com/watch?v=ZT2z0nrsQ8o> Stalin
+- bad guys need to get luck every time, good guys only once (police vs mafia)
 
 ## TODO
 

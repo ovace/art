@@ -183,6 +183,10 @@ Physics, chemistry, astronomy, geology.
 
 ## Chemistry
 
+-   <https://www.youtube.com/watch?v=rZf6tZs5Fjk>
+
+-   <https://www.youtube.com/watch?v=fyK6kPi8k78> D2O, lots of chemistry. 500 a liter.
+
 -   <https://www.youtube.com/watch?v=E5p2yooC5fY> Liquid nitrogen triple point with vacuum pump.
 
 -   <http://en.wikipedia.org/wiki/Plutonium>

@@ -153,5 +153,3 @@ Google will *not* rank those well, you have to search in them:
 - http://libgen.org (down 2015)
 - http://bookfi.org (Russian interface)
 - http://bookzz.org looks like an English clone of bookfi
-
-https://www.reddit.com/r/Piracy/

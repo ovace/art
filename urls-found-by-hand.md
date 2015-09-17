@@ -1,5 +1,9 @@
 # URLs found by hand
 
+URLs that could have been found by hand.
+
+But I've cheated just added many of them after seeing the website somewhere.
+
 - <http://about.com/>, <http://en.wikipedia.org/wiki/About.com>
 - <http://love.com/>
 - <http://com.com/>
@@ -51,6 +55,8 @@ Computers:
     - <http://hack.com>. 2015-04: redirects to yeah.com
 - <https://jazz.net/>: IBM project management with Git repositories
 - <http://cloud.com>: Citrix
+- <http://download.com/>: software download
+- <http://upload.com/>
 
 Interjections and particles:
 
@@ -68,6 +74,10 @@ Math:
 - <http://primes.com/>: empty
 - <http://numbers.com/>: redirects to <http://ace.com>, which is an eBay editor best picks site
 - <http://number.com/>
+
+Science:
+
+- <http://www.space.com/> <https://en.wikipedia.org/wiki/Space.com>
 
 Vulgar:
 

@@ -18,13 +18,15 @@ Paris has one of the largest Chinese communities outside of China, and there mus
 - want the most typical dishes, **not** what the French eat, but what the **Chinese** eat
 - can eat spicy food, way more than any French person can. The term is either "zhong1 la2" for most restaurants, and "wei4 la4" for very spicy places. If you can't, learn to eat spicy, or you will miss many of the best dishes.
 
+Only order dishes with meat. Those without are not worth the money / time. Aubergine is the exception.
+
 **Traiteur**: traiteurs are simpler restaurants that let you see pre-made food and choose how big your portions will be. They are the best way to eat a cheap and balanced meal in Paris, but generally not considered *great* Chinese food.
 
 So called **"Asian"** restaurants which mix either of Chinese / Japanese / Vietnamese / Thai are very rarely very good. Conversely, restaurants that specialize in a single region of China are more likely to be good (bot not certainly good). It is already difficult to do the cuisine for one part of China well, imagine for multiple countries.
 
 ### List
 
--   Chez Yong (鼎鼎香)
+-   Chez Yong (Ding Ding Xiang, 鼎鼎香)
 
     42, rue de la Colonie - 75013 Paris
 
@@ -46,8 +48,9 @@ So called **"Asian"** restaurants which mix either of Chinese / Japanese / Vietn
 
     29 rue de Charenton - 75012 Paris
 
-    - Fried octopus.
-    - Shui zhu niu rou.
+    - Fried octopus
+    - Shui zhu niu rou
+    - Anything with intestines
 
 -   Le Céleste Gourmand (福来居, fu lai ju)
 
@@ -65,10 +68,25 @@ So called **"Asian"** restaurants which mix either of Chinese / Japanese / Vietn
 
     25 euros / person.
 
+-   Autour du Yangtse (食尚煮意)
+
+    12 Rue du Helder - 75009 Paris
+
+    - Marmite de poisson et de tofu (豆花鱼)
+    - Saliva chiken (口水鸡)
+    - Aubergines farcies sur plaqua chauffante (铁板脆皮茄)
+
+    <http://www.autourduyangtse.com/>
+
+-   Deux Fois Plus De Piment (绝代双椒)
+
+    Address: 33 Rue Saint-Sébastien - 75011 Paris
+
+    Sichuan style.
+
 -   Hakka Home
 
-    3 Rue Voltaire
-    75011 Paris
+    3 Rue Voltaire - 75011 Paris
 
     Food from the Hakka people <https://en.wikipedia.org/wiki/Hakka_people>
 
@@ -81,11 +99,11 @@ So called **"Asian"** restaurants which mix either of Chinese / Japanese / Vietn
     - Galettes croustillantes au canard. Shi zi tou.
     - Sweet fish （Song shu gui yu 松鼠桂鱼)
 
--   Deux Fois Plus De Piment (绝代双椒)
+-   Le Pont de Yunnan (滋味云南)
 
-    Address: 33 Rue Saint-Sébastien - 75011 Paris
+    15 Rue Notre Dame de Lorette, 75009
 
-    Sichuan style.
+    Great food, but we had a bad service experience: got kicked out too early, even with a reservation.
 
 -   Tien Hiang (天香)
 
@@ -97,16 +115,6 @@ So called **"Asian"** restaurants which mix either of Chinese / Japanese / Vietn
 
     Chinese vegetarians are rare. In theory, the origin of the food in this restaurant is Hong Kong Buddhism (Buddhist monks cannot eat meat, while other believers can.)
 
--   Autour du Yangtse (食尚煮意)
-
-    12 Rue du Helder - 75009 Paris
-
-    - Marmite de poisson et de tofu (豆花鱼)
-    - Saliva chiken (口水鸡)
-    - Aubergines farcies sur plaqua chauffante (铁板脆皮茄)
-
-    <http://www.autourduyangtse.com/>
-
 -   Likafo (利口福酒家)
 
     39 Avenue de Choisy - 75013 Paris
@@ -117,7 +125,7 @@ So called **"Asian"** restaurants which mix either of Chinese / Japanese / Vietn
 
 ### Tier 2
 
-Cheaper / simpler restaurants that are really worth it:
+Cheaper / simpler restaurants that are really worth it if you want to not be hungry, but not worth it if you want eat exceptional food:
 
 -   SUCREPICE
 

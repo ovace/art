@@ -26,6 +26,10 @@ I might include Japanese / Korean / Vietnamese stuff here too because they are a
 
 -   <https://en.wikipedia.org/wiki/Crosstalk_%28comedy%29> <http://chinese.stackexchange.com/questions/786/what-is-the-meaning-of-%E7%9B%B8%E5%A3%B0/788#788>
 
+-   <https://zh.wikipedia.org/wiki/%E5%9D%90%E6%9C%88%E5%AD%90> <http://www.npr.org/2011/07/20/138536998/for-chinese-moms-birth-means-30-days-in-pajamas>
+
+-   <https://en.wikipedia.org/wiki/Jiangshi>, also a film genre
+
 ## Hand counting
 
 Chinese can show numbers to others up to 10 with **one hand**: <http://en.wikipedia.org/wiki/Chinese_number_gestures>. Every Chinese knows those signs and uses them instinctively.
@@ -229,6 +233,8 @@ Communication:
     Q&A, like Quora.
 
 -   <https://en.wikipedia.org/wiki/NetEase> Also offers email, top chinese email on GitHub.
+
+-   <https://en.wikipedia.org/wiki/Douban>
 
 Ecommerce:
 

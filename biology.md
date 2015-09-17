@@ -2,6 +2,10 @@
 
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   <https://en.wikipedia.org/wiki/F1_hybrid#F2_hybrid> Hybrid you get from planting back the F1, the first mix.
+
+-   <https://en.wikipedia.org/wiki/Bramble#/media/File:Brambleberries.svg> Berry graph.
+
 -   <https://en.wikipedia.org/wiki/Head_transplant>
 
 -   Proteins named after video games:

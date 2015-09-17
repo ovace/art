@@ -56,6 +56,8 @@ Apple only transitioned to Intel chips in 2005, from it's older <http://en.wikip
 
 <https://en.wikipedia.org/wiki/Integrated_Woz_Machine>
 
+<https://en.wikipedia.org/wiki/Pentalobe_screw> Even their screws are designed to prevent people from owning their products :-) Ah, looks like they are not alone: <http://www.explainxkcd.com/wiki/index.php/1474:_Screws>
+
 ## Fairchild
 
 Father of Intel and AMD.

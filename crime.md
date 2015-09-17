@@ -27,3 +27,17 @@
 -   <http://en.wikipedia.org/wiki/Wheel_clamp> Nice way to make people pay parking tickets.
 
 -   "detention during Her Majesty's pleasure": the names of English charges sound nice no matter how horrible the crimes are: <http://en.wikipedia.org/wiki/Life_imprisonment_in_England_and_Wales>
+
+-   <https://en.wikipedia.org/wiki/Medell%C3%ADn_Cartel>
+
+    <https://en.wikipedia.org/wiki/Rodrigo_Lara_Bonilla>
+
+    <https://en.wikipedia.org/wiki/Palace_of_Justice_siege>
+
+    <https://en.wikipedia.org/wiki/Quinta_de_Bol%C3%ADvar>
+
+    <https://en.wikipedia.org/wiki/Avianca_Flight_203>
+
+    <http://www.independent.co.uk/news/world/americas/pablo-escobars-son-why-i-gave-up-my-vow-of-revenge-and-work-to-reform-drug-policy-10489073.html>
+
+    <https://en.wikipedia.org/wiki/La_Catedral>

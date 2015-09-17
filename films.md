@@ -14,6 +14,7 @@ Bestof lists which I generally approve:
 - [Stock footage](https://en.wikipedia.org/wiki/Stock_footage)
 - <https://en.wikipedia.org/wiki/Slasher_film>
 - <https://en.wikipedia.org/wiki/Time-lapse_photography>
+- <https://en.wikipedia.org/wiki/Docudrama>
 
 ## Misc
 
@@ -222,7 +223,7 @@ Sucks. Too much cheap psychology, too little action. I only finished it because 
 
 https://en.wikipedia.org/wiki/Munich_%28film%29
 
-Note: 7.
+Note: 7
 
 Good, but greatly weakened by the fake French freelance intelligence sellers "Le Group": http://www.slate.com/articles/news_and_politics/life_and_art/2005/12/the_history_behind_munich.html
 
@@ -230,19 +231,29 @@ Good, but greatly weakened by the fake French freelance intelligence sellers "Le
 
 https://en.wikipedia.org/wiki/Bicentennial_Man_%28film%29
 
-Note: 7.
+Note: 7
 
 Reviews were very bad, but my GF recommended and I found it really not bad!
 
 This falls in our view intersection: it has the tech component which interests us both, and a certain "the world has a fixed order", "people are simple faceted" type of feel good American feeling which soothes us.
 
-### Full Metal Jacket
+### Full Metal Jacket 1987
 
 https://en.wikipedia.org/wiki/Full_Metal_Jacket
 
 Note: 7, 8 for the training first half.
 
 The only thing that spoils the training half is Pyle. His madness feels too fake and visible.
+
+### Apollo 13
+
+https://en.wikipedia.org/wiki/Apollo_13_%28film%29
+
+Note: 8
+
+Fact or fiction:
+
+- <http://www.universetoday.com/101531/ken-mattingly-explains-how-the-apollo-13-movie-differed-from-real-life/>
 
 ## Documentary
 
@@ -251,6 +262,14 @@ The only thing that spoils the training half is Pyle. His madness feels too fake
 Note: 7
 
 <http://en.wikipedia.org/wiki/The_Ambassador_%282011_film%29>
+
+### Moon machines 2008
+
+<https://en.wikipedia.org/wiki/Moon_Machines>
+
+Great music. Just the right length on each episode.
+
+Space Suit: 18:20: large, gigantic and humongous.
 
 ## Films I haven't watched in full but that interest me for some reason
 
