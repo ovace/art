@@ -1,41 +1,18 @@
-# Chinese
+# Words
 
-Ninja == ren3 zhe3 == 忍者. Sounds similar, same concept in Chinese.
+## 忍者 ren3 zhe3
 
-## Dictionary
+Ninja.
 
-- <http://www.slant.co/topics/2601/~what-are-the-best-free-chinese-dictionaries>
-
-Features:
-
-- `x`: sentence examples
-- `d`: character decomposition
-- `s`: words that start with character
-- `e`: words that end with character
-
-Options:
-
-- <http://www.mdbg.nent/chindict>
-
-- <https://addons.mozilla.org/en-US/firefox/addon/perapera-kun-chinese-popup-tra/>
-
-## Names
-
-Me: Do you know the Chinese characters of all your friends names?
-
-GF: No.
-
-Me: How do you find them on Chinese websites then?
-
-GF: Call them and ask the characters.
-
-## Words
+Sounds similar to English.
 
 ## 親華派 qin1 hua2 pai4
 
-https://zh.wikipedia.org/wiki/%E8%A6%AA%E8%8F%AF%E6%B4%BE
+Sinophile.
 
-Sinophile. GF says it has a Pro-Communist connotation, and that the modern one is 中国发烧友
+GF says it has a Pro-Communist connotation, and that the modern one is 中国发烧友
+
+https://zh.wikipedia.org/wiki/%E8%A6%AA%E8%8F%AF%E6%B4%BE
 
 ## 牺牲 xi1 sheng1
 
@@ -298,30 +275,40 @@ Multiply the memory usage by 2: 增加两倍内存 zeng1 jia1 liang bei nei4 cun
 
 APP, like iPhone app, is mentioned as three separate letters: 'A', 'P', 'P'. Funny.
 
-## Phrases
+### 易碎 yi4 sui4
 
-### 大义灭亲 da4 yi4 mie4 qin1
+Fragile, brittle (like glass, can break into small pieces).
 
-Punish own family if justice demands it.
+yi4 from rong3 yi4 (easy).
 
-## Songs
+## 后悔 hou4 hui3
 
-Simple and good to learn.
+To regret something that you did.
 
-王菲 - 催眠 https://www.youtube.com/watch?v=OnZhsmqOMa8
+Real life e.g.: cutting your hair too short with a razing machine.
 
-## Videos
+## 海藻 hai3 zao3
 
--   <https://www.youtube.com/watch?v=nnx1z0iUB4Y>
+Seaweed.
 
-## Foreigners who speak well
+zao3 sounds like cao3 (grass), but has nothing to do apprentely.
 
-### Dashan
+## 紫菜 zi3 cai4
 
-### 大山
+Purple vegetable. Etable alguae in general.
 
-### Mark Rowswell
+## 五毛
 
-https://en.wikipedia.org/wiki/Dashan
+<http://blockedonweibo.tumblr.com/post/12874983562/%E4%BA%94%E6%AF%9B-literally-50-cents-wumao-short-for>
 
-Also on Quora: http://www.quora.com/Mark-Rowswell
+## 一束鲜花 yi1 shu4 xian1 hua1
+
+One bouquet of flowers.
+
+## 轮胎 lun2 tai1
+
+Car tire.
+
+## 面具 mian4 ju4
+
+Mask == face + tool.

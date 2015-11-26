@@ -1,16 +1,18 @@
 # Computer
 
--   CPU reverse engineer
+-   <https://en.wikipedia.org/wiki/Bundling_of_Microsoft_Windows>
 
-    6502:
+-   <https://twitter.com/josh_wills/status/198093512149958656>
 
-    -   <http://www.visual6502.org/>, presentation: <http://media.ccc.de/browse/congress/2010/27c3-4159-en-reverse_engineering_mos_6502.html#video&t=2089>
+    Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.
 
-        Was used by NES.
+-   <https://www.linkedin.com/in/ericbaissus>
 
-        Removing the epoxy from chip carrier to expose the die: <https://www.youtube.com/watch?v=mT1FStxAVz4>
+-   <https://en.wikipedia.org/wiki/Demoscene> <https://en.wikipedia.org/wiki/Second_Reality> <https://www.youtube.com/watch?v=rFv7mHTf0nA>
 
-        Transparent packaging: <https://en.wikipedia.org/wiki/File:Microchips.jpg>
+-   <https://en.wikipedia.org/wiki/Virtual_reality#History>, popularized by <https://en.wikipedia.org/wiki/VPL_Research>
+
+-   <https://en.wikipedia.org/wiki/Nibble>
 
     <http://reverseengineering.stackexchange.com/questions/5878/reverse-engineering-modern-intel-cpus>
 
@@ -272,78 +274,6 @@ Many versions:
 
 -   Black hat, white hack, gray hat: <http://en.wikipedia.org/wiki/Hacker_%28computer_security%29#White_hat>
 
-## People
-
--   <http://en.wikipedia.org/wiki/Joel_Spolsky>, Stack Overflow co-founder.
-
--   Larry Ellison on CNN Fortune: <https://www.youtube.com/watch?v=1cYy-b7qfCE>
-
--   Kim Dotcom <http://en.wikipedia.org/wiki/Kim_Dotcom>
-
-    1.5M profit from insider trading? Check.
-
-    Number 1 player in Call of Duty 3 amongst 15M player? Check.
-
-    Founder of megaupload.com and later arrested by the FBI? Check.
-
--   McAfee. Eccentric.
-
-    <https://en.wikipedia.org/wiki/John_McAfee>
-
-    <https://www.youtube.com/watch?v=bKgf5PaBzyg>
-
-    <https://www.youtube.com/watch?v=zIXc_GqIsE0>
-
--   <http://en.wikipedia.org/wiki/Aaron_Swartz>
-
-    Died for open source. Markdown and Reddit co-creator.
-
-### Stallman
-
-"I have done your mother" reply to "what have you done?" in a context of comparison to Steve Jobs (TODO proof):
-
-> Well rude comments don't deserve replies but I'll "come at you" anyway.
-
-> Over my career I have tried to be an advocate of truely free software, I have have helped develop the GPL license, I have done most of GNU, a vital part of any system with the Linux kernel which runs on millions of computers around the world and disk space-wise is bigger, I have done your mother, and have also written and manager emacs for many years. I also have a good interest in foreign languages and Hungarian folk dancing.
-
-[a](http://exmample.com)
-
-### Jobs
-
-<http://en.wikipedia.org/wiki/Steve_Jobs>. So many interesting anecdotes.
-
-Owned 7% of Disney through the Pixar merger...
-
-### Grace Hopper
-
-<http://en.wikiquote.org/wiki/Grace_Hopper>
-
-She said:
-
-> It's easier to ask forgiveness than it is to get permission.
-
-which is now often used as a programming principle meaning that it is better to try and deal with exceptions than check if exceptions won't be raised.
-
-Letterman interview: <https://www.youtube.com/watch?v=1-vcErOPofQ>
-
-### Non silicon
-
--   <http://highscalability.com/blog/2012/6/13/why-my-soap-film-is-better-than-your-hadoop-cluster.html>
-
-## History
-
--   <https://www.youtube.com/watch?v=yJDv-zdhzMY> Mother of all demos. 1968. Mouse.
-
--   <https://www.youtube.com/watch?v=PF7EpEnglgk>
-
-    Computers from the 80s had no multi-tasking or OS.
-
-    You just put a floppy disk in, and reset it.
-
--   <https://en.wikipedia.org/wiki/Apollo_Guidance_Computer> <https://www.youtube.com/watch?v=YIBhPsyYCiM>
-
--   <http://en.wikipedia.org/wiki/Antikythera_mechanism>
-
 ## Strategy
 
 -   <http://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt>
@@ -442,3 +372,37 @@ How to find content:
 ## Rendering
 
 TODO
+
+## Open source hardware
+
+-   https://en.wikipedia.org/wiki/RISC-V
+
+    https://github.com/riscv/riscv-linux
+
+-   CPU reverse engineer
+
+    6502:
+
+    -   <http://www.visual6502.org/>, presentation: <http://media.ccc.de/browse/congress/2010/27c3-4159-en-reverse_engineering_mos_6502.html#video&t=2089>
+
+        Was used by NES.
+
+        Removing the epoxy from chip carrier to expose the die: <https://www.youtube.com/watch?v=mT1FStxAVz4>
+
+        Transparent packaging: <https://en.wikipedia.org/wiki/File:Microchips.jpg>
+
+    -   8080 (from the Soviet reversed clone) <http://zeptobars.ru/en/read/KR580VM80A-intel-i8080-verilog-reverse-engineering>
+
+## Android
+
+There is an X86 port! <http://www.android-x86.org/>
+
+## Linux
+
+### Runs Linux
+
+- http://fsckin.com/2007/11/06/20-awesome-devices-that-run-linux-but-werent-designed-to/
+
+- Sony used to support it but then removed, likely security? https://www.playstation.com/ps3-openplatform/ https://en.wikipedia.org/wiki/OtherOS
+
+- PS4 https://www.reddit.com/r/PS4/comments/2jqtcu/is_there_any_way_to_install_any_linux_distro_on/

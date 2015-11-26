@@ -1,5 +1,7 @@
 # Law
 
+-   <https://en.wikipedia.org/wiki/Mineral_rights>
+
 -   <https://en.wikipedia.org/wiki/Safe_harbor_%28law%29>
 
 -   <https://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc.> <https://en.wikipedia.org/wiki/First-sale_doctrine>

@@ -67,7 +67,7 @@ A bit exaggerated like most series, but did teach me a few things about politics
 
 - bad guys need to get luck every time, good guys only once (police vs mafia)
 
-## TODO
+## Cosmos a personal Voyage
 
 -   https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
 
@@ -84,3 +84,10 @@ A bit exaggerated like most series, but did teach me a few things about politics
     EP5 44min: mixture of atoms to make a human!
 
     EP10: 19min: reenaction of Hubble's instrumentation
+
+## Halt and catch fire 2014
+
+<https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_%28TV_series%29>
+
+- season 1: Compaq-like IBM PC cloning. Note: 8.
+- season 2: beginnings of internet, AOL like company + later on PC becomes cheap on the guy (Dell-like) Note: 7: too much emphasis on medical / personal problems vs enterprise compared to first one, thus worse.

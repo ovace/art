@@ -57,6 +57,7 @@ Computers:
 - <http://cloud.com>: Citrix
 - <http://download.com/>: software download
 - <http://upload.com/>
+- <http://www.microchip.com/>
 
 Interjections and particles:
 
@@ -79,10 +80,10 @@ Science:
 
 - <http://www.space.com/> <https://en.wikipedia.org/wiki/Space.com>
 
-Vulgar:
+Sexual:
 
 - <http://www.fuck.com/>, weird blog
-- <http://www.sex.com/> porn GIFs
+- <http://www.sex.com/> porn GIFs. There is some interesting history behind it: <https://en.wikipedia.org/wiki/Gary_Kremen#Sex.com_saga>
 - porn videos:
     - <http://pussy.com>
 - empty, all same owner:
@@ -93,6 +94,8 @@ Vulgar:
     - <http://ass.com/>
     - <http://vagina.com/>
 - <http://damn.com/>
+- <http://www.gay.com/>. Gay dating.
+- <http://www.lesbian.com/>
 
 Religious:
 
@@ -136,6 +139,5 @@ Learning:
 
 Misc:
 
-- <http://www.gay.com/>. Gay dating.
-- <http://www.lesbian.com/>
 - <http://www.military.com>
+- <http://www.fool.com/>

@@ -12,9 +12,13 @@ If you think something belongs on a list, PR. Because of the subjective nature o
     1.  [war.md](computer.md)
     1.  [Computer](computer/)
         1. [computer-funny.md](computer-funny.md)
+1.  [Film](film.md)
+    1.  [Documentary](documentary.md)
 1.  Engineering
     1. Electronics
 1.  Things which I want to say to K12 people
     1. [essays/tech-motivation-k12.md](essays/tech-motivation-k12.md)
     1. [essays/how-to-learn.md](essays/how-to-learn.md)
     1. [essays/how-to-become-a-good-programmer](essays/how-to-become-a-good-programmer)
+1.  [Applied math](applied-math.md)
+    1. [Statistics](statistics.md)

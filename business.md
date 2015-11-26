@@ -2,6 +2,10 @@
 
 Business, finance, marketing.
 
+-   <http://www.slate.com/articles/news_and_politics/explainer/2003/11/is_miss_universe_miss_worlds_boss.html>
+
+-   <https://en.wikipedia.org/wiki/Corner_office>
+
 -   <http://en.wikipedia.org/wiki/Front_companies>
 
 -   <http://en.wikipedia.org/wiki/Large_denominations_of_United_States_currency>
@@ -21,6 +25,16 @@ Business, finance, marketing.
     Gold is a staple of high liquidity product, since it can be easily melded to a standard form.
 
     Housing in areas with low desirability is a staple of low liquidity.
+
+-   <https://en.wikipedia.org/wiki/Fungibility>
+
+    Diamonds are liquid, but not fungible
+
+    Currencies are both on a country that accepts.
+
+    Foreign currencies are only fungible, but not necessarily liquid for other products on another country.
+
+    Electronics are not fungible, compared to oil or rice. Fungible physical products are called commodities.
 
 -   <http://en.wikipedia.org/wiki/List_of_commodities_exchanges>
 
@@ -175,6 +189,28 @@ This guards seller and buyer against unpredictable price variations.
 
 Similarly to stock, derivative markets have been created to give liquidity to derivatives, allowing people to buy derivative contracts from each other. Those markets are often called *commodity exchanges*, and the largest ones in the world are: <http://en.wikipedia.org/wiki/List_of_stock_exchanges#Commodity_exchanges>
 
+## Commodity
+
+Any fungible physical product that can be traded. E.g.: oil, rice, iron, etc.
+
+Non-examples:
+
+- non-fungible things: electronics (a Mac and a PC are not interchangeable), etc.
+
+## Bond
+
+<https://en.wikipedia.org/wiki/Bond_%28finance%29>
+
+A debt that can be traded.
+
+E.g.: company needs, cash today. So it sells bonds.
+
+Then an year later, it pays back twice as much to those who have the bonds.to those who have the bonds.
+
+Bonds can be traded: if you gave the company cash, and you need cash now, you can sell your bond to someone else.
+
+Compare with stock shares, which give people equity: a percentage of the companies earnings until the end of time.
+
 ## Stock exchange
 
 -   <https://en.wikipedia.org/wiki/Earnings_call>
@@ -186,6 +222,10 @@ Similarly to stock, derivative markets have been created to give liquidity to de
 Market for stock trading.
 
 The main reason of existence is increasing the liquidity of stocks.
+
+-   <https://en.wikipedia.org/wiki/Employee_stock_option> If you have it, you can later buy stock after the IPO at the current price.
+
+-   <https://en.wikipedia.org/wiki/Stock_split>: increase number of shares by splitting them up
 
 ### Opening times
 
@@ -213,15 +253,86 @@ In the past, only institutions could trade
 
 Closing price <http://www.investopedia.com/terms/c/closingprice.asp>. Value of actions when the stock closes.
 
+### Voting
+
+People who own shares, can vote on certain company decisions.
+
+TODO:
+
+-   how many shares do you need?
+
+-   there is also: <https://en.wikipedia.org/wiki/Non-voting_stock>
+
+    E.g., Apple sold that to Microsoft in 1997, to prevent hostile takeover attempts.
+
+    Often called Class A and Class B stocks.
+
+    Non-voting stock may have voting power, only it is much lower than voting.
+
+-   How is the board of directors related to stock voting power?
+
+    E.g. Apple's is here: http://www.apple.com/pr/bios/
+
+-   What can you vote on?
+
+    <http://www.investopedia.com/ask/answers/040315/what-can-shareholders-vote.asp>
+
+    Apparently only for major decisions:
+
+    - merger / acquisition
+    - major company strategy shifts
+    - stock splits
+
+#### Board of directors
+
+<https://en.wikipedia.org/wiki/Board_of_directors>
+
+Normally elected by shareholder votes.
+
+E.g.:
+
+- Apple http://www.apple.com/pr/bios/
+- Google https://investor.google.com/corporate/board-of-directors.html
+
 ### Dividend
 
 <http://en.wikipedia.org/wiki/Dividend> how much you get paid for you share.
 
-Often expressed as the percentage of the stock that is paid.
+Often expressed as the percentage of the stock that is paid, AKA "Dividend Yield".
 
 Cash is the most common form of payment, but there are also payments by other means, such as giving more shares.
 
 Companies declare individually when they will pay dividends: <http://www.investopedia.com/university/introduction-to-dividends/dividend-dates.asp> TODO what are the legal constraints? How often do companies usually do it?
+
+Check out Apple paying: <http://investor.apple.com/dividends.cfm>
+
+NASDAQ's top stocks by dividend yield: <http://www.nasdaq.com/dividend-stocks/>
+
+Companies may not even pay a dividend... Apple started in 2012 only! <http://www.dividend.com/how-to-invest/why-google-goog-doesnt-pay-a-dividend/> Stock is pure speculation then!
+
+The idea of not paying dividends is of course to reinvest, and increase the share value further.
+
+One advantage of that is that dividends are taxable, but stocks are not (but capital gains are).
+
+TODO: how are they decided? <http://smallbusiness.chron.com/decides-pay-dividends-corporation-3973.html> Not by shareholder voting it seems, only board of directors.
+
+<http://www.investopedia.com/ask/answers/12/why-do-some-companies-pay-a-dividend.asp>
+
+### Capital gains
+
+Money you make selling stocks you bought at a lower price.
+
+### Taxation of stocks
+
+<http://money.cnn.com/retirement/guide/investing_taxes.moneymag/index2.htm>
+
+### Common stock
+
+### Preferred stock
+
+<https://en.wikipedia.org/wiki/Preferred_stock>
+
+TODO?
 
 ## Marketing
 
@@ -232,3 +343,46 @@ Companies declare individually when they will pay dividends: <http://www.investo
 - <https://en.wikipedia.org/wiki/Broadsheet>
 
 - <https://en.wikipedia.org/wiki/Dayparting>
+
+## Trade secrets
+
+-   https://en.wikipedia.org/wiki/Coca-Cola_formula
+
+    https://www.worldofcoca-cola.com/explore/explore-inside/explore-vault-secret-formula/
+
+-   http://www.computerworld.com/article/2532868/computer-processors/former-intel-engineer-charged-with-stealing-trade-secrets.html
+
+-   Apple
+
+    -   https://www.quora.com/How-does-Apple-keep-secrets-so-well
+
+        The x86 and Pentagon stories are amazing.
+
+    -   http://www.cultofmac.com/233367/the-guy-who-sold-apples-lost-iphone-4-prototype-spills-all-on-reddit/
+
+## Liquidation
+
+<https://en.wikipedia.org/wiki/Liquidation>
+
+When a company is terminated, and everything it owns is sold.
+
+Shareholders get payed.
+
+The end of Halt And Catch Fire season 1 shows a cool example of that.
+
+## IPO
+
+How it works:
+
+- Great example of Twitter! <http://www.forbes.com/sites/quora/2013/11/08/how-does-ipo-pricing-work/>
+- <http://www.investopedia.com/university/ipo/ipo1.asp>
+
+## High net worth individual
+
+https://en.wikipedia.org/wiki/High-net-worth_individual
+
+## Economy
+
+- <https://en.wikipedia.org/wiki/Gross_world_product>
+
+- How many millionaires in the world: <http://www.telegraph.co.uk/finance/personalfinance/expat-money/10158420/A-record-breaking-number-of-millionaires-in-the-world.html>

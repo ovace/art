@@ -13,8 +13,10 @@ Bestof lists which I generally approve:
 - [snuff films](http://en.wikipedia.org/wiki/Snuff_film): real deaths caught on tape
 - [Stock footage](https://en.wikipedia.org/wiki/Stock_footage)
 - <https://en.wikipedia.org/wiki/Slasher_film>
-- <https://en.wikipedia.org/wiki/Time-lapse_photography>
 - <https://en.wikipedia.org/wiki/Docudrama>
+- <https://en.wikipedia.org/wiki/B_movie>
+- <https://en.wikipedia.org/wiki/Art_film>
+- <https://en.wikipedia.org/wiki/Stock_character>
 
 ## Misc
 
@@ -22,7 +24,10 @@ Bestof lists which I generally approve:
 
 - <http://en.wikipedia.org/wiki/All_persons_fictitious_disclaimer>: use started after a 1932 MGM movie Rasputin and the Empress was sued for suggesting sexual assault of a living princess. I don't see how such superficial notices could avoid a law suite, since what you actually do is more important than what you say you do. This is probably why there have been so many ironic uses for it.
 
-- Han shot first: <https://www.youtube.com/watch?v=Xezn-0xottw>
+## Tech
+
+- <https://en.wikipedia.org/wiki/Time-lapse_photography>
+- <https://en.wikipedia.org/wiki/4DX>
 
 ## Subjects I like
 
@@ -87,7 +92,7 @@ Films I liked but watched before making this comments. Contains some of my favor
 - 400 blows
 - Rocco and his Brothers
 - Forest Gump
-- Red Sorghum 1987
+- Red Sorghum 1987 (China)
 - 2001 Space Odyssey
 - Blane Runner
 - Metropolis 1927
@@ -122,6 +127,10 @@ Short list:
 | V for Vendetta                   | 2005 | 7    |                                                                             |
 | The Interview                    | 2014 | 6    | Generally fun and smart.                                                    |
 | Slumdog millionaire              | 2008 | 6    | Good opportunity to see a bit of India.                                     |
+
+### Star wars
+
+Han shot first: <https://www.youtube.com/watch?v=Xezn-0xottw>
 
 ### Once upon a time in the west
 
@@ -185,14 +194,6 @@ On its primary page for the This Is Spinal Tap, IMDb displays the user rating fo
 
 As a consequence of the film, real bands and musicians started buying equipment whose knobs went up to 11, or even higher, with Eddie Van Halen reputedly being the first to do so.
 
-### General Idi Amin Dada 1974
-
-<http://en.wikipedia.org/wiki/General_Idi_Amin_Dada:_A_Self_Portrait>: because he did not like the editing of the film, he rounded up 200 French citizens in Uganda and threatened to kill them unless the film was edited as he liked it.
-
-Best moments:
-
-- a television editor that worked for Dada made a mistake, which was identified by the director of this film.
-
 ### Hunger games
 
 Clear influence from 1984, and he 1984 1984 movie.
@@ -255,28 +256,81 @@ Fact or fiction:
 
 - <http://www.universetoday.com/101531/ken-mattingly-explains-how-the-apollo-13-movie-differed-from-real-life/>
 
-## Documentary
+### Maze Runner 2014
 
-### Ambassador 2011
+<https://en.wikipedia.org/wiki/The_Maze_Runner_%28film%29>
+
+Note: 6
+
+Watchable because of high action content, but too nonsensical to interest me.
+
+A mixture of Jurassic park and Hunger games.
+
+Generic good looking loved-by-all-except-bad-guy overly talented white hero with a girl, blodie bad guy, hordes of dying generic people, and the useless asian / black / indian / fattie supports...
+
+### Close Encounters of the Third Kind 1977
+
+<https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind>
+
+Note: 8
+
+### The 36th Chamber of Shaolin 1978
+
+<https://en.wikipedia.org/wiki/The_36th_Chamber_of_Shaolin>
 
 Note: 7
 
-<http://en.wikipedia.org/wiki/The_Ambassador_%282011_film%29>
+Note: 8 for the training scenes.
 
-### Moon machines 2008
+China.
 
-<https://en.wikipedia.org/wiki/Moon_Machines>
+### The Road Home 1999
 
-Great music. Just the right length on each episode.
+<https://en.wikipedia.org/wiki/The_Road_Home_%281999_film%29>
 
-Space Suit: 18:20: large, gigantic and humongous.
+Note: 7
 
-## Films I haven't watched in full but that interest me for some reason
+### Farewell My Concubine 1993
 
-- <http://en.wikipedia.org/wiki/Empire_%281964_film%29>. Several hours of the empire state building. Nothing else.
+<https://en.wikipedia.org/wiki/Farewell_My_Concubine_%28film%29>
 
-### Crocodile Dundee
+Note: 8
 
-Best scenes:
+### Crimson Peak 2015
 
-- <https://www.youtube.com/watch?v=01NHcTM5IA4> Is that a knife?
+<https://en.wikipedia.org/wiki/Crimson_Peak>
+
+Note: 6
+
+Boring cliché.
+
+### Gravity 2013
+
+<https://en.wikipedia.org/wiki/Gravity_%28film%29>
+
+Note: 7
+
+Interesting way of filming. Not too cliche.
+
+### Pirates of Silicon Valley 1999
+
+Note: 6, 7 if you have great interest in computers.
+
+<https://en.wikipedia.org/wiki/Pirates_of_Silicon_Valley>
+
+<https://archive.org/details/Hack_-_Pirates_Of_Silicon_Valley_#>
+
+Shows how Apple and Microsoft started out. The cool thing is to feel the environment those guys lived in.
+
+Actors themselves are too exaggerated I think.
+
+## TODO
+
+Sure:
+
+- <https://en.wikipedia.org/wiki/Raise_the_Red_Lantern>
+
+Maybe:
+
+- <https://en.wikipedia.org/wiki/Spring_in_a_Small_Town>
+- <https://en.wikipedia.org/wiki/Last_Train_Home_%28film%29>

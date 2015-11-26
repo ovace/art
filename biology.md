@@ -2,6 +2,10 @@
 
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   <https://en.wikipedia.org/wiki/Waggle_dance> <https://www.youtube.com/watch?v=bFDGPgXtK-U>
+
+-   <https://en.wikipedia.org/wiki/Floral_emblem> Most beautiful flowers in the world.
+
 -   <https://en.wikipedia.org/wiki/F1_hybrid#F2_hybrid> Hybrid you get from planting back the F1, the first mix.
 
 -   <https://en.wikipedia.org/wiki/Bramble#/media/File:Brambleberries.svg> Berry graph.
@@ -124,3 +128,65 @@ Animals, plants, biology, evolution, genetics, diseases.
 ## Animals
 
 -   <https://www.youtube.com/watch?v=D2SoGHFM18I>. Fox jumping into snow head first to catch rat.
+
+## Gear
+
+Fly supplies:
+
+- You can buy fruit flies by mail! They even have different gene choices! <http://www.enasco.com/c/science/Live+Materials/Drosophila+%28Fruit+Fly%29/>
+    - Space Station Live: Fruit Fly Lab <https://www.youtube.com/watch?v=ZIr7XmJ0WS4>
+
+## Man
+
+-   <https://en.wikipedia.org/wiki/Homo_sapiens>
+    - <https://en.wikipedia.org/wiki/File:Human_evolution_chart-en.svg>
+    - <https://en.wikipedia.org/wiki/Homo_sapiens#/media/File:Homo-Stammbaum,_Version_Stringer-en.svg>
+-   <https://en.wikipedia.org/wiki/Archaic_human_admixture_with_modern_humans>
+    - <https://en.wikipedia.org/wiki/Genetic_admixture>
+-   human evolution
+    - http://biology.stackexchange.com/questions/27475/why-did-humans-become-bipedal
+    - traditional hunter hunts kudu with short range weapons https://www.youtube.com/watch?v=826HMLoiE_o
+    - hominidae <https://en.wikipedia.org/wiki/Hominidae#/media/File:Hominidae_chart.svg>
+    - <https://en.wikipedia.org/wiki/Behavioral_modernity>
+
+### Brain
+
+-   <https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons>
+    -   <https://en.wikipedia.org/wiki/Caenorhabditis_elegans>
+        - We know exactly how it's neurons are connected!
+        - <https://github.com/openworm/openworm/>
+    -   <https://en.wikipedia.org/wiki/Drosophila_connectome>
+    -   <http://www.openconnectomeproject.org/>
+-   <https://en.wikipedia.org/wiki/Connectome>
+
+### Anthropology
+
+-   <http://en.wikipedia.org/wiki/Lykov_family>
+
+    <http://www.smithsonianmag.com/history/for-40-years-this-russian-family-was-cut-off-from-all-human-contact-unaware-of-world-war-ii-7354256/?no-ist>
+
+    Their main amusement was telling each other their dreams. They were hypnotized by television, and could not help themselves watching even though they considered it sinful.
+
+    He did not believe that man had set foot on Earth, but he quickly accepted satellites since themselves had noticed stars that were moving too fast, and he conjectured that hey were man generated.
+
+    A transparent cellophane package:
+
+    > Lord, what have they thought up; it is glass, but it crumples!
+
+    He mentions that at first the family would accept only a single gift: salt. This is also comes up on a Japanese film I saw where when the soldier finally finds salt he eats it pure and cries of pleasure.
+
+-   <http://en.wikipedia.org/wiki/Survivalism>
+
+-   <https://en.wikipedia.org/wiki/Chauvet_Cave>
+
+    <https://www.youtube.com/watch?v=HtPd_1uXXlc>
+
+-   <https://en.wikipedia.org/wiki/Lion-man>
+
+    Oldest sculpture.
+
+-   <http://www.dailymail.co.uk/sciencetech/article-2097869/The-oldest-work-art-42-000-year-old-paintings-seals-Spanish-cave.html>
+
+-   <http://news.discovery.com/human/evolution/oldest-art-was-carved-onto-shell-540000-years-ago-141203.htm>
+
+-   <http://www.livescience.com/31974-earliest-human-hunters-found.html> Started hunting 2Ma.

@@ -22,6 +22,7 @@
     - <http://xkcd.com/977/>: maps
     - <http://xkcd.com/978/>: citogenesis
     - <http://xkcd.com/980/huge>: amazing money usage chart
+    - <https://xkcd.com/1132/>: Frequentists vs. Bayesians sun exploded
     - <http://xkcd.com/1168>: tar command
     - <http://xkcd.com/1172>: workflow head spacebar
     - <http://xkcd.com/1185>: ineffective sorts
@@ -47,3 +48,5 @@
 -   <http://www.dobhran.com/humor/GRhumor419.htm> late drunk lipstick
 
 -   <http://www.telegraphcrossfit.com/wp-content/uploads/2013/05/evolution-man-computer.gif>
+
+-   <http://pbfcomics.com> Sex, violence, atheism.

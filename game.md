@@ -1,5 +1,9 @@
 # Game
 
+-   <https://en.wikipedia.org/wiki/AAA_%28video_game_industry%29>
+
+-   <https://www.youtube.com/watch?v=g9hTpwoLjMI> Mega Man 3 AGDQ. The major goal of the run is to avoid lag!
+
 -   <http://www.gog.com/> Java Script games.
 
 -   <https://en.wikipedia.org/wiki/Immersion_v._Sony>
@@ -133,6 +137,18 @@
 
 -   <http://news.cnet.com/Nintendo-offers-glove-to-prevent-joystick-injuries/2100-1040_3-237808.html>
 
+-   Perfect dark. Weapons: <https://www.youtube.com/watch?v=pCSW0mPQCAs>
+
+### Nintendo 64
+
+Super Mario 64 making of:
+
+### Super Mario 64
+
+<http://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/>
+
+Reversing a One Way Teleport Glitch <https://www.youtube.com/watch?v=GtlpcMZQV0E>
+
 ## Toy
 
 -   <http://en.wikipedia.org/wiki/Choose_Your_Own_Adventure> Book series that lets you choose your own path.
@@ -193,6 +209,10 @@ Genre: point and click adventure
 
 You can hit and kill yourself!
 
+### Windows 98 for NES
+
+<https://www.youtube.com/watch?v=ltGIxLIx3Ac>
+
 ## Mods
 
 Ultra hard SMB mods:
@@ -213,11 +233,28 @@ Ultra hard SMB mods:
 
 <https://www.youtube.com/watch?v=FazPFFoTAyM> Plug and play.
 
+<https://en.wikipedia.org/wiki/Limbo_%28video_game%29>
+
+<https://en.wikipedia.org/wiki/Demolition_Racer> driving + soccer game.
+
+<https://en.wikipedia.org/wiki/Gang_Beasts> fighting game with jellies.
+
+<https://www.youtube.com/watch?v=wlUGhWCIxpI>
+
+New platformers:
+
+- <https://en.wikipedia.org/wiki/VVVVVV> Graphics heavily inspired from the Commodore era, as mentioned at <https://www.youtube.com/watch?v=QyjyWUrHsFc>
+- I wanna be the guy
+- super meat boy
+- <https://en.wikipedia.org/wiki/Unravel_%28video_game%29>, 2D scroller with string / physics dynamics
+
 ## Bad
 
-<https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29>
+Citizen Burger Disorder <https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_game%29>
 
 ## Not electronic
+
+https://en.wikipedia.org/wiki/15_puzzle
 
 ### Table soccer
 
@@ -255,6 +292,13 @@ Ultra hard SMB mods:
     - <https://en.wikipedia.org/wiki/File:Chess_on_the_Dot.jpg>
     - <https://en.wikipedia.org/wiki/Kung-fu_chess>
 
+Vs the world:
+
+-   <https://en.wikipedia.org/wiki/Kasparov_versus_the_World>
+-   <https://www.youtube.com/watch?v=i6iHOrvBzjw>
+
+Karparov's calculations: <https://www.youtube.com/watch?v=SMe-hvCwTRo>
+
 ### Candy Land
 
 <http://en.wikipedia.org/wiki/Candy_Land>
@@ -264,3 +308,13 @@ Candy Crush obviously ripped it.
 ## Decompiled
 
 -   <https://github.com/iimarckus/pokered/>
+
+## Simulations
+
+Space:
+
+-   <https://en.wikipedia.org/wiki/Kerbal_Space_Program>
+
+    Elon Musk likes it: <http://venturebeat.com/2015/01/06/spacex-tesla-founder-elon-musk-loves-kerbal-space-program-mass-effect-and-civilization/>
+
+-   <https://en.wikipedia.org/wiki/Frontier:_Elite_II> <https://www.youtube.com/watch?v=7tqNpCGsFO8>

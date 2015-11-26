@@ -2,6 +2,30 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <http://idioms.thefreedictionary.com/be+in+clover>
+
+-   <https://en.wiktionary.org/wiki/debacle>
+
+-   <https://en.wikipedia.org/wiki/Dog_and_pony_show>
+
+-   <http://www.merriam-webster.com/dictionary/nook> AHA, so it is not just a word invented by Barnes and Noble!
+
+-   <http://www.urbandictionary.com/define.php?term=pussybility>
+
+-   <http://knowyourmeme.com/memes/social-justice-warrior>
+
+-   Raster, as in raster graphics, comes from the Latin for rake.
+
+-   <https://en.wikipedia.org/wiki/Lip_service> Biblical: <http://www.phrases.org.uk/bulletin_board/21/messages/652.html>
+
+-   <https://en.wikipedia.org/wiki/Spin_%28public_relations%29>, "spin doctor".
+
+-   <https://en.wiktionary.org/wiki/nondescript>
+
+-   <https://en.wikipedia.org/wiki/Backslide>
+
+-   <https://en.wikipedia.org/wiki/Bob's_your_uncle>
+
 -   <https://en.wiktionary.org/wiki/moniker>
 
 -   <https://en.wikipedia.org/wiki/Caucus>
@@ -141,3 +165,7 @@ Stuff that happens across languages:
 -   y u no
 
 -   <https://en.wikipedia.org/wiki/Rule_34_%28Internet_meme%29>
+
+## Phrases
+
+The most fun you can have with your clothes on

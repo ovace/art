@@ -10,6 +10,10 @@
 
 - jazz
 - prog rock
+- psychedelic rock
+    - YouTube mix https://www.youtube.com/watch?v=5IKskY9-BDU
+    - Jefferson airplane
+    - Love
 
 ## Jazz
 
@@ -53,3 +57,13 @@ Maybe in the future:
 - <https://en.wikipedia.org/wiki/Fretless_guitar>
 - micro-tonal guitar: <https://www.youtube.com/watch?v=iRsSjh5TTqI>
 - lowest voice in the world: <https://www.youtube.com/watch?v=i9P1ymFCxf0>
+
+## Market
+
+Who controls 70% of the useless world music: <https://en.wikipedia.org/wiki/Record_label#Major_labels>
+
+Those artists are literally manufactured products.
+
+## Styles
+
+- <https://en.wikipedia.org/wiki/Power_trio>

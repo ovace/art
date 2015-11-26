@@ -37,6 +37,17 @@ Bad:
 
     printf("%d", 1 + 1);
 
+### Split cheatsheets into small files
+
+You will be tempted at first to write on single big file.
+
+While it is convenient to write, it is horrible to read, because programming languages are not books, and have no method to add indexes and tables of contents.
+
+So start right:
+
+- split it up into small files, each teaching a single small concept
+- make a `README.md` file which with links to all the concepts in the good order that they should be learned
+
 ## Self advertising
 
 Besides being good, you also have to convince people of it so that you can get better jobs and achieve your goals.
@@ -97,6 +108,8 @@ The best methods are:
 - Hacker News. Featureless Reddit, very popular.
 - Twitter. More personal. Keep low tweet volume to not bore your followers.
 - Stack Overflow. If your question / answer requires a multi-file input to try it out, a `git clone` will be easier for other people, and it will often fit in a cheatsheet repository.
+
+<http://danluu.com/blog/archives/popularity/> says the order of importance is Hacker News / Reddit / Twitter / Google search.
 
 ### Open source
 
@@ -624,6 +637,16 @@ TODO
 
 Popular standard for program versioning <http://semver.org/> formalized by Tom Preston-Werner.
 
+## Licenses
+
+Learn about licenses.
+
+I'm an open source addict and pro copyleft, so I basically use GPL, AGPL or CC BY-SA.
+
+I'm against licenses that are too free like BSD and MIT: if people are going to use your work, better force them to merge back stuff, otherwise you and society get nothing in return. And believe it: enterprises care only about money, and they *won't* give anything back unless forced to.
+
+Another advantage of copyleft is that you are able to sell what you produce if someone really wants to fork it. E.g. MySQL.
+
 ## Philosophy
 
 ### Programming and ideas
@@ -639,22 +662,17 @@ Popular standard for program versioning <http://semver.org/> formalized by Tom P
 
 ### Imperfection
 
-It is the work of a programmer to search perfection,
-while accepting that imperfection is inevitable.
+It is the work of a programmer to search perfection, while accepting that imperfection is inevitable.
 
-When in doubt, look, decide, and follow your decision all the time,
-knowing that all other choices are also imperfect.
+When in doubt, look, decide, and follow your decision all the time, knowing that all other choices are also imperfect.
 
 ### Design patterns
 
-Learn from the Zen of Python <http://legacy.python.org/dev/peps/pep-0020/>.
-The following resonate on my mind every week:
+Learn from the Zen of Python <http://legacy.python.org/dev/peps/pep-0020/>. The following resonate on my mind every week:
 
 -   Flat is better than nested.
 
--   There should be one, and preferably only one, obvious way to do it,
-    although that way may not be obvious at first unless you're Dutch (Python's creator is Dutch).
-    Ruby disagrees:
+-   There should be one, and preferably only one, obvious way to do it, although that way may not be obvious at first unless you're Dutch (Python's creator is Dutch). Ruby disagrees:
 
         if not true
 
@@ -672,8 +690,7 @@ Important, but hard to learn and to formalize.
 
 ### Human factors
 
-Unfortunately, even as a programmer you still have to deal with humans,
-those unpredictable and hard to optimize systems.
+Unfortunately, even as a programmer you still have to deal with humans, those unpredictable and hard to optimize systems.
 
 Artistic level:
 
@@ -688,3 +705,17 @@ Artistic level:
     Quite a few strategy articles.
 
     E.g.: Microsoft employee, lots of exp.
+
+## Find the people you need
+
+-   Whenever you see someone hardcore on any forum like Stack Overflow / GitHub, check out their profile, website and LinkedIn.
+
+-   Pay huge attention to:
+
+    - Industry groups
+    - Conferences
+
+    Those will group the most interesting people of each domain that matters.
+
+    Stay away from flashy consumer oriented confs, and look into hardcore dev confs.
+

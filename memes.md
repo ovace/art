@@ -9,6 +9,7 @@ Templates:
 - http://knowyourmeme.com/memes/philosoraptor
 - http://knowyourmeme.com/memes/anti-joke-chicken
 - http://knowyourmeme.com/memes/advice-dog
+- http://knowyourmeme.com/memes/zalgo , appear at the end of the famous SO answer: http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 
 TODO identify:
 

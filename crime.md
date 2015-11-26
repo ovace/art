@@ -1,5 +1,7 @@
 # Crime
 
+-   <https://en.wikipedia.org/wiki/DEA_list_of_chemicals>
+
 -   <https://en.wikipedia.org/wiki/Pyramid_scheme>
 
 -   <https://en.wikipedia.org/wiki/D._B._Cooper> successful plane hijack
@@ -41,3 +43,7 @@
     <http://www.independent.co.uk/news/world/americas/pablo-escobars-son-why-i-gave-up-my-vow-of-revenge-and-work-to-reform-drug-policy-10489073.html>
 
     <https://en.wikipedia.org/wiki/La_Catedral>
+
+## Corporate
+
+-   <http://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news>

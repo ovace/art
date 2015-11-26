@@ -1,5 +1,19 @@
 # Computer funny
 
+-   <https://en.wikipedia.org/wiki/Spider_trap>
+
+    - <http://stackoverflow.com/questions/4512936/what-techniques-can-be-used-to-detect-so-called-black-holes-a-spider-trap-wh>
+
+-   <https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/>
+
+-   <http://www.wired.com/2013/01/keynotes/>
+
+-   <https://en.wikipedia.org/wiki/Bugzilla#Zarro_Boogs>
+
+-   <https://en.wikipedia.org/wiki/Rubber_duck_debugging>
+
+-   <http://www.imagemagick.org/script/history.php> DuPont let employee open source ImageMagick because they could not see it's value because it was software and not chemical. Lol.
+
 -   <https://en.wikipedia.org/wiki/The_Turk> A cheating Turing test passer.
 
 -   <https://en.wikipedia.org/wiki/TempleOS> Religious OS.
@@ -40,18 +54,6 @@
 -   <https://en.wikipedia.org/wiki/PC_booter>, <https://en.wikipedia.org/wiki/List_of_PC_booter_games>
 
 -   <https://github.com/gkoberger/stacksort>
-
--   HTML comment ASCII art:
-
-        <!DOCTYPE html>
-        <html lang='en-US' prefix='og: http://ogp.me/ns#'>
-        <!--
-                _|_  _  _    _|. __|_. _  _  _  _
-            |_|| |_)(_|| |  (_||(_ | |(_)| |(_||\/
-                                                /
-
-            Need help? http://bit.ly/urbandictionary-help
-        -->
 
 -   <https://en.wikipedia.org/wiki/Geek_Code>, <http://mj.ucw.cz/geek/>
 
@@ -138,6 +140,8 @@
     > Knight turned the machine off and on.
     > The machine worked.
 
+    <http://thecodelesscode.com/contents>
+
 -   [COMEFROM](https://en.wikipedia.org/wiki/COMEFROM)
 
 -   <https://en.wikipedia.org/wiki/The_Book_of_Mozilla>
@@ -159,6 +163,8 @@
 -   [Heisenbug](http://en.wikipedia.org/wiki/heisenbug)
 
 -   [w3schools](https://chrome.google.com/webstore/detail/w3schools-hider/igiahejkpbnbnekdaefddmdceocmjpll). The site is considered so bad, but has such huge Google Rating, that a Google Chrome extension was created to block it from Google searches.
+
+-   <https://www.google.com/get/cardboard/> so funny, a high tech company selling folded cardboard gadget!
 
 ## Parody laws
 
@@ -215,7 +221,20 @@ Exuberant tags `man ctags`:
 
         Ctags has more options than ls(1).
 
+## Comments
+
+-   https://github.com/bminor/binutils-gdb/blob/binutils-2_25_1/gas/doc/as.texinfo#L5553
+
+    GNn Gas doc
+
+        @c no one seems to know what this is for or whether this description is
+        @c what it really ought to do
+
 ## Kernel
+
+-   `static void impress_friends(void)`: `/arch/x86/kernel/smpboot.c`. TODO why that name?
+
+-   Morse code: https://github.com/torvalds/linux/blob/v4.2/arch/x86/realmode/rm/wakemain.c#L38
 
 -   Kernel 4.0 `arch/Kconfig`:
 
@@ -339,3 +358,11 @@ Boring... but wait! Try this:
     - niches
 
 -   <http://stackoverflow.com/a/1732454/895245> Bobince's famous poetic answer on it is not possible to parse HTML with regex.
+
+## Absurd computing devices
+
+Domino adder: https://www.youtube.com/watch?v=OpLU__bhu2w
+
+Minecraft graphing calculator: <https://www.youtube.com/watch?v=wgJfVRhotlQ>
+
+Mario maker: <https://www.youtube.com/watch?v=2oAEx9-7zdg>

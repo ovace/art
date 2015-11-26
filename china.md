@@ -4,6 +4,12 @@ I have a soft spot for Chinese language and traditional culture.
 
 I might include Japanese / Korean / Vietnamese stuff here too because they are all inside the Sinosphere.
 
+-   sajiao <http://www.echinacities.com/expat-corner/What-are-You-Five-Chinese-Women-and-Sa-Jiao>
+
+-   <https://en.wikipedia.org/wiki/Chinese_script_styles>
+
+    Favorite: <https://en.wikipedia.org/wiki/Cursive_script_%28East_Asia%29> Interestingly, it feels like the Jazz of calligraphy.
+
 -   <https://en.wikipedia.org/wiki/Solar_term> 节气
 
     Modern Chinese know that they exist, and the names of most of them.
@@ -93,6 +99,14 @@ Every piece can be promoted to an new one with specific new moves (most of them 
 <http://en.wikipedia.org/wiki/Urashima_Tar%C5%8D> 8th century Japanese story of future time travel (time passes slowly) for a man who saves a turtle and is invited to the dragon god palace
 
 ## History
+
+### Qin Shi Huang
+
+### First Qin emperor
+
+Died by drinking mercury with jade to obtain eternal life!
+
+https://en.wikipedia.org/wiki/Qin_Shi_Huang#Death_and_postmortem_events
 
 ### China the Roots of Madness {documentary}
 
@@ -226,17 +240,31 @@ Communication:
 
 -   <http://www.quora.com/Whats-the-most-famous-social-networking-site-in-China>
 
+-   http://www.weibo.com/
+
+    - http://www.weibo.com/GitHub
+
 -   <https://en.wikipedia.org/wiki/Zhihu>
 
     <http://www.zhihu.com>
 
     Q&A, like Quora.
 
--   <https://en.wikipedia.org/wiki/NetEase> Also offers email, top chinese email on GitHub.
+-   <https://en.wikipedia.org/wiki/NetEase> Also offers email, top Chinese email on GitHub.
 
 -   <https://en.wikipedia.org/wiki/Douban>
 
-Ecommerce:
+-   <https://en.wikipedia.org/wiki/Plurk>
+
+    <https://www.plurk.com>
+
+    Popular in Taiwan.
+
+-   <https://en.wikipedia.org/wiki/Mop.com> Popular hipster forum.
+
+    Popularized the term: <https://en.wikipedia.org/wiki/Human_flesh_search_engine#History>
+
+E-commerce:
 
 -   <https://en.wikipedia.org/wiki/JD.com>
 
@@ -265,3 +293,7 @@ Email domains: <http://www.quora.com/Who-are-the-top-5-email-providers-in-China>
     TODO recruiting of some kind? "bole" is "talent finder"
 
 -   https://github.com/lifesinger/lifesinger.github.com/issues Why so many followers?
+
+## Modern politics
+
+-   <https://en.wikipedia.org/wiki/National_Congress_of_the_Communist_Party_of_China>

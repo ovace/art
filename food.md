@@ -1,5 +1,9 @@
 # Food
 
+-   <https://en.wikipedia.org/wiki/Grayanotoxin>
+
+-   <https://en.wikipedia.org/wiki/Mozartkugel> Specially interesting for Brazilians because Sonho de Valsa https://en.wikipedia.org/wiki/Sonho_de_Valsa is a "I didn't know it was" ripoff.
+
 -   <https://en.wikipedia.org/wiki/Horchata>. I've tried it made of Chufa: <https://en.wikipedia.org/wiki/Cyperus_esculentus> Not very good, but interesting.
 
 -   <https://en.wikipedia.org/wiki/Virgin_boy_egg> 童子蛋 literally boy's egg, cooked in urine of young boys.
@@ -86,7 +90,7 @@
 
 -   liang ban mian
 
--   <https://en.wikipedia.org/wiki/Matcha
+-   <https://en.wikipedia.org/wiki/Matcha>
 
 -   There are mooncakes made of <https://en.wikipedia.org/wiki/Jinhua_ham>
 

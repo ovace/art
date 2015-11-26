@@ -2,6 +2,8 @@
 
 War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff, which I wish did not happen.
 
+-   <https://en.wikipedia.org/wiki/Loose_lips_sink_ships>
+
 -   <http://blogs.rollcall.com/five-by-five/throwbackthursday-why-the-pentagon-has-five-sides/>
 
 -   <https://en.wikipedia.org/wiki/White_phosphorus>
@@ -135,6 +137,12 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <https://en.wikipedia.org/wiki/Bat_bomb>
 
+### Firearms
+
+-   <https://en.wikipedia.org/wiki/Primer_%28firearm%29>, coding producing some: <https://www.youtube.com/watch?v=ONfeTsByKhM>
+
+-   <https://en.wikipedia.org/wiki/Armor-piercing_shell#Armor-piercing_ammunition>
+
 ### Bows
 
 -   <http://en.wikipedia.org/wiki/Compound_bow> Modern bow with pulleys created in the 1960s.
@@ -168,6 +176,10 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 - <https://en.wikipedia.org/wiki/Trinity_(nuclear_test)>
 
+### Historical
+
+- <https://en.wikipedia.org/wiki/Repeating_crossbow>
+
 ## Improvised firearm
 
 -   <http://en.wikipedia.org/wiki/Improvised_firearm>
@@ -176,8 +188,7 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <https://www.youtube.com/watch?v=u-m0RRbfvh4>
 
-    In the US law, only the finished receiver is a firearm: even an 80% finished one is not,
-    nor are any of the other parts.
+    In the US law, only the finished receiver is a firearm: even an 80% finished one is not, nor are any of the other parts.
 
     There are also gun producers who claim to do it for an anarchism philosophy in which an armed society is fairer because the government cannot oppress it.
 
@@ -186,6 +197,8 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 -   <http://www.imfdb.org/wiki/Assassination_Device>
 
     <https://en.wikipedia.org/wiki/Improvised_firearm#Cryptic_firearms>
+
+    Umbrella with poison in 1978: <https://en.wikipedia.org/wiki/Georgi_Markov#Assassination>
 
 -   <https://en.wikipedia.org/wiki/Illegals_Program>
 
@@ -244,6 +257,8 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
     -   <http://en.wikipedia.org/wiki/Iraq_War_documents_leak>. Documents the large number of civilian deaths that occurred.
 
 -   <http://en.wikipedia.org/wiki/News_International_phone_hacking_scandal>
+
+-   <https://en.wikipedia.org/wiki/Oleg_Gordievsky> double agent for the British against Russians. Was captured, taken to URSS, but the MI6 managed to extract him back.
 
 ## Cold war
 

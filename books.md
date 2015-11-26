@@ -130,9 +130,17 @@ Eunuch's voices are like that of children, and disarm others unconsciously. This
 
 - <https://en.wikipedia.org/wiki/The_Secret_Agent>. Made me too nervous, and style too verbose for my taste.
 
-## TODO
+## Call of the wild
+
+## White fang
+
+Note: 8
 
 - <https://en.wikipedia.org/wiki/The_Call_of_the_Wild>
+- <https://en.wikipedia.org/wiki/White_Fang>
+
+## TODO
+
 - <https://en.wikipedia.org/wiki/Slaughterhouse-Five>
 - <https://en.wikipedia.org/wiki/U.S.A._%28trilogy%29> TODO find
 
@@ -153,3 +161,22 @@ Google will *not* rank those well, you have to search in them:
 - http://libgen.org (down 2015)
 - http://bookfi.org (Russian interface)
 - http://bookzz.org looks like an English clone of bookfi
+
+## J K Rowling
+
+Bloomberg Business: https://www.youtube.com/watch?v=X2adjz-KG9Y&list=PLqq4LnWs3olW3n_rJ3hY0NM35LXYgelS1&index=10
+
+She moved to Portugal for an year, had a daughter, got divorced, and came back to live with her sister.
+
+Her book was a tough sell because:
+
+- it talked about boarding schools, a concept that was a bit unpopular at the time
+- it was too long for children
+
+She decided to use J.K. Rowling because it sounded gender neutral: boys don't like to read books written by women.
+
+Bloombsbury was a new publishing agency who took the book. The CEO's daughter was the test subject for HP.
+
+Religious groups went against the witchcraft depicted.
+
+She refused all publicity requests. Kudos.

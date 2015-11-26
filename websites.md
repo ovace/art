@@ -16,11 +16,37 @@ Quotes:
 Fake news:
 
 - <http://www.theonion.com/>
-- <http://www.miniharm.com/>
+- <http://www.miniharm.com/>: anti-China
+- <http://www.legorafi.fr/>: French
 
-<https://archive.org/web/>:
+Web caches:
 
-- <http://ir.lawnet.fordham.edu/flr/vol78/iss1/5/>
+-   <https://archive.org/web/>:
+
+    - <http://ir.lawnet.fordham.edu/flr/vol78/iss1/5/>
+
+-   Google webcache. TODO how to use?
+
+Joke:
+
+- <https://9gag.com>
+
+Atheism:
+
+- <http://www.churchofreality.org/wisdom/welcome_home/>
+
+Programmer blogs:
+
+- <http://danluu.com/>
+- <http://highscalability.com/>
+
+<https://www.chillingeffects.org/> tracker for takedown notices. Used e.g. by Twitter.
+
+<https://goanimate.com/> Finally I understand where those horrible programming YouTube animations I sometimes come across come from!
+
+Check if you password has been leaked:
+
+- <https://isleaked.com/>
 
 ## c2 wiki
 
@@ -33,3 +59,57 @@ The first wiki, the software is called <http://en.wikipedia.org/wiki/WikiWikiWeb
 Many interesting programming discussions which is its original purpose.
 
 Became read-only in 2014 because of vandalism.
+
+## Emails
+
+Safety focused:
+
+- http://thesimplecomputer.info/free-webmail-for-better-privacy
+
+Best ones:
+
+- fast account creation
+
+    - https://scramble.io/
+    - https://www.ghostmail.com/
+
+- https://ruggedinbox.com/
+
+Acceptable:
+
+- https://www.mailoo.org French, captcha, accounts manually verified in up to 24h...
+- https://scryptmail.com
+
+Bad:
+
+- mail.com: buggy, acquired by GMX https://www.quora.com/I-cant-seem-to-open-an-account-through-mail-com-I-keep-getting-this-message-Your-registration-could-not-be-processed-at-the-moment-Please-try-again-later-How-can-I-resolve-this
+- https://openmailbox.org buggy
+
+No cell phone required and famous:
+
+- http://www.gmx.com/
+
+Cell phone required:
+
+- gmail. Injections: dots ignored, `+asdf` and `asdf+` suffix prefixes ignored
+- yahoo
+- yandex
+
+Disposable email address providers
+
+- http://www.digitaltrends.com/web/best-sites-for-creating-a-disposable-email-address/
+- http://www.fakemailgenerator.com
+
+Disposable cell numbers with public message view:
+
+- https://smsreceivefree.com/ 9 numbers refreshed every t >= 14 days
+- http://receivesmsonline.com/
+
+TODO: bulk email creation:
+
+- https://www.reddit.com/r/howto/comments/31mw3k/request_how_can_i_create_bulk_email_addresses/
+
+## Get connection information
+
+- http://icanhazip.com/ just the IP: http://superuser.com/questions/420969/services-that-just-return-your-public-ip-as-text
+- http://www.useragentstring.com user agent + well known user agents

@@ -165,3 +165,50 @@ Also I saw her taking to a friend, the point that she pushed the most was that t
 Before she mentioned this point, her math friend just frowned as if "I don't care". But when she did mentioned it, her attention was greatly increased. Youtube effect and content is king is the way.
 
 Seeing people's reaction to how you sell is a great measure of what points to use to convince them
+
+## 2015-09-28 Supermoon Lunar Eclipse
+
+<http://www.telegraph.co.uk/news/11895052/Supermoon-lunar-eclipse-2015-Amazing-pictures-of-once-in-a-generation-event-live.html>
+
+On same day: Chinese mid autumn festival, helped Xiaoxiao move to new house.
+
+## 2015-11 Rennes
+
+Went to Rennes to talk with https://www.linkedin.com/in/erven-rohou-5370b31 about http://careers.stackoverflow.com/jobs/100882/ing%C3%A9nieur-r-d-en-compilation-h-f-cdd-3-ans-inria
+
+The city is was nice, and I've learnt a lot while talking to him.
+
+The big boss of the laboratry was cool was well, he talked to us informally https://team.inria.fr/alf/members/andre-seznec/ and showed us the last circuit he made: 25 years ago! Now they make CPU optimizations, like cache algorithms.
+
+Going there was a really good idea to get the feeling of the city before taking a job.
+
+Then I walked around the city.
+
+I've also met: Fernando Akira Endo https://www.linkedin.com/profile/view?id=AAEAAAVg_0IBYNBjkxiqLSRUnGJ7ANEM6P4LaN4&authType=name&authToken=Is-8&trk=prof-sb-how_conn-name-link
+
+## 2015-11-13 ISIS Terrorist attacks
+
+I was walking on the street one hour before them besides my home.
+
+When I got home, my friend Rafael called me to ask if I was alright. I had no idea it had happened. The Charrone attack was really close to our home.
+
+## 2015-11-20 Interview with Cyrille Béraud from Savoir-faire Linux
+
+The way his eyes moves from side to side, in an act of calculation (necessary for business deciders!), reminded me of Georges Bory from QuartetFS.
+
+Now that I look back, I felt a bit nostalgic about it! It was a great experience, my first real feel of an enterprise.
+
+I wasn't expecting a job, because their embedded team is in Montreal, but the enterprise seemed really interesting, so I just went to meet him.
+
+His method is very interesting:
+
+- first say all the great things about the enterprise: achievements, people, etc.
+- then say that the job is really hard, that you will have deal with a lot of BS, etc.
+- then ask how much you want. He joked that Brazillians are mercenaries as if it were too much :-) but then said seriously that it was fair.
+- then at the very end, make you a job offer! I was really surprised. This is what I like about enterprise over research: the directness and sense of urgency. If you think a risk is worth taking, you just take it.
+
+Also, unlike the technical interview with the people from Quartet, he took no notes of me.
+
+He didn't ask me anything technical, just to access myself.
+
+*That* is how you pick someone. The only way to see if he works well for you is to try it out (unfortunate that French labour law is overprotective).

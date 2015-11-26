@@ -31,187 +31,17 @@ Physics, chemistry, astronomy, geology.
 
 -   https://www.youtube.com/watch?v=Oke8GinWDG8 Fun with phosphorus.
 
-## Astronomy
+## Mechanics
 
--   https://en.wikipedia.org/wiki/Pioneer_plaque
-
-    https://en.wikipedia.org/wiki/Arecibo_message
-
-    https://en.wikipedia.org/wiki/Voyager_Golden_Record
-
--   https://en.wikipedia.org/wiki/First_light_%28astronomy%29
-
--   Supernovas:
-
-    -   <https://en.wikipedia.org/wiki/Crab_Nebula>
-
-        11th century Chinese recordings.
-
-        Became a pulsar.
-
-    -   https://en.wikipedia.org/wiki/Kepler%27s_Supernova
-
-        17th century, visible for 3 weeks during the day.
-
--   https://en.wikipedia.org/wiki/Main_sequence#/media/File:HRDiagram.png
-
-    https://en.wikipedia.org/wiki/Chandrasekhar_limit
-
-    https://en.wikipedia.org/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit
-
--   https://en.wikipedia.org/wiki/Cosmic_microwave_background
-
-    https://en.wikipedia.org/wiki/Recombination_%28cosmology%29 378k years old.
-
--   https://en.wikipedia.org/wiki/Observable_universe TODO understand this.
-
-    93 billion light-years
-
-    There is more, but light has not reached us yet.
-
-    More of the universe will become observable with time, but things far way enough will never be observable: they are moving "faster than light" because the universe expands.
-
--   https://en.wikipedia.org/wiki/Great_Debate_%28astronomy%29
-
-    Until 1920, we were still not sure if there were other galaxies!
-
--   https://en.wikipedia.org/wiki/Atacama_Desert#Astronomical_observatories
-
--   https://en.wikipedia.org/wiki/Galaxy_morphological_classification
-
--   https://en.wikipedia.org/wiki/Deep-sky_object
-
--   https://en.wikipedia.org/wiki/Messier_object
-
--   https://en.wikipedia.org/wiki/Absolute_magnitude intrinsic measure of luminosity at fixed distance.
-
-    -   <https://en.wikipedia.org/wiki/Apparent_magnitude>
-
-        Up to 6 visible to the human eye, 
-
--   https://en.wikipedia.org/wiki/Galaxy_morphological_classification
-
--   https://en.wikipedia.org/wiki/Roche_limit
-
-    Distance from a larger body at which a small body held together by it's gravity will decompose because of differential forces.
-
--   <https://en.wikipedia.org/wiki/Local_Group>
-
--   Milky way
-
-    <https://en.wikipedia.org/wiki/Milky_Way>
-
-    100k light years diameter, 200 billion stars, 100 billion planets.
-
-    The solar system is at 27 light years from the center.
-
-    We are on the Orion Arm of the spiral: <https://en.wikipedia.org/wiki/Orion_Arm>, we turn once every 250M years.
-
-    <https://en.wikipedia.org/wiki/Milky_Way#/media/File:Milky_Way_Arms.svg>
-
-    Nearest galaxies: <https://en.wikipedia.org/wiki/List_of_nearest_galaxies>
-
-    Andromeda is the closest major one, also spiral, 2.54Mly with about the same mass as us, and visible to the naked eye in moonless nights. We are going to collide in 3.8 billion years.
-
-    We and Andromeda are the to major components of the <https://en.wikipedia.org/wiki/Local_Group>
-
--   Futuristic spacecraft:
-
-    -   <https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion>
-    -   <https://en.wikipedia.org/wiki/Inertial_confinement_fusion>
-
-    If close enough to light speed, we can reach the stars in a lifetime even if it is light years away, because of time contraction.
-
-    With nuclear fusion, we could reach 10% speed of light, which is enough to travel our galaxy.
-
-    Supermassive black hole at the center of the galaxy: <https://en.wikipedia.org/wiki/Sagittarius_A*>
-
--   <https://en.wikipedia.org/wiki/Quasar>
-
-    Weird radiation that does not follow element lines.
-
-    Likely caused by accretion disks of supermassive black holes.
-
-    <https://en.wikipedia.org/wiki/International_Celestial_Reference_System> uses them as coordinates, because they are strong and punctual.
-
--   <http://coolcosmos.ipac.caltech.edu/ask/274-When-was-the-first-rocket-launched-into-space->
-
-    V2 German was the first in 1942, Sputnik was the first to be actually launched in 1958.
-
-    Rockets were first created for war.
-
--   Mars exploration.
-
-    First reached in 1971 by the Russians.
-
--   <https://en.wikipedia.org/wiki/Mariner_2#Post_encounter>
-
-    First successful interplanetary non-manned mission. Observed Venus, which is the closest planet.
-
--   https://en.wikipedia.org/wiki/Halley%27s_Comet
-
-    Smallest known comet orbit, the only clearly visible and with several historical records, and the only that can be seen twice in a lifetime.
-
--   https://en.wikipedia.org/wiki/Impact_event#Frequency_and_risk Impacts are inversely proportional do the cube of the mass.
-
-    1 km wide meteors every 0.5M years.
-
-    5 to 10 km wide can cause mass extinctions.
-
--   Meteors:
-
-    - 2013 <https://en.wikipedia.org/wiki/Chelyabinsk_meteor>
-    - 1908 <https://en.wikipedia.org/wiki/Tunguska_event>
-    - -66M: <https://en.wikipedia.org/wiki/Chicxulub_crater> 10km wide impact
-    - -300M: 2 10km impacts in Australia
-
--   https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9 1993, first observed comet orbiting a planet and colliding, here Jupiter.
-
--   https://en.wikipedia.org/wiki/Atmosphere_of_Jupiter#Great_Red_Spot a little storm.
-
--   Outcomes of gravitational collapse:
-
-    -   https://en.wikipedia.org/wiki/Neutron_star , balanced by neutron degeneracy
-    -   https://en.wikipedia.org/wiki/White_dwarf , balanced by electron degeneracy
-    -   https://en.wikipedia.org/wiki/Black_hole
-
--   https://en.wikipedia.org/wiki/Supernova
-
-    - https://en.wikipedia.org/wiki/Near-Earth_supernova
-
-    - https://en.wikipedia.org/wiki/Kepler%27s_Supernova 1606, largest and only certain one to be seen, 20k light years away. Lasts months.
-
-## Chemistry
-
--   <https://www.youtube.com/watch?v=rZf6tZs5Fjk>
-
--   <https://www.youtube.com/watch?v=fyK6kPi8k78> D2O, lots of chemistry. 500 a liter.
-
--   <https://www.youtube.com/watch?v=E5p2yooC5fY> Liquid nitrogen triple point with vacuum pump.
-
--   <http://en.wikipedia.org/wiki/Plutonium>
-
-    First discovered as a byproduct of nuclear reactions, then found in trace quantities in nature.
-
-    It decays too fast. It was first produced in considerable quantities in the 40's for the atomic bombs, where it was used.
-
-    Guys talking about plutoinum: <https://www.youtube.com/watch?v=89UNPdNtOoE>
-
-    Interesting point: scientist wearing glove was pierced by a contamined needle. For the next 50 years, plutonium could be detected in his urine.
-
-    <https://en.wikipedia.org/wiki/Hanford_Site>
-
-    Costs 4400 dollars per gram: <http://hypertextbook.com/facts/2008/AndrewMorel.shtml> Platinium is 33 :-)
-
-    Produces helium from reations, which builds up pressure, and must be accounted for.
-
-    <https://www.reddit.com/r/todayilearned/comments/1o2fod/til_that_in_during_wwii_cambridge_professor_alfie/>
+-   Sand on metallic plate resonance patterns: <https://www.youtube.com/watch?v=YedgubRZva8>
 
 ## Geology
 
 -   https://en.wikipedia.org/wiki/Future_of_the_Earth
 
 -   https://en.wikipedia.org/wiki/Proxima_Centauri nearest star, 4 light years.
+
+-   <https://en.wikipedia.org/wiki/Pangaea> Last supercontinent, split 225Ma
 
 ## Funny
 
@@ -220,6 +50,12 @@ Physics, chemistry, astronomy, geology.
 -   Feymann safe picking: <http://qr.ae/03Xzq>
 
 ## Experiments
+
+-   Lists
+
+    -   <https://en.wikipedia.org/wiki/List_of_experiments#Physics>
+    -   <http://www.explainthatstuff.com/great-physics-experiments.html>
+    -   <https://www.quora.com/What-are-some-of-the-most-important-experiments-in-physics>
 
 -   <https://www.youtube.com/watch?v=1Xp_imnO6WE>
 
@@ -230,12 +66,144 @@ Physics, chemistry, astronomy, geology.
 
     - <https://www.youtube.com/watch?v=GeyDf4ooPdo>
 
+-   <https://en.wikipedia.org/wiki/Laser_cooling>
+
+    Yes, you can use lasers to cool atoms. Used to generate Bose Einstein condensates.
+
+### Quantum
+
+-   Black body radiation catastrophe solved by quantization of energy.
+
+-   Photoelectric effect: light intensity does not matter to take electrons out of a metal, only frequency.
+
+    Below a certain frequency, nothing happens, then electrons start popping out.
+
+    Explanation: photons are discrete.
+
+    Nowadays we can use very high intensities, and some electrons will come out, because there are so many that multiple ones can interact at the same time.
+
+-   Double slit with one electron.
+
+    Guy doing it on a small apparently inexpensive computer camera setup live, but no setup details: <https://youtu.be/ayvbKafw2g0?t=40>
+
+-   <https://www.youtube.com/watch?v=waK4eKNXB4A>
+
+    Stern-Gerlach.
+
+    Surprising to see the three magnet case vertical, horizontal, vertical.
+
+-   Compton scattering. TODO
+
+    Guys doing it: <https://www.youtube.com/watch?v=oY7EFL4AN9A>
+
+    Really quick video without much explanation: <https://www.youtube.com/watch?v=TP8HmnuUFjA>
+
+    Medium detailed setup, but looks not too complex. Hardest part must be the caesium.
+
+#### Particle
+
+-   <https://en.wikipedia.org/wiki/Bubble_chamber>
+
+    <https://youtu.be/mTuC_LrEfbU?t=576> video of a bubble chamber live and visible by the human eye directly!
+
+    <https://www.youtube.com/watch?v=1vSTsADQXG8> CERN cloud chamber
+
+    <https://www.youtube.com/watch?v=pewTySxfTQk> how to build one really cheaply!! It catches alpha particles.
+
+    <https://www.youtube.com/watch?v=RAwwfs8Y7J4> more advanced example
+
 ### DIY
+
+Spectroscopy:
 
 -   CD spectrometer: <https://www.youtube.com/watch?v=ZowYVDQDDZ4>
 
 -   SpectraSnapp <https://www.youtube.com/watch?v=FJ1xOWl5Axk>
 
-## Solid state
+-   <http://physics.stackexchange.com/questions/191189/how-to-measure-the-wavelength-of-a-laser-pointer/191223#191223>
+
+#### Various
+
+-   <http://sci-toys.com/>
+
+## Phases of matter
+
+-   <https://en.wikipedia.org/wiki/Metastability>
+
+    Used in Bubble chambers.
+
+### Solid state
 
 -   <https://en.wikipedia.org/wiki/Meissner_effect>
+
+-   <https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate>
+
+### Fluid
+
+-   <https://en.wikipedia.org/wiki/Pitch_drop_experiment>
+
+-   <https://en.wikipedia.org/wiki/Leidenfrost_effect>
+
+## Youtube
+
+DrPhysicsA <https://www.youtube.com/channel/UCIVaddFslWk1TFoKNrvh99Q>
+
+## Instruments
+
+-   https://en.wikipedia.org/wiki/Pressure_measurement
+
+-   https://en.wikipedia.org/wiki/Geiger_counter
+
+## Nuclear
+
+-   <https://en.wikipedia.org/wiki/Nuclear_power_plant>
+
+-   <https://en.wikipedia.org/wiki/Critical_mass>
+
+    -   <https://en.wikipedia.org/wiki/Criticality_accident>
+
+        <https://www.youtube.com/watch?v=H1ckdTlgvlU> British video from 69 that explains for employees the main factors of criticality:
+
+        -   mass
+
+        -   shape: more surface area allows for larger masses
+
+        -   reflection: if you surround a mass with something that reflects neutrons, a smaller mass is enough.
+
+            This is what caused: https://en.wikipedia.org/wiki/Demon_core
+
+            Note that there are several types of material properties related to neutrons:
+
+            - no reaction
+            - absorption
+            - reflection
+
+        -   concentration: fissile material is sometimes handled in solution form
+
+            The Tokaimura accident happened when such solutions were being handled.
+
+        -   moderator: if put into water, oil or graphite, neutrons move slower, and slow neutrons are much more likely to crash.
+
+        So interesting: if you bring two pieces of he same size together, you're f***.
+
+        But separately, you're fine.
+
+        Accidents:
+
+        -   <https://en.wikipedia.org/wiki/Tokaimura_nuclear_accident>
+
+        -   <https://en.wikipedia.org/wiki/Demon_core>
+
+        -   <https://www.youtube.com/watch?v=hh89h8FxNhQ> reenaction from the film <https://en.wikipedia.org/wiki/Fat_Man_and_Little_Boy> 
+
+            The guys are just hidden behind led (?) bricks. Scary.
+
+            Best science scenes cut: <https://www.youtube.com/watch?v=0ZFPio2PeQc>
+
+<https://en.wikipedia.org/wiki/Neutron_reflector>
+
+<https://www.youtube.com/watch?v=Ka9tMfad3g4> hands on with some radiation
+
+## Optics
+
+Poisson's spot: <https://www.youtube.com/watch?v=y9c8oZ49pFc>
