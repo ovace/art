@@ -312,3 +312,27 @@ Car tire.
 ## 面具 mian4 ju4
 
 Mask == face + tool.
+
+## 信用卡 xin4 yong4 ka3
+
+Credit card.
+
+信 as in letter.
+
+## 国籍 guo2 ji2
+
+Nationality.
+
+## 监考 jian1 kao3
+
+Supervise an exam to see that people are not cheating. Invigilate.
+
+## 監視 jian1 shi4
+
+<https://zh.wikipedia.org/wiki/%E7%9B%A3%E8%A6%96>
+
+Government surveillance.
+
+## 公寓 gong1 yu4
+
+Apartment.

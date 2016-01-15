@@ -32,6 +32,8 @@ brainiac75 <https://www.youtube.com/user/brainiac75> home science
 
 Applied Science <https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw> Materials, chemistry, microscopy.
 
+Royal Institute: <https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw>
+
 ### Mechanics
 
 <https://www.youtube.com/watch?v=wsz99y6JnpQ> Ave - Machinering and materials: 
@@ -48,6 +50,11 @@ Bloomberg Game Changers https://www.youtube.com/playlist?list=PLqq4LnWs3olW3n_rJ
 
 Mark Rober https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg
 
+### Brazil
+
+In Portuguese for poor kids who don't know English:
+
+- Manual do Mundo <https://www.youtube.com/user/iberethenorio>
 
 ## Funny
 

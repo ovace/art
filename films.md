@@ -324,6 +324,16 @@ Shows how Apple and Microsoft started out. The cool thing is to feel the environ
 
 Actors themselves are too exaggerated I think.
 
+### Inglorious bastards 2009
+
+Note: 8
+
+### Of Gods And Men 2010
+
+<https://en.wikipedia.org/wiki/Of_Gods_and_Men_%28film%29>
+
+Note: 7
+
 ## TODO
 
 Sure:
@@ -332,5 +342,6 @@ Sure:
 
 Maybe:
 
+- <https://en.wikipedia.org/wiki/Idiocracy>
 - <https://en.wikipedia.org/wiki/Spring_in_a_Small_Town>
 - <https://en.wikipedia.org/wiki/Last_Train_Home_%28film%29>

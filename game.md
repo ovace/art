@@ -1,5 +1,11 @@
 # Game
 
+-   <https://en.wikipedia.org/wiki/Escape_the_room>
+
+    <https://en.wikipedia.org/wiki/Real-life_room_escape>
+
+    Example: sphere: <https://www.youtube.com/watch?v=b0--zs7hZMc>
+
 -   <https://en.wikipedia.org/wiki/AAA_%28video_game_industry%29>
 
 -   <https://www.youtube.com/watch?v=g9hTpwoLjMI> Mega Man 3 AGDQ. The major goal of the run is to avoid lag!
@@ -169,6 +175,8 @@ Reversing a One Way Teleport Glitch <https://www.youtube.com/watch?v=GtlpcMZQV0E
 
 ## PC
 
+- Diablo 2
+
 ### Free
 
 #### teeworlds
@@ -225,21 +233,18 @@ Ultra hard SMB mods:
 
 ## Weird
 
-<https://en.wikipedia.org/wiki/The_Stanley_Parable> Appeared in House of Cards: <https://www.youtube.com/watch?v=LWUNxcvZCpg>
-
-<https://en.wikipedia.org/wiki/Mister_Mosquito>
-
-<https://en.wikipedia.org/wiki/Papers,_Please>
-
-<https://www.youtube.com/watch?v=FazPFFoTAyM> Plug and play.
-
-<https://en.wikipedia.org/wiki/Limbo_%28video_game%29>
-
-<https://en.wikipedia.org/wiki/Demolition_Racer> driving + soccer game.
-
-<https://en.wikipedia.org/wiki/Gang_Beasts> fighting game with jellies.
-
-<https://www.youtube.com/watch?v=wlUGhWCIxpI>
+- <https://en.wikipedia.org/wiki/The_Stanley_Parable> Appeared in House of Cards: <https://www.youtube.com/watch?v=LWUNxcvZCpg>
+- <https://en.wikipedia.org/wiki/Mister_Mosquito>
+- <https://en.wikipedia.org/wiki/Papers,_Please>
+- <https://www.youtube.com/watch?v=FazPFFoTAyM> Plug and play.
+- <https://en.wikipedia.org/wiki/Limbo_%28video_game%29>
+- <https://en.wikipedia.org/wiki/Demolition_Racer> driving + soccer game.
+- <https://en.wikipedia.org/wiki/Gang_Beasts> fighting game with jellies.
+- <https://www.youtube.com/watch?v=wlUGhWCIxpI>
+- Mirror's Edge
+- open ended multiplayer
+    - Rust https://www.youtube.com/watch?v=r2MSlSmCOso
+        - more detailed mechanics https://www.youtube.com/watch?v=HRy_KLINGP0
 
 New platformers:
 
@@ -318,3 +323,11 @@ Space:
     Elon Musk likes it: <http://venturebeat.com/2015/01/06/spacex-tesla-founder-elon-musk-loves-kerbal-space-program-mass-effect-and-civilization/>
 
 -   <https://en.wikipedia.org/wiki/Frontier:_Elite_II> <https://www.youtube.com/watch?v=7tqNpCGsFO8>
+
+## Gambling
+
+-   Coin pusher <https://www.youtube.com/watch?v=MElWeFlHVdM>
+
+## GPS
+
+- <https://en.wikipedia.org/wiki/Geocaching#History>

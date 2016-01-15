@@ -1,5 +1,15 @@
 # History
 
+-   <https://en.wikipedia.org/wiki/Rolodex>
+
+-   <https://youtu.be/bYOW7gEdGMk?t=903> touch screen on a desktop in 1980's
+
+-   <https://en.wikipedia.org/wiki/TX-0> One of the first fully solid state computers.
+
+    Demo of a mouse maze cheese game: <https://youtu.be/bYOW7gEdGMk?t=313>
+
+-   Apple I running in 2012: <https://www.youtube.com/watch?v=4l8i_xOBTPg>
+
 -   <http://money.cnn.com/galleries/2007/biz2/0701/gallery.101dumbest_2007/10.html>
 
 -   <https://en.wikipedia.org/wiki/AOL_search_data_leak>

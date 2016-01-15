@@ -2,6 +2,12 @@
 
 War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff, which I wish did not happen.
 
+-   Drones with guns:
+
+    - ClearPlexCorp <https://www.youtube.com/watch?v=jxThXvuP4Vo>
+    - <https://www.youtube.com/watch?v=xqHrTtvFFIs>
+    - FPSRussia <https://www.youtube.com/watch?v=SNPJMk2fgJU>, might be fake
+
 -   <https://en.wikipedia.org/wiki/Loose_lips_sink_ships>
 
 -   <http://blogs.rollcall.com/five-by-five/throwbackthursday-why-the-pentagon-has-five-sides/>

@@ -64,6 +64,10 @@
 
 ## Instruments
 
+## Gear
+
+## Tools
+
 -   https://en.wikipedia.org/wiki/Analytical_balance
 
     http://www.labmanager.com/lab-product/2009/12/evolution-of-the-analytical-lab-balance
@@ -73,6 +77,8 @@
 -   https://en.wikipedia.org/wiki/Glovebox
 
 -   https://en.wikipedia.org/wiki/Ball_mill
+
+-   https://en.wikipedia.org/wiki/Bunsen_burner
 
 ## Mercury
 

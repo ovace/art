@@ -1,5 +1,9 @@
 # Religion
 
+-   <https://en.wikipedia.org/wiki/Dorje_Shugden>
+
+    <https://en.wikipedia.org/wiki/Dorje_Shugden_controversy>
+
 -   <https://en.wikipedia.org/wiki/Sukyo_Mahikari>
 
     Believes that Jesus went to Japan, and enforces Japan's role in Christianity. Very nationalistic.

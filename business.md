@@ -2,6 +2,8 @@
 
 Business, finance, marketing.
 
+-   <https://en.wikipedia.org/wiki/Non-operating_income>
+
 -   <http://www.slate.com/articles/news_and_politics/explainer/2003/11/is_miss_universe_miss_worlds_boss.html>
 
 -   <https://en.wikipedia.org/wiki/Corner_office>
@@ -386,3 +388,9 @@ https://en.wikipedia.org/wiki/High-net-worth_individual
 - <https://en.wikipedia.org/wiki/Gross_world_product>
 
 - How many millionaires in the world: <http://www.telegraph.co.uk/finance/personalfinance/expat-money/10158420/A-record-breaking-number-of-millionaires-in-the-world.html>
+
+## ARPU
+
+## Average revenue per user
+
+- <https://en.wikipedia.org/wiki/Average_revenue_per_user>

@@ -139,3 +139,7 @@ Came after 7400.
 ## Testing
 
 <https://en.wikipedia.org/wiki/Process_corners>
+
+## Misc
+
+<https://en.wikipedia.org/wiki/Second_source>

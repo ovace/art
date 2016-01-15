@@ -58,6 +58,7 @@ Computers:
 - <http://download.com/>: software download
 - <http://upload.com/>
 - <http://www.microchip.com/>
+- <https://www.phone.com/>
 
 Interjections and particles:
 
@@ -117,7 +118,7 @@ Numerical:
 Google:
 
 - <http://goo.gl/> URL shortener
-- <http://g.co/> Google content
+- <http://g.co/> Google content shortened
 
 GitHub:
 

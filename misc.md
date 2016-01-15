@@ -2,6 +2,14 @@
 
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+-   <https://en.wikipedia.org/wiki/Seduction_community>
+
+-   <https://en.wikipedia.org/wiki/Universal_Product_Code>
+
+-   <https://en.wikipedia.org/wiki/Borromean_rings>
+
+-   <https://en.wikipedia.org/wiki/Fermi_problem>
+
 -   <https://www.lelo.com/earl> Golden vibrator!!
 
 -   <https://en.wikipedia.org/wiki/Magnetizer>

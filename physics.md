@@ -207,3 +207,11 @@ DrPhysicsA <https://www.youtube.com/channel/UCIVaddFslWk1TFoKNrvh99Q>
 ## Optics
 
 Poisson's spot: <https://www.youtube.com/watch?v=y9c8oZ49pFc>
+
+-   <https://en.wikipedia.org/wiki/Polarizer>
+
+    <https://en.wikipedia.org/wiki/Polarization_%28waves%29>
+
+    Stress bifringence:
+
+    - <https://www.youtube.com/watch?v=8rtts66THp0>

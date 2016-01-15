@@ -210,3 +210,12 @@ This allows us to:
     Just think about how you hard disk head moves thousands of times per second to precise disk locations!
 
     This is another major application of computers: control physical systems precisely.
+
+### Kids
+
+Hardware or not? I'd rather not, too much complication + cost.
+
+Which language? JavaScript because everyone has the interpreter + GUI (browser JS engine + HTML renderer + canvas). Yes, stdout is harder to see... but so be it.
+
+- https://thejournal.com/articles/2013/10/23/6-tips-to-get-your-kids-excited-about-coding.aspx?=THE21
+- https://www.quora.com/What-is-the-best-way-to-get-your-kids-interested-in-coding

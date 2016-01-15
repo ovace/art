@@ -1,5 +1,9 @@
 # China
 
+-   画地为牢 hua4 di4 wei2 lao2 <http://baike.baidu.com/subview/67062/5088947.htm>
+
+    Punishment in small ancient towns for non-serious crimes, consisting of drawing a circle on the ground, from which the punished person may not leave, on pain of more serious sanctions.
+
 I have a soft spot for Chinese language and traditional culture.
 
 I might include Japanese / Korean / Vietnamese stuff here too because they are all inside the Sinosphere.
@@ -297,3 +301,10 @@ Email domains: <http://www.quora.com/Who-are-the-top-5-email-providers-in-China>
 ## Modern politics
 
 -   <https://en.wikipedia.org/wiki/National_Congress_of_the_Communist_Party_of_China>
+
+## Painting
+
+- <http://www.china.org.cn/top10/2011-11/08/content_23854076.htm>
+- <https://en.wikipedia.org/wiki/Ink_wash_painting> black and white:
+    - <http://www.artisoo.com/old-man-are-fishing-chinese-painting-p-247.html>
+    - <http://www.china-gallery.com/2493-thickbox_default/eagle-painting-majestic-ink-wash-painting.jpg>    

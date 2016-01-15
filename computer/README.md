@@ -1,5 +1,39 @@
 # Computer
 
+-   <https://en.wikipedia.org/wiki/Global_Positioning_System>
+
+    Amazing: everyone uses the USA service. Almost certainly being spied.
+
+    Russian gone up so-so in 2000s, and other countries coming up pre-Snowden.
+
+    <https://en.wikipedia.org/wiki/Time_to_first_fix> measure of GPS performance.
+
+    <https://en.wikipedia.org/wiki/Assisted_GPS>
+
+-   <https://en.wikipedia.org/wiki/Single-page_application>
+
+-   Legality of buying likes / views:
+
+    - <http://www.dailydot.com/entertainment/how-to-buy-youtube-views/>
+    - <http://www.dailydot.com/business/youtube-view-like-bots-scandal/>
+    - <http://www.dailydot.com/business/youtube-fake-views-how-to-guide/>
+    - <https://bestsocialplan.com/is-buying-facebook-likes-illegal/>
+    - <http://resultr.com/is-it-legal-to-purchase-facebook-likes/>
+
+-   Facebook minimal age:
+
+    - <https://www.facebook.com/help/157793540954833>
+
+-   <https://en.wikipedia.org/wiki/Heartbeat_message>
+
+-   <https://en.wikipedia.org/wiki/CAPTCHA> Acronym talks about Turing test :-)
+
+-   <https://en.wikipedia.org/wiki/Botnet>
+
+    <http://searchsecurity.techtarget.com/definition/botnet>
+
+-   GMT vs UTC <https://en.wikipedia.org/wiki/Coordinated_Universal_Time>
+
 -   <https://en.wikipedia.org/wiki/Bundling_of_Microsoft_Windows>
 
 -   <https://twitter.com/josh_wills/status/198093512149958656>
@@ -373,36 +407,6 @@ How to find content:
 
 TODO
 
-## Open source hardware
-
--   https://en.wikipedia.org/wiki/RISC-V
-
-    https://github.com/riscv/riscv-linux
-
--   CPU reverse engineer
-
-    6502:
-
-    -   <http://www.visual6502.org/>, presentation: <http://media.ccc.de/browse/congress/2010/27c3-4159-en-reverse_engineering_mos_6502.html#video&t=2089>
-
-        Was used by NES.
-
-        Removing the epoxy from chip carrier to expose the die: <https://www.youtube.com/watch?v=mT1FStxAVz4>
-
-        Transparent packaging: <https://en.wikipedia.org/wiki/File:Microchips.jpg>
-
-    -   8080 (from the Soviet reversed clone) <http://zeptobars.ru/en/read/KR580VM80A-intel-i8080-verilog-reverse-engineering>
-
 ## Android
 
 There is an X86 port! <http://www.android-x86.org/>
-
-## Linux
-
-### Runs Linux
-
-- http://fsckin.com/2007/11/06/20-awesome-devices-that-run-linux-but-werent-designed-to/
-
-- Sony used to support it but then removed, likely security? https://www.playstation.com/ps3-openplatform/ https://en.wikipedia.org/wiki/OtherOS
-
-- PS4 https://www.reddit.com/r/PS4/comments/2jqtcu/is_there_any_way_to_install_any_linux_distro_on/

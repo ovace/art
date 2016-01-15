@@ -27,3 +27,5 @@ True laziness is hard work. (forum tagline). More true to me than the famous Bil
 Dying well is easy, living is not. (Rome, Open City)
 
 Inspiration is glimpsing an idea. Experience is explaining it. (a friend)
+
+Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.

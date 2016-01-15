@@ -1,5 +1,7 @@
 # Law
 
+-   <https://en.wikipedia.org/wiki/Sumptuary_law>
+
 -   <https://en.wikipedia.org/wiki/Mineral_rights>
 
 -   <https://en.wikipedia.org/wiki/Safe_harbor_%28law%29>

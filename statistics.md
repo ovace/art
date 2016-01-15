@@ -76,3 +76,7 @@
 Markov chain:
 
 -   <https://en.wikipedia.org/wiki/Viterbi_algorithm>
+
+## Misc
+
+-   <https://en.wikipedia.org/wiki/Stein's_example>

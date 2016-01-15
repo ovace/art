@@ -89,7 +89,16 @@ Social movements and practices.
 ## Psychology
 
 -   <https://en.wikipedia.org/wiki/Rorschach_test>
+-   <https://en.wikipedia.org/wiki/Intrusive_thought>
 
 ## Gender equality
 
 -   <https://en.wikipedia.org/wiki/Bechdel_test>
+
+## Developper options
+
+On 5.1.1, hit version 7 times in a row. No kidding.
+
+<https://www.youtube.com/watch?v=PLQ7CZeMEVA>
+
+The section then appears on the settings menu.

@@ -212,3 +212,28 @@ Also, unlike the technical interview with the people from Quartet, he took no no
 He didn't ask me anything technical, just to access myself.
 
 *That* is how you pick someone. The only way to see if he works well for you is to try it out (unfortunate that French labour law is overprotective).
+
+## 2015-11-26 Came back to Brazil
+
+When I got home, the smells came back to me.
+
+All those places I've seen a thousand times but don't think about anymore.
+
+And a few ones that I've seen a thousand times, and see in my dreams from time to time.
+
+## 2015-12-10 Physics course to Melissa
+
+She didn't know that Microsoft was paid. That is the ultimate monopoly.
+
+The product is so default, that users don't know it anymore, even though they use it every day.
+
+## 2015-12-25 Ribeirao preto
+
+Gabriel, my cousin, told me that I was too concentrated on Wikipedia on my uncle's smartphone while everyone else was chatting away how to say "couve" in English. Such a huge compliment. I told him that you either focus or get lost into useless noise forever. And I was the one to find it in the end: https://en.wikipedia.org/wiki/Collard_greens
+
+## 2015-01-13 Back to Paris after Brazil
+
+First impressions:
+
+- I like the cold, makes me feel a sexy / nostalgic kind of pleasure
+- overheard some smart youngsters talking about their Electrical Engineering courses. Reminded me of the massacre of Polytechnique, and made me feel a bit bad, but hopeful for such a country full of great minds.

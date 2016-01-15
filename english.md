@@ -2,6 +2,14 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Skunkworks_project>
+
+-   <https://en.wikipedia.org/wiki/Cuckold> Modification of cuckoo. Horns comes from stag mating habits, not relation to cuckoo.
+
+-   British Billion: <https://en.wikipedia.org/wiki/1,000,000,000>. The French still use this: billion in 10^12, milliard is 10^9.
+
+-   <https://en.wiktionary.org/wiki/invigilate>
+
 -   <http://idioms.thefreedictionary.com/be+in+clover>
 
 -   <https://en.wiktionary.org/wiki/debacle>

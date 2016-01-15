@@ -1,5 +1,11 @@
 # Computer funny
 
+-   <http://www.danielsen.com/jokes/>
+
+-   Android 5.1.1: process stats:
+
+        Geeky stats about running processes.
+
 -   <https://en.wikipedia.org/wiki/Spider_trap>
 
     - <http://stackoverflow.com/questions/4512936/what-techniques-can-be-used-to-detect-so-called-black-holes-a-spider-trap-wh>
