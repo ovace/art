@@ -35,14 +35,6 @@ Physics, chemistry, astronomy, geology.
 
 -   Sand on metallic plate resonance patterns: <https://www.youtube.com/watch?v=YedgubRZva8>
 
-## Geology
-
--   https://en.wikipedia.org/wiki/Future_of_the_Earth
-
--   https://en.wikipedia.org/wiki/Proxima_Centauri nearest star, 4 light years.
-
--   <https://en.wikipedia.org/wiki/Pangaea> Last supercontinent, split 225Ma
-
 ## Funny
 
 -   Rutherford: All science is either physics or stamp collecting.

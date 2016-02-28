@@ -231,9 +231,36 @@ The product is so default, that users don't know it anymore, even though they us
 
 Gabriel, my cousin, told me that I was too concentrated on Wikipedia on my uncle's smartphone while everyone else was chatting away how to say "couve" in English. Such a huge compliment. I told him that you either focus or get lost into useless noise forever. And I was the one to find it in the end: https://en.wikipedia.org/wiki/Collard_greens
 
-## 2015-01-13 Back to Paris after Brazil
+## 2016-01-13 Back to Paris after Brazil
 
 First impressions:
 
 - I like the cold, makes me feel a sexy / nostalgic kind of pleasure
 - overheard some smart youngsters talking about their Electrical Engineering courses. Reminded me of the massacre of Polytechnique, and made me feel a bit bad, but hopeful for such a country full of great minds.
+
+## 2016-01 Father hits the butcher's balance for playing with my mother
+
+My mother told me this story, which happened somewhere in the early 2000s. It was not the first time I've heard it.
+
+She went to the butcher, and he had the bad habit of playing pranks on costumers (mostly women I bet...).
+
+He grabbed my mother's foot without her seeing it, and started imitating the bark of a dog.
+
+My mother was startled, but not too offended, and left.
+
+Later on, she casually told this to my father while walking with him. She said it was a phase in which my father was a bit depressive.
+
+The other day, when my father came back home, she told her that the matter was settled.
+
+He had passed by the butcher, scolded him badly for playing such pranks (sexually related?), and hit his meat balance hard with the hand.
+
+My mother was completely embarrassed by this, but now that I hear it, I think it was well deserved (the only problem being the risk of getting shot by some crazy butcher).
+
+My mother stopped going to that butcher of course, and told my father that now he would have to take her by car to another butcher, because that was the only good one close by.
+
+One day, my mother went to the baker's (which because of Portuguese immigration in Brazil is more like a French café), and she came across the butcher and his assistant by chance who were drinking some coffee.
+
+She apologized for her husband, but the assistant took my mother's side, said that he kept telling his boss that he should stop with those silly pranks.
+
+I bet he did stop after this time.
+

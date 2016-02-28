@@ -2,6 +2,22 @@
 
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+-   <https://en.wikipedia.org/wiki/San_Angeles> I'm here because of an Android NDK demo.
+
+-   <https://en.wikipedia.org/wiki/Grey_goo>
+
+-   <https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers>
+
+    TODO: advanced speakers, PIB per language.
+
+    <https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers>
+
+-   it is illegal to speak English inside enterprises in Quebec: you can be fined.
+
+    <https://fr.wikipedia.org/wiki/Loi_sur_la_langue_officielle_%28Qu%C3%A9bec%29>
+
+-   so far from God and so close to the USA <http://www.strategic-culture.org/news/2012/08/28/mexico-so-far-from-god-so-close-to-the-united-states.html>
+
 -   <https://en.wikipedia.org/wiki/Seduction_community>
 
 -   <https://en.wikipedia.org/wiki/Universal_Product_Code>

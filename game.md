@@ -1,5 +1,13 @@
 # Game
 
+-   MOBA <https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena>
+
+    - <https://en.wikipedia.org/wiki/Vainglory_%28video_game%29>
+
+-   <https://en.wikipedia.org/wiki/HUD_%28video_gaming%29>
+
+-   <http://www.urbandictionary.com/define.php?term=pay-to-win>
+
 -   <https://en.wikipedia.org/wiki/Escape_the_room>
 
     <https://en.wikipedia.org/wiki/Real-life_room_escape>
@@ -33,8 +41,6 @@
 -   <https://en.wikipedia.org/wiki/Final_Fantasy> got its name because it was a last ditch effort by its creator to make a successful game. If it did not sell well, he'd go back to university.
 
 -   <http://www.nintendolife.com/news/2015/01/ninterview_learning_retro_secrets_with_a_former_nintendo_game_play_counselor> game counselors!
-
--   <http://www.ongamers.com/articles/league-of-legends-player-who-reportedly-made-terrorist-threat-faces-up-to-10-years-in-prison/1100-894/>
 
 -   <http://www.telegraph.co.uk/news/worldnews/europe/france/7771505/Video-game-fanatic-hunts-down-and-stabs-rival-player-who-killed-character-online.html>
 
@@ -177,6 +183,42 @@ Reversing a One Way Teleport Glitch <https://www.youtube.com/watch?v=GtlpcMZQV0E
 
 - Diablo 2
 
+### Counter strike
+
+### CS
+
+#### CS:GO
+
+GO vocabulary:
+
+- <https://steamcommunity.com/sharedfiles/filedetails/?id=239678197>
+- ace: a single player kills the entire enemy team
+- SPRAYDOWN kill many enemies very quickly
+- boost: step on top of another friendly player to see higher up
+
+<https://play.esea.net/index.php?s=content&d=league_rules_CSGO>
+
+Competitive play: each team chooses a map it seems?
+
+<http://counterstrike.wikia.com/wiki/Tec-9>
+
+Betting: TODO anywhere does money? In-game skins:
+
+- <https://www.reddit.com/r/csgobetting/>
+- <http://csgolounge.com/>
+
+Controversies: <https://www.youtube.com/watch?v=D5fHGf9TWSA> Specially cool is the last unknown boost glitch-like.
+
+Illegal glitches:
+
+- <https://www.reddit.com/r/GlobalOffensive/comments/2np2rd/what_about_this_pixelwalking/>
+- points from which textures become transparent
+
+Rankings:
+
+- <http://www.gosugamers.net/counterstrike/rankings>
+- distribution Gaussian: <https://csgosquad.com/ranks>
+
 ### Free
 
 #### teeworlds
@@ -245,6 +287,10 @@ Ultra hard SMB mods:
 - open ended multiplayer
     - Rust https://www.youtube.com/watch?v=r2MSlSmCOso
         - more detailed mechanics https://www.youtube.com/watch?v=HRy_KLINGP0
+    - DayZ https://www.youtube.com/watch?v=M7u8Wp8sZ6Q
+    - H1Z1 https://www.youtube.com/watch?v=SZupxUXJWl8
+    - 2015 top 10 https://www.youtube.com/watch?v=MqMyYzV_ujs
+- <https://en.wikipedia.org/wiki/Superhot>
 
 New platformers:
 
@@ -252,6 +298,10 @@ New platformers:
 - I wanna be the guy
 - super meat boy
 - <https://en.wikipedia.org/wiki/Unravel_%28video_game%29>, 2D scroller with string / physics dynamics
+
+### Indie hardcore
+
+IGN - This game deserves 11/10 <https://www.youtube.com/watch?v=2juJWdmjKDo>>
 
 ## Bad
 
@@ -331,3 +381,37 @@ Space:
 ## GPS
 
 - <https://en.wikipedia.org/wiki/Geocaching#History>
+
+## HTML5
+
+- <http://gorescript.com/play/>
+
+## League of Legends
+
+-   <http://www.ongamers.com/articles/league-of-legends-player-who-reportedly-made-terrorist-threat-faces-up-to-10-years-in-prison/1100-894/>
+-   Added to the athletics programs of some universities: <http://www.businessinsider.com/league-of-legends-scholarship-2014-6?IR=T>
+
+Business model: skin sale only?!
+
+-   <http://www.businessinsider.com/league-of-legends-business-model-is-interesting-2014-10?IR=T>
+-   <https://www.quora.com/How-much-revenue-does-League-of-Legends-generate-and-how-sustainable-is-its-business-model>
+
+Tournaments lose money, they are only for publicity.
+
+Riot Games actually pays some players to train directly:
+
+-   <https://www.lol-smurfs.com/blog/how-much-do-lol-pros-earn/>
+
+## Professional gaming
+
+- <http://www.redbull.com/uk/en/esports/stories/1331743451713/counter-strike-go-tips-how-to-become-a-pro>
+
+## Betting
+
+## Lottery
+
+- <http://www.theatlantic.com/business/archive/2016/02/how-mit-students-gamed-the-lottery/470349/?utm_source=SFFB>
+
+## Records
+
+- <http://www.engadget.com/2013/03/12/world-of-tanks-sets-world-record-for-most-players-concurrently-o/>

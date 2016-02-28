@@ -291,7 +291,7 @@ Real life e.g.: cutting your hair too short with a razing machine.
 
 Seaweed.
 
-zao3 sounds like cao3 (grass), but has nothing to do apprentely.
+zao3 sounds like cao3 (grass), but has nothing to do apparently.
 
 ## 紫菜 zi3 cai4
 
@@ -336,3 +336,30 @@ Government surveillance.
 ## 公寓 gong1 yu4
 
 Apartment.
+
+## 评语 ping2 yu3
+
+Review (of film).
+
+## 视频 shi4 pin1
+
+Video.
+
+pin: frequency, as in: 频率
+
+## 大黄 da4 huang2
+
+Rhubarb.
+
+<https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%BB%84>
+
+Used in China as a medicine, in contrast to a sweet in the west.
+
+## 犯错 fan4 cuo4
+
+Make a mistake.
+
+## 强奸 qiang2 jian1
+
+To rape.
+

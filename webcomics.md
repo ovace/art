@@ -22,6 +22,7 @@
     - <http://xkcd.com/977/>: maps
     - <http://xkcd.com/978/>: citogenesis
     - <http://xkcd.com/980/huge>: amazing money usage chart
+    - <https://xkcd.com/1002/>: difficulty of various games for computers
     - <https://xkcd.com/1132/>: Frequentists vs. Bayesians sun exploded
     - <http://xkcd.com/1168>: tar command
     - <http://xkcd.com/1172>: workflow head spacebar
@@ -38,6 +39,7 @@
     - <http://www.smbc-comics.com/?id=3292#comic>
     - <http://www.smbc-comics.com/?id=3355#comic>
     - <http://www.smbc-comics.com/?id=2208>
+    - <http://www.smbc-comics.com/index.php?db=comics&id=2158#comic> alien hardware Doom
 
     Tier 2:
 

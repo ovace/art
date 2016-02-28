@@ -1,5 +1,7 @@
 # Engineering
 
+- <https://en.wikipedia.org/wiki/Tandem_rotors>
+
 - <https://www.youtube.com/watch?v=mfgsQX78hg8> 1 trillion FPS camera
 
     Also allows to see light bounces!

@@ -67,3 +67,7 @@ Those artists are literally manufactured products.
 ## Styles
 
 - <https://en.wikipedia.org/wiki/Power_trio>
+
+## Instruments
+
+<https://www.youtube.com/watch?v=tgU0OZkGhGI> <https://en.wikipedia.org/wiki/Hydraulophone>

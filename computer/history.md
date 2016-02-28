@@ -1,5 +1,49 @@
 # History
 
+-   <https://www.youtube.com/watch?v=ISJWZpFIAlQ> 1965 Ivan Sutherland
+
+-   <https://youtu.be/iwEpKy_7mYM?t=849> XEROX PARC footage.
+
+-   <https://en.wikipedia.org/wiki/Sketchpad>
+
+    <https://www.youtube.com/watch?v=USyoT_Ha_bA>
+
+-   <https://en.wikipedia.org/wiki/Colossus_computer>
+
+-   <https://en.wikipedia.org/wiki/Konrad_Zuse> early relay computer. Used binary, great advance over Babbage's machine.
+
+    Relay 2 bit adder prototype <https://youtu.be/4YArfOgjXys?t=1489>
+
+    Also hole punched programmed.
+
+    Then a friend came to him and said: use vacuum tubes instead, which is electronic instead of mechanic, and 1000x faster.
+
+    In 41, Hitler though the war would end in 6 months, so no longer scale projects were undertaken.
+
+    Americans then invented it to calculate firing tables.
+
+    ENIAC was not electronically programmable: it had to be rewired.
+
+    Von Neumann entered the project at the end.
+
+-   definition on "computer" changed from person in 1935, to machine in 1945. Mentioned at: <https://youtu.be/4YArfOgjXys?t=1209>
+
+-   <https://en.wikipedia.org/wiki/Ada_Lovelace> was the daughter of <https://en.wikipedia.org/wiki/Lord_Byron>, and met Babbage's engine at a party.
+
+-   <https://en.wikipedia.org/wiki/Jacquard_loom>
+
+-   <https://en.wikipedia.org/wiki/Tyranny_of_numbers> After transistor, before PCB.
+
+    Mentioned at: <https://youtu.be/krlZf5H7Hp4?list=PLcEaxFOVJTbGjG-wcuHWSrWBB9BIzQZaJ&t=2709>
+
+    Co-invented by TI and Fairchild.
+
+-   COBOL beat Fortran in early days because Fortran as too focused for number crunching, and had little letter support.
+
+    COBOL, COmmon Business Oriented Language on the other hand, is really verbose and English-like.
+
+    Mentioned at: <https://www.youtube.com/watch?v=krlZf5H7Hp4&list=PLcEaxFOVJTbGjG-wcuHWSrWBB9BIzQZaJ>
+
 -   <https://en.wikipedia.org/wiki/Rolodex>
 
 -   <https://youtu.be/bYOW7gEdGMk?t=903> touch screen on a desktop in 1980's

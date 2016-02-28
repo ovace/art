@@ -2,6 +2,8 @@
 
 War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff, which I wish did not happen.
 
+-   <https://en.wikipedia.org/wiki/Fragging>
+
 -   Drones with guns:
 
     - ClearPlexCorp <https://www.youtube.com/watch?v=jxThXvuP4Vo>
@@ -44,6 +46,15 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
     - espionage
 
 -   <http://en.wikipedia.org/wiki/Unrestricted_submarine_warfare>
+
+## Air
+
+-   <https://en.wikipedia.org/wiki/Unmanned_combat_aerial_vehicle>
+
+    - <https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper>
+    - Documentary: <https://www.youtube.com/watch?v=2kfrWcVBMhs>
+
+-   <https://en.wikipedia.org/wiki/Flare_%28countermeasure%29>
 
 ## Naval
 

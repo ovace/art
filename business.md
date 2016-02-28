@@ -2,6 +2,14 @@
 
 Business, finance, marketing.
 
+-   intrapreneurs <http://www.fastcompany.com/3046231/the-new-rules-of-work/the-rise-of-the-intrapreneur>
+
+-   <https://en.wikipedia.org/wiki/C_corporation>
+
+-   <https://en.wikipedia.org/wiki/List_of_oldest_companies>. Japan has 1400 year old companies!!!
+
+-   <https://en.wikipedia.org/wiki/Lifestyle_business>
+
 -   <https://en.wikipedia.org/wiki/Non-operating_income>
 
 -   <http://www.slate.com/articles/news_and_politics/explainer/2003/11/is_miss_universe_miss_worlds_boss.html>
@@ -96,15 +104,6 @@ Business, finance, marketing.
     On startup investment, only the big successes matter financially: 3/4 of Y combinator's money comes from Dropbox and Airbnb alone.
 
     The ideas that make huge companies don't seem good at first, or else someone else would have done them before. The author recalls how he felt about that at first about Facebook.
-
--   <http://en.wikipedia.org/wiki/Gimmick>
-
--   <http://en.wikipedia.org/wiki/Publicity_stunt>, AKA marketing stunt.
-
-    Short list of famous job application stunts: <http://jonbishop.co/want-a-chance-at-the-best-startups-go-beyond-the-resume/>
-    Most failed.
-
-    A dangerous publicity stunt is the central theme of the Safety last 1923 film.
 
 -   Exit strategy.
 
@@ -215,6 +214,10 @@ Compare with stock shares, which give people equity: a percentage of the compani
 
 ## Stock exchange
 
+-   <https://en.wikipedia.org/wiki/Market_trend>
+
+    Bull and bear explained!!!
+
 -   <https://en.wikipedia.org/wiki/Earnings_call>
 
     <https://investor.google.com/webcast.html>
@@ -249,9 +252,9 @@ In the past, only institutions could trade
 
     The total cap of a stock market is a significant economic measure, although it is susceptible to speculative spikes like the dot com bubble.
 
--   <http://en.wikipedia.org/wiki/Corporation> type of company that trades shares on a sock exchange.
+-   <http://en.wikipedia.org/wiki/Corporation> a legal entity that looks like a person and which represents the company.
 
-    Incorporation is the act of becoming a corporation, and often (TODO always) happens through an IPO.
+-   <https://en.wikipedia.org/wiki/Joint-stock_company> TODO vs corporation?
 
 Closing price <http://www.investopedia.com/terms/c/closingprice.asp>. Value of actions when the stock closes.
 

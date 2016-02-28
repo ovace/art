@@ -86,6 +86,8 @@ Guy mining a few grams of mercury manually: <https://www.youtube.com/watch?v=Ztv
 
 ## Materials
 
+-   https://en.wikipedia.org/wiki/Iridescence
+
 -   https://en.wikipedia.org/wiki/Neodymium_magnet
 
     Discovered in 1982 by GM and some Japanese!

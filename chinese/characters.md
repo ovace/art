@@ -16,3 +16,9 @@ Common words:
 - 操场 playground
 
 Etymology: internet age slang for fuck. Phonetic replacement for another character which was not present on earlier typefaces 肏 (because it is vulgar).
+
+## 犯 fan4
+
+- fànzuì to commit a crime; crime; offense
+- fànrén convict; prisoner; criminal
+- fànfǎ break the law

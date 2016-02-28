@@ -104,6 +104,8 @@ Every piece can be promoted to an new one with specific new moves (most of them 
 
 ## History
 
+<https://en.wikipedia.org/wiki/Loulan_Kingdom>
+
 ### Qin Shi Huang
 
 ### First Qin emperor
@@ -190,9 +192,21 @@ Funny things about how Westerners have perceived and imagined China, specially i
 
 On Wikipedia, always check the French page for Chinese subjects, it often has much more material than the English one.
 
-- 200 AD medicine <https://en.wikipedia.org/wiki/Shennong_Ben_Cao_Jing>
+Old:
+
+- <https://en.wikipedia.org/wiki/Shennong_Ben_Cao_Jing> medicinal herbs, compiled 200AD, attributed to Shennong from 2000 BC.
 
 - <https://zh.wikipedia.org/wiki/%E5%A1%B5%E5%9F%83%E8%90%BD%E5%AE%9A_%28%E5%B0%8F%E8%AA%AA%29> <https://en.wikipedia.org/wiki/Alai_%28author%29>
+
+New:
+
+- <https://en.wikipedia.org/wiki/Soul_Mountain>
+
+## Music
+
+- <https://en.wikipedia.org/wiki/Jieshi_Diao_Youlan>
+
+- <https://en.wikipedia.org/wiki/Guqin_notation>
 
 ## Wisdom
 
@@ -233,70 +247,6 @@ I hear and I forget. I see and I remember. I do and I understand.
 ### Business
 
 -   <http://www.forbes.com/china-billionaires/list/>
-
-### Websites
-
-General info:
-
--   http://www.quora.com/Why-do-so-many-Chinese-websites-use-numbers-in-their-domain-names
-
-Communication:
-
--   <http://www.quora.com/Whats-the-most-famous-social-networking-site-in-China>
-
--   http://www.weibo.com/
-
-    - http://www.weibo.com/GitHub
-
--   <https://en.wikipedia.org/wiki/Zhihu>
-
-    <http://www.zhihu.com>
-
-    Q&A, like Quora.
-
--   <https://en.wikipedia.org/wiki/NetEase> Also offers email, top Chinese email on GitHub.
-
--   <https://en.wikipedia.org/wiki/Douban>
-
--   <https://en.wikipedia.org/wiki/Plurk>
-
-    <https://www.plurk.com>
-
-    Popular in Taiwan.
-
--   <https://en.wikipedia.org/wiki/Mop.com> Popular hipster forum.
-
-    Popularized the term: <https://en.wikipedia.org/wiki/Human_flesh_search_engine#History>
-
-E-commerce:
-
--   <https://en.wikipedia.org/wiki/JD.com>
-
-Email domains: <http://www.quora.com/Who-are-the-top-5-email-providers-in-China>
-
--   qq.com
--   163.com
--   126.com
-
-#### Programming
-
--   <http://www.quora.com/Is-there-a-Chinese-version-of-Stackoverflow-com>
-
--   <http://v2ex.com/>
-
-    <https://twitter.com/Livid>
-
--   <https://en.wikipedia.org/wiki/CSDN>
-
-    <http://csdn.net/>
-
-    10M people developer community.
-
--   <http://www.jobbole.com/>
-
-    TODO recruiting of some kind? "bole" is "talent finder"
-
--   https://github.com/lifesinger/lifesinger.github.com/issues Why so many followers?
 
 ## Modern politics
 

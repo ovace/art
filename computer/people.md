@@ -47,6 +47,14 @@
 
     Died for open source. Markdown and Reddit co-creator.
 
+-   Fabrice belard. FFmpeg and QEMU. Ecole polytechnique.
+
+-   Michael Niedermayer
+
+    http://guru.multimedia.cx/
+
+    http://snackbox.org/~snacky/mn.html hardcore quotes
+
 ## Jobs
 
 <http://en.wikipedia.org/wiki/Steve_Jobs>. So many interesting anecdotes.
@@ -152,3 +160,17 @@ Netscape, then Opsware that sold to HP, then married a family money billionaire 
 Pando Interview: <https://www.youtube.com/watch?v=oOe05w1gLrE>
 
 Bloomberg Business: <https://www.youtube.com/watch?v=qEFu-B1wj1E>
+
+## Lennart Poettering
+
+Open source superstar.
+
+<https://en.wikipedia.org/wiki/Lennart_Poettering>
+
+## John Gilmore
+
+GNU, Cygnus, EFF, DHPC predecessor.
+
+https://en.wikipedia.org/wiki/John_Gilmore_%28activist%29
+
+How he talks <https://www.youtube.com/watch?v=0ROzfnZbCzo>

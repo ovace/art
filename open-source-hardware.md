@@ -32,3 +32,9 @@
 
     -   8080 (from the Soviet reversed clone) <http://zeptobars.ru/en/read/KR580VM80A-intel-i8080-verilog-reverse-engineering>
 
+
+## GPU
+
+Nyuzi <http://nyuzi.org/> <https://en.wiktionary.org/wiki/nyuzi>
+
+MIAOW <http://miaowgpu.org/> <https://github.com/VerticalResearchGroup/miaow> AMD Southern Islands ISA based.

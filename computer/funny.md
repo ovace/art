@@ -1,5 +1,25 @@
 # Computer funny
 
+-   <https://en.wikipedia.org/wiki/William_Shanks>
+
+-   <https://blogbyraheel.wordpress.com/2009/04/15/best-programmer-t-shirts/>
+
+    > If Whitespace Was Truly White it would show on a black background
+
+    > Multi thread T-shirt
+
+    > PHP  pretty hot programmer
+
+    > I tried to change the world, but I couldn't find the source code
+
+-   <http://developer.android.com/reference/android/util/Log.html#wtf%28java.lang.String,%20java.lang.Throwable%29> What a Terrible Failure!
+
+-   <http://danny.oz.au/danny/humour/one-ring>
+
+-   BOFH <https://en.wikipedia.org/wiki/Bastard_Operator_From_Hell>
+
+-   "One does not simply initialize the DBus client" on ring.cx dring `bin/main.cpp` if DBus init fails.
+
 -   <http://www.danielsen.com/jokes/>
 
 -   Android 5.1.1: process stats:
@@ -215,6 +235,8 @@
 
 ## Man pages
 
+-   <https://mostlybuggy.wordpress.com/2010/08/29/with-a-pinch-of-humor/>
+
 -   `i_suck_and_my_tests_are_order_dependent!()`: <http://ruby-doc.org/stdlib-2.1.0/libdoc/minitest/rdoc/MiniTest/Unit/TestCase.html#method-c-i_suck_and_my_tests_are_order_dependent-21>
 
 In Vim:
@@ -227,7 +249,7 @@ Exuberant tags `man ctags`:
 
         Ctags has more options than ls(1).
 
-## Comments
+### Comments
 
 -   https://github.com/bminor/binutils-gdb/blob/binutils-2_25_1/gas/doc/as.texinfo#L5553
 
@@ -236,7 +258,7 @@ Exuberant tags `man ctags`:
         @c no one seems to know what this is for or whether this description is
         @c what it really ought to do
 
-## Kernel
+### Kernel
 
 -   `static void impress_friends(void)`: `/arch/x86/kernel/smpboot.c`. TODO why that name?
 

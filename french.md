@@ -1,5 +1,27 @@
 # French
 
+-   "c'est a la africaine": disorganized TODO find online source, heard in real life.
+
+-   <https://fr.wikipedia.org/wiki/B%C3%A2illement> bailler
+
+-   participe passé conjugation differentiates only male / female and singular / plural. Lol.
+
+    E.g.: http://conjugator.reverso.net/conjugation-french-verb-savoir.html
+
+-   paille: drinking straw
+
+-   <https://fr.wikipedia.org/wiki/Duvet_%28plumage%29> Best material for *very* hot clothing or blankets.
+
+-   ourlet du pantalon <https://fr.wikipedia.org/wiki/Ourlet_%28couture%29>
+
+-   cintre: triangular clothes hanger
+
+-   <http://secouchermoinsbete.fr/62-cretin-des-alpes-origine-de-lexpression>
+
+    Cretin is derived from Christian: <https://en.wiktionary.org/wiki/cretin>
+
+-   kéké <https://fr.wiktionary.org/wiki/k%C3%A9k%C3%A9>
+
 -   <http://fr.wikipedia.org/wiki/Rital>
 
 -   <https://fr.wiktionary.org/wiki/trois_fois_rien>

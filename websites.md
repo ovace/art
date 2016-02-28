@@ -60,55 +60,6 @@ Many interesting programming discussions which is its original purpose.
 
 Became read-only in 2014 because of vandalism.
 
-## Emails
-
-Safety focused:
-
-- http://thesimplecomputer.info/free-webmail-for-better-privacy
-
-Best ones:
-
-- fast account creation
-
-    - https://scramble.io/
-    - https://www.ghostmail.com/
-
-- https://ruggedinbox.com/
-
-Acceptable:
-
-- https://www.mailoo.org French, captcha, accounts manually verified in up to 24h...
-- https://scryptmail.com
-
-Bad:
-
-- mail.com: buggy, acquired by GMX https://www.quora.com/I-cant-seem-to-open-an-account-through-mail-com-I-keep-getting-this-message-Your-registration-could-not-be-processed-at-the-moment-Please-try-again-later-How-can-I-resolve-this
-- https://openmailbox.org buggy
-
-No cell phone required and famous:
-
-- http://www.gmx.com/
-
-Cell phone required:
-
-- gmail. Injections: dots ignored, `+asdf` and `asdf+` suffix prefixes ignored
-- yahoo
-- yandex
-
-Disposable email address providers
-
-- http://www.digitaltrends.com/web/best-sites-for-creating-a-disposable-email-address/
-- http://www.fakemailgenerator.com
-
-Disposable cell numbers with public message view:
-
-- https://smsreceivefree.com/ 9 numbers refreshed every t >= 14 days
-- http://receivesmsonline.com/
-
-TODO: bulk email creation:
-
-- https://www.reddit.com/r/howto/comments/31mw3k/request_how_can_i_create_bulk_email_addresses/
-
 ## Get connection information
 
 - http://icanhazip.com/ just the IP: http://superuser.com/questions/420969/services-that-just-return-your-public-ip-as-text

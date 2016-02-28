@@ -43,6 +43,7 @@ Computers:
 - <http://pc.com>: Intel
 - <http://mac.com>: apple.com
     - <http://me.com/>: iCloud
+- <http://www.ipad.com/>: not Apple in 2016!
 - <http://site.com>: Salesforce
 - <http://www.website.com/>
 - <http://xml.com/>: O'Reilly
@@ -59,6 +60,7 @@ Computers:
 - <http://upload.com/>
 - <http://www.microchip.com/>
 - <https://www.phone.com/>
+- <http://tesla.com> <http://techcrunch.com/2016/02/20/tesla-finally-owns-tesla-com/>
 
 Interjections and particles:
 

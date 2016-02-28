@@ -1,5 +1,9 @@
 # Electronics
 
+<https://en.wikipedia.org/wiki/Electronics_manufacturing_services>
+
+<https://en.wikipedia.org/wiki/Trickle_charging>
+
 <https://en.wikipedia.org/wiki/Resettable_fuse>
 
 <https://en.wikipedia.org/wiki/Pin_grid_array>

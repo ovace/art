@@ -53,3 +53,18 @@ Note: 6
 ## Code rush 2000
 
 <https://en.wikipedia.org/wiki/Code_Rush>
+
+## The rich kids of Instagram
+
+<https://www.youtube.com/watch?v=e8EeyEbvK6s>
+
+Note: 7.
+
+Channel 4.
+
+## Machine that Changed the World 1992
+
+<https://en.wikipedia.org/wiki/The_Machine_That_Changed_the_World_%28miniseries%29> by <https://en.wikipedia.org/wiki/WGBH-TV>
+
+- Episode 1: note 7 Some facts I didn't know.
+- Episode 2: note 8 Many facts I didn't know.

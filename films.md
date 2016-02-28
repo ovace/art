@@ -334,6 +334,14 @@ Note: 8
 
 Note: 7
 
+### Kill Bill 2
+
+Note: 7
+
+### Good Fellas
+
+Note: 7
+
 ## TODO
 
 Sure:

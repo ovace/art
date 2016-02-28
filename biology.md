@@ -2,6 +2,30 @@
 
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   <https://en.wikipedia.org/wiki/Meal_replacement>
+
+    - <http://www.dailymail.co.uk/health/article-2780505/Can-man-live-meal-substitutes-They-vitamins-promise-benefits-balanced-diet-But-one-volunteer-tried-survive-bars-shakes-week-shocked-results.html>
+
+-   <https://en.wikipedia.org/wiki/Dichromacy> Almost all placental mammals. Exceptions
+    - primates closely related to humans, which are usually trichromats
+    - sea mammals (both pinnipeds and cetaceans) which are cone monochromatsi
+    - New World Monkeys are a partial exception: in most species, males are dichromats, and about 60% of females are trichromats, but the owl monkeys are cone monochromats, and both sexes of howler monkeys are trichromats.
+    - <https://en.wikipedia.org/wiki/Trichromacy>
+    - <https://en.wikipedia.org/wiki/Tetrachromacy>  Most mammals where like that, but lost two.
+    - <https://en.wikipedia.org/wiki/Pentachromacy>.
+
+-   <https://en.wikipedia.org/wiki/Spermaceti>
+
+-   <https://en.wikipedia.org/wiki/Gastrolith>
+
+-   <https://en.wikipedia.org/wiki/Premastication>
+
+-   <http://www.straightdope.com/columns/read/191/can-man-live-by-bread-alone>
+
+    <http://forums.anandtech.com/showthread.php?t=26536>
+
+    <http://latest.com/2014/04/girl-spent-9-years-in-garage-fed-only-bread-and-water-by-foster-parents-in-cult/>
+
 -   <https://en.wikipedia.org/wiki/Waggle_dance> <https://www.youtube.com/watch?v=bFDGPgXtK-U>
 
 -   <https://en.wikipedia.org/wiki/Floral_emblem> Most beautiful flowers in the world.
@@ -37,12 +61,6 @@ Animals, plants, biology, evolution, genetics, diseases.
 -   <http://en.wikipedia.org/wiki/Diphallia>, <http://www.xnxx.com/video7260086/latina_loves_her_sexy_double_dilemma>
 
 -   <http://en.wikipedia.org/wiki/Abigail_and_Brittany_Hensel>, <http://en.wikipedia.org/wiki/Polycephaly>
-
--   Species with very few specimens:
-
-    - <http://en.wikipedia.org/wiki/Lists_of_IUCN_Red_List_Critically_Endangered_species>
-
-    - <http://en.wikipedia.org/wiki/Yangtze_giant_softshell_turtle> only 4 known, if you count the one in Vietnam which the Vietnamese say it's another species. 2 at Suzhou, and we hope they feel like breeding some day...
 
 -   <http://en.wikipedia.org/wiki/Port-wine_stain>
 
@@ -116,6 +134,16 @@ Animals, plants, biology, evolution, genetics, diseases.
     The most common type of color blindness is Deuteranomaly, present in 5% of European males. It affects red-green discrimination, but does not prevent it entirely.
 
     There are rarer conditions in which red receptors are completely missing, in which red-green discrimination is impossible.
+
+## Rare animals
+
+-   <http://en.wikipedia.org/wiki/Lists_of_IUCN_Red_List_Critically_Endangered_species>
+
+-   <http://en.wikipedia.org/wiki/Yangtze_giant_softshell_turtle> only 4 known, if you count the one in Vietnam which the Vietnamese say it's another species. 2 at Suzhou, and we hope they feel like breeding some day...
+
+    2016 update: the Vietnamese died: <http://www.smithsonianmag.com/smart-news/beloved-giant-turtle-dies-leaving-three-alive-earth-180957940/?no-ist>
+
+-   <https://en.wikipedia.org/wiki/Northern_white_rhinoceros>
 
 ## Psychology
 

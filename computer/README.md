@@ -1,5 +1,9 @@
 # Computer
 
+-   <https://en.wikipedia.org/wiki/Purity_test>
+
+-   <https://en.wikipedia.org/wiki/Warrant_canary>
+
 -   <https://en.wikipedia.org/wiki/Global_Positioning_System>
 
     Amazing: everyone uses the USA service. Almost certainly being spied.
@@ -98,8 +102,6 @@
 
 -   <https://en.wikipedia.org/wiki/Leet>
 
--   <http://bitcoin.stackexchange.com/questions/10320/how-useful-is-a-javascript-miner> <http://crasseux.com/bitcoin/>
-
 -   <https://www.google.com/transparencyreport>
 
 -   <https://en.wikipedia.org/wiki/Cygnus_Solutions>
@@ -139,8 +141,6 @@
 -   <http://en.wikipedia.org/wiki/Single-letter_second-level_domain>
 
 -   Whenever I see a SaaS website that has no login (but rather some requires-human-feedback form), I just think: bullshit, does not scale. Next one, please.
-
--   <http://en.wikipedia.org/wiki/IOS_jailbreaking> How can it be legal to sell such self blocked devices in which you cannot touch your hardware? And how can such devices have huge market share?
 
 -   <https://en.wikipedia.org/wiki/Red_Star_OS> North Korean Linux based OS. Apparently closed source, and cannot be run outside of Korea. Blatantly copies the Windows UI feel.
 

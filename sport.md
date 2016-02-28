@@ -2,6 +2,8 @@
 
 Sport, dance, physical performances.
 
+-   <https://en.wikipedia.org/wiki/Historical_European_martial_arts>
+
 -   <http://en.wikipedia.org/wiki/Shin-kicking>, very British
 
 -   Battle rope: <https://www.youtube.com/watch?v=__bv4D7ii_0>
@@ -57,3 +59,13 @@ Sport, dance, physical performances.
     <https://www.youtube.com/watch?v=K9XCKP9KN7A>
 
 -   <https://www.youtube.com/watch?v=S8b1zWOgOKA> Assassin's Creed Paris, also love the marketing angle.
+
+## Esport
+
+<https://en.wikipedia.org/wiki/ESports>
+
+Largest stadiums: <http://www.redbull.com/uk/en/esports/stories/1331708454458/the-biggest-and-best-esports-stadiums-in-the-world>
+
+Cool thing: you can actually see what the player see. We should put cameras on soccer players. Referees would be even easier to implement: <https://www.youtube.com/watch?v=w8g6rAmHtAk>
+
+Fnatic: <https://en.wikipedia.org/wiki/Fnatic> An organization that manages multiple esport games.

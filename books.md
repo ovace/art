@@ -180,3 +180,7 @@ Bloombsbury was a new publishing agency who took the book. The CEO's daughter wa
 Religious groups went against the witchcraft depicted.
 
 She refused all publicity requests. Kudos.
+
+## Old
+
+- <https://en.wikipedia.org/wiki/Beowulf>

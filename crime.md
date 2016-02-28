@@ -1,5 +1,7 @@
 # Crime
 
+-   <https://en.wikipedia.org/wiki/Made_man>
+
 -   <https://en.wikipedia.org/wiki/DEA_list_of_chemicals>
 
 -   <https://en.wikipedia.org/wiki/Pyramid_scheme>

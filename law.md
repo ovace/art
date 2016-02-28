@@ -1,5 +1,11 @@
 # Law
 
+-   <https://en.wikipedia.org/wiki/Hate_crime_laws_in_the_United_States>
+
+-   <https://en.wikipedia.org/wiki/Patent_pool>
+
+-   <https://en.wikipedia.org/wiki/Statutory_rape>
+
 -   <https://en.wikipedia.org/wiki/Sumptuary_law>
 
 -   <https://en.wikipedia.org/wiki/Mineral_rights>
@@ -39,3 +45,7 @@
 -   <http://en.wikipedia.org/wiki/Doing_business_as>
 
 -   <http://en.wikipedia.org/wiki/Alimony>
+
+## Funny laws
+
+-   <http://www.omgfacts.com/news/8821/It-s-illegal-to-die-in-the-Houses-of-Parliament>

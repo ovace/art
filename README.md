@@ -12,6 +12,10 @@ If you think something belongs on a list, PR. Because of the subjective nature o
     1.  [war.md](computer.md)
     1.  [Computer](computer/)
         1. [computer-funny.md](computer-funny.md)
+1.  [Websites](websites.md)
+    1.  [Email providers](email-providers.md)
+        1.  [YouTube](youtube.md)
+            1.  [YouTube cool](youtube-cool.md)
 1.  [Essays](essays/)
     1.  Things which I want to say to K12 people
         1. [essays/tech-motivation-k12.md](essays/tech-motivation-k12.md)
@@ -19,7 +23,14 @@ If you think something belongs on a list, PR. Because of the subjective nature o
         1. [essays/how-to-become-a-good-programmer](essays/how-to-become-a-good-programmer)
 1.  [Film](film.md)
     1.  [Documentary](documentary.md)
+1.  Companies
+    1. [Microsoft](microsoft.md)
 1.  Engineering
-    1. Electronics
+    1.  Electronics
+        1. [Open source hardware](open-source-hardware.md)
+    1.  [Aeronautical](aeronautical.md)
 1.  [Applied math](applied-math.md)
     1. [Statistics](statistics.md)
+1.  [Computer](computer.md)
+    1.  [Google](google.md)
+    1.  [Apple](apple.md)

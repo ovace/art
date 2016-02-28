@@ -2,6 +2,50 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Public_service_announcement>
+
+-   <https://en.wiktionary.org/wiki/cash-strapped>
+
+-   <https://en.wikipedia.org/wiki/Yellow_journalism>
+
+-   <https://en.wikipedia.org/wiki/Clickbait>
+
+-   <http://www.urbandictionary.com/define.php?term=parachute+kids> Chinese origin. 
+
+-   <http://www.urbandictionary.com/define.php?term=rekt>
+
+-   <http://www.urbandictionary.com/define.php?term=sexpat>
+
+-    cisgendered <https://en.wikipedia.org/wiki/Cisgender> <http://www.urbandictionary.com/define.php?term=cis&defid=7195799>
+
+-   <http://www.urbandictionary.com/define.php?term=Man+Jaw>
+
+-   <http://www.urbandictionary.com/define.php?term=Fob>
+
+-   <https://en.wikipedia.org/wiki/Wheelie>
+
+-   <https://en.wikipedia.org/wiki/Coffee_table_book>
+
+-   <https://en.wikipedia.org/wiki/Brain_trust>
+
+-   keep your powder dry <http://www.phrases.org.uk/meanings/217500.html>
+
+-   <http://www.urbandictionary.com/define.php?term=shack+up>
+
+-   <https://en.wikipedia.org/wiki/French_kiss>
+
+-   <http://www.urbandictionary.com/define.php?term=greaseball>
+
+-   pie-in-the-sky <https://en.wiktionary.org/wiki/pie_in_the_sky> <http://idioms.thefreedictionary.com/pie+in+the+sky>
+
+-   <https://en.wikipedia.org/wiki/Stringer_%28journalism%29>
+
+-   <https://en.wikipedia.org/wiki/Burnout_%28vehicle%29>
+
+-   <https://en.wikipedia.org/wiki/Down_feather> Best material for *very* hot clothing or blankets.
+
+-   Hem, for trousers <https://en.wikipedia.org/wiki/Hem> <http://www.wikihow.com/Sew-a-Hem>
+
 -   <https://en.wikipedia.org/wiki/Skunkworks_project>
 
 -   <https://en.wikipedia.org/wiki/Cuckold> Modification of cuckoo. Horns comes from stag mating habits, not relation to cuckoo.

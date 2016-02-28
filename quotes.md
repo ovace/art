@@ -1,5 +1,17 @@
 # Quotes
 
+Any customer can have a car painted any colour that he wants so long as it is black. By
+
+By faithfully working eight hours a day you may eventually get to be boss and work twelve hours a day.
+
+Think. <https://en.wikipedia.org/wiki/File:Think_Thomas_J_Watson_Sr.ogg>
+
+As iron sharpens iron, so one person sharpens another. Bible, Proverbs 27:17 <https://en.wikipedia.org/wiki/Book_of_Proverbs>
+
+My country is the world, and my religion is to do good. By: <https://en.wikiquote.org/wiki/Thomas_Paine>
+
+A man needs a little madness, or else he never dares cut the rope and be free. By Nikos Kazantzakis.
+
 The blood of Christians is seed. By <https://en.wikiquote.org/wiki/Tertullian>
 
 <http://fakebuddhaquotes.com/the-thought-manifests-as-the-word-the-word-manifests-as-the-deed-the-deed-develops-into-habit-and-habit-hardens-into-character/> <http://quoteinvestigator.com/2013/01/10/watch-your-thoughts/>
