@@ -2,6 +2,14 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Insult#Backhanded_compliment>
+
+-   <https://en.wiktionary.org/wiki/lickspittle> <https://en.wiktionary.org/wiki/toady>
+
+-   <http://www.urbandictionary.com/define.php?term=kooky>
+
+-   <https://en.wiktionary.org/wiki/also-ran>
+
 -   <https://en.wikipedia.org/wiki/Public_service_announcement>
 
 -   <https://en.wiktionary.org/wiki/cash-strapped>

@@ -1,5 +1,7 @@
 # Funny
 
+-   <https://en.wikipedia.org/wiki/Rhodes_Scholarship>
+
 -   <https://en.wikipedia.org/wiki/Boustrophedon> Support that, HTML5.
 
 -   <http://www.engadget.com/2010/07/20/visualized-tesla-owner-talks-smack-using-worlds-greatest-vanit/>

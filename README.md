@@ -26,7 +26,7 @@ If you think something belongs on a list, PR. Because of the subjective nature o
 1.  Companies
     1. [Microsoft](microsoft.md)
 1.  Engineering
-    1.  Electronics
+    1.  [Electronics](electronics.md)
         1. [Open source hardware](open-source-hardware.md)
     1.  [Aeronautical](aeronautical.md)
 1.  [Applied math](applied-math.md)

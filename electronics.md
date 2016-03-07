@@ -147,3 +147,11 @@ Came after 7400.
 ## Misc
 
 <https://en.wikipedia.org/wiki/Second_source>
+
+## Microchip benchmarks
+
+<https://en.wikipedia.org/wiki/Dhrystone>
+
+## ASIC
+
+<https://en.wikipedia.org/wiki/Application-specific_integrated_circuit>

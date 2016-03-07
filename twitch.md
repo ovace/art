@@ -34,6 +34,8 @@ Chess however is fine? <http://www.twitch.tv/chess> And real world MtG: <http://
 
 How will sports be different from VR?
 
+Painting / live music making: <http://www.twitch.tv/bobross>
+
 ## Business model
 
 - advertisement

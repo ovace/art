@@ -39,6 +39,9 @@ Disposable email address providers
 - http://www.fakemailgenerator.com
 - https://mailinator.com/ Account deleted after a few hours. API access paid.
 - https://en.wikipedia.org/wiki/Disposable_email_address
+- yopmail. TODO api?
+- sharklasers
+- https://temp-mail.org/en/api/ claims free API, emails stored for 10 minutes
 
 TODO: bulk email creation:
 

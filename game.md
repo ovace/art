@@ -179,6 +179,10 @@ Reversing a One Way Teleport Glitch <https://www.youtube.com/watch?v=GtlpcMZQV0E
 
 - 	<http://twistypuzzles.com/> master forum of Rubik's cube variants
 
+## Valve
+
+<https://en.wikipedia.org/wiki/Valve_Anti-Cheat>
+
 ## PC
 
 - Diablo 2

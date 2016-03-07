@@ -28,10 +28,6 @@ Image synthesis:
 
 -   https://en.wikipedia.org/wiki/Line_drawing_algorithm , e.g. https://en.wikipedia.org/wiki/Bresenham's_line_algorithm
 
-Image processing:
-
--   ImageMagick `convert -trim`
-
 Number crunching / physics simulation / PDEs:
 
 -   https://en.wikipedia.org/wiki/Molecular_dynamics

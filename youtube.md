@@ -15,3 +15,7 @@ This claims 2CPM average in 2015: <https://medium.com/@hankgreen/the-1-000-cpm-f
 Borderline:
 
 - <https://www.youtube.com/watch?v=8KXqJS2Puv4>
+
+## Alternatives
+
+- <http://www.ebizmba.com/articles/video-websites>

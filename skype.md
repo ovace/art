@@ -2,6 +2,8 @@
 
 - <https://en.wikipedia.org/wiki/Skype_protocol>
 
+2016 statistics: <http://expandedramblings.com/index.php/skype-statistics/2/> 300M users, 5M daily.
+
 ## Protocol reverse engineering
 
 - <http://www.oklabs.net/skype-reverse-engineering-the-long-journey/>

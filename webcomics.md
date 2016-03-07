@@ -23,6 +23,7 @@
     - <http://xkcd.com/978/>: citogenesis
     - <http://xkcd.com/980/huge>: amazing money usage chart
     - <https://xkcd.com/1002/>: difficulty of various games for computers
+    - <https://xkcd.com/1105/>: license plate with only `1` and `I`.
     - <https://xkcd.com/1132/>: Frequentists vs. Bayesians sun exploded
     - <http://xkcd.com/1168>: tar command
     - <http://xkcd.com/1172>: workflow head spacebar
