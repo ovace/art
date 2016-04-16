@@ -1,6 +1,14 @@
 # Quotes
 
-Any customer can have a car painted any colour that he wants so long as it is black. By
+Sell a man a fish, he eats for a day, teach a man how to fish, you ruin a wonderful business opportunity. http://stackoverflow.com/users/76722/phresnel attributes it to Karl Marx.
+
+The death of one man is a tragedy, the death of millions is a statistic.
+
+Four walls are three too many for a prison — you only need one for an execution.
+
+Born too late to explore earth, born too early to explore space. By unknown.
+
+Any customer can have a car painted any colour that he wants so long as it is black. By Ford.
 
 By faithfully working eight hours a day you may eventually get to be boss and work twelve hours a day.
 

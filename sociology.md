@@ -2,6 +2,10 @@
 
 Social movements and practices.
 
+-   <https://en.wikipedia.org/wiki/Company_town>
+
+-   <https://en.wikipedia.org/wiki/Pinewood_derby>
+
 -   <https://en.wikipedia.org/wiki/Buzkashi>
 
 -   <https://en.wikipedia.org/wiki/Maker_culture>
@@ -90,6 +94,7 @@ Social movements and practices.
 
 -   <https://en.wikipedia.org/wiki/Rorschach_test>
 -   <https://en.wikipedia.org/wiki/Intrusive_thought>
+-   <http://gamasutra.com/db_area/images/feature/166972/figure1.png> flow lies between boredom and anxiety
 
 ## Gender equality
 

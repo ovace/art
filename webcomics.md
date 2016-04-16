@@ -4,7 +4,7 @@
 
     - <http://xkcd.com/221/>: random number dice roll
     - <http://xkcd.com/327/>: Robert drop table students
-    - <http://xkcd.com/378>: real programmers use which editor
+    - <http://xkcd.com/378>: real programmers use which editor. Also mentioned on the jargon: http://www.catb.org/jargon/html/story-of-mel.html
     - <http://xkcd.com/505/>: simulation by rocks
     - <https://xkcd.com/538/>: cryptography vs wrench
     - <http://xkcd.com/688/>: ink graph self-description
@@ -26,8 +26,9 @@
     - <https://xkcd.com/1105/>: license plate with only `1` and `I`.
     - <https://xkcd.com/1132/>: Frequentists vs. Bayesians sun exploded
     - <http://xkcd.com/1168>: tar command
-    - <http://xkcd.com/1172>: workflow head spacebar
+    - <http://xkcd.com/1172>: workflow heat spacebar
     - <http://xkcd.com/1185>: ineffective sorts
+    - <http://xkcd.com/1425/>: computer science easy vs impossible
 
 -   <http://www.smbc-comics.com>
 

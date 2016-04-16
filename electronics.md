@@ -16,22 +16,9 @@ Basic components of an electronics lab: https://www.youtube.com/watch?v=R_PbjbRa
 
 <https://en.wikipedia.org/wiki/Wafer_%28electronics%29> <https://en.wikipedia.org/wiki/Czochralski_process>
 
-## Design
+## Physics
 
-### VHDL
-
-### Verilog
-
-Main hardware design languages are VHDL and Verilog: <http://electronics.stackexchange.com/questions/16767/vhdl-or-verilog>
-
-Implementations:
-
-- <http://electronics.stackexchange.com/questions/22596/vhdl-ide-for-a-gnu-linux-environment>
-- <http://askubuntu.com/questions/130588/is-there-a-vhdl-simulator>
-
-The only open source one looks like GHDL, but it is not good enough to compete: <http://www.sigasi.com/content/why-ghdl-currently-not-good-enough> Written in ADA (looks like VHDL).
-
-<http://www.liquidpcb.org/>
+Impedance: <https://en.wikipedia.org/wiki/Electrical_impedance> Extends resistance to AC.
 
 ### Synthesis
 

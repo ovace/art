@@ -52,7 +52,14 @@ Commerce:
 
 - <https://www.massdrop.com/>
 
-## c2 wiki
+## Get connection information
+
+- http://icanhazip.com/ just the IP: http://superuser.com/questions/420969/services-that-just-return-your-public-ip-as-text
+- http://www.useragentstring.com user agent + well known user agents
+
+## Wikis
+
+### c2 wiki
 
 <http://c2.com/cgi/wiki?WelcomeVisitors>
 
@@ -64,7 +71,6 @@ Many interesting programming discussions which is its original purpose.
 
 Became read-only in 2014 because of vandalism.
 
-## Get connection information
+### tvtropes
 
-- http://icanhazip.com/ just the IP: http://superuser.com/questions/420969/services-that-just-return-your-public-ip-as-text
-- http://www.useragentstring.com user agent + well known user agents
+http://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfIdealismVersusCynicism

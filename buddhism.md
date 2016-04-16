@@ -32,6 +32,8 @@ Bodhidharma said, "You have attained my marrow."
 
 ## Koans
 
+http://www.enlightened-spirituality.org/Zen_Humor.html
+
 ### Gateless gate
 
 <https://en.wikipedia.org/wiki/The_Gateless_Gate>
@@ -45,3 +47,7 @@ Two hands clap and there is a sound. What is the sound of one hand? - Hakuin Eka
 If you meet the Buddha, kill him. (逢佛殺佛，逢祖殺祖) - Linji
 
 A monk asked Dongshan Shouchu, "What is Buddha?" Dongshan said, "Three pounds of flax."
+
+## Vulgarization
+
+- <http://www.whatdoyouthinkmyfriend.com/>

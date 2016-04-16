@@ -17,3 +17,7 @@ Note: 7
 Note: 8
 
 Seen: 2016/02
+
+## Kung fu panda 1, 2 and 3
+
+Note: 7

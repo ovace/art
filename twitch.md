@@ -40,3 +40,21 @@ Painting / live music making: <http://www.twitch.tv/bobross>
 
 - advertisement
 - subscription: https://www.reddit.com/r/CoDCompetitive/comments/1x7ajx/why_do_people_subscribe_to_a_players_twitch/ No Ads, viewers can restrict chat to subs only
+
+### Streamers revenue
+
+- <http://www.dailydot.com/esports/twitch-streaming-money-careers-destiny/>
+- <http://thehustle.co/get-rich-or-die-streaming-making-money-on-twitch-tv>
+
+## Add music to stream
+
+- <https://www.reddit.com/r/Twitch/comments/2ax71a/how_do_i_play_music_while_streaming_a_game/>
+
+## Countdown
+
+- <https://www.reddit.com/r/Twitch/comments/2jib33/countdowns_for_streams/>
+
+## Chat moderation
+
+- <http://help.twitch.tv/customer/portal/articles/1360598-moderation-guide---broadcaster>
+- <http://help.twitch.tv/customer/portal/articles/659095-chat-moderation-commands>

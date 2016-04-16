@@ -218,3 +218,11 @@ Fly supplies:
 -   <http://news.discovery.com/human/evolution/oldest-art-was-carved-onto-shell-540000-years-ago-141203.htm>
 
 -   <http://www.livescience.com/31974-earliest-human-hunters-found.html> Started hunting 2Ma.
+
+## Tech
+
+-   <https://www.transcriptic.com/> Experiments as a service.
+
+## Health
+
+-   <https://en.wikipedia.org/wiki/Miasma_theory>

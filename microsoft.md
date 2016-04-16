@@ -24,3 +24,7 @@ Nice resume of bad things they've done by an European study: <http://www.ecis.eu
 - Windows NT was a major revamp, started in 1988, it was first released in 1993, and Windows XP used it and was a major hit. It is also the core of Windows 7, Vista and 10.
 - Windows CE: embedded compact version
 - Xbox One has 3 OSes running at once virtualized! <http://www.bloomberg.com/news/2013-11-22/xbox-one-has-not-one-but-three-operating-systems.html>
+
+## POSIX compatibility
+
+http://arstechnica.com/information-technology/2016/04/why-microsoft-needed-to-make-windows-run-linux-software/

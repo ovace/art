@@ -21,3 +21,21 @@ Made PostScript.
 ## Fortune 500
 
 <http://archive.fortune.com/magazines/fortune/fortune500/world-economies-interactive/>
+
+## Crytek
+
+<https://en.wikipedia.org/wiki/Crytek>
+
+Like Ubisoft, also a company of brothers, but German.
+
+## Gameloft
+
+Co-founded by one of the brothers from Ubisoft.
+
+<https://en.wikipedia.org/wiki/Gameloft>
+
+## Marvel
+
+Low level networking and storage stuff: <https://en.wikipedia.org/wiki/Marvell_Technology_Group>
+
+Paid 750M to Carnegie Melon university on patent infringement case.

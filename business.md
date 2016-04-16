@@ -166,6 +166,10 @@ Business, finance, marketing.
 
     Exists in England: <http://en.wikipedia.org/wiki/Sovereign_%28British_coin%29>
 
+-   <https://en.wikipedia.org/wiki/Bank_run>
+
+-   <https://en.wikipedia.org/wiki/Panic_of_1857>
+
 ### Future
 
 -   <http://en.wikipedia.org/wiki/Cash_on_delivery>

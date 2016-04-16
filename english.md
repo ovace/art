@@ -2,6 +2,16 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   no unundesrtandable <http://english.stackexchange.com/questions/4031/what-is-a-good-replacement-for-ununderstandable>
+
+-   <https://en.wikipedia.org/wiki/Nerf_(video_gaming)>
+
+-   <https://en.wikipedia.org/wiki/Gold_digger>
+
+-   <https://en.wikipedia.org/wiki/Moving_the_goalposts>
+
+-   <http://www.urbandictionary.com/define.php?term=wide> Usage sample: <https://www.youtube.com/watch?v=WipM3SAYqK4> around 3:00.
+
 -   <https://en.wikipedia.org/wiki/Insult#Backhanded_compliment>
 
 -   <https://en.wiktionary.org/wiki/lickspittle> <https://en.wiktionary.org/wiki/toady>

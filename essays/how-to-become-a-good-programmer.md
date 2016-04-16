@@ -136,7 +136,7 @@ Contribute to prestigious projects:
 - databases
 - cryptography
 - compilers, interpreters and standard libraries: GCC, Python, Node.js. Garbage collection internals.
-- Media: formats (websites, audio, videos, images), viewers
+- Media: formats (websites, audio, videos, images), compression algorithms, viewers (browsers, image viewer, etc.)
 - Git
 - formal algorithm verification: <https://en.wikipedia.org/wiki/Formal_verification>, <http://frama-c.com/>
 - anything that requires knowing mathematics

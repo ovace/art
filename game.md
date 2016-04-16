@@ -92,10 +92,6 @@
 
     Contrasts with tabletop role-playing game where mostly voice is used, and not always in-character.
 
--   <https://www.youtube.com/watch?feature=player_embedded&v=7sNge0Ywz-M>
-
-    Minecraft CPU.
-
 -   <https://www.youtube.com/watch?v=MYDuy7wM8Gk>
 
     Power glove review.
@@ -199,6 +195,9 @@ GO vocabulary:
 - ace: a single player kills the entire enemy team
 - SPRAYDOWN kill many enemies very quickly
 - boost: step on top of another friendly player to see higher up
+- clutch: 1vN win
+- ninja defuse: https://www.youtube.com/watch?v=Dpi7guNtves
+- pro knife kills https://www.youtube.com/watch?v=vdFW42j7KLo&nohtml5=False Gives more money.
 
 <https://play.esea.net/index.php?s=content&d=league_rules_CSGO>
 
@@ -218,10 +217,19 @@ Illegal glitches:
 - <https://www.reddit.com/r/GlobalOffensive/comments/2np2rd/what_about_this_pixelwalking/>
 - points from which textures become transparent
 
+Glitches:
+
+- defuse across walls: https://youtu.be/Dpi7guNtves?t=276
+- players can use the sky dome to bound grenades into position
+
 Rankings:
 
 - <http://www.gosugamers.net/counterstrike/rankings>
 - distribution Gaussian: <https://csgosquad.com/ranks>
+
+Physics:
+
+- flashbangs heal damage LOL: https://www.youtube.com/watch?v=E0X-5av386k
 
 ### Free
 
@@ -295,6 +303,8 @@ Ultra hard SMB mods:
     - H1Z1 https://www.youtube.com/watch?v=SZupxUXJWl8
     - 2015 top 10 https://www.youtube.com/watch?v=MqMyYzV_ujs
 - <https://en.wikipedia.org/wiki/Superhot>
+- Stick RPG 2 https://www.youtube.com/watch?v=k7rvzhoXM50
+- <https://www.factorio.com/>
 
 New platformers:
 
@@ -350,6 +360,10 @@ https://en.wikipedia.org/wiki/15_puzzle
     - <https://en.wikipedia.org/wiki/Double_Chess>
     - <https://en.wikipedia.org/wiki/File:Chess_on_the_Dot.jpg>
     - <https://en.wikipedia.org/wiki/Kung-fu_chess>
+    - simultaneous moves:
+        - <https://www.chess.com/forum/view/general/synchronous-chess>
+        - <http://www.ginohn.com/wunder201005/games/kriegspiel/zeitgeist.html>
+        - <http://www.google.com/patents/US20070037622> LOL patent
 
 Vs the world:
 
@@ -395,10 +409,15 @@ Space:
 -   <http://www.ongamers.com/articles/league-of-legends-player-who-reportedly-made-terrorist-threat-faces-up-to-10-years-in-prison/1100-894/>
 -   Added to the athletics programs of some universities: <http://www.businessinsider.com/league-of-legends-scholarship-2014-6?IR=T>
 
-Business model: skin sale only?!
+Business model questions:
 
 -   <http://www.businessinsider.com/league-of-legends-business-model-is-interesting-2014-10?IR=T>
 -   <https://www.quora.com/How-much-revenue-does-League-of-Legends-generate-and-how-sustainable-is-its-business-model>
+
+Answers:
+
+- there is a rotation of 10 free to play champions per week: <http://na.leagueoflegends.com/en/news/champions-skins/free-rotation> To get the others, you need to use an in-game currency 
+- skin sale
 
 Tournaments lose money, they are only for publicity.
 
@@ -419,3 +438,76 @@ Riot Games actually pays some players to train directly:
 ## Records
 
 - <http://www.engadget.com/2013/03/12/world-of-tanks-sets-world-record-for-most-players-concurrently-o/>
+
+## Cheating
+
+- <https://en.wikipedia.org/wiki/Cheating_in_online_games>
+
+### Aimbot
+
+- <https://www.reddit.com/r/explainlikeimfive/comments/o4axu/eli5_how_do_people_make_aimbots/>. No, no computer vision :-)
+
+### Wallhack
+
+- <https://en.wikipedia.org/wiki/Cheating_in_online_games#Wallhacking>
+
+    LOL, servers don't even calculate player visibility, as that would require rendering remotely, they just send all positions.
+
+## Mario kart
+
+- Why not e-sport: http://www.teamliquid.net/blogs/300260-why-mario-kart-is-not-an-e-sport
+
+- Analyzing and Tiering <https://www.youtube.com/watch?v=P6AxbNL2ET0>
+
+## Development
+
+Bullet physics: http://gamedev.stackexchange.com/questions/13650/how-are-bullets-simulated-in-video-games
+
+ARMA II is notable for having realistic bullet physics.
+
+## Angry birds
+
+Finnish.
+
+Declined Zynga buy for 2B in 2012.
+
+70% owned by the mysterious father of the CEO: <http://www.forbes.com/sites/parmyolson/2012/05/08/a-billionaire-could-quietly-hatch-from-angry-birds-ipo/#26011735613c> He spoke a little at <http://europeanbusinessexpress.com/2014/09/29/make-awesome-products-awesome-services-for-your-awesome-fans-says-rovios-kaj-hed/> in 2014, they almost went bankrupt in 2009. He bet on a bunch of post university students, including his own son. LinkedIn <https://www.linkedin.com/in/kaj-hed-4761b05>
+
+## God game
+
+<https://en.wikipedia.org/wiki/God_game>
+
+## World of tanks
+
+- <https://www.youtube.com/watch?v=tElET-HD0Ac&list=PLk68bhgyF4ulOK_-pLKnJtNDhKTiOMw72>
+
+Complex tank model:
+
+- different armours in multiple parts of the tank
+- effects of being hit in different parts of the tank, e.g. probability of catching fire and being slowed down
+- rotation speed
+- rotation speed of turret
+- inclination limits of turret
+- crew skill system
+- shell penetration
+- shell random dispersion per distance travelled
+- reload time
+
+## Physics based games
+
+AKA more than edge detection :-)
+
+- Besiege https://www.youtube.com/watch?v=0tCnas0uTkE
+
+## Old
+
+- Gun fight 1975 https://www.youtube.com/watch?v=gRwwN1N5KSA
+
+## Game of life
+
+- http://www.conwaylife.com/wiki/Spaceship
+- http://www.conwaylife.com/wiki/Oscillator
+
+## NetHack
+
+- 2016 update: <http://www.gamasutra.com/view/news/269726/The_story_behind_NetHacks_longawaited_updatethe_first_since_2003.php>

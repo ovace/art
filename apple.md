@@ -78,3 +78,11 @@ After the initial success, they then made several variations, to satisfy all con
 There's an app for that 2009 commercial: <https://www.youtube.com/watch?v=szrsfeyLzyg>
 
 Apple filed a trademark application for it: <http://mashable.com/2010/10/11/apple-trademark/#K3_v8pF8niqG>
+
+## MacBook pro in university
+
+> Indeed, for a number of years, it wasn't a huge exaggeration to say that Apple made the only x86 laptops that were both reasonably affordable and pleasant to use. The MacBook Air, in particular, set a new standard for size and weight, and while the initial release was expensive, subsequent iterations were much less so. The traditional PC world had little that could match, and even when PC OEMs did build good systems—as Lenovo often did—they tended to be high-priced "corporate" machines. Apple truly led the way when it came to offering that mix of price, power, and portability, and it did so with an operating system that just happened to use a large portion of FreeBSD's code. There are still, of course, differences between OS X's FreeBSD and Linux running on a server, but they're a great deal smaller than the differences between either of those and Windows.
+
+> What Apple did was to give every computer science and software engineering student a three-pound Unix workstation for not very much money, and unsurprisingly, they proliferated. This effect was compounded further by Apple's enduring popularity in San Francisco and Silicon Valley. Smart kids fresh out of university (whether they dropped out or otherwise) weren't thrust into the Windows-centric world of corporate America. They could instead thrive in a culture that revered Apple and equipped them all with shiny new MacBook Pros. Windows wasn't reviled the way that the die-hard open source advocates reviled it; it just wasn't part of their life.
+
+This culture still exists!

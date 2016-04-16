@@ -61,6 +61,11 @@ Computers:
 - <http://www.microchip.com/>
 - <https://www.phone.com/>
 - <http://tesla.com> <http://techcrunch.com/2016/02/20/tesla-finally-owns-tesla-com/>
+- <http://localhost.com> Redirects to `google.com`. Try it: [localhost.com](localhost.com).
+
+    <http://stackoverflow.com/questions/21768626/localhost-com-redirects-to-google-search>
+
+    One theory is that a current Google employee owns it. He bought it when the web was still young and kept it ever since.
 
 Interjections and particles:
 

@@ -29,8 +29,13 @@ If you think something belongs on a list, PR. Because of the subjective nature o
     1.  [Electronics](electronics.md)
         1. [Open source hardware](open-source-hardware.md)
     1.  [Aeronautical](aeronautical.md)
+    1.  [History of electronics](history-electronics.md)
 1.  [Applied math](applied-math.md)
     1. [Statistics](statistics.md)
 1.  [Computer](computer.md)
     1.  [Google](google.md)
     1.  [Apple](apple.md)
+1.  Game
+    1.  Sandbox
+        1. [Minecraft](minecraft.md)
+        1. [Dwarf fortress](dwarf-fortress.md)

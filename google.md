@@ -1,5 +1,9 @@
 # Google
 
+## History
+
+Official take: <https://www.google.com/about/company/history/>
+
 -   One of the great innovations was to give results directly to users, instead of trying to keep them on a website for as long as possible.
 
 -   First investment: they were sitting on the front of a professor's house on a Sunday morning, https://en.wikipedia.org/wiki/Andy_Bechtolsheim Sun co-founder came along, tried it for 10 minutes, and wrote an 100k check.
@@ -28,16 +32,20 @@
 
     Carl Sagan mentions it in Cosmos Ep. 9.
 
--   Weird interface languages:
-
-    - <https://www.google.com/?hl=xx-pirate>, also accessible with: <https://www.google.com/?hl=xx-pirate&q=this+is+pirate+mode>
-    - <https://www.google.com/?hl=xx-bork>
-    - <https://www.google.com/?hl=xx-hacker>
-    - <https://www.google.com/?hl=kn>
+They reused many of Sgi's buildings https://youtu.be/oOe05w1gLrE?t=429 which at it's time, was a had a comparable feeling.
 
 ## Search
 
+Funny interface languages:
+
+- <https://www.google.com/?hl=xx-pirate>, also accessible with: <https://www.google.com/?hl=xx-pirate&q=this+is+pirate+mode>
+- <https://www.google.com/?hl=xx-bork>
+- <https://www.google.com/?hl=xx-hacker>
+- <https://www.google.com/?hl=kn>
+
 Easter eggs:
+
+- Doodles: <https://www.google.com/doodles/>
 
 Destructive
 
@@ -98,28 +106,31 @@ YouTube:
 
 - `filetype:pdf`
 
----
+## Blogger
 
--   <http://www.theregister.co.uk/2009/01/31/google_malware_snafu/>
+Google groups was another company that Google bought Deja Usenet, written in Java: <https://en.wikipedia.org/wiki/Google_Groups>
 
--   <http://stackoverflow.com/questions/1038191/why-does-the-google-homepage-use-deprecated-html-ie-is-not-valid-html5>
+It was just a web interface for Usenet, and still holds classic Usenet discussions like Torvalds vs ast https://groups.google.com/forum/#!topic/comp.os.minix/wlhw16QWltI[1-25]
 
--   Google groups was another company that Google bought Deja Usenet, written in Java: <https://en.wikipedia.org/wiki/Google_Groups>
+It seems that the Usenet was one of the major public discussion places. In particular for the development of programming languages.
 
-    It was just a web interface for Usenet, and still holds classic Usenet discussions like Torvalds vs ast https://groups.google.com/forum/#!topic/comp.os.minix/wlhw16QWltI[1-25]
+<https://en.wikipedia.org/wiki/Big_8_%28Usenet%29> 8 major hierarchies after the <https://en.wikipedia.org/wiki/Great_Renaming>
 
-    It seems that the Usenet was one of the major public discussion places. In particular for the development of programming languages.
-
-    <https://en.wikipedia.org/wiki/Big_8_%28Usenet%29> 8 major hierarchies after the <https://en.wikipedia.org/wiki/Great_Renaming>
-
-    <https://en.wikipedia.org/wiki/Usenet>
-
-They reused many of Sgi's buildings https://youtu.be/oOe05w1gLrE?t=429 which at it's time, was a had a comparable feeling.
+<https://en.wikipedia.org/wiki/Usenet>
 
 ## Maps
 
+Bought from Keyhole in 2004:
+
+- <https://en.wikipedia.org/wiki/Keyhole,_Inc>, superstar team
 - <https://www.quora.com/How-are-the-3D-models-of-buildings-generated-on-Google-Earth>
 - <https://www.reddit.com/r/explainlikeimfive/comments/38cuh1/eli5_how_does_applegoogle_maps_generate_3d/>
+
+## Orkut
+
+Launched 1 month before Facebook.
+
+<https://www.quora.com/Why-did-Orkut-fail-after-Facebook-came-into-picture-Why-is-Facebook-still-succeeding>
 
 ## Subdomains
 
@@ -177,3 +188,62 @@ Sort by name: <http://webapps.stackexchange.com/questions/84965/how-to-sort-by-n
 ## Official accounts
 
 <https://github.com/google-automerger>
+
+## Domains
+
+- <https://security.googleblog.com/>
+- <http://google-opensource.blogspot.com>
+
+## Chrome
+
+Chromium was also created by Google as the open source "code dump" version and unstables.
+
+Unlike Android it does accept external contributions: <https://www.chromium.org/developers/contributing-code/external-contributor-checklist>
+
+-   <http://www.niallkennedy.com/blog/2008/09/google-chrome.html>
+
+    In 2008:
+
+    > Even if Google Chrome gains no significant browser market share I still expect it will be the best single-site browser for Google web applications
+
+### Webkit
+
+<https://en.wikipedia.org/wiki/WebKit>
+
+In 2001 Apple forked it from a KDE component. It made bad merge-backs, and eventually stopped.
+
+In 2005 Apple open sourced it.
+
+Chromium started using it, then forked again in 2013 <https://en.wikipedia.org/wiki/Blink_(web_engine)>
+
+## Chrome OS
+
+- <http://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
+
+## Misc
+
+-   <http://www.theregister.co.uk/2009/01/31/google_malware_snafu/>
+-   <http://stackoverflow.com/questions/1038191/why-does-the-google-homepage-use-deprecated-html-ie-is-not-valid-html5>
+
+## Oracle lawsuit
+
+TODO: what exactly is infringed?
+
+It seems that is is possible to have a GPL implementation of a patented API? So you can use *that* implementation, but not reimplement the API?
+
+- http://stackoverflow.com/questions/7421353/is-java-free-to-use
+- http://programmers.stackexchange.com/questions/171129/is-java-free-open-source-or-not
+- http://opensource.stackexchange.com/questions/762/what-are-the-implications-of-the-google-vs-oracle-case-on-the-state-of-public-a
+
+## April fool
+
+<https://www.google.com/get/cardboard/plastic/>
+
+## Fonts
+
+<https://www.google.com/fonts>
+
+## Google research
+
+- <https://twitter.com/googleresearch>
+- <http://googleresearch.blogspot.fr/2016/04/all-of-googles-cs-education-programs.html>

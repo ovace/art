@@ -150,3 +150,7 @@
     - <http://www.gamesradar.com/bullets-bombs-history-first-person-shooters/>
 
     - <https://en.wikipedia.org/wiki/Neverwinter_Nights_%281991_video_game%29> First hit MMORPG with graphics.
+
+## Mechanical calculator
+
+- Division by 0 leads to an infinite loop: <https://www.youtube.com/watch?v=443B6f_4n6k>

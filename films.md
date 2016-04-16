@@ -342,6 +342,14 @@ Note: 7
 
 Note: 7
 
+### Her 2013
+
+<https://en.wikipedia.org/wiki/Her_(film)>
+
+Note: 8
+
+Seen: 2016/04
+
 ## TODO
 
 Sure:

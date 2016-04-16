@@ -1,5 +1,7 @@
 # Computer funny
 
+-   gvim 7.3 `set notitle` shows: `Thanks for flying Vim`.
+
 -   <https://en.wikipedia.org/wiki/William_Shanks>
 
 -   <https://blogbyraheel.wordpress.com/2009/04/15/best-programmer-t-shirts/>
@@ -167,6 +169,8 @@
     > The machine worked.
 
     <http://thecodelesscode.com/contents>
+
+    <http://www.catb.org/jargon/html/koans.html>
 
 -   [COMEFROM](https://en.wikipedia.org/wiki/COMEFROM)
 
@@ -394,3 +398,7 @@ Domino adder: https://www.youtube.com/watch?v=OpLU__bhu2w
 Minecraft graphing calculator: <https://www.youtube.com/watch?v=wgJfVRhotlQ>
 
 Mario maker: <https://www.youtube.com/watch?v=2oAEx9-7zdg>
+
+## Horror stories
+
+<http://www.independent.co.uk/life-style/gadgets-and-tech/news/man-accidentally-deletes-his-entire-company-with-one-line-of-bad-code-a6984256.html>

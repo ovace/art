@@ -71,3 +71,10 @@ Those artists are literally manufactured products.
 ## Instruments
 
 <https://www.youtube.com/watch?v=tgU0OZkGhGI> <https://en.wikipedia.org/wiki/Hydraulophone>
+
+### Electronic
+
+- https://en.wikipedia.org/wiki/Chiptune
+- https://en.wikipedia.org/wiki/Programmable_sound_generator
+- https://en.wikipedia.org/wiki/Synthesizer#Attack_Decay_Sustain_Release_.28ADSR.29_envelope
+- https://en.wikipedia.org/wiki/Player_piano

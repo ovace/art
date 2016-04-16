@@ -1,5 +1,11 @@
 # Law
 
+-   <https://en.wikipedia.org/wiki/Perp_walk#Prehistory> Perp is a slang for perpetrator.
+
+-   <https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx>
+
+    <https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control#Specially_Designated_Nationals_List>
+
 -   <https://en.wikipedia.org/wiki/Hate_crime_laws_in_the_United_States>
 
 -   <https://en.wikipedia.org/wiki/Patent_pool>
@@ -49,3 +55,8 @@
 ## Funny laws
 
 -   <http://www.omgfacts.com/news/8821/It-s-illegal-to-die-in-the-Houses-of-Parliament>
+
+## Child pornography
+
+- <http://njcyberlaw.com/will-go-jail-viewing-child-pornography/>
+- <https://answers.yahoo.com/question/index?qid=20111008231735AAGRnef>

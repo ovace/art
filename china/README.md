@@ -1,13 +1,5 @@
 # China
 
--   画地为牢 hua4 di4 wei2 lao2 <http://baike.baidu.com/subview/67062/5088947.htm>
-
-    Punishment in small ancient towns for non-serious crimes, consisting of drawing a circle on the ground, from which the punished person may not leave, on pain of more serious sanctions.
-
-I have a soft spot for Chinese language and traditional culture.
-
-I might include Japanese / Korean / Vietnamese stuff here too because they are all inside the Sinosphere.
-
 -   sajiao <http://www.echinacities.com/expat-corner/What-are-You-Five-Chinese-Women-and-Sa-Jiao>
 
 -   <https://en.wikipedia.org/wiki/Chinese_script_styles>
@@ -170,22 +162,6 @@ Funny things about how Westerners have perceived and imagined China, specially i
 
 - [Fu Manchu](http://en.wikipedia.org/wiki/Fu_Manchu)
 
-## Japan
-
-- <http://en.wikipedia.org/wiki/Kawaii>. Also a porn genre. Weird.
-
-- <https://en.wikipedia.org/wiki/Japanese_idol>
-
-- <https://en.wikipedia.org/wiki/Gyaru>
-
-- <https://en.wikipedia.org/wiki/Lolita_fashion>
-
-### Japanese
-
-- <http://www.sljfaq.org/afaq/kanji-pronunciation.html>
-
-- <https://en.wikipedia.org/wiki/Pitch_accent>
-
 ## Korea
 
 ## Books
@@ -258,3 +234,23 @@ I hear and I forget. I see and I remember. I do and I understand.
 - <https://en.wikipedia.org/wiki/Ink_wash_painting> black and white:
     - <http://www.artisoo.com/old-man-are-fishing-chinese-painting-p-247.html>
     - <http://www.china-gallery.com/2493-thickbox_default/eagle-painting-majestic-ink-wash-painting.jpg>    
+
+## Law
+
+-   画地为牢 hua4 di4 wei2 lao2 <http://baike.baidu.com/subview/67062/5088947.htm>
+
+    Punishment in small ancient towns for non-serious crimes, consisting of drawing a circle on the ground, from which the punished person may not leave, on pain of more serious sanctions.
+
+I have a soft spot for Chinese language and traditional culture.
+
+I might include Japanese / Korean / Vietnamese stuff here too because they are all inside the Sinosphere.
+
+-    株连九族 <https://en.wikipedia.org/wiki/Nine_familial_exterminations>
+
+## Folklore
+
+-   <https://en.wikipedia.org/wiki/Moon_rabbit> the Mayans saw it as well!
+
+-   <https://fr.pinterest.com/pin/546342998515398797/>
+
+-   <https://en.wikipedia.org/wiki/Foot_binding>
