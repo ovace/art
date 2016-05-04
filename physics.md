@@ -35,6 +35,10 @@ Physics, chemistry, astronomy, geology.
 
 -   Sand on metallic plate resonance patterns: <https://www.youtube.com/watch?v=YedgubRZva8>
 
+-   Tuning forks
+
+    - Arbor Scientific <https://www.youtube.com/watch?v=vNuDxc9tZMk>
+
 ## Funny
 
 -   Rutherford: All science is either physics or stamp collecting.
@@ -61,6 +65,10 @@ Physics, chemistry, astronomy, geology.
 -   <https://en.wikipedia.org/wiki/Laser_cooling>
 
     Yes, you can use lasers to cool atoms. Used to generate Bose Einstein condensates.
+
+### Piezoelectric
+
+BigKell007 <https://www.youtube.com/watch?v=ozoLuPUuAMw>
 
 ### Quantum
 

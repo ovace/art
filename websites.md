@@ -74,3 +74,12 @@ Became read-only in 2014 because of vandalism.
 ### tvtropes
 
 http://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfIdealismVersusCynicism
+
+## Username check
+
+- http://checkusernames.com/
+
+## Money transfer
+
+- paypal
+- transferwise 2.5% (2 for BRL + 0.5 for EUR). Belos 400 euros fixed tax.

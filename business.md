@@ -236,6 +236,8 @@ The main reason of existence is increasing the liquidity of stocks.
 
 -   <https://en.wikipedia.org/wiki/Stock_split>: increase number of shares by splitting them up
 
+-   <https://en.wikipedia.org/wiki/Activist_shareholder>
+
 ### Opening times
 
 <http://en.wikipedia.org/wiki/List_of_stock_exchange_opening_times>

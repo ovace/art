@@ -2,6 +2,22 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Myriad> in Greek meant 10 thousand. Now how the Chinese also have a word for it.
+
+-   <https://en.wikipedia.org/wiki/Set_piece_%28filmmaking%29>
+
+-   <http://ell.stackexchange.com/questions/10301/meaning-of-staff-in-the-title-senior-staff-software-engineer>
+
+-   <https://en.wikipedia.org/wiki/Exonym_and_endonym>
+
+-   <https://en.wikipedia.org/wiki/Nonsectarian>
+
+-   open book test: test where you can use the book
+
+-   <http://www.urbandictionary.com/define.php?term=bacon-slapping>
+
+-   piggyback http://www.merriam-webster.com/dictionary/piggyback
+
 -   no unundesrtandable <http://english.stackexchange.com/questions/4031/what-is-a-good-replacement-for-ununderstandable>
 
 -   <https://en.wikipedia.org/wiki/Nerf_(video_gaming)>

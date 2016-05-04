@@ -2,6 +2,8 @@
 
 War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff, which I wish did not happen.
 
+-   <https://en.wikipedia.org/wiki/Quarterstaff>
+
 -   <https://en.wikipedia.org/wiki/Surface-to-air_missile>
 
 -   <https://en.wikipedia.org/wiki/Fragging>
@@ -195,6 +197,10 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 - <https://en.wikipedia.org/wiki/Trinity_(nuclear_test)>
 
+-   Enriching uranium is the hard part: <https://www.youtube.com/watch?v=OcgKDSwINOA>
+
+    Can be done with centrifuges.
+
 ### Historical
 
 - <https://en.wikipedia.org/wiki/Repeating_crossbow>
@@ -205,11 +211,15 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <http://en.wikipedia.org/wiki/3D_printed_firearms>
 
--   <https://www.youtube.com/watch?v=u-m0RRbfvh4>
+-   receivers are the only illegal part: <https://www.youtube.com/watch?v=u-m0RRbfvh4>
 
     In the US law, only the finished receiver is a firearm: even an 80% finished one is not, nor are any of the other parts.
 
     There are also gun producers who claim to do it for an anarchism philosophy in which an armed society is fairer because the government cannot oppress it.
+
+    Yes, you can then 3D print the receiver... <https://www.youtube.com/watch?v=DconsfGsXyA>
+
+    High capacity magazines were banned in 1994, but those are really easy to print: <https://en.wikipedia.org/wiki/High-capacity_magazine_ban>
 
 ## Spy
 

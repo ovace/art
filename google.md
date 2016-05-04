@@ -247,3 +247,9 @@ It seems that is is possible to have a GPL implementation of a patented API? So 
 
 - <https://twitter.com/googleresearch>
 - <http://googleresearch.blogspot.fr/2016/04/all-of-googles-cs-education-programs.html>
+
+## X
+
+Moonshot projects.
+
+<http://www.theverge.com/2016/2/1/10887926/google-alphabet-fourth-quarter-q4-2015-earnings> costs billions, largely led by Page.

@@ -305,6 +305,9 @@ Ultra hard SMB mods:
 - <https://en.wikipedia.org/wiki/Superhot>
 - Stick RPG 2 https://www.youtube.com/watch?v=k7rvzhoXM50
 - <https://www.factorio.com/>
+- unusual mechanics
+    - that level again <https://play.google.com/store/apps/details?id=ru.iamtagir.game.android&hl=en>
+- I Am Bread <https://www.youtube.com/watch?v=hL7Jg-uT96E>
 
 New platformers:
 
@@ -312,6 +315,10 @@ New platformers:
 - I wanna be the guy
 - super meat boy
 - <https://en.wikipedia.org/wiki/Unravel_%28video_game%29>, 2D scroller with string / physics dynamics
+
+### Antichamber
+
+https://www.youtube.com/watch?v=9kCH9J-UKis , simple instructions, minimalistic lightning, innovative game design.
 
 ### Indie hardcore
 
@@ -323,7 +330,11 @@ Citizen Burger Disorder <https://en.wikipedia.org/wiki/Hong_Kong_97_%28video_gam
 
 ## Not electronic
 
+## Board
+
 https://en.wikipedia.org/wiki/15_puzzle
+
+https://en.wikipedia.org/wiki/Jenga
 
 ### Table soccer
 
@@ -425,9 +436,15 @@ Riot Games actually pays some players to train directly:
 
 -   <https://www.lol-smurfs.com/blog/how-much-do-lol-pros-earn/>
 
+## eSports
+
 ## Professional gaming
 
 - <http://www.redbull.com/uk/en/esports/stories/1331743451713/counter-strike-go-tips-how-to-become-a-pro>
+
+### Match fixing
+
+- <http://techcrunch.com/2016/04/23/match-fixing-comes-to-the-world-of-e-sports/>
 
 ## Betting
 
@@ -511,3 +528,14 @@ AKA more than edge detection :-)
 ## NetHack
 
 - 2016 update: <http://www.gamasutra.com/view/news/269726/The_story_behind_NetHacks_longawaited_updatethe_first_since_2003.php>
+
+## DOOM
+
+Source code released for non-profit use in 1997, then GPL 1999:
+
+- https://github.com/id-Software/DOOM
+- http://doom.wikia.com/wiki/Doom_source_code
+
+## Marble madness
+
+https://www.youtube.com/watch?v=vMYibbzJlVs Kirby golf / monkey ball precursor, great music.

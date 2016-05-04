@@ -174,3 +174,11 @@ GNU, Cygnus, EFF, DHPC predecessor.
 https://en.wikipedia.org/wiki/John_Gilmore_%28activist%29
 
 How he talks <https://www.youtube.com/watch?v=0ROzfnZbCzo>
+
+## Andy Bechtolsheim
+
+The 100k dollars Google check guy.
+
+Still likes technical things in 2012 :-) <https://www.youtube.com/watch?v=fRa3WaXPlO8> KUDOS!
+
+https://en.wikipedia.org/wiki/Andy_Bechtolsheim

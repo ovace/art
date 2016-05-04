@@ -28,6 +28,7 @@ If you think something belongs on a list, PR. Because of the subjective nature o
 1.  Engineering
     1.  [Electronics](electronics.md)
         1. [Open source hardware](open-source-hardware.md)
+            1. [RISC-V](open-source-hardware.md)
     1.  [Aeronautical](aeronautical.md)
     1.  [History of electronics](history-electronics.md)
 1.  [Applied math](applied-math.md)

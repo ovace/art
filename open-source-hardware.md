@@ -12,9 +12,22 @@
 
 ## GPU
 
-Nyuzi <http://nyuzi.org/> <https://en.wiktionary.org/wiki/nyuzi>
-
 MIAOW <http://miaowgpu.org/> <https://github.com/VerticalResearchGroup/miaow> AMD Southern Islands ISA based.
+
+### Nyuzi
+
+Nyuzi <http://nyuzi.org/>
+
+<https://github.com/jbush001/NyuziProcessor>
+
+<https://en.wiktionary.org/wiki/nyuzi>
+
+How is it related to RISC-V http://www.lowrisc.org/docs/gsoc-2016-ideas/ ?
+
+By Jeff Bush: TODO where does he work?
+
+- https://twitter.com/jeffbush01
+- https://plus.google.com/107068382838118453157/posts
 
 ## Movements
 
@@ -25,79 +38,6 @@ MIAOW <http://miaowgpu.org/> <https://github.com/VerticalResearchGroup/miaow> AM
 <https://en.wikipedia.org/wiki/Microprocessor_Report>
 
 ## Open source CPU
-
-### RISC-V
-
-https://en.wikipedia.org/wiki/RISC-V
-
-They have a full working software toolchain:
-
-- https://github.com/riscv/riscv-linux GCC
-- https://github.com/riscv/riscv-tools
-- http://riscv.org/software-tools/riscv-qemu/
-
-Created in 2010. BSD license.
-
-Userspace fixed in 2014, but kernel land not yet as of 2016. So the Linux port may have to change.
-
-Google, HP and Oracle recently joined founding members https://www.reddit.com/r/opensource/comments/3ykeuo/google_hp_oracle_and_12_others_join_the_riscv/
-
-UC Berkley.
-
-TODO: any real hardware produced besides FPGA?
-
-Debian port: <https://wiki.debian.org/RISC-V>
-
-2016 India investment: <http://www.eetimes.com/document.asp?doc_id=1328790>
-
-<http://riscv.org/2016/04/risc-v-offers-simple-modular-isa/>
-
-#### Rocket
-
-<https://github.com/ucb-bar/rocket-chip>
-
-Written in Chisel, which is Scala based: <https://github.com/ucb-bar/chisel>
-
-By Berkley people.
-
-2015 presentation by Yunsup Lee <https://www.youtube.com/watch?v=Ir3h3qWcNlg>
-
-A single source coce + some input parameters can generate:
-
-- C++ simulator code
-- FPGA Verilog
-- ASIC Verilog
-
-#### lowRISC
-
-- http://www.lowrisc.org/
-- https://github.com/lowRISC/lowrisc-chip
-
-RISC-V ASIC and FPGA implementation.
-
-RISC-V is only the API.
-
-2016: mass production planned <http://www.lowrisc.org/about/>
-
-By Cambridge people.
-
-Mostly in System Verilog.
-
-#### SiFive
-
-http://sifive.com/
-
-Startup around RISC-V tech by Berkley people, contributors to <https://github.com/riscv/riscv-tools>
-
-More linked to Rocket.
-
-### OpenRISC
-
-https://en.wikipedia.org/wiki/OpenRISC
-
-LGPL / GPL. TODO: history?
-
-RISC-V says it is better than them.
 
 ### MIPS
 
@@ -125,7 +65,15 @@ TODO Is it open?
 
 ## Tools
 
-<https://en.wikipedia.org/wiki/C_to_HDL>
+Tool lists:
+
+- <http://www.gpleda.org/>
+- <https://en.wikipedia.org/wiki/C_to_HDL>
+- <http://opencircuitdesign.com/>
+
+Tools:
+
+<http://kicad-pcb.org/>
 
 ### FPGA
 
@@ -145,6 +93,7 @@ Implementations:
 
 - <http://electronics.stackexchange.com/questions/22596/vhdl-ide-for-a-gnu-linux-environment>
 - <http://askubuntu.com/questions/130588/is-there-a-vhdl-simulator>
+- <http://www.clifford.at/yosys/>
 
 The only open source one looks like GHDL, but it is not good enough to compete: <http://www.sigasi.com/content/why-ghdl-currently-not-good-enough> Written in ADA (looks like VHDL).
 
@@ -166,4 +115,16 @@ David Patterson, chip research superstar, 2015 <https://www.youtube.com/watch?v=
 
 ## Open source hardware
 
-<https://en.wikipedia.org/wiki/Open_Compute_Project> server hardware, by Facebook and others joined, but not Google.
+<https://en.wikipedia.org/wiki/Open_Compute_Project> server hardware, by Facebook and others joined, but not Google. Update: Google joined later in 2016.
+
+## OpenPower
+
+## POWER9
+
+<https://en.wikipedia.org/wiki/OpenPOWER_Foundation>
+
+<https://en.wikipedia.org/wiki/IBM_OpenPower>
+
+More open-ish, but not truly open design.
+
+Google announces interest in it from time to time: https://www.reddit.com/r/programming/comments/4dncvw/google_and_rackspace_codevelop_open_server/

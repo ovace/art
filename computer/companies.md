@@ -8,6 +8,8 @@ Computer industry is crazy because it improved exponentially <https://youtu.be/b
 
 ## Sun
 
+Name: https://en.wikipedia.org/wiki/Stanford_University_Network
+
 I feel this is a cool company that made lots of interesting software.
 
 <http://www.informationweek.com/it-leadership/why-sun-microsystems-failed/d/d-id/1096377?>

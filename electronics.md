@@ -142,3 +142,35 @@ Came after 7400.
 ## ASIC
 
 <https://en.wikipedia.org/wiki/Application-specific_integrated_circuit>
+
+## Accelerator
+
+Engineerguy How a Smartphone Knows Up from Down: <https://www.youtube.com/watch?v=KZVgKu6v808>
+
+## Navigation systems
+
+https://en.wikipedia.org/wiki/Inertial_navigation_system#/media/File:Accuracy_of_Navigation_Systems.svg
+
+## Quartz watch
+
+-   engineerguy <https://www.youtube.com/watch?v=1pM6uD8nePo>
+
+-   Brit Lab <https://www.youtube.com/watch?v=o8YUM2Y2vvY>
+
+-   <https://en.wikipedia.org/wiki/Quartz>
+
+-   "atomic" clocks are quartz watches with an insanely precise feedback loop mechanism
+
+    Mini atomic clocks:
+
+    -  CSEMtechnologies (French) <https://www.youtube.com/watch?v=oUt8LzlukbE>
+
+## Microchip fabrication
+
+Tools:
+
+- https://en.wikipedia.org/wiki/Wafer_%28electronics%29
+
+### Who makes chips and equipment to make chips
+
+- https://en.wikipedia.org/wiki/ASML_Holding Intel bought 15% of it.

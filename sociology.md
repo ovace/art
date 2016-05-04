@@ -100,7 +100,7 @@ Social movements and practices.
 
 -   <https://en.wikipedia.org/wiki/Bechdel_test>
 
-## Developper options
+## Developer options
 
 On 5.1.1, hit version 7 times in a row. No kidding.
 

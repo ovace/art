@@ -89,3 +89,11 @@ Pixel art: <https://www.youtube.com/watch?v=0Ud4Cvfj9v0>
 ## Voxel
 
 Lode Runner's Rescue "First voxel game": https://www.youtube.com/watch?v=BEpaIenm3Ik But no custom player voxel placement.
+
+## Benchmarks
+
+- What Does 1,000,000 Look Like in Minecraft? <https://www.youtube.com/watch?v=RVzpj_qL--w>
+
+## Interesting physics
+
+- http://minecraft.gamepedia.com/Command_Block

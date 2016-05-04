@@ -264,3 +264,13 @@ She apologized for her husband, but the assistant took my mother's side, said th
 
 I bet he did stop after this time.
 
+
+## 2016-04-25 Xiaoxiao and Fang sheng eat with us
+
+Xiaoxiao is pregnant, and getting sick easily.
+
+She wanted to eat something different, so they came over (specially since Xiaohua cooks well).
+
+It was a really pleasant evening, just eating hot stuff, rainy outside, and half understanding Chinese.
+
+We bough stuff at the Chinese quarters earlier before.

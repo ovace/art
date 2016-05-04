@@ -14,7 +14,11 @@ Cody's lab, chemistry and mining focus: https://www.youtube.com/channel/UCu6mSoM
 
 Jeri Ellsworth, electronics focus: https://www.youtube.com/channel/UClTpDNIOtgfRkyT-AFGNWVw Her story: <https://www.youtube.com/watch?v=cLy0mVkoLio>
 
+Engineer guy: <https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ> Wish there were more videos.
+
 ### Tier 2 or under evaluation
+
+Great Scott <https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ> Electronics tutorials.
 
 https://www.youtube.com/channel/UCmHvGf00GDuPYG9DZqQKd9A Julian Ilett: nice minimalistic electronics projects, well detailed for reproduction.
 

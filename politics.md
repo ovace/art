@@ -2,9 +2,11 @@
 
 Politics, advertisement, law.
 
+-   <https://en.wikipedia.org/wiki/Pirate_Parties_International>
+
 -   <https://en.wikipedia.org/wiki/Rechtsstaat>
 
--   <https://en.wikipedia.org/wiki/Micronation>
+-   <https://en.wikipedia.org/wiki/Micronation>, micro countries
 
     - <https://en.wikipedia.org/wiki/Liberland>
     - <http://en.wikipedia.org/wiki/Niue>

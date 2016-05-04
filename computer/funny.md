@@ -1,5 +1,7 @@
 # Computer funny
 
+-   use controller haptics to play music: https://killscreen.com/articles/people-have-figured-out-how-to-get-the-steam-controller-to-sing/
+
 -   gvim 7.3 `set notitle` shows: `Thanks for flying Vim`.
 
 -   <https://en.wikipedia.org/wiki/William_Shanks>

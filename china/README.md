@@ -1,5 +1,7 @@
 # China
 
+-   <https://en.wikipedia.org/wiki/Mu_ren_zhuang> Wooden kung fu dummy
+
 -   sajiao <http://www.echinacities.com/expat-corner/What-are-You-Five-Chinese-Women-and-Sa-Jiao>
 
 -   <https://en.wikipedia.org/wiki/Chinese_script_styles>
@@ -241,11 +243,15 @@ I hear and I forget. I see and I remember. I do and I understand.
 
     Punishment in small ancient towns for non-serious crimes, consisting of drawing a circle on the ground, from which the punished person may not leave, on pain of more serious sanctions.
 
-I have a soft spot for Chinese language and traditional culture.
+-   株连九族 <https://en.wikipedia.org/wiki/Nine_familial_exterminations>
 
-I might include Japanese / Korean / Vietnamese stuff here too because they are all inside the Sinosphere.
+    A chat about lianzuo(连坐) <https://www.reddit.com/r/China/comments/4fsho5/a_chat_about_lianzuo%E8%BF%9E%E5%9D%90_or_being_found_guilty_for/>
 
--    株连九族 <https://en.wikipedia.org/wiki/Nine_familial_exterminations>
+-   https://en.wikipedia.org/wiki/Death_sentence_with_reprieve
+
+## Politics
+
+-   <https://en.wikipedia.org/wiki/Politburo_Standing_Committee_of_the_Communist_Party_of_China>
 
 ## Folklore
 

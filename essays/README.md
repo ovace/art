@@ -16,4 +16,5 @@
 1.  Poetic
     1.  [The Four Treasures of the Hacker](four-treasures-of-the-hacker.md)
     1.  [People know the best](people-know-the-best.md)
+    1.  [Quotes](quotes.md)
 1.  [Thoughts](thoughts.md)

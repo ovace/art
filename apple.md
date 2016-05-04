@@ -86,3 +86,13 @@ Apple filed a trademark application for it: <http://mashable.com/2010/10/11/appl
 > What Apple did was to give every computer science and software engineering student a three-pound Unix workstation for not very much money, and unsurprisingly, they proliferated. This effect was compounded further by Apple's enduring popularity in San Francisco and Silicon Valley. Smart kids fresh out of university (whether they dropped out or otherwise) weren't thrust into the Windows-centric world of corporate America. They could instead thrive in a culture that revered Apple and equipped them all with shiny new MacBook Pros. Windows wasn't reviled the way that the die-hard open source advocates reviled it; it just wasn't part of their life.
 
 This culture still exists!
+
+## Campus 2
+
+There isn't a straight piece of glass on the whole building.
+
+<http://www.theverge.com/2013/4/4/4182174/apple-campus-2-spaceship-overbudget-rumor>
+
+## Loyalty Team
+
+Internal investigator police: <http://gizmodo.com/5427058/apple-gestapo-how-apple-hunts-down-leaks>
