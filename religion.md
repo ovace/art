@@ -41,3 +41,9 @@
 ## Bible
 
 -   <https://en.wikipedia.org/wiki/Parable_of_the_Prodigal_Son>
+
+## Islam
+
+A major schism is between those who follow Mohamed's brother in law vs Mohamed's disciple.
+
+<https://en.wikipedia.org/wiki/Islamic_schools_and_branches>

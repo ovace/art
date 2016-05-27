@@ -1,5 +1,7 @@
 # Food
 
+-   <https://en.wikipedia.org/wiki/Terrine_%28food%29>, eaten it in France
+
 -   <https://en.wikipedia.org/wiki/Grayanotoxin>
 
 -   <https://en.wikipedia.org/wiki/Mozartkugel> Specially interesting for Brazilians because Sonho de Valsa https://en.wikipedia.org/wiki/Sonho_de_Valsa is a "I didn't know it was" ripoff.

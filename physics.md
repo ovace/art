@@ -39,6 +39,14 @@ Physics, chemistry, astronomy, geology.
 
     - Arbor Scientific <https://www.youtube.com/watch?v=vNuDxc9tZMk>
 
+-   <https://en.wikipedia.org/wiki/Critical_speed>
+
+    Slow mo guys vs CD: <https://www.youtube.com/watch?v=zs7x1Hu29Wc>
+
+    Ansys simulation: <https://www.youtube.com/watch?v=So3uBzqCmtk>
+
+    <http://feacompare.com/>
+
 ## Funny
 
 -   Rutherford: All science is either physics or stamp collecting.

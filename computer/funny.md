@@ -1,5 +1,15 @@
 # Computer funny
 
+-   http://www.infiltec.com/j-h-wrld.htm Hello world programs
+
+-   http://humanstxt.org/ https://www.quora.com/What-is-humans-txt
+
+    - https://www.google.com/humans.txt has a "job" announcement
+    - https://github.com/humans.txt
+    - https://medium.com/humans.txt job announcement, security disclosure acknowledge
+
+-   https://www.quora.com/What-is-humans-txt , seen it on zinnia
+
 -   use controller haptics to play music: https://killscreen.com/articles/people-have-figured-out-how-to-get-the-steam-controller-to-sing/
 
 -   gvim 7.3 `set notitle` shows: `Thanks for flying Vim`.
@@ -47,6 +57,12 @@
 -   <https://en.wikipedia.org/wiki/The_Turk> A cheating Turing test passer.
 
 -   <https://en.wikipedia.org/wiki/TempleOS> Religious OS.
+
+    - <https://www.reddit.com/r/programming/comments/4iwi4w/templeos_v406_released_now_has_just_2meg_page/>
+
+    - <http://www.templeos.org/Wb/Home/Web/TAD/DeathList.html#l1>
+
+    - <http://www.templeos.org/Wb/Doc/HolyC.html> custom language and compiler!
 
 -   <http://en.wikipedia.org/wiki/ReactOS>. Open source Windows clone! It's like Linux vs Unix but Windows version! Arghhh.
 
@@ -187,8 +203,6 @@
 -   "Do you pine for the nice days of Minix-1.1, when men were men and wrote their own device drivers?" Linus Torvalds
 
 -   [Spaghetti code](http://en.wikipedia.org/wiki/Spaghetti_code)
-
--   [Esoteric language](http://en.wikipedia.org/wiki/Esoteric_programming_language)
 
 -   [Sockpuppet](http://en.wikipedia.org/wiki/Sockpuppet_%28Internet%29)
 

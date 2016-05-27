@@ -2,6 +2,8 @@
 
 Animals, plants, biology, evolution, genetics, diseases.
 
+-   <https://en.wikipedia.org/wiki/Zoophilia_and_health>
+
 -   <https://en.wikipedia.org/wiki/Meal_replacement>
 
     - <http://www.dailymail.co.uk/health/article-2780505/Can-man-live-meal-substitutes-They-vitamins-promise-benefits-balanced-diet-But-one-volunteer-tried-survive-bars-shakes-week-shocked-results.html>
@@ -218,6 +220,8 @@ Fly supplies:
 -   <http://news.discovery.com/human/evolution/oldest-art-was-carved-onto-shell-540000-years-ago-141203.htm>
 
 -   <http://www.livescience.com/31974-earliest-human-hunters-found.html> Started hunting 2Ma.
+
+-   <https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response>
 
 ## Tech
 

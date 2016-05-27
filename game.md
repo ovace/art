@@ -308,6 +308,7 @@ Ultra hard SMB mods:
 - unusual mechanics
     - that level again <https://play.google.com/store/apps/details?id=ru.iamtagir.game.android&hl=en>
 - I Am Bread <https://www.youtube.com/watch?v=hL7Jg-uT96E>
+- happy wheels <https://en.wikipedia.org/wiki/Happy_Wheels>
 
 New platformers:
 
@@ -519,6 +520,10 @@ AKA more than edge detection :-)
 ## Old
 
 - Gun fight 1975 https://www.youtube.com/watch?v=gRwwN1N5KSA
+
+-   nokia game over https://www.youtube.com/watch?v=wr9r2_jVrHk
+
+    https://en.wikipedia.org/wiki/Snake_%28video_game%29
 
 ## Game of life
 

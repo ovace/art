@@ -16,6 +16,8 @@ Jeri Ellsworth, electronics focus: https://www.youtube.com/channel/UClTpDNIOtgfR
 
 Engineer guy: <https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ> Wish there were more videos.
 
+Physics Videos by Eugene Khutoryansky <https://www.youtube.com/channel/UCJ0yBou72Lz9fqeMXh9mkog> Uses Poser for rendering, + bullet physics + poser physics for rigid body. <https://www.linkedin.com/in/eugene-khutoryansky-9a9a3251>
+
 ### Tier 2 or under evaluation
 
 Great Scott <https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ> Electronics tutorials.
@@ -61,6 +63,10 @@ In Portuguese for poor kids who don't know English:
 - Manual do Mundo <https://www.youtube.com/user/iberethenorio>
 
 ## Funny
+
+### History
+
+- Lindybeige <https://www.youtube.com/channel/UC9pgQfOXRsp4UKrI8q0zjXQ>
 
 ### Epic rap battles of history
 

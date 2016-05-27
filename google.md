@@ -34,6 +34,8 @@ Official take: <https://www.google.com/about/company/history/>
 
 They reused many of Sgi's buildings https://youtu.be/oOe05w1gLrE?t=429 which at it's time, was a had a comparable feeling.
 
+-   Scroogle: <https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google#Scrooglie>
+
 ## Search
 
 Funny interface languages:
@@ -91,6 +93,7 @@ Utilities / widgets:
 - <https://www.google.com/search?q=flip+a+coin>
 - <https://www.google.com/search?client=ubuntu&channel=fs&q=translate+love+french&ie=utf-8&oe=utf-8>
 - some latitude longitude pairs show a map: <https://www.google.com/search?client=ubuntu&channel=fs&q=2.3725335+48.8538185&ie=utf-8&oe=utf-8> but not all. TODO which? But you can always enter those in map queries.
+- add to calendar given day: <https://www.google.com/search?client=ubuntu&channel=fs&q=add+to+calendar+next+friday&ie=utf-8&oe=utf-8>
 
 
 YouTube:
@@ -253,3 +256,28 @@ It seems that is is possible to have a GPL implementation of a patented API? So 
 Moonshot projects.
 
 <http://www.theverge.com/2016/2/1/10887926/google-alphabet-fourth-quarter-q4-2015-earnings> costs billions, largely led by Page.
+
+## Larry Page
+
+Corporate Valley <https://www.youtube.com/watch?v=f_eiMKp4QW8> Leverage. Complex problems get more resource and excite more people.
+
+Paid himself 1\$ / year.
+
+<https://en.wikipedia.org/wiki/One-dollar_salary>
+
+## Bug hunting program
+
+20k dollars for remote code execution.
+
+- <https://www.google.com/about/appsecurity/reward-program/>
+- <https://sites.google.com/site/bughunteruniversity/>
+
+## humans.txt
+
+https://www.google.com/humans.txt
+
+## Mass export search results
+
+<https://support.google.com/vault/answer/2473458>
+
+<https://cse.google.com/cse/all>

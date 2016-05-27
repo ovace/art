@@ -1,5 +1,13 @@
 # Law
 
+-   <https://en.wikipedia.org/wiki/Zoophilia_and_the_law>
+
+    - <https://en.wikipedia.org/wiki/Zoophilia_and_the_law_in_the_United_States>
+
+-   <https://en.wikipedia.org/wiki/Misdemeanor>
+
+-   <https://en.wikipedia.org/wiki/Non_liquet>
+
 -   <https://en.wikipedia.org/wiki/Perp_walk#Prehistory> Perp is a slang for perpetrator.
 
 -   <https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx>
@@ -55,8 +63,3 @@
 ## Funny laws
 
 -   <http://www.omgfacts.com/news/8821/It-s-illegal-to-die-in-the-Houses-of-Parliament>
-
-## Child pornography
-
-- <http://njcyberlaw.com/will-go-jail-viewing-child-pornography/>
-- <https://answers.yahoo.com/question/index?qid=20111008231735AAGRnef>

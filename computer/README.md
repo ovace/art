@@ -1,5 +1,9 @@
 # Computer
 
+1. [Esoteric languages](esoteric-languages.md)
+
+-   <https://en.wikipedia.org/wiki/Ping_%28blogging%29>
+
 -   <https://en.wikipedia.org/wiki/Purity_test>
 
 -   <https://en.wikipedia.org/wiki/Warrant_canary>

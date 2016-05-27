@@ -1,6 +1,12 @@
 # English
 
+## Words
+
 As an "advanced" non-native speaker, I always learn a few new terms every month.
+
+-   <http://www.urbandictionary.com/define.php?term=ringer>
+
+-   <https://en.wikipedia.org/wiki/Ebb_and_flow>
 
 -   <https://en.wikipedia.org/wiki/Myriad> in Greek meant 10 thousand. Now how the Chinese also have a word for it.
 
@@ -245,6 +251,8 @@ As an "advanced" non-native speaker, I always learn a few new terms every month.
 Stuff that happens across languages:
 
 -   <http://en.wikipedia.org/wiki/Minced_oath>
+
+-   Rationale for English bad bijection between speech and writing: it makes reading easier by removing ambiguities, a little like Chinese: <https://youtu.be/GiVs05yq9-o?t=311>
 
 ## Memes
 

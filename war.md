@@ -164,6 +164,10 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 -   <https://en.wikipedia.org/wiki/Armor-piercing_shell#Armor-piercing_ammunition>
 
+-   <https://en.wikipedia.org/wiki/Mozambique_Drill>>
+
+-   <https://www.youtube.com/watch?v=ivYlHU0Zi-I> sub, light, medium and heavy machine guns
+
 ### Bows
 
 -   <http://en.wikipedia.org/wiki/Compound_bow> Modern bow with pulleys created in the 1960s.
@@ -328,6 +332,8 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
     Started in WW2, with at least on recipient in 2014 for Afghanistan.
 
 ## WW2
+
+-   World at War S01 E03: Gamelin settled at Vincennes.
 
 -   <https://en.wikipedia.org/wiki/Katyn_massacre>, confirmed by documents released in 1992.
 

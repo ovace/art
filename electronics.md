@@ -174,3 +174,7 @@ Tools:
 ### Who makes chips and equipment to make chips
 
 - https://en.wikipedia.org/wiki/ASML_Holding Intel bought 15% of it.
+
+## Date code
+
+<https://media.digikey.com/pdf/Other%20Related%20Documents/Panasonic%20Electric%20Works%20Other%20Doc/Relay_Date_Code.pdf>

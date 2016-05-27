@@ -305,7 +305,11 @@ Used for getting useful server information to prepare for further attacks later 
 
 ### Famous attacks
 
+### Notable attacks
+
 This section also discusses famous attackers, or security researchers.
+
+-   <https://en.wikipedia.org/wiki/Operation_Aurora>
 
 -   <http://en.wikipedia.org/wiki/Morris_worm>
 
@@ -428,3 +432,7 @@ Job postings on the domain will useful techniques.
 -   Assembly vulnerabilities exploit game: https://microcorruption.com/
 
 -   <http://securityzap.com/a-story-of-a-finfisher-hacker/>
+
+## Nuclear weapons via hacking
+
+- <https://www.quora.com/Could-a-group-of-hackers-break-into-military-networks-and-launch-or-detonate-nuclear-missiles>

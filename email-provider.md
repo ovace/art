@@ -9,7 +9,7 @@ Best ones:
 - fast account creation
 
     - https://scramble.io/
-    - https://www.ghostmail.com/
+    - https://www.ghostmail.com/ , requires an existing email ?? How is that private ??
 
 - https://ruggedinbox.com/
 
@@ -53,5 +53,10 @@ Disposable cell numbers with public message view:
 
 - https://smsreceivefree.com/ 9 numbers refreshed every t >= 14 days
 - http://receivesmsonline.com/
+- https://tempophone.com/
+- http://www.burnerapp.com/ TODO how it works?
+- http://freereceivesmsonline.com/ TODO you need to send them an SMS? what is the point then?
+
+How much a number costs: <https://www.twilio.com/help/faq/phone-numbers/how-much-does-a-phone-number-cost>
 
 Can also send messages:

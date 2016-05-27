@@ -21,3 +21,13 @@ TODO understand in detail.
 ### Ripple
 
 - https://www.quora.com/How-is-Ripple-different-from-bitcoin
+
+## String search
+
+http://bitcoin.stackexchange.com/questions/30295/how-can-i-search-for-transaction-text-on-the-blockchain
+
+## Anonymous services that take Bitcoin as payment
+
+VPS: http://cryto.net/~joepie91/bitcoinvps.html
+
+

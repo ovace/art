@@ -139,6 +139,7 @@ Business, finance, marketing.
     - freemium: pay for some features only.
     - organization: donations
     - closed / open / semi open source
+    - https://en.wikipedia.org/wiki/Nagware
 
 -   Roadmap.
 

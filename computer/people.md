@@ -39,6 +39,8 @@
 
     <https://en.wikipedia.org/wiki/John_McAfee>
 
+    He was a monster. NASA, Univac, Xerox, Lockheed, where he started learning about viruses, in particular Brain, which was made by known Pakistanis: <https://en.wikipedia.org/wiki/Amjad_Farooq_Alvi>
+
     <https://www.youtube.com/watch?v=bKgf5PaBzyg>
 
     <https://www.youtube.com/watch?v=zIXc_GqIsE0>
@@ -54,18 +56,6 @@
     http://guru.multimedia.cx/
 
     http://snackbox.org/~snacky/mn.html hardcore quotes
-
-## Jobs
-
-<http://en.wikipedia.org/wiki/Steve_Jobs>. So many interesting anecdotes.
-
-Owned 7% of Disney through the Pixar merger...
-
-<https://en.wikipedia.org/wiki/Steve_Jobs:_The_Lost_Interview>
-
-> I want to put a ding in the universe.
-
-Way richer than Woz because he invested amazingly well afterwards: <https://www.quora.com/Why-was-Steve-Jobs-so-much-richer-than-Steve-Wozniak-while-they-founded-Apple-together>
 
 ## Grace Hopper
 
@@ -88,10 +78,6 @@ I like him! Smart, funny and cute.
     First investors were his parents with 300 thousand! Their first question: what is the Internet?
 
 Like Musk, he also invested in aerospace: https://en.wikipedia.org/wiki/Blue_Origin
-
-## Larry Page
-
-Corporate Valley <https://www.youtube.com/watch?v=f_eiMKp4QW8> Leverage. Complex problems get more resource and excite more people.
 
 ## Elon Musk
 

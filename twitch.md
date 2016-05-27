@@ -58,3 +58,7 @@ Painting / live music making: <http://www.twitch.tv/bobross>
 
 - <http://help.twitch.tv/customer/portal/articles/1360598-moderation-guide---broadcaster>
 - <http://help.twitch.tv/customer/portal/articles/659095-chat-moderation-commands>
+
+## Emotes
+
+<https://twitchemotes.com/>

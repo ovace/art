@@ -24,10 +24,17 @@ Bestof lists which I generally approve:
 
 - <http://en.wikipedia.org/wiki/All_persons_fictitious_disclaimer>: use started after a 1932 MGM movie Rasputin and the Empress was sued for suggesting sexual assault of a living princess. I don't see how such superficial notices could avoid a law suite, since what you actually do is more important than what you say you do. This is probably why there have been so many ironic uses for it.
 
+- <https://en.wikipedia.org/wiki/Lost_film>
+
 ## Tech
 
 - <https://en.wikipedia.org/wiki/Time-lapse_photography>
 - <https://en.wikipedia.org/wiki/4DX>
+
+## Recommender systems
+
+- <https://en.wikipedia.org/wiki/Misdemeanor>
+    - multiple recommendation algorithms to choose from
 
 ## Subjects I like
 
@@ -94,7 +101,7 @@ Films I liked but watched before making this comments. Contains some of my favor
 - Forest Gump
 - Red Sorghum 1987 (China)
 - 2001 Space Odyssey
-- Blane Runner
+- Blade Runner
 - Metropolis 1927
 - Maltese Falcon
 - Deus e o Diabo na Terra do Sol 1964
@@ -355,6 +362,7 @@ Seen: 2016/04
 Sure:
 
 - <https://en.wikipedia.org/wiki/Raise_the_Red_Lantern>
+- <https://en.wikipedia.org/wiki/Dersu_Uzala_%281975_film%29>
 
 Maybe:
 

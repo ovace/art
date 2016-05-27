@@ -2,6 +2,8 @@
 
 Politics, advertisement, law.
 
+-   <https://en.wikipedia.org/wiki/Acclamation#Voting>, see House of Cards S04E10 50
+
 -   <https://en.wikipedia.org/wiki/Pirate_Parties_International>
 
 -   <https://en.wikipedia.org/wiki/Rechtsstaat>

@@ -1,5 +1,7 @@
 # History
 
+-   Chinese type writer 1978 <https://www.reddit.com/r/China/comments/4htjih/chinese_typewriter_%E4%B8%AD%E6%96%87%E6%89%93%E5%AD%97%E6%A9%9F_1978/>
+
 -   <https://www.youtube.com/watch?v=ISJWZpFIAlQ> 1965 Ivan Sutherland
 
 -   <https://youtu.be/iwEpKy_7mYM?t=849> XEROX PARC footage.

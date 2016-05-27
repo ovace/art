@@ -34,6 +34,8 @@ Communication:
 
 -   <https://en.wikipedia.org/wiki/Tianya_Club>. Signup: need to send message from your cell phone. Can sign in with Weibo, but still needs phone confirmation to post.
 
+-   <https://en.wikipedia.org/wiki/Sohu>
+
 E-commerce:
 
 -   <https://en.wikipedia.org/wiki/JD.com>

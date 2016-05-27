@@ -1,32 +1,12 @@
 # Applied math
 
-Ranking / search / recommendation algorithms:
-
--   <https://en.wikipedia.org/wiki/Recommender_system>
-
--   <http://www.quora.com/What-algorithm-does-IMDB-use-for-ranking-the-movies-on-its-site>
-
-    <http://math.stackexchange.com/questions/169032/understanding-the-imdb-weighted-rating-function-for-usage-on-my-own-website>
-
--   <http://amix.dk/blog/post/19574> how Hacker News ranking algorithm works
-
-    <http://amix.dk/blog/post/19588> how Reddit ranking algorithm works. Wilson score interval for comments. For posts, time taken into account.
-
-    <http://www.evanmiller.org/how-not-to-sort-by-average-rating.html>
-
-    <http://www.evanmiller.org/statistical-formulas-for-programmers.html>
-
--   TODO: Sort search results which have some sort of rating, e.g. GitHub "best match" search for repositories, which have stars.
-
--   TODO: Sort search results with multiple fields of different importance. E.g.: title and summary.
-
--   <http://www.quora.com/Recommendation-Systems/How-do-ranking-algorithms-eg-Amazon-Tripadvisor-work>
-
 Image synthesis:
 
 -   dithering http://fiji.sc/Dithering
 
 -   https://en.wikipedia.org/wiki/Line_drawing_algorithm , e.g. https://en.wikipedia.org/wiki/Bresenham's_line_algorithm
+
+## Number crunching
 
 Number crunching / physics simulation / PDEs:
 
@@ -45,21 +25,3 @@ Integration:
 -   <https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods>
 
 -   <https://en.wikipedia.org/wiki/Verlet_integration>
-
-Physics engines:
-
-Main open source ones:
-
--   https://en.wikipedia.org/wiki/Open_Dynamics_Engine
-
--   https://en.wikipedia.org/wiki/Bullet_%28software%29
-
-    Creator worked 4 years at AMD implementing the GPU for it! So I think it is the one to go for.
-
--   JavaScript on browser:
-
-    http://brm.io/matter-js/
-
-## Machine learning
-
-- http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56760&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification

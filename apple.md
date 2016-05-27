@@ -96,3 +96,7 @@ There isn't a straight piece of glass on the whole building.
 ## Loyalty Team
 
 Internal investigator police: <http://gizmodo.com/5427058/apple-gestapo-how-apple-hunts-down-leaks>
+
+## Macintosh
+
+They all signed it on the inside: <https://www.youtube.com/watch?v=eHzAtxW3TzY> <http://www.cultofmac.com/122408/signed-by-steve-jobs-co-signatures-inside-the-original-macintosh-case/>
