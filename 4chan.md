@@ -36,6 +36,8 @@ TODO find an archive with search. Most just forward to Google.
 
 - TODO <https://www.youtube.com/watch?v=C8N6Yns_8VQ>
 
+Also known as "epic threads": <http://knowyourmeme.com/memes/epic-thread>
+
 ## Slang
 
 Forms of address: "faggot", "peasant".

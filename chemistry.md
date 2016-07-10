@@ -86,6 +86,10 @@ Guy mining a few grams of mercury manually: <https://www.youtube.com/watch?v=Ztv
 
 ## Materials
 
+-   <https://www.youtube.com/watch?v=b--FKHCFjOM> Crystals Go to War 1943 - Production of Quartz crystals for radio communication.
+
+    <https://www.youtube.com/watch?v=Eam1-9FDD-Y> simple minimal demonstration of quartz wafer lighting LED up via hand stimulation.
+
 -   https://en.wikipedia.org/wiki/Iridescence
 
 -   https://en.wikipedia.org/wiki/Neodymium_magnet
@@ -235,3 +239,7 @@ Guy mining a few grams of mercury manually: <https://www.youtube.com/watch?v=Ztv
 -   <https://en.wikipedia.org/wiki/Precious_metal#Aluminium>
 
     Before electricity, aluminium was more expensive than gold, even though it is very abundant on the earth's crust.
+
+-   <http://www.wired.com/2009/09/spider-silk/> Spider silk cloth.
+
+    Last one was made in the 19th century! <https://www.yatzer.com/Golden-Spider-Silk>

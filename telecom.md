@@ -52,3 +52,11 @@
     -   electricity, starting with the <http://en.wikipedia.org/wiki/Electrical_telegraph> and culminating in the Internet.
 
         Weber and Gauss were amongst the first implementors of a practical system.
+
+## GSM vs CDMA
+
+<http://www.pcmag.com/article2/0,2817,2407896,00.asp>
+
+CDMA: owned by Qualcomm.
+
+Europe mandated GSM by law.

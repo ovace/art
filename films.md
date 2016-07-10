@@ -17,6 +17,7 @@ Bestof lists which I generally approve:
 - <https://en.wikipedia.org/wiki/B_movie>
 - <https://en.wikipedia.org/wiki/Art_film>
 - <https://en.wikipedia.org/wiki/Stock_character>
+- <https://en.wikipedia.org/wiki/Unseen_character>
 
 ## Misc
 

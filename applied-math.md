@@ -25,3 +25,7 @@ Integration:
 -   <https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods>
 
 -   <https://en.wikipedia.org/wiki/Verlet_integration>
+
+Equation solving:
+
+-   <https://en.wikipedia.org/wiki/Fast_inverse_square_root>

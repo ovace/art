@@ -2,6 +2,8 @@
 
 War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff, which I wish did not happen.
 
+-   <https://en.wikipedia.org/wiki/Minimum_metal_mine>
+
 -   <https://en.wikipedia.org/wiki/Quarterstaff>
 
 -   <https://en.wikipedia.org/wiki/Surface-to-air_missile>

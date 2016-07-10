@@ -13,11 +13,12 @@ Quotes:
 - <http://quoteinvestigator.com/>
 - <http://fakebuddhaquotes.com/>
 
-Fake news:
+Fake news: <https://en.wikipedia.org/wiki/News_satire>
 
 - <http://www.theonion.com/>
 - <http://www.miniharm.com/>: anti-China
 - <http://www.legorafi.fr/>: French
+- <http://www.sensacionalista.com.br/> Brazilian
 
 Web caches:
 

@@ -47,3 +47,18 @@ Created by two ex early Facebookers in 2009:
 public in 2010, before Facebook!
 
 Acquisitions: <https://www.quora.com/topic/Quora-Acquisitions>
+
+## Licence
+
+Not CC, only Quora's ToS, which is likely CC BY compatible...
+
+- <https://www.quora.com/How-can-material-on-Quora-be-reused-elsewhere-What-are-the-licensing-terms-What-about-in-the-case-where-a-user-has-selected-the-not-for-reproduction-option>
+- <https://www.quora.com/Is-Quoras-content-license-compatible-with-Creative-Commons>
+
+## Prizes
+
+<https://www.quora.com/prizes>
+
+Pay money to best answer.
+
+Most questions useless generic ones :-)

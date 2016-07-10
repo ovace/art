@@ -309,6 +309,8 @@ Ultra hard SMB mods:
     - that level again <https://play.google.com/store/apps/details?id=ru.iamtagir.game.android&hl=en>
 - I Am Bread <https://www.youtube.com/watch?v=hL7Jg-uT96E>
 - happy wheels <https://en.wikipedia.org/wiki/Happy_Wheels>
+- https://en.wikipedia.org/wiki/Neverending_Nightmares
+- Her Story
 
 New platformers:
 
@@ -544,3 +546,10 @@ Source code released for non-profit use in 1997, then GPL 1999:
 ## Marble madness
 
 https://www.youtube.com/watch?v=vMYibbzJlVs Kirby golf / monkey ball precursor, great music.
+
+## Watchable
+
+Relaxing / fun to watch people play through:
+
+- Firewatch. Brilliant dialogue.
+- The last of us

@@ -321,15 +321,21 @@ This section also discusses famous attackers, or security researchers.
 
     Data theft of 77M users during 2 days. Sony then shut down the network for 3 weeks.
 
--   <http://en.wikipedia.org/wiki/George_Hotz>
-
-    He disclosed high profile exploits for AT&T and PS3, and got sued. He found and exploited Google Chrome vulnerabilities on 
-
 -   <http://en.wikipedia.org/wiki/Samy_KamkarI> made a few.
 
 -   <http://en.wikipedia.org/wiki/Stuxnet> Attacks controllers, reportedly used by the USA to destroy nuclear centrifuges in Iran.
 
 -   <https://en.wikipedia.org/wiki/Siberian_pipeline_sabotage>
+
+### George Hotz
+
+-   <http://en.wikipedia.org/wiki/George_Hotz>
+
+    He disclosed high profile exploits for AT&T and PS3, and got sued. He found and exploited Google Chrome vulnerabilities on 
+
+    17 year old CNBC iPhone interview: <https://www.youtube.com/watch?v=8CWDpBo2Cps>
+
+    PS3 hack The Alyona Show.
 
 ### Kevin Mitnick
 
@@ -436,3 +442,15 @@ Job postings on the domain will useful techniques.
 ## Nuclear weapons via hacking
 
 - <https://www.quora.com/Could-a-group-of-hackers-break-into-military-networks-and-launch-or-detonate-nuclear-missiles>
+
+## Hardware controller attacks
+
+<https://youtu.be/lZGHbMS882w?t=136>
+
+## Typosquatting
+
+<https://en.wikipedia.org/wiki/Typosquatting>
+
+## Disk encryption
+
+<http://askubuntu.com/questions/97196/how-secure-is-an-encrypted-luks-filesystem>

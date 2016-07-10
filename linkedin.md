@@ -7,3 +7,7 @@ Limits connections to 30k.
 <http://maximizesocialbusiness.com/10-linkedin-lions-super-connectors-you-must-invite-connect-451/>
 
 <https://www.quora.com/Who-has-the-most-connections-on-LinkedIn>
+
+## Acquisitions
+
+<https://en.wikipedia.org/wiki/SlideShare>

@@ -1,5 +1,9 @@
 # Computer funny
 
+-   http://web.mit.edu/~simsong/www/ugh.pdf
+
+-   http://mindprod.com/jgloss/unmain.html
+
 -   http://www.infiltec.com/j-h-wrld.htm Hello world programs
 
 -   http://humanstxt.org/ https://www.quora.com/What-is-humans-txt
@@ -190,6 +194,8 @@
 
     <http://www.catb.org/jargon/html/koans.html>
 
+    <http://thecodelesscode.com/contents>
+
 -   [COMEFROM](https://en.wikipedia.org/wiki/COMEFROM)
 
 -   <https://en.wikipedia.org/wiki/The_Book_of_Mozilla>
@@ -214,6 +220,8 @@
 
 ## Parody laws
 
+## Parody principles
+
 -   [Godwin's Law](http://en.wikipedia.org/wiki/Godwin%27s_law)
 
     > As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1.
@@ -234,6 +242,8 @@
     > including Common Lisp
 
 -   <http://en.wikipedia.org/wiki/Wirth%27s_law>. Computers get faster, software gets slower, so there is not net improvement.
+
+-   <https://en.wikipedia.org/wiki/Ninety-ninety_rule>
 
 ## Cheap
 
@@ -393,8 +403,6 @@ Boring... but wait! Try this:
 -   <http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454>
 
 -   <http://meta.stackexchange.com/questions/9134/jon-skeet-facts>
-
--   <http://stackoverflow.com/questions/4561256/ascii-art-in-html-comments-fad-or-function>
 
 -   [BMP C++ program](http://stackoverflow.com/a/5509538/895245)
 

@@ -70,34 +70,20 @@ Tool lists:
 - <http://www.gpleda.org/>
 - <https://en.wikipedia.org/wiki/C_to_HDL>
 - <http://opencircuitdesign.com/>
+- <http://www.vlsiacademy.org/open-source-cad-tools.html>
+- <https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki>
 
 Tools:
 
-<http://kicad-pcb.org/>
-
-### FPGA
-
-- <http://stackoverflow.com/questions/8988629/can-you-program-fpgas-in-c-like-languages>
+- <http://kicad-pcb.org/>
+- <https://en.wikipedia.org/wiki/GEDA>
+- <http://electronics.stackexchange.com/questions/24184/free-ide-for-vhdl-and-verilog/25281#25281>
+- <https://github.com/cseed/arachne-pnr>
+- <http://www.clifford.at/yosys/>
 
 ### GDS
 
 https://en.wikipedia.org/wiki/GDSII
-
-### VHDL
-
-### Verilog
-
-Main hardware design languages are VHDL and Verilog: <http://electronics.stackexchange.com/questions/16767/vhdl-or-verilog>
-
-Implementations:
-
-- <http://electronics.stackexchange.com/questions/22596/vhdl-ide-for-a-gnu-linux-environment>
-- <http://askubuntu.com/questions/130588/is-there-a-vhdl-simulator>
-- <http://www.clifford.at/yosys/>
-
-The only open source one looks like GHDL, but it is not good enough to compete: <http://www.sigasi.com/content/why-ghdl-currently-not-good-enough> Written in ADA (looks like VHDL).
-
-<http://electronics.stackexchange.com/questions/85053/how-verilog-or-vhdl-projects-are-implement-as-physical-chips>
 
 ### Arch C
 
@@ -128,3 +114,11 @@ David Patterson, chip research superstar, 2015 <https://www.youtube.com/watch?v=
 More open-ish, but not truly open design.
 
 Google announces interest in it from time to time: https://www.reddit.com/r/programming/comments/4dncvw/google_and_rackspace_codevelop_open_server/
+
+## Telecom
+
+- <https://en.wikipedia.org/wiki/RONJA>
+
+## Organizations
+
+- <http://fossi-foundation.org/>

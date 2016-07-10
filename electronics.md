@@ -1,5 +1,7 @@
 # Electronics
 
+<https://en.wikipedia.org/wiki/Point-and-shoot_camera>
+
 <https://en.wikipedia.org/wiki/Electronics_manufacturing_services>
 
 <https://en.wikipedia.org/wiki/Trickle_charging>
@@ -8,34 +10,21 @@
 
 <https://en.wikipedia.org/wiki/Pin_grid_array>
 
--   <https://en.wikipedia.org/wiki/Three-state_logic>
+<https://en.wikipedia.org/wiki/Three-state_logic>
 
 Basic components of an electronics lab: https://www.youtube.com/watch?v=R_PbjbRaO2E
 
 <https://en.wikipedia.org/wiki/Cleanroom_suit>
 
-<https://en.wikipedia.org/wiki/Wafer_%28electronics%29> <https://en.wikipedia.org/wiki/Czochralski_process>
-
 ## Physics
 
 Impedance: <https://en.wikipedia.org/wiki/Electrical_impedance> Extends resistance to AC.
 
-### Synthesis
+#### PLD
 
-### How to make actual chips
+<https://en.wikipedia.org/wiki/Programmable_logic_device>
 
-- <http://electronics.stackexchange.com/questions/37146/how-do-i-design-my-very-own-arm-based-processors> insanely good answer.
-- <http://electronics.stackexchange.com/questions/170346/how-is-vhdl-used>
-- <http://electronics.stackexchange.com/questions/28686/how-is-asic-design-different-from-fpga-hdl-synthesis>
-- <http://electronics.stackexchange.com/questions/7042/how-much-does-it-cost-to-have-a-custom-asic-made>
-
-Concepts:
-
-- <https://en.wikipedia.org/wiki/Standard_cell>
-
-FPGA is a simple way to run VHDL on hardware, but expensive, so one must make ASICs with them.
-
-There is no synthesis open source option.
+Reprogrammable devices, one of which are FPGAs.
 
 ## Voltage detector stick
 
@@ -73,17 +62,9 @@ Federal communications commission.
 
 <https://en.wikipedia.org/wiki/American_wire_gauge>
 
-## Arduino
+## Perfboard
 
-101 video: https://www.youtube.com/watch?v=5F054MNB1QI
-
-Minimal "Arduino" built from basic components (specially the micro controller) on a breadboard: <https://www.youtube.com/watch?v=sNIMCdVOHOM>
-
-Not possible to run Linux on it: http://arduino.stackexchange.com/questions/13/what-does-it-take-to-compile-linux-on-arduino-if-at-all-possible
-
-Emulation: http://arduino.stackexchange.com/questions/61/can-i-program-for-arduino-without-having-a-real-board
-
-Uses Java (for GUI?), compiles programs with `avr-gcc`.
+Quick tutorial: <https://www.youtube.com/watch?v=w0c3t0fJhXU>
 
 ## Chip series
 
@@ -135,14 +116,6 @@ Came after 7400.
 
 <https://en.wikipedia.org/wiki/Second_source>
 
-## Microchip benchmarks
-
-<https://en.wikipedia.org/wiki/Dhrystone>
-
-## ASIC
-
-<https://en.wikipedia.org/wiki/Application-specific_integrated_circuit>
-
 ## Accelerator
 
 Engineerguy How a Smartphone Knows Up from Down: <https://www.youtube.com/watch?v=KZVgKu6v808>
@@ -178,3 +151,52 @@ Tools:
 ## Date code
 
 <https://media.digikey.com/pdf/Other%20Related%20Documents/Panasonic%20Electric%20Works%20Other%20Doc/Relay_Date_Code.pdf>
+
+## Schematic
+
+Collin's Lab: Schematics <https://www.youtube.com/watch?v=9cps7Q_IrX0>
+
+Formats:
+
+- <https://en.wikipedia.org/wiki/EDIF>
+
+### Netlist
+
+TODO vs schematic?
+
+## PCB
+
+Collin’s Lab: PCB Milling <https://www.youtube.com/watch?v=Yvp9IfGyrXQ>
+
+Can be multi-layer.
+
+Chip on board:
+
+- <http://electronics.stackexchange.com/questions/9137/what-kind-of-components-are-black-blobs-on-a-pcb>
+- <http://electronicdesign.com/embedded/use-embedded-components-improve-pcb-performance-and-reduce-size>
+
+### Formats
+
+- .https://en.wikipedia<org/wiki/Gerber_format> `.gbr`. You can give this to BCP milling machines.
+`.brd`: TODO
+
+## SMD
+
+## Surface Mount Soldering
+
+<https://en.wikipedia.org/wiki/Surface-mount_technology> Vs through hole technology.
+
+Collin's Lab - Surface Mount Soldering <https://www.youtube.com/watch?v=QzoPxvIM2qE>
+
+## Capacitor
+
+- <http://electronics.stackexchange.com/questions/12533/when-to-use-capacitors>
+- <http://electronics.stackexchange.com/questions/4784/why-use-capacitors>
+
+## Chaos
+
+<https://en.wikipedia.org/wiki/Chua's_circuit>
+
+## Self checkout
+
+- <https://en.wikipedia.org/wiki/Self-checkout>

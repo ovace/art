@@ -40,6 +40,8 @@ Applied Science <https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw> Mater
 
 Royal Institute: <https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw>
 
+NurdRage: <https://www.youtube.com/user/NurdRage> Chemistry
+
 ### Mechanics
 
 <https://www.youtube.com/watch?v=wsz99y6JnpQ> Ave - Machinering and materials: 

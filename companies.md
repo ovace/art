@@ -44,12 +44,10 @@ Paid 750M to Carnegie Melon university on patent infringement case.
 
 - http://www.feralinteractive.com/en/
 
-## Arista
+## Acorn
 
-EOS <https://www.youtube.com/watch?v=1_0i4ycYl9U> Just a Linux distro, not a new OS...
+https://en.wikipedia.org/wiki/Acorn_Computers
 
-Proposes to be a more open switch OS: https://youtu.be/1_0i4ycYl9U?t=263
+Dead.
 
-Some kernel patches / bug reports. Most by fruggeri.
-
-Cisco usa um OS closed source: https://en.wikipedia.org/wiki/Cisco_IOS
+British Apple.

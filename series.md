@@ -16,7 +16,6 @@
 - <https://en.wikipedia.org/wiki/Culloden_%28film%29>
 - <https://en.wikipedia.org/wiki/Up_Series>
 - <https://en.wikipedia.org/wiki/The_Jewel_in_the_Crown_%28TV_series%29>
-- <https://en.wikipedia.org/wiki/The_World_at_War>
 - <https://en.wikipedia.org/wiki/Yes_Minister>
 
 | Title           | Year | Note | Hours | Short description                                                                   |

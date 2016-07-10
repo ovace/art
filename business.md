@@ -157,6 +157,8 @@ Business, finance, marketing.
 
 -   <http://en.wikipedia.org/wiki/Minimum_viable_product>
 
+-   <https://en.wikipedia.org/wiki/Magic_Quadrant>. Some companies show it on their stock documents, e.g. <http://s2.q4cdn.com/209832288/files/doc_downloads/2016-Highlights-Q1.pdf>
+
 ## Finance
 
 -   <http://en.wikipedia.org/wiki/Legal_tender> Stuff that can be used to pay, in special money.
@@ -170,6 +172,8 @@ Business, finance, marketing.
 -   <https://en.wikipedia.org/wiki/Bank_run>
 
 -   <https://en.wikipedia.org/wiki/Panic_of_1857>
+
+-   Safe harbor: <http://www.investopedia.com/terms/s/safeharbor.asp>
 
 ### Future
 
@@ -238,6 +242,10 @@ The main reason of existence is increasing the liquidity of stocks.
 -   <https://en.wikipedia.org/wiki/Stock_split>: increase number of shares by splitting them up
 
 -   <https://en.wikipedia.org/wiki/Activist_shareholder>
+
+-   Restricted stock units <https://en.wikipedia.org/wiki/Restricted_stock>
+
+    A stock that you only get if certain conditions are met, e.g. staying for long enough on an enterprise.
 
 ### Opening times
 

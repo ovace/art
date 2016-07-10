@@ -264,7 +264,6 @@ She apologized for her husband, but the assistant took my mother's side, said th
 
 I bet he did stop after this time.
 
-
 ## 2016-04-25 Xiaoxiao and Fang sheng eat with us
 
 Xiaoxiao is pregnant, and getting sick easily.

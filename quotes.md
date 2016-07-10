@@ -1,5 +1,9 @@
 # Quotes
 
+Live as if you were to die tomorrow. Learn as if you were to live forever. -- Gandhi.
+
+A dictatorship is like a snake. If you put your foot on its tail as you do it, it will just bite you and no body will be helped. You have to strike the head. -- World at war, 1973, ep. 16.
+
 Sell a man a fish, he eats for a day, teach a man how to fish, you ruin a wonderful business opportunity. http://stackoverflow.com/users/76722/phresnel attributes it to Karl Marx.
 
 The death of one man is a tragedy, the death of millions is a statistic.

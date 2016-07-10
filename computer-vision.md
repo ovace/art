@@ -13,28 +13,42 @@ Image processing:
 
     - 2014 Pie Dew demo <https://www.youtube.com/watch?v=PT5jlpykeLc>
 
-## Facial recognition
+## Reverse image search
+
+### Facial recognition
 
 <http://www.theatlantic.com/technology/archive/2015/07/how-good-facial-recognition-technology-government-regulation/397289/>
 
-How accurate is it?
+- https://www.quora.com/Is-there-a-way-to-search-a-persons-face-on-the-Internet
+- http://arstechnica.com/tech-policy/2016/04/facial-recognition-service-becomes-a-weapon-against-russian-porn-actresses/
+- imagine one day, walking on the street with your AR, and seeing the name and job of everyone whose face you look at
+- https://en.wikipedia.org/wiki/Facial_recognition_system
+- <https://en.wikipedia.org/wiki/Viewdle> bought by Google
+- good results
+    - <http://www.pictriev.com/>, not very good results
+    - <http://www.tineye.com/>
 
-<http://www.pbs.org/wgbh/nova/next/tech/the-limits-of-facial-recognition/>>
+#### How accurate is it?
 
-## Reverse image search
+<http://www.pbs.org/wgbh/nova/next/tech/the-limits-of-facial-recognition/>
 
-- https://images.google.com/
-- facial
-    - https://www.quora.com/Is-there-a-way-to-search-a-persons-face-on-the-Internet
-    - http://arstechnica.com/tech-policy/2016/04/facial-recognition-service-becomes-a-weapon-against-russian-porn-actresses/
-    - imagine one day, walking on the street with your AR, and seeing the name and job of everyone whose face you look at
-    - https://en.wikipedia.org/wiki/Facial_recognition_system
-    - <https://en.wikipedia.org/wiki/Viewdle> bought by Google
-    - good results
-        - <http://www.pictriev.com/>, not very good results
-        - <http://www.tineye.com/>
+#### Tools
 
-### Facebook facial recognition
+Free:
+
+- <http://softwarerecs.stackexchange.com/questions/1988/floss-tools-for-facial-recognition>
+- <http://superuser.com/questions/420885/is-there-a-face-recognition-command-line-tool>
+- <https://github.com/wavexx/facedetect>
+
+#### Clustering faces that belong to the same person
+
+Before humans annotate the photos, make groups of photos that belong to the same person.
+
+Legality of collecting faces: <https://www.linkedin.com/pulse/20140528174455-7633218-do-you-legally-own-your-face>
+
+Face databases: <http://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html#face-database>
+
+#### Facebook facial recognition
 
 - Facebook specific:
     - <https://www.quora.com/Is-there-a-reverse-Image-search-engine-for-Facebook> None.
@@ -59,3 +73,7 @@ Google Glass discouraged facial recognition apps: <http://www.cnet.com/news/goog
 ## Plate number tracking
 
 - <https://upload.wikimedia.org/wikipedia/commons/1/1a/LPR_Process.JPG>
+
+## Image processing
+
+<http://askubuntu.com/questions/638382/how-can-i-turn-photos-of-paper-documents-into-a-scanned-document/638406>

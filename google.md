@@ -95,7 +95,6 @@ Utilities / widgets:
 - some latitude longitude pairs show a map: <https://www.google.com/search?client=ubuntu&channel=fs&q=2.3725335+48.8538185&ie=utf-8&oe=utf-8> but not all. TODO which? But you can always enter those in map queries.
 - add to calendar given day: <https://www.google.com/search?client=ubuntu&channel=fs&q=add+to+calendar+next+friday&ie=utf-8&oe=utf-8>
 
-
 YouTube:
 
 - <https://www.youtube.com/results?search_query=Beam+me+up+scotty>
@@ -103,11 +102,24 @@ YouTube:
 - <https://www.youtube.com/results?search_query=doge+meme>
 - YouTube's Snakey
 
+### Search algorithms
+
+Speculation on factors: <http://backlinko.com/google-ranking-factors>
+
+<https://en.wikipedia.org/wiki/RankBrain#cite_note-4>
+
 ### Search operators
 
 <https://support.google.com/websearch/answer/2466433?hl=en>: official docs
 
 - `filetype:pdf`
+
+Is porn rank reduced, official answer 2011 <https://www.youtube.com/watch?v=Dn87YqI73mY> No.
+
+Search result manipulations:
+
+- <https://en.wikipedia.org/wiki/Censorship_by_Google>
+- SafeSearch
 
 ## Blogger
 
@@ -196,6 +208,7 @@ Sort by name: <http://webapps.stackexchange.com/questions/84965/how-to-sort-by-n
 
 - <https://security.googleblog.com/>
 - <http://google-opensource.blogspot.com>
+- <http://security.stackexchange.com/questions/32367/what-is-the-difference-between-https-google-com-and-https-encrypted-google-c>
 
 ## Chrome
 
@@ -281,3 +294,23 @@ https://www.google.com/humans.txt
 <https://support.google.com/vault/answer/2473458>
 
 <https://cse.google.com/cse/all>
+
+## reCAPTCHA
+
+<https://en.wikipedia.org/wiki/ReCAPTCHA>
+
+<https://www.google.com/recaptcha/intro/index.html>
+
+Bought in 2009 <https://www.crunchbase.com/organization/recaptcha#/entity> Created at Carnegie Mellon.
+
+Google 2006 talk before selling out: <https://www.youtube.com/watch?v=tx082gDwGcM>
+
+Luis von Ahn co-founder TED 201X talk: <https://www.youtube.com/watch?v=-Ht4qiDRZE8> They also started Duolingo!
+
+## Partners
+
+- <https://www.google.com/partners>
+
+## Backle
+
+<http://www.blackle.com/about/>

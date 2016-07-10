@@ -12,6 +12,8 @@ Politics, advertisement, law.
 
     - <https://en.wikipedia.org/wiki/Liberland>
     - <http://en.wikipedia.org/wiki/Niue>
+    - Wendoverproductions listing other interesting cases: <https://www.youtube.com/watch?v=bg2VZIPfX0U>
+    - <https://en.wikipedia.org/wiki/Principality_of_Sealand> <https://en.wikipedia.org/wiki/HavenCo>
 
 -   <http://en.wikipedia.org/wiki/United_States_embargoes>
 
@@ -30,6 +32,7 @@ Politics, advertisement, law.
     Specially important because the big decision makers don't have much time, so your proposal must be flawless when it reaches them.
 
 -   <http://en.wikipedia.org/wiki/Blue_law>
+
     <http://en.wikipedia.org/wiki/Blue_laws_in_the_United_States>
 
 -   <https://en.wikipedia.org/wiki/Astroturfing>

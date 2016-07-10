@@ -4,6 +4,28 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wiktionary.org/wiki/eleventh_hour> Actually refers to eleventh hour in the morning, for unemployed man that were employed by day!
+
+-   <https://en.wikipedia.org/wiki/Line_management>
+
+-   <http://www.urbandictionary.com/define.php?term=make%20it%20rain>
+
+-   <https://en.wikipedia.org/wiki/Development_hell>
+
+-   <https://en.wikipedia.org/wiki/Comfort_food>
+
+-   <http://www.urbandictionary.com/define.php?term=lounging>
+
+-   <http://www.urbandictionary.com/define.php?term=New%20York%20Minute>
+
+-   <http://www.urbandictionary.com/define.php?term=drink%20spiking>
+
+-   <http://www.urbandictionary.com/define.php?term=golf%20clap>
+
+-   <http://www.urbandictionary.com/define.php?term=sext>
+
+-   <https://en.wikipedia.org/wiki/Cenotaph>
+
 -   <http://www.urbandictionary.com/define.php?term=ringer>
 
 -   <https://en.wikipedia.org/wiki/Ebb_and_flow>
@@ -253,6 +275,8 @@ Stuff that happens across languages:
 -   <http://en.wikipedia.org/wiki/Minced_oath>
 
 -   Rationale for English bad bijection between speech and writing: it makes reading easier by removing ambiguities, a little like Chinese: <https://youtu.be/GiVs05yq9-o?t=311>
+
+-   <https://en.wikipedia.org/wiki/List_of_English_words_of_Portuguese_origin> Portuguese origin, "breeze" is! Likely linked to a navigational term that degraded into a more general sense.
 
 ## Memes
 

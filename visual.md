@@ -22,6 +22,10 @@ Painting, sculpture, dance.
 
     <http://en.wikipedia.org/wiki/Barberpole_illusion>
 
+-   Cyriak interview: <https://youtu.be/N3NhV7QtoyI?t=418>
+
+    Animals are weird, like deformed humans.
+
 ## Performance
 
 -   <https://en.wikipedia.org/wiki/Poi_%28performance_art%29>

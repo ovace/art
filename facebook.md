@@ -53,6 +53,8 @@ The form seems to be accepted automatically / easily however?
 
 Using the mobile site is a much easier to scrape: <https://m.facebook.com> HTML way simpler, and has pagination instead of AJAX bottom of page loading.
 
+Dump friend's pictures: <https://github.com/sahildua2305/fb-profile-picture-dump>
+
 ### Tools
 
 <https://github.com/hikaruAi/FacebookBot>

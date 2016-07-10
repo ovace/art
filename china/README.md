@@ -164,7 +164,15 @@ Funny things about how Westerners have perceived and imagined China, specially i
 
 - [Fu Manchu](http://en.wikipedia.org/wiki/Fu_Manchu)
 
+## Astrology
+
+Sky divided into 28 parts: <https://en.wikipedia.org/wiki/Twenty-Eight_Mansions>
+
 ## Korea
+
+-   <https://en.wikipedia.org/wiki/Miracle_on_the_Han_River>
+
+-   <https://en.wikipedia.org/wiki/Samsung> Name means Three Stars, which is a Chinese constellation corresponding to the belt of Orion. <https://en.wikipedia.org/wiki/Three_Stars_(Chinese_constellation)>
 
 ## Books
 

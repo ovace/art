@@ -2,6 +2,8 @@
 
 -   <https://en.wikipedia.org/wiki/Product_placement>
 
+    YouTube has a dedicated metadata for it: <https://support.google.com/youtube/answer/154235?hl=en>
+
 -   <https://en.wikipedia.org/wiki/Got_Milk%3F>
 
     <https://www.youtube.com/watch?v=IJHxsAhjKAA&index=4&list=RDOLSsswr6z9Y>

@@ -18,6 +18,8 @@ Ranking / search / recommendation algorithms:
 
     <http://www.evanmiller.org/statistical-formulas-for-programmers.html>
 
+-   Stack Overflow hot: http://meta.stackoverflow.com/a/324428/895245
+
 -   TODO: Sort search results which have some sort of rating, e.g. GitHub "best match" search for repositories, which have stars.
 
 -   TODO: Sort search results with multiple fields of different importance. E.g.: title and summary.

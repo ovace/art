@@ -159,6 +159,16 @@ Animals, plants, biology, evolution, genetics, diseases.
 
 -   <https://www.youtube.com/watch?v=D2SoGHFM18I>. Fox jumping into snow head first to catch rat.
 
+## Plants
+
+-   baobab
+
+    <https://www.youtube.com/watch?v=yhL00xqj1ek> In some regions of Madagascar, they use it to store water!
+
+    The trunk is very humid, like a sponge: <https://youtu.be/yhL00xqj1ek?t=558>
+
+    It seems to survive, and keep the water good for a long time.
+
 ## Gear
 
 Fly supplies:

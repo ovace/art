@@ -1,5 +1,29 @@
 # Law
 
+-   sale / contract discrimination:
+
+    -   race, color, religion or national origin on all states
+    -   can you sell things for different prices to different people? <https://en.wikipedia.org/wiki/Price_discrimination>
+    -   can you refuse to rent a house to someone?
+    -   <https://www.legalzoom.com/articles/the-right-to-refuse-service-can-a-business-refuse-service-to-someone-because-of-appearance>
+    -   <https://www.legalzoom.com/articles/the-right-to-refuse-service-can-a-business-refuse-service-to-someone-because-of-appearance>
+        - only certain things are protected against. Sexual orientation varies with state.
+        - California has a law against unconventional dress discrimination! :-)
+    -   No Shirt, No Shoes, No Service
+    -   TODO political orientation?
+    -   tatoos? <http://blogs.findlaw.com/free_enterprise/2013/08/legal-to-refuse-service-over-tattoos.html>
+
+-   civil vs criminal law: <http://study.com/academy/lesson/criminal-law-vs-civil-law-definitions-and-differences.html>
+
+    - criminal: state prosecutes, can go to jail, the state has burden to prove
+    - civil: private parties prosecute, cannot go to jail, defendant may sometimes have burden to disprove or 
+
+    Not exclusive: two cases can happen for a single event!
+
+-   <https://www.quora.com/Is-it-illegal-to-lie>
+
+    TODO are fake reviews lies? What about well known people saying things in advertisements?
+
 -   <https://en.wikipedia.org/wiki/Zoophilia_and_the_law>
 
     - <https://en.wikipedia.org/wiki/Zoophilia_and_the_law_in_the_United_States>
@@ -63,3 +87,7 @@
 ## Funny laws
 
 -   <http://www.omgfacts.com/news/8821/It-s-illegal-to-die-in-the-Houses-of-Parliament>
+
+## Web
+
+-   <https://en.wikipedia.org/wiki/PhoneDog_v._Kravitz>

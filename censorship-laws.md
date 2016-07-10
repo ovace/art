@@ -40,3 +40,9 @@ TODO: is it legal to describe how to make weapons? In particular, 3D printer des
 <https://en.wikipedia.org/wiki/Defamation>
 
 Interesting that there are laws for that. Who would believe someone who defames others?
+
+## Illegal numbers
+
+Encode any kind of illegal content:
+
+- DVD encryption anti-piracy private key factor: <https://youtu.be/LnEyjwdoj7g?t=236>
