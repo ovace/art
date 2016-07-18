@@ -137,3 +137,7 @@ May require cell phone for less known email providers.
 <https://www.theguardian.com/technology/2015/mar/16/facebook-policy-nudity-hate-speech-standards>
 
 No hard porn, hate speech, terrorism and crime.
+
+## Successor policy
+
+Before, Zuck could appoint his successor as well! <http://finance.yahoo.com/news/mark-zuckerberg-annual-meeting-facebook-succession-class-c-supervoting-google-211019695.html#>

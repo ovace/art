@@ -240,3 +240,9 @@ Fly supplies:
 ## Health
 
 -   <https://en.wikipedia.org/wiki/Miasma_theory>
+
+## Simulation
+
+- <https://neurokernel.github.io/>
+- <http://www.openworm.org/>
+

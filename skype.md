@@ -19,3 +19,10 @@ Nope?? OMG!!
 
 - Android by me <https://community.skype.com/t5/Android/Removing-Birthday-Notifications-on-Android-Mobile-App/m-p/4404614>
 - iPhone <https://community.skype.com/t5/iOS-iPhone-and-iPad/Removing-Birthday-Notifications-on-iPhone-Mobile-App/td-p/1542753>
+
+## Magic commands
+
+https://support.skype.com/en/faq/FA10042/what-are-chat-commands-and-roles
+
+    /help
+    /alertsoff

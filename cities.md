@@ -10,13 +10,23 @@ No DSS, very common in apartment announcements: <https://uk.answers.yahoo.com/qu
 
 From Luton Airport:
 
-- http://coach.nationalexpress.com/nxbooking/journey-list departs every 2 hours, takes 1h40, costs 18 pounds.
+- bus http://coach.nationalexpress.com/nxbooking/journey-list departs every 2 hours, takes 1h40, costs 18 pounds.
 - train: takes 1h40, costs 38 pounds
 - https://en.wikipedia.org/wiki/Silicon_Fen started with Acorn
     - Apple (PinDrop acquisition) and Microsoft have presence there
     - HP Autonomy (acquisition 7 bi)
     - Amazon is testing drone delivery there,
+    - https://www.quora.com/Is-Alphabet-Google-opening-an-office-in-Cambridge-in-the-UK
 
+Driving lessons: 28p / hour.
+
+Car hire: 23p / hour.
+
+Matress, furniture:
+
+- http://www.dfs.co.uk looks cheap, and has everything
+
+Enterprises:
 
 ### London
 

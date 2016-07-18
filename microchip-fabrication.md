@@ -94,3 +94,7 @@ Made development during 2 weeks that other people had a mandatory vacation, but 
 ## Small scale
 
 - <https://www.mosis.com/what-is-mosis> <https://hernan.de/blog/2015/06/16/vlsi-final-project/> multi-project wafer
+
+## Easter eggs
+
+- <http://designtaxi.com/news/34315/Hidden-Art-Warning-Message-Found-Lurking-in-Samsung-Galaxy-Tab/faq/>

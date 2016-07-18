@@ -4,6 +4,14 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Crown_copyright>
+
+-   <https://en.wikipedia.org/wiki/Park_and_ride>
+
+-   <http://www.zoopla.co.uk/askme/details/general/london/68329#G0dw7rQMFzuA5Mzf.97> So why show "Let agreed" properties on website?? They're gone already!?
+
+-   <https://en.wikipedia.org/wiki/Goatee>
+
 -   <https://en.wiktionary.org/wiki/eleventh_hour> Actually refers to eleventh hour in the morning, for unemployed man that were employed by day!
 
 -   <https://en.wikipedia.org/wiki/Line_management>

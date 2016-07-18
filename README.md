@@ -46,6 +46,7 @@ If you think something belongs on a list, PR. Because of the subjective nature o
         1. [Open source hardware](open-source-hardware.md)
         1. [Microelectronics](microelectronics.md)
         1. [Microchip fabrication](microchip-fabrication.md)
+        1. [Microchip reverse engineering](microchip-reverse-engineering.md)
         1. [FPGA](fpga.md)
     1.  [Aeronautical](aeronautical.md)
     1.  [History of electronics](history-electronics.md)

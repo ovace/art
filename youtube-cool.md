@@ -99,3 +99,7 @@ ProJared https://www.youtube.com/user/DMJared
 ## Asia
 
 - <https://www.youtube.com/channel/UCVmz3n15U7S52xShN8NCzsw>
+
+## Comedy
+
+College humour <https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g>

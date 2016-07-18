@@ -2,6 +2,8 @@
 
 History, anthropology.
 
+-   salt started being used after we moved from animal diet to vegetables with agriculture. <https://youtu.be/yzBIarGJjHk?t=132>
+
 -   <https://en.wikipedia.org/wiki/Albert_Einstein's_brain>
 
 -   <https://en.wikipedia.org/wiki/Before_Present>.
