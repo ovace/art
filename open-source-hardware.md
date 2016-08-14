@@ -99,10 +99,6 @@ Scala based.
 
 David Patterson, chip research superstar, 2015 <https://www.youtube.com/watch?v=mD-njD2QKN0>
 
-## Open source hardware
-
-<https://en.wikipedia.org/wiki/Open_Compute_Project> server hardware, by Facebook and others joined, but not Google. Update: Google joined later in 2016.
-
 ## OpenPower
 
 ## POWER9
@@ -115,10 +111,14 @@ More open-ish, but not truly open design.
 
 Google announces interest in it from time to time: https://www.reddit.com/r/programming/comments/4dncvw/google_and_rackspace_codevelop_open_server/
 
-## Telecom
+## Projects
 
 - <https://en.wikipedia.org/wiki/RONJA>
 
 ## Organizations
 
-- <http://fossi-foundation.org/>
+<http://fossi-foundation.org/>
+
+<https://en.wikipedia.org/wiki/Open_Compute_Project> server hardware, by Facebook and others joined, but not Google. Update: Google joined later in 2016.
+
+<http://www.optimsoc.org/>

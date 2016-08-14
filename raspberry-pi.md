@@ -97,3 +97,31 @@ TODO: there is a single image released for all RPIs?
 Boots, but nothing serious works properly?
 
 - <https://www.youtube.com/watch?v=aSgQDhM84Ko>
+
+## Clones
+
+Hard to make, as Broadcom has a deal with RPI Foundation for the SoC, and the RPIF does not release directly manufacturable schematics:
+
+<https://www.reddit.com/r/raspberry_pi/comments/3z86lb/why_are_there_no_raspberry_pi_clones/>
+
+This is in contrast to the Arduino, which can be built off the shelf.
+
+## Getting started
+
+You need more than a Bare PI to get started, at least a power supply, but other things will make it much more fun to play with.
+
+### Reuse your displays
+
+The display is the most expensive part, so it would be great to find an alternative for it:
+
+- <http://raspberrypi.stackexchange.com/questions/848/connect-pi-to-an-old-laptop-screen/849>
+- <https://www.raspberrypi.org/blog/use-your-desktop-or-laptop-screen-and-keyboard-with-your-pi/>
+- <http://raspberrypi.stackexchange.com/questions/14611/how-to-set-up-raspberry-pi-without-a-monitor>
+
+## Alternatives
+
+Be warned, Google trends shows how all alternatives are infinitely less popular than the RPI, so expect less support as well: <https://www.google.com/trends/explore?date=all&q=ODROID,banana%20pi,orange%20pi,raspberry%20pi>
+
+- Orange Pi. <http://liliputing.com/2016/01/orange-pi-one-is-a-tiny-quad-core-pc-for-10-plus-4-shipping.html> By Allwinner, who also makes the SoC (Chinese) Mali GPUs. Buildroot 2016.05 support.
+- ODROID. By Hardkernel Co (Korea). Looks like Broadcom stopped selling them SoCs? Now using Exynos (Samsung) and Amlogic (USA). Mali GPUs. Buildroot 2016.05 support.
+- Banana Pi. Allwinner SoC. By <http://www.lemaker.org/> (China) <http://www.bananapi.org/> Mali GPU.

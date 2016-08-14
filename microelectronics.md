@@ -22,8 +22,6 @@
 
 ## Integrated circuit
 
-<https://en.wikipedia.org/wiki/GDSII> IC description format. TODO if I send it to a fab, will they print it?
-
 <https://en.wikipedia.org/wiki/Integrated_circuit_layout>
 
 <https://en.wikipedia.org/wiki/Application-specific_integrated_circuit>
@@ -55,10 +53,6 @@ Design of the mask: <https://youtu.be/z47Gv2cdFtA?t=443>
 - <http://electronics.stackexchange.com/questions/37146/how-do-i-design-my-very-own-arm-based-processors> insanely good answer.
 - <http://electronics.stackexchange.com/questions/170346/how-is-vhdl-used>
 - <http://electronics.stackexchange.com/questions/7042/how-much-does-it-cost-to-have-a-custom-asic-made>
-
-Concepts:
-
-- <https://en.wikipedia.org/wiki/Standard_cell>
 
 FPGA is a simple way to run VHDL on hardware, but expensive, so one must make ASICs with them.
 

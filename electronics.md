@@ -20,12 +20,6 @@ Basic components of an electronics lab: https://www.youtube.com/watch?v=R_PbjbRa
 
 Impedance: <https://en.wikipedia.org/wiki/Electrical_impedance> Extends resistance to AC.
 
-#### PLD
-
-<https://en.wikipedia.org/wiki/Programmable_logic_device>
-
-Reprogrammable devices, one of which are FPGAs.
-
 ## Voltage detector stick
 
 Example on home: <https://www.youtube.com/watch?v=306neu3iDyM>
@@ -163,22 +157,6 @@ Formats:
 ### Netlist
 
 TODO vs schematic?
-
-## PCB
-
-Collin’s Lab: PCB Milling <https://www.youtube.com/watch?v=Yvp9IfGyrXQ>
-
-Can be multi-layer.
-
-Chip on board:
-
-- <http://electronics.stackexchange.com/questions/9137/what-kind-of-components-are-black-blobs-on-a-pcb>
-- <http://electronicdesign.com/embedded/use-embedded-components-improve-pcb-performance-and-reduce-size>
-
-### Formats
-
-- .https://en.wikipedia<org/wiki/Gerber_format> `.gbr`. You can give this to BCP milling machines.
-`.brd`: TODO
 
 ## SMD
 

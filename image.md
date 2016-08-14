@@ -7,6 +7,7 @@
 ## Cartoons
 
 -   <https://upload.wikimedia.org/wikipedia/commons/3/36/Wall_Street_bubbles_-_Always_the_same_-_Keppler_1901.jpg>
+-   <https://upload.wikimedia.org/wikipedia/commons/a/a2/The_Drunkard%27s_Progress_-_Color.jpg>
 
 ## Early picture
 

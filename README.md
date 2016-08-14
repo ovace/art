@@ -38,16 +38,21 @@ If you think something belongs on a list, PR. Because of the subjective nature o
     1.  [Arista](arista.md)
     1.  [Broadcom](broadcom.md)
     1.  [ARM](arm.md)
+    1.  [Qualcomm](qualcomm.md)
     1.  China
         1. [Alibaba](alibaba.md)
         1. [Tencent](tencent.md)
+    1.  Japan
+        1. [SoftBank](softbank.md)
 1.  Engineering
     1.  [Electronics](electronics.md)
+        1. [PCB](pcb.md)
         1. [Open source hardware](open-source-hardware.md)
         1. [Microelectronics](microelectronics.md)
         1. [Microchip fabrication](microchip-fabrication.md)
         1. [Microchip reverse engineering](microchip-reverse-engineering.md)
         1. [FPGA](fpga.md)
+        1. [Computer memory](computer-memory.md)
     1.  [Aeronautical](aeronautical.md)
     1.  [History of electronics](history-electronics.md)
 1.  [Applied math](applied-math.md)

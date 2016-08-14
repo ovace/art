@@ -6,6 +6,10 @@ Largest airports: <https://www.world-airport-codes.com/uk-top-20-airports.html>
 
 No DSS, very common in apartment announcements: <https://uk.answers.yahoo.com/question/index?qid=20070508081038AAzWmVf>
 
+Online piracy enforcement:
+
+- https://en.wikipedia.org/wiki/File_sharing_in_the_United_Kingdom
+
 ### Cambridge
 
 From Luton Airport:
@@ -27,6 +31,8 @@ Matress, furniture:
 - http://www.dfs.co.uk looks cheap, and has everything
 
 Enterprises:
+
+- http://www.camclustermap.com/
 
 ### London
 

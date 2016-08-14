@@ -101,3 +101,13 @@ A bit exaggerated like most series, but did teach me a few things about politics
 
 - season 1: Compaq-like IBM PC cloning. Note: 8.
 - season 2: beginnings of internet, AOL like company + later on PC becomes cheap on the guy (Dell-like) Note: 7: too much emphasis on medical / personal problems vs enterprise compared to first one, thus worse.
+
+## Futurama
+
+Good episodes;
+
+- The Problem With Popplers
+
+Meh:
+
+- The Late Philip J. Fry

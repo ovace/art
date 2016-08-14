@@ -25,3 +25,13 @@ Generated from VHDL by vendor tools. TODO: automatically or further human interv
 Besides VHDL simulations, FPGA vendors also offer simulation of their hardware, closer to the actual implementation: <http://www.lowrisc.org/docs/untether-v0.2/fpga-sim/>
 
 <http://electronics.stackexchange.com/questions/57220/simulating-fpga-design-without-having-the-actual-hardware>
+
+## PLD
+
+<https://en.wikipedia.org/wiki/Programmable_logic_device>
+
+Reprogrammable devices, one of which are FPGAs.
+
+## Synthesis
+
+<https://github.com/cseed/arachne-pnr>
