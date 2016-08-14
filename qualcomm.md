@@ -20,6 +20,12 @@ Bought from AMD's Handset Division, which was not doing well, which was bought f
 - <https://www.quora.com/What-is-the-difference-between-mali-and-adreno-GPU-in-Android>
 - <https://www.quora.com/Which-mobile-GPU-is-best-PowerVR-Adreno-Mali-or-Vivante-How-do-they-compare-to-each-other-in-terms-of-performance-power-consumption-area>
 
+### Open source driver
+
+Reversed:
+
+<https://github.com/freedreno/freedreno>
+
 ### Team
 
 - 2012 - 2016 Kevin Hawkins https://www.linkedin.com/in/kevindhawkins CEO of gamedev.net
