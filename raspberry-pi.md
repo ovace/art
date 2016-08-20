@@ -19,6 +19,10 @@ In 2014, Broadcom gave the source for the GPU driver, a rare move for similar so
 - <https://www.raspberrypi.org/blog/a-birthday-present-from-broadcom/>
 - <https://www.raspberrypi.org/blog/open-source-arm-userspace/>
 
+#### Mesa
+
+TODO for some reason only implemented in 2016? Why if driver was available earlier?
+
 ## Compute module
 
 element14 Raspberry Pi Compute Module Showcase <https://www.youtube.com/watch?v=k0L-pmf5mVg>
@@ -125,3 +129,23 @@ Be warned, Google trends shows how all alternatives are infinitely less popular 
 - Orange Pi. <http://liliputing.com/2016/01/orange-pi-one-is-a-tiny-quad-core-pc-for-10-plus-4-shipping.html> By Allwinner, who also makes the SoC (Chinese) Mali GPUs. Buildroot 2016.05 support.
 - ODROID. By Hardkernel Co (Korea). Looks like Broadcom stopped selling them SoCs? Now using Exynos (Samsung) and Amlogic (USA). Mali GPUs. Buildroot 2016.05 support.
 - Banana Pi. Allwinner SoC. By <http://www.lemaker.org/> (China) <http://www.bananapi.org/> Mali GPU.
+
+## Shocked by RPI
+
+Can't feel 5V: <http://raspberrypi.stackexchange.com/questions/167/is-it-possible-to-receive-an-electric-shock-by-touching-a-raspberry-pi-while-it> Not even 12V it seems unless you lick it.
+
+## Power supply
+
+Micro USB or GPIO. Don't use both. <http://raspberrypi.stackexchange.com/questions/7830/powering-the-raspberry-pi-from-usb-microusb-is-it-safe>
+
+## Use without Micro SD
+
+At some point network boot might get enabled.
+
+## SIM card
+
+- <http://arstechnica.com/information-technology/2013/08/raspberry-pi-and-arduino-to-get-cellular-access-with-sim-card-add-on/>
+
+## History
+
+<https://en.wikipedia.org/wiki/Premier_Farnell> started making RPIs in the UK. Before it was done in China. Swiss Datwyler bid to buy. Avnet bid higher: <http://fortune.com/2016/08/18/daetwyler-bid-premier-farnell/>
