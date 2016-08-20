@@ -358,12 +358,55 @@ Note: 8
 
 Seen: 2016/04
 
+### Moon 2009
+
+Note: 7
+
+Seen: 2016/08
+
+### Harry potter 5
+
+Note: 6
+
+Seen: 2016/08
+
+### Harry potter 6
+
+Note: 6
+
+Seen: 2016/08
+
+### Harry potter 7
+
+Note: 5
+
+Seen: 2016/08
+
+Cliche. Simplistic. Long boring scenes of wilderness.
+
+### Primer 2004
+
+Note: 8
+
+Seen: 2016/08
+
+### Let me go on 2010
+
+Note: 8
+
+Seen: 2016/08
+
+Great acting. Point of interest: this would be a boring love story, f it weren't for the fact that they will all soon die. The mundane aspect makes it all more troubling.
+
+Based on a novel a Japanese dude. I'm not surprised!
+
 ## TODO
 
 Sure:
 
 - <https://en.wikipedia.org/wiki/Raise_the_Red_Lantern>
 - <https://en.wikipedia.org/wiki/Dersu_Uzala_%281975_film%29>
+- THX 1138
 
 Maybe:
 

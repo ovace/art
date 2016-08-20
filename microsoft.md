@@ -28,3 +28,7 @@ Nice resume of bad things they've done by an European study: <http://www.ecis.eu
 ## POSIX compatibility
 
 http://arstechnica.com/information-technology/2016/04/why-microsoft-needed-to-make-windows-run-linux-software/
+
+## PowerPoint
+
+Like all products with "excessively catchy" names, it was bought from another company: <https://en.wikipedia.org/wiki/Microsoft_PowerPoint>

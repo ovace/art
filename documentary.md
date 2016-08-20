@@ -76,3 +76,9 @@ Note: 9.
 Last seen: 2016-05
 
 - <https://en.wikipedia.org/wiki/The_World_at_War>
+
+## Something Ventured 2011
+
+Note: 7
+
+Good new viewpoint on some things I knew, and others didn't.
