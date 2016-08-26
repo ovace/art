@@ -149,3 +149,11 @@ At some point network boot might get enabled.
 ## History
 
 <https://en.wikipedia.org/wiki/Premier_Farnell> started making RPIs in the UK. Before it was done in China. Swiss Datwyler bid to buy. Avnet bid higher: <http://fortune.com/2016/08/18/daetwyler-bid-premier-farnell/>
+
+## Power consumption
+
+- <http://raspberrypi.stackexchange.com/questions/43285/raspberry-pi-3-vs-pi-2-power-consumption-and-heat-dissipation>
+
+## OpenGL
+
+- Maynard Raspberry Pi <https://www.youtube.com/watch?v=QQfMGlmfbjA>
