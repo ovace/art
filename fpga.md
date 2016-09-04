@@ -4,6 +4,8 @@
 
 There are two major vendors as of 2016: Xilinx and Altera.
 
+Third one: Lattice Semiconductor, maker of ICE, which has had the bitstream reversed by the Project IceStorm.
+
 ## .bit file
 
 ## Bitstream file
@@ -31,6 +33,14 @@ Besides VHDL simulations, FPGA vendors also offer simulation of their hardware, 
 <https://en.wikipedia.org/wiki/Programmable_logic_device>
 
 Reprogrammable devices, one of which are FPGAs.
+
+#### SPLD
+
+https://en.wikipedia.org/wiki/Simple_programmable_logic_device
+
+#### CPLD
+
+https://en.wikipedia.org/wiki/Complex_programmable_logic_device
 
 ## Synthesis
 

@@ -9,3 +9,7 @@ Not possible to run Linux on it: http://arduino.stackexchange.com/questions/13/w
 Emulation: http://arduino.stackexchange.com/questions/61/can-i-program-for-arduino-without-having-a-real-board
 
 Uses Java (for GUI?), compiles programs with `avr-gcc`.
+
+## Vs raspberry pi
+
+Arduino uses a microcontroller. So basically comes down to Microcontroller vs Microprocessor.

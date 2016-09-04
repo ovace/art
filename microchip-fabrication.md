@@ -77,6 +77,10 @@ In order to make cheaper calculators, Japanese pioneered liquid crystal usage: <
 
 <https://www.quora.com/How-did-people-design-integrated-circuits-in-early-years>
 
+### 4004
+
+<http://spectrum.ieee.org/computing/hardware/the-surprising-story-of-the-first-microprocessors>
+
 ### Jack Kilby
 
 At Texas instruments, made some big step in 58. TODO what exactly. He went for germanium. Noyce went for Silicon and scored. Apparently independent.

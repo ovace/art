@@ -44,6 +44,14 @@ Best scenes:
 
 Note: 7
 
+## Nerds 2.0.1: A Brief History of the Internet
+
+<https://en.wikipedia.org/wiki/Nerds_2.0.1>
+
+<https://www.youtube.com/watch?v=16GJpLE2GlQ>
+
+Beauty of the pre-dot com bubble.
+
 ## Citizenfour 2014
 
 Note: 6

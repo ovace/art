@@ -20,7 +20,7 @@ Communication:
 
 -   <https://en.wikipedia.org/wiki/NetEase> Also offers email, top Chinese email on GitHub.
 
--   <https://en.wikipedia.org/wiki/Douban>
+-   <https://en.wikipedia.org/wiki/Douban>. Need cell phone to login. Even if you use a third party service like Weibo, you still need it.
 
 -   <https://en.wikipedia.org/wiki/Plurk>
 
@@ -65,4 +65,3 @@ Email domains: <http://www.quora.com/Who-are-the-top-5-email-providers-in-China>
     TODO recruiting of some kind? "bole" is "talent finder"
 
 -   https://github.com/lifesinger/lifesinger.github.com/issues Why so many followers?
-

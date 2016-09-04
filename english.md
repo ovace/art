@@ -4,6 +4,8 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Imprimatur>
+
 -   <https://en.wikipedia.org/wiki/Going_commando>
 
 -   <https://en.wikipedia.org/wiki/Crown_copyright>

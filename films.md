@@ -18,6 +18,8 @@ Bestof lists which I generally approve:
 - <https://en.wikipedia.org/wiki/Art_film>
 - <https://en.wikipedia.org/wiki/Stock_character>
 - <https://en.wikipedia.org/wiki/Unseen_character>
+- <https://en.wikipedia.org/wiki/Found_footage_(film_technique)>
+- <https://en.wikipedia.org/wiki/Buddy_film>
 
 ## Misc
 
@@ -399,6 +401,56 @@ Seen: 2016/08
 Great acting. Point of interest: this would be a boring love story, f it weren't for the fact that they will all soon die. The mundane aspect makes it all more troubling.
 
 Based on a novel a Japanese dude. I'm not surprised!
+
+### Timescrimes 2007
+
+Note: 7
+
+Watched: 2016/08
+
+### Looper 2012
+
+Note: 6
+
+Too much cliche / stupid action.
+
+Watched: 2016/08
+
+### Gattaca 1997
+
+Note: 8
+
+Nice neo-noir feeling.
+
+Awesome acting by Ethan Hawke.
+
+Great music.
+
+Watched: 2016/08
+
+### Ender's Game 2013
+
+Note: 7
+
+Watchable. Hero too perfect, advance pace too fast, like many star war movies.
+
+Watched: 2016/08
+
+### Chronicle 2012
+
+Note: 8
+
+Fantastic realism. Pretty cool. Amazing special effects.
+
+Watched: 2016/08
+
+### Book of Eli 2010
+
+<https://en.wikipedia.org/wiki/The_Book_of_Eli>
+
+Note: 7
+
+Watched: 2016/09
 
 ## TODO
 
