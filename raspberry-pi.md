@@ -176,6 +176,8 @@ USB:
 - http://raspberrypi.stackexchange.com/questions/43531/raspberry-3-boot-from-usb-but-how
 - 2013 says not possible: https://www.stewright.me/2013/05/install-and-run-raspbian-from-a-usb-flash-drive/
 
+At some point network boot might get enabled. TODO source.
+
 ## Flash SD card without removing it from RPI
 
 <http://raspberrypi.stackexchange.com/questions/38107/how-to-install-raspbian-without-an-sd-card-reader>
@@ -227,3 +229,26 @@ Watch out, many chips sell with the pins unsoldered, like this: https://ae01.ali
 
 This video shows how to solder everything: <https://www.youtube.com/watch?v=dfOfZ2TssVU>, including USB connector and other components.
 
+## Shocked by RPI
+
+Can't feel 5V: <http://raspberrypi.stackexchange.com/questions/167/is-it-possible-to-receive-an-electric-shock-by-touching-a-raspberry-pi-while-it> Not even 12V it seems unless you lick it.
+
+## Power supply
+
+Micro USB or GPIO. Don't use both. <http://raspberrypi.stackexchange.com/questions/7830/powering-the-raspberry-pi-from-usb-microusb-is-it-safe>
+
+## SIM card
+
+- <http://arstechnica.com/information-technology/2013/08/raspberry-pi-and-arduino-to-get-cellular-access-with-sim-card-add-on/>
+
+## History
+
+<https://en.wikipedia.org/wiki/Premier_Farnell> started making RPIs in the UK. Before it was done in China. Swiss Datwyler bid to buy. Avnet bid higher: <http://fortune.com/2016/08/18/daetwyler-bid-premier-farnell/>
+
+## Power consumption
+
+- <http://raspberrypi.stackexchange.com/questions/43285/raspberry-pi-3-vs-pi-2-power-consumption-and-heat-dissipation>
+
+## OpenGL
+
+- Maynard Raspberry Pi <https://www.youtube.com/watch?v=QQfMGlmfbjA>
