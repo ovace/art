@@ -262,3 +262,9 @@ Micro USB or GPIO. Don't use both. <http://raspberrypi.stackexchange.com/questio
 ## OpenGL
 
 - Maynard Raspberry Pi <https://www.youtube.com/watch?v=QQfMGlmfbjA>
+
+## Cross compile a single executable
+
+- <http://stackoverflow.com/questions/19162072/installing-raspberry-pi-cross-compiler>
+- <http://stackoverflow.com/questions/10973020/cross-compilation-for-raspberry-pi-in-gcc-where-to-start>
+- <http://raspberrypi.stackexchange.com/questions/1/how-do-i-build-a-gcc-4-7-toolchain-for-cross-compiling>

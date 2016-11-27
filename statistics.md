@@ -80,3 +80,13 @@ Markov chain:
 ## Misc
 
 -   <https://en.wikipedia.org/wiki/Stein's_example>
+
+## Student T test
+
+<https://en.wikipedia.org/wiki/Student%27s_t-test>
+
+Test if a factor significantly changes a value.
+
+E.g.: does a medication significantly change blood pressure?
+
+TODO: quantify by how much?
