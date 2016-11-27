@@ -273,3 +273,13 @@ She wanted to eat something different, so they came over (specially since Xiaohu
 It was a really pleasant evening, just eating hot stuff, rainy outside, and half understanding Chinese.
 
 We bough stuff at the Chinese quarters earlier before.
+
+## 2016-11-22 Heat equation
+
+Went to workplace at 11pm, played around with https://github.com/cirosantilli/cpp-cheat/tree/907ab0bd7bc0a194cbcc79d76405af6873fca695 until 1AM. Felt intense beauty, and that education system sucks.
+
+We must be brutally practical. Want to learn the heat equation? Write a solver, and do a physics experiment, and match them. Theory only matters if it makes you better in practice. Theory is either improved practical technique, or it is useless.
+
+It is a miracle that I got interested in maths at all. God is the only explanation? If only my memory didn't suck and I remembered when I was little, and where the balance tilted.
+
+Will I ever be able to transmit this feeling to younger people?

@@ -17,4 +17,8 @@ No multiplayer: https://www.reddit.com/r/dwarffortress/comments/1x3olr/multiplay
 
 Wiki: http://dwarffortresswiki.org/index.php "to have fun" equals "to die", "to be fun" equals "to be dangerous".
 
-Appears on a (not funny) xkcd https://xkcd.com/1223/
+Appears on a (not funny) xkcd <https://xkcd.com/1223/>
+
+## Viewers
+
+<https://github.com/JapaMala/armok-vision>

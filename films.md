@@ -5,6 +5,7 @@
 Bestof lists which I generally approve:
 
 - Criterion Collection: almost anything is watchable: <http://www.criterion.com/library/list_view?b=Criterion&p=1&pp=all&s=spine>
+- WatchMojo less silly top tens
 
 ## Jargon
 
@@ -362,7 +363,7 @@ Seen: 2016/04
 
 ### Moon 2009
 
-Note: 7
+Note: 8
 
 Seen: 2016/08
 
@@ -452,7 +453,150 @@ Note: 7
 
 Watched: 2016/09
 
-## TODO
+### I Spit on Your Grave 1978
+
+Note: 5
+
+Meh.
+
+### Cruising 1980
+
+Note: 7
+
+Interesting to look into the Gay community of the time. Looks authentic.
+
+### Jarhead 2005
+
+Note: 7
+
+Watched: 2016/09
+
+### Colossus: The Forbin Project 1970
+
+<https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project>
+
+Note: 7
+
+Good ending.
+
+Faking the mistress to communicate was the most ridiculous thing ever, how could the computer accept that? Oh, the 70s.
+
+### No country for old men 2007
+
+<https://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film)>
+
+Note: 8
+
+Coen brothers.
+
+### The Girl with the Dragon Tattoo 2011
+
+Note: 6
+
+Too constructed.
+
+Pleased to see some Danish wealth.
+
+### Zodiac 2007
+
+Note: 7
+
+### Donnie Darco 2007
+
+Note: 7
+
+Some say that it has super deep meaning by interpreting the book.
+
+### Mr Nobody 2009
+
+Note: 8
+
+Non linear! So romantic.
+
+### The great Gatsby
+
+Note: 6
+
+Nah, romance and empty riches.
+
+### Heavy Metal 1981
+
+Note: 8
+
+Gandahar 80's style. Oh yeah.
+
+### Sunshine 2007
+
+<https://en.wikipedia.org/wiki/Sunshine_(2007_film)>
+
+Note: 8
+
+Only two things I cannot understand:
+
+- why is the physicist sent to fix the solar panels, if he is one the most important person in the crew, and seems to not be comfortable with the suit
+- why doesn't the physicist communicate with his friends immediately when he learns that there is an extra person on board? They should just gang up on the extra person.
+
+### The Master 2012
+
+Note: 8
+
+### Amadeus 1984
+
+Note: 8
+
+Watched: 2016/10
+
+### The Wicker Man 1973
+
+Note: 8
+
+Watched: 2016/11
+
+### Martha Marcy May Marlene 2011
+
+Note: 7
+
+Watched: 2016/11
+
+Very good, but too psychological for me.
+
+### The sound of her voice 2011
+
+Note: 6
+
+Watched: 2016/11
+
+Makes no sense? How is meditating around going to help you survive in a post apocalyptic world?
+
+### The sacrament 2013
+
+Note: 8
+
+Watched: 2016/11
+
+### Children of the Corn 1984
+
+Note: 6
+
+Only started.
+
+Too based on jump scares. Good and evil too black and white.
+
+### Wolf Creek 2005
+
+Note: 7
+
+Beautifully shot, but teaches nothing new.
+
+### Day of the Jackal 1973
+
+Note: 7
+
+Beautifully shot. Teaches a few things.
+
+Like the truth about the third hard to obtain fake document.
+
+### TODO
 
 Sure:
 

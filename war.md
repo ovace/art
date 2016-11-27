@@ -62,6 +62,8 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
 
 -   <https://en.wikipedia.org/wiki/Flare_%28countermeasure%29>
 
+-   <https://en.wikipedia.org/wiki/Aerial_ramming>. Mentioned on movie United 93, they have a plane without weapons, and propose to ram the hijacked plane, and eject.
+
 ## Naval
 
 -   <http://en.wikipedia.org/wiki/U-boat>. In German, means just submarine.

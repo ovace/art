@@ -32,3 +32,11 @@ http://arstechnica.com/information-technology/2016/04/why-microsoft-needed-to-ma
 ## PowerPoint
 
 Like all products with "excessively catchy" names, it was bought from another company: <https://en.wikipedia.org/wiki/Microsoft_PowerPoint>
+
+## Hotmail
+
+Yeah, acquisition. I should have guessed by the "cool name" theory.
+
+<https://en.wikipedia.org/wiki/Outlook.com#History>
+
+Diablo programmer tells how he turned down 10% of it <https://youtu.be/VscdPA6sUkc?t=2093>

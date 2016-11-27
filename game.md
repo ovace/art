@@ -1,5 +1,13 @@
 # Game
 
+-   <https://en.wikipedia.org/wiki/Christian_video_game>
+
+-   <https://en.wikipedia.org/wiki/Nonviolent_video_game>
+
+    - <http://uk.businessinsider.com/the-12-best-non-violent-relaxing-games-2016-6?r=US&IR=T/#desert-golfing-2>
+    - Flower <https://www.youtube.com/watch?v=nJam5Auwj1E>
+    - <https://en.wikipedia.org/wiki/Interactive_art>
+
 -   MOBA <https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena>
 
     - <https://en.wikipedia.org/wiki/Vainglory_%28video_game%29>
@@ -147,6 +155,15 @@
 
 -   Perfect dark. Weapons: <https://www.youtube.com/watch?v=pCSW0mPQCAs>
 
+### Super Mario World
+
+Fan ultra hard levels:
+
+- Mario Must Die https://www.youtube.com/watch?v=NuRQjaOhwGM
+- Kaizo https://www.youtube.com/watch?v=px5E66M1QiI
+- TODO name Rasta Mario https://www.youtube.com/watch?v=csw8zSKKueo
+- Item abuse 3 https://www.youtube.com/watch?v=opUG9aOv8uE
+
 ### Nintendo 64
 
 Super Mario 64 making of:
@@ -253,7 +270,15 @@ Worms FPS CTF.
 
     <http://arstechnica.com/gaming/2014/01/how-an-emulator-fueled-robot-reprogrammed-super-mario-world-on-the-fly/>
 
+-   SMB3 ACE <https://youtu.be/pj7RE2DcRgc?t=3072>
+
+-   Super Metroid ACE <https://www.youtube.com/watch?v=30Lar33xD-g>
+
 ## NES
+
+### Mario bros
+
+Full reverse engineering (commented / meaningfully labelled assembly): <https://gist.github.com/1wErt3r/4048722>
 
 ### Adventures of Lolo
 
@@ -311,6 +336,7 @@ Ultra hard SMB mods:
 - happy wheels <https://en.wikipedia.org/wiki/Happy_Wheels>
 - https://en.wikipedia.org/wiki/Neverending_Nightmares
 - Her Story
+- <https://www.youtube.com/watch?v=WTcQJXyCXw8> pleas don't touch anything
 
 New platformers:
 
@@ -321,7 +347,9 @@ New platformers:
 
 ### Antichamber
 
-https://www.youtube.com/watch?v=9kCH9J-UKis , simple instructions, minimalistic lightning, innovative game design.
+https://www.youtube.com/watch?v=9kCH9J-UKis , simple instructions, minimalistic lightning, innovative game design, 3d fps puzzles.
+
+https://www.youtube.com/watch?v=g-lYxcOPIkw
 
 ### Indie hardcore
 
@@ -485,6 +513,8 @@ Bullet physics: http://gamedev.stackexchange.com/questions/13650/how-are-bullets
 
 ARMA II is notable for having realistic bullet physics.
 
+<https://en.wikipedia.org/wiki/Debug_room>
+
 ## Angry birds
 
 Finnish.
@@ -518,6 +548,12 @@ Complex tank model:
 AKA more than edge detection :-)
 
 - Besiege https://www.youtube.com/watch?v=0tCnas0uTkE
+- Crayon physics <https://www.youtube.com/watch?v=q3ImgYHDlDA>
+
+Special relativity:
+
+- velocity raptor: <http://www.newgrounds.com/portal/view/585990>
+- a slower speed of light: <https://www.youtube.com/watch?v=uu7jA8EHi_0>
 
 ## Old
 
@@ -553,3 +589,44 @@ Relaxing / fun to watch people play through:
 
 - Firewatch. Brilliant dialogue.
 - The last of us
+
+## Console development kits
+
+- sega: <https://www.youtube.com/watch?v=yia0jHPFfA4>
+
+## Unused assets
+
+<https://en.wikipedia.org/wiki/Hot_Coffee_mod>
+
+## Emulators
+
+### lsnes
+
+12.04 PPA: <https://launchpad.net/~hunter-kaller/+archive/ubuntu/ppa/+build/3126218>
+
+Ubuntu 16.04 compile:
+
+From http://tasvideos.org/Lsnes.html download http://ilari.tasvideos.org/lsnes-rr2-beta23.7z v18 was not working well because it had older dependencies.
+
+    # g++-4.7: accepts invalid C++:
+    # error: body of constexpr function ‘constexpr unsigned int nall::uclip(unsigned int) [with int bits = 24]’ not a return-statement
+    sudo apt-get install g++-4.7liblua5.2-dev portaudio19-dev libgcrypt20-dev
+    vim options.build
+    USER_CFLAGS=-g -I/usr/include/lua5.2
+
+TODO fails with a nice:
+
+    library/__all__.o: In function `bool boost::regex_match<__gnu_cxx::__normal_iterator<char const*, std::string>, std::allocator<boost::sub_match<__gnu_cxx::__normal_iterator<char const*, std::string> > >, char, boost::regex_traits<char, boost::cpp_regex_traits<char> > >(__gnu_cxx::__normal_iterator<char const*, std::string>, __gnu_cxx::__normal_iterator<char const*, std::string>, boost::match_results<__gnu_cxx::__normal_iterator<char const*, std::string>, std::allocator<boost::sub_match<__gnu_cxx::__normal_iterator<char const*, std::string> > > >&, boost::basic_regex<char, boost::regex_traits<char, boost::cpp_regex_traits<char> > > const&, boost::regex_constants::_match_flags)':
+    /usr/include/boost/regex/v4/regex_match.hpp:50: undefined reference to `boost::re_detail::perl_matcher<__gnu_cxx::__normal_iterator<char const*, std::string>, std::allocator<boost::sub_match<__gnu_cxx::__normal_iterator<char const*, std::string> > >, boost::regex_traits<char, boost::cpp_regex_traits<char> > >::match()'
+    library/__all__.o: In function `boost::re_detail::perl_matcher<__gnu_cxx::__normal_iterator<char const*, std::string>, std::allocator<boost::sub_match<__gnu_cxx::__normal_iterator<char const*, std::string> > >, boost::regex_traits<char, boost::cpp_regex_traits<char> > >::perl_matcher(__gnu_cxx::__normal_iterator<char const*, std::string>, __gnu_cxx::__normal_iterator<char const*, std::string>, boost::match_results<__gnu_cxx::__normal_iterator<char const*, std::string>, std::allocator<boost::sub_match<__gnu_cxx::__normal_iterator<char const*, std::string> > > >&, boost::basic_regex<char, boost::regex_traits<char, boost::cpp_regex_traits<char> > > const&, boost::regex_constants::_match_flags, __gnu_cxx::__normal_iterator<char const*, std::string>)':
+    /usr/include/boost/regex/v4/perl_matcher.hpp:365: undefined reference to `boost::re_detail::perl_matcher<__gnu_cxx::__normal_iterator<char const*, std::string>, std::allocator<boost::sub_match<__gnu_cxx::__normal_iterator<char const*, std::string> > >, boost::regex_traits<char, boost::cpp_regex_traits<char> > >::construct_init(boost::basic_regex<char, boost::regex_traits<char, boost::cpp_regex_traits<char> > > const&, boost::regex_constants::_match_flags)'
+
+## Tile based games
+
+### Non tile based games
+
+- <http://stackoverflow.com/questions/17960218/how-does-a-non-tile-based-map-works>
+- <http://gamedev.stackexchange.com/questions/8600/2d-non-tile-based-map-editor>
+- <https://www.reddit.com/r/gamedev/comments/1tpmmr/trying_to_create_a_world_for_a_2d_game_that_is/>
+- simply 2D triangle based scenario <https://www.youtube.com/watch?v=zK0IKeAoGDU>
+- <http://stackoverflow.com/questions/11782211/what-collision-detection-method-to-use-with-hand-drawn-surface/11818299>

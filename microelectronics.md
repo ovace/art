@@ -42,10 +42,6 @@ Design of the mask: <https://youtu.be/z47Gv2cdFtA?t=443>
 
 5 plastic masks in overlay: <https://youtu.be/z47Gv2cdFtA?t=487>
 
-### VLSI
-
-<https://en.wikipedia.org/wiki/Very-large-scale_integration>
-
 ### Synthesis
 
 ### How to make actual chips

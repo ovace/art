@@ -100,3 +100,7 @@ Internal investigator police: <http://gizmodo.com/5427058/apple-gestapo-how-appl
 ## Macintosh
 
 They all signed it on the inside: <https://www.youtube.com/watch?v=eHzAtxW3TzY> <http://www.cultofmac.com/122408/signed-by-steve-jobs-co-signatures-inside-the-original-macintosh-case/>
+
+## Workforce
+
+- 2014: 16k in Europe, 4k in Cork: <http://www.independent.ie/business/irish/25pc-of-apples-european-workforce-based-in-cork-30487720.html>

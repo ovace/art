@@ -78,7 +78,7 @@ Became read-only in 2014 because of vandalism.
 
 ### tvtropes
 
-I fall on it every now and then, and am amazed by it's quality:
+I fall on it every now and then, and am amazed by it's quality / wittiness:
 
 <http://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfIdealismVersusCynicism>
 

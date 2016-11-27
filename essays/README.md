@@ -17,4 +17,7 @@
     1.  [The Four Treasures of the Hacker](four-treasures-of-the-hacker.md)
     1.  [People know the best](people-know-the-best.md)
     1.  [Quotes](quotes.md)
+1.  Philosophy
+    1.  [Extreme teaching](https://github.com/cirosantilli/extreme-teaching)
 1.  [Thoughts](thoughts.md)
+1.  [My personality](my-personality.md)

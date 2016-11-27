@@ -14,6 +14,8 @@ SoCs called BCM2835, BCM2836, BCM2837 for pi 1, 2, and 3 respectively.
 
 Overview: <http://elinux.org/RPi_Hardware>
 
+<https://en.wikipedia.org/wiki/Raspberry_Pi#Specifications>
+
 ### GPIO
 
 <https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/>
@@ -46,6 +48,12 @@ OpenGL is still a bit shaky, even though we have an open source driver:
 - *this* is how it looks currently: <https://youtu.be/lQYlIn1BEfk?t=1136>
 - <https://www.youtube.com/watch?v=EXDeketJNdk>
 - <https://youtu.be/WMfgXOHWAnc?t=118> got it to work on 2016-03, but you need to enable a configuration option
+
+### SoC
+
+Pinout: appears undocumented, but reversed:
+
+- <http://elinux.org/RPi_BCM2835_Pinout>. Is an 18 x 18 matrix!
 
 ## Compute module
 
@@ -94,16 +102,18 @@ GNOME Epiphany is recommended? TODO why? Vs. Firefox, Chromium?
 
 ## Emulation
 
-Painful to get working on QEMU, haven't managed so far.
+You need to modify the default image a bit and a cross compiled patched kernel... but it does work.
 
 QEMU should be the best option since Android uses it.
 
-One reason is that the kernel is not included into the provided image, so you need to cross compile it.
-
-- <http://raspberrypi.stackexchange.com/questions/165/emulation-on-a-linux-pc>
+- <http://raspberrypi.stackexchange.com/questions/165/emulation-on-a-linux-pc/53991#53991>
 - <http://embedonix.com/articles/linux/emulating-raspberry-pi-on-linux/>
 - <https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=37386>
 - <http://embedonix.com/articles/linux/emulating-raspberry-pi-on-linux/>
+
+LED and GPIO state on QEMU:
+
+- <http://raspberrypi.stackexchange.com/questions/56373/is-it-possible-to-get-the-state-of-the-leds-and-gpios-in-a-qemu-emulation-like-t>
 
 ## Operating system
 

@@ -363,3 +363,10 @@ Make a mistake.
 
 To rape.
 
+## 严格 yan2 ge2
+
+Strinct.
+
+String requirements:
+
+yao1qiu2 hen3 yan2ge2

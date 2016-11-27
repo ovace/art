@@ -23,7 +23,7 @@ Clones:
 
 -   Minetest http://www.ocsmag.com/2016/04/04/mining-for-education/
 
-2D:
+2D sidescroller:
 
 -   Terraria
 
@@ -44,7 +44,13 @@ Clones:
 
 -   <https://scratch.mit.edu/projects/10128407/>
 
--   <http://dan-ball.jp/en/javagame/dust/366422.html> Si
+-   <http://dan-ball.jp/en/javagame/dust/366422.html> Particle physics simulation.
+
+    Each particle has unique properties on how it interacts with neighbours.
+
+    <http://danball.wikia.com/wiki/Powder_Game_2>
+
+-   <https://www.youtube.com/watch?v=yjWvIU2Cqcw> Minicraft: 2011 top down sketch by Notch himself, made in 2 days
 
 Why die Microsoft buy it?
 

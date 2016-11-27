@@ -90,6 +90,11 @@ Animals, plants, biology, evolution, genetics, diseases.
 
 -   <https://en.wikipedia.org/wiki/Biological_immortality>. Some species are believed to be immortal.
 
+    - <https://en.wikipedia.org/wiki/Ming_(clam)>
+    - <https://en.wikipedia.org/wiki/Pando_(tree)> heaviest organism, and one of the oldest living
+    - <https://en.wikipedia.org/wiki/Judean_date_palm>
+    - <https://en.wikipedia.org/wiki/Llangernyw_Yew>
+
 -   <http://en.wikipedia.org/wiki/Guano>
 
 -   <http://en.wikipedia.org/wiki/Paleolithic_diet>
