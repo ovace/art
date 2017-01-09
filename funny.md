@@ -1,5 +1,9 @@
 # Funny
 
+-   <https://en.wikipedia.org/wiki/List_of_humorous_units_of_measurement>
+
+-   <https://en.wikipedia.org/wiki/FFF_system>. Mentioned at: <http://en.cppreference.com/w/cpp/chrono/steady_clock>
+
 -   <https://en.wikipedia.org/wiki/Rhodes_Scholarship>
 
 -   <https://en.wikipedia.org/wiki/Boustrophedon> Support that, HTML5.

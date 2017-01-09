@@ -4,6 +4,10 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Boffin>
+
+-   <https://en.wikipedia.org/wiki/Watershed_(broadcasting)>
+
 -   <https://en.wikipedia.org/wiki/Imprimatur>
 
 -   <https://en.wikipedia.org/wiki/Going_commando>

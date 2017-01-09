@@ -2,6 +2,8 @@
 
 Computer specifics not here.
 
+-   <https://en.wikipedia.org/wiki/Self-checkout>
+
 -   Hoverbike <https://www.youtube.com/watch?v=bpko3CPHonQ>
 
     <http://www.dailymail.co.uk/video/sciencetech/video-1194907/Self-flying-drone-powerful-carry-person.html>

@@ -41,12 +41,15 @@ If you think something belongs on a list, PR. Because of the subjective nature o
     1.  [Imagination technologies](imagination-technologies.md)
     1.  [Qualcomm](qualcomm.md)
     1.  [Intel](intel.md)
+    1.  [Cisco](cisco.md)
+1.  Countries
     1.  China
         1. [Alibaba](alibaba.md)
         1. [Tencent](tencent.md)
     1.  Japan
         1. [SoftBank](softbank.md)
-    1.  [Cisco](cisco.md)
+    1. [USA](usa.md)
+    1. [France](france.md)
 1.  Engineering
     1.  [Electronics](electronics.md)
         1. [PCB](pcb.md)
@@ -73,3 +76,7 @@ If you think something belongs on a list, PR. Because of the subjective nature o
 1.  [Secret societies](secret-societies.md)
 1.  Other repositories
     1. [Physics](https://github.com/cirosantilli/physics)
+1.  Technology
+    1. [Technology](technology.md)
+1.  [Cities](cities.md)
+    1. [Jericoacoara](jericoacoara.md)

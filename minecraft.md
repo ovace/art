@@ -103,3 +103,23 @@ Lode Runner's Rescue "First voxel game": https://www.youtube.com/watch?v=BEpaIen
 ## Interesting physics
 
 - http://minecraft.gamepedia.com/Command_Block
+
+## Chunks
+
+Units loaded into memory around the player.
+
+Chunks are randomly generated when they are first encountered.
+
+Unloaded chunks don't get world updates:
+
+<http://gaming.stackexchange.com/questions/32470/will-a-storage-minecart-keep-going-through-chunks-that-arent-loaded>
+
+<http://gaming.stackexchange.com/questions/125290/can-i-use-a-hopper-loop-as-a-chunk-loader>
+
+## Rigid body dynamics
+
+Would be awesome to add.
+
+Someone has made a mod where expositions leave out dead blocks animated by jBullet, but that is very limited <http://jbullet.advel.cz/>
+
+<https://www.youtube.com/watch?v=DUQv6ZJZfi4>

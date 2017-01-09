@@ -36,6 +36,8 @@ Enterprises:
 
 https://www.cambridgenetwork.co.uk/home/
 
+Great way to find lettings directly with owners: http://www.brettward.co.uk/canb/
+
 ### London
 
 #### London Paris

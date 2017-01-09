@@ -138,3 +138,19 @@ Non trivial like any other big product. Two major metrics are significant:
 
     - can likely be estimated well from area + fab process + clock speed
     - hardware monitoring registers?
+
+## Open source GPUs
+
+To the RTL level.
+
+### MIAOW
+
+Implements the GCN AMD openly documented ISA (TODO legal? <http://www.theregister.co.uk/2015/08/31/boffins_unveil_open_source_gpu/> says pending on vendor, thus illegal).
+
+Made by researches from <https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison>
+
+<https://github.com/VerticalResearchGroup/miaow>
+
+<https://en.wikipedia.org/wiki/Graphics_Core_Next>
+
+<https://github.com/VerticalResearchGroup/miaow>

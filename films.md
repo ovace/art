@@ -596,6 +596,38 @@ Beautifully shot. Teaches a few things.
 
 Like the truth about the third hard to obtain fake document.
 
+### A Most Wanted Man 2014
+
+Note: 6
+
+Nah, too constructed. Characters too one sided.
+
+### Cambridge Spies 2003
+
+Note: 7
+
+Pretty good. Could be more realistic, but not bad.
+
+### The Lives of Others 2007
+
+Note: 8
+
+Ah, aligns with my libertarian world views.
+
+### Arrival 2016
+
+Note: 7.
+
+Much like Interstellar, quite beautiful and interesting.
+
+And the ending makes absolutely no physical sense and sucks as well.
+
+### Boogie nights 1997
+
+Note: 7.
+
+Great, just not my subject matter.
+
 ### TODO
 
 Sure:

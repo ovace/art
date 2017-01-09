@@ -155,6 +155,10 @@
 
 -   Perfect dark. Weapons: <https://www.youtube.com/watch?v=pCSW0mPQCAs>
 
+### Smash bros
+
+Hitboxes are super detailed and 3D, since the original 64 version! <http://supersmashbros.wikia.com/wiki/Hitbox> A bunch of other fighting games must be like that as well...
+
 ### Super Mario World
 
 Fan ultra hard levels:
