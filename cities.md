@@ -17,7 +17,8 @@ From Luton Airport:
 - bus http://coach.nationalexpress.com/nxbooking/journey-list departs every 2 hours, takes 1h40, costs 18 pounds.
 - train: takes 1h40, costs 38 pounds
 - https://en.wikipedia.org/wiki/Silicon_Fen started with Acorn
-    - Apple (PinDrop acquisition) and Microsoft have presence there
+    - Apple (PinDrop acquisition). Siri job: https://web.archive.org/web/20161020082129/http://stackoverflow.com/jobs/127126/siri-operations-engineer-apple
+    - Microsoft have presence there
     - HP Autonomy (acquisition 7 bi)
     - Amazon is testing drone delivery there,
     - https://www.quora.com/Is-Alphabet-Google-opening-an-office-in-Cambridge-in-the-UK
@@ -37,6 +38,8 @@ Enterprises:
 https://www.cambridgenetwork.co.uk/home/
 
 Great way to find lettings directly with owners: http://www.brettward.co.uk/canb/
+
+http://www.thehacklab.uk/locations/cambridge/
 
 ### London
 

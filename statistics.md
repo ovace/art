@@ -90,3 +90,25 @@ Test if a factor significantly changes a value.
 E.g.: does a medication significantly change blood pressure?
 
 TODO: quantify by how much?
+
+## Normality tests
+
+Decide if distribution is Normal or not.
+
+If not, mean and standard deviation may be meaningless...
+
+### Jarque Bera test
+
+<https://en.wikipedia.org/wiki/Jarque%E2%80%93Bera_test>
+
+### D'Agostino
+
+<https://en.wikipedia.org/wiki/D%27Agostino%27s_K-squared_test>
+
+## Bessel's correction
+
+## Sample standard deviation
+
+## Population standard deviation
+
+<https://en.wikipedia.org/wiki/Bessel%27s_correction>

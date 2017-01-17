@@ -63,24 +63,6 @@ TODO Is it open?
 
 -   SEM view <https://www.youtube.com/watch?v=Fxv3JoS1uY8>
 
-## Tools
-
-Tool lists:
-
-- <http://www.gpleda.org/>
-- <https://en.wikipedia.org/wiki/C_to_HDL>
-- <http://opencircuitdesign.com/>
-- <http://www.vlsiacademy.org/open-source-cad-tools.html>
-- <https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki>
-
-Tools:
-
-- <http://kicad-pcb.org/>
-- <https://en.wikipedia.org/wiki/GEDA>
-- <http://electronics.stackexchange.com/questions/24184/free-ide-for-vhdl-and-verilog/25281#25281>
-- <https://github.com/cseed/arachne-pnr>
-- <http://www.clifford.at/yosys/>
-
 ### GDS
 
 https://en.wikipedia.org/wiki/GDSII
