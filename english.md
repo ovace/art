@@ -4,6 +4,10 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Kompromat>
+
+-   Liar Liar Pants On Fire <http://www.urbandictionary.com/define.php?term=Liar%20Liar%20Pants%20On%20Fire>
+
 -   <https://en.wikipedia.org/wiki/Boffin>
 
 -   <https://en.wikipedia.org/wiki/Watershed_(broadcasting)>

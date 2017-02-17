@@ -73,6 +73,8 @@ In order to make cheaper calculators, Japanese pioneered liquid crystal usage: <
 
 <https://www.quora.com/How-did-people-design-integrated-circuits-in-early-years>
 
+<https://en.wikipedia.org/wiki/VLSI_Project> <https://en.wikipedia.org/wiki/MOSIS> DARPA MOSIS project, still active.
+
 ### 4004
 
 <http://spectrum.ieee.org/computing/hardware/the-surprising-story-of-the-first-microprocessors>

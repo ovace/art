@@ -1,5 +1,7 @@
 # Computer funny
 
+-   https://www.x.org/wiki/XorgEVoC/
+
 -   https://en.wikipedia.org/wiki/Layer_8
 
 -   http://web.mit.edu/~simsong/www/ugh.pdf
