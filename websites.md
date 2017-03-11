@@ -1,5 +1,7 @@
 # Websites
 
+- <http://rationalwiki.org/wiki/Whale.to>
+
 - <https://en.wikipedia.org/wiki/RateMyProfessors.com> <http://www.ratemyprofessors.com/>
 
 - <http://hckrnews.com/>
