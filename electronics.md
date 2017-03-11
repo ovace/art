@@ -178,3 +178,9 @@ Collin's Lab - Surface Mount Soldering <https://www.youtube.com/watch?v=QzoPxvIM
 ## Self checkout
 
 - <https://en.wikipedia.org/wiki/Self-checkout>
+
+## Dual-tone multi-frequency signaling
+
+<https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling>
+
+Gives the sound of phone dials.

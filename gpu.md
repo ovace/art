@@ -166,3 +166,14 @@ Which program runs faster on each:
 Architecture:
 
 - https://www.quora.com/If-a-GPU-has-around-1000-to-2000-cores-then-why-does-a-CPU-still-have-only-12-cores
+
+## SIMT
+
+## Warps
+
+TODO understand!!! Minimal execution example!!!
+
+- <https://en.wikipedia.org/wiki/Single_instruction,_multiple_threads>
+- <http://yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html>
+- <http://stackoverflow.com/questions/3606636/cuda-model-what-is-warp-size>
+- <http://stackoverflow.com/questions/10460742/how-do-cuda-blocks-warps-threads-map-onto-cuda-cores>

@@ -42,6 +42,8 @@ If you think something belongs on a list, PR. Because of the subjective nature o
     1.  [Qualcomm](qualcomm.md)
     1.  [Intel](intel.md)
     1.  [Cisco](cisco.md)
+    1.  Atlassian
+        1. [JIRA](jira.md)
 1.  Countries
     1.  China
         1. [Alibaba](alibaba.md)
@@ -75,9 +77,9 @@ If you think something belongs on a list, PR. Because of the subjective nature o
         1. [Minecraft](minecraft.md)
         1. [Dwarf fortress](dwarf-fortress.md)
 1.  [Secret societies](secret-societies.md)
-1.  Other repositories
-    1. [Physics](https://github.com/cirosantilli/physics)
-1.  Technology
-    1. [Technology](technology.md)
+1.  [Technology](technology.md)
+    1. [3D office](3d-office.md)
 1.  [Cities](cities.md)
     1. [Jericoacoara](jericoacoara.md)
+1.  Other repositories
+    1. [Physics](https://github.com/cirosantilli/physics)

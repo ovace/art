@@ -247,6 +247,10 @@ The main reason of existence is increasing the liquidity of stocks.
 
     A stock that you only get if certain conditions are met, e.g. staying for long enough on an enterprise.
 
+### Ticker symbol
+
+- https://www.quora.com/What-companies-have-the-most-clever-or-funny-stock-symbols
+
 ### Opening times
 
 <http://en.wikipedia.org/wiki/List_of_stock_exchange_opening_times>

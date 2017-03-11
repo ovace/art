@@ -1,5 +1,9 @@
 # Computer funny
 
+-   https://www.x.org/wiki/XorgEVoC/
+
+-   https://en.wikipedia.org/wiki/Layer_8
+
 -   http://web.mit.edu/~simsong/www/ugh.pdf
 
 -   http://mindprod.com/jgloss/unmain.html
@@ -287,6 +291,11 @@ Exuberant tags `man ctags`:
 
         @c no one seems to know what this is for or whether this description is
         @c what it really ought to do
+
+-   `man patch` 2.7.1:
+
+       -R  or  --reverse
+          Assume  that  this  patch  was  created with the old and new files swapped.  (Yes, I'm afraid that does happen occasionally, human nature being what it is).
 
 ### Kernel
 
