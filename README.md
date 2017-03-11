@@ -44,6 +44,7 @@ If you think something belongs on a list, PR. Because of the subjective nature o
     1.  [Cisco](cisco.md)
     1.  Atlassian
         1. [JIRA](jira.md)
+    1.  [ARM Holdings](arm-holdings.md)
 1.  Countries
     1.  China
         1. [Alibaba](alibaba.md)
@@ -60,6 +61,7 @@ If you think something belongs on a list, PR. Because of the subjective nature o
         1. [Microchip reverse engineering](microchip-reverse-engineering.md)
         1. [Computer memory](computer-memory.md)
         1. [GPU](gpu.md)
+            1.  [ARM Mali](arm-mali.md)
     1.  [Aeronautical](aeronautical.md)
     1.  [History of electronics](history-electronics.md)
 1.  [Applied math](applied-math.md)
