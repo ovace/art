@@ -251,3 +251,14 @@ Fly supplies:
 - <https://neurokernel.github.io/>
 - <http://www.openworm.org/>
 
+## Human evolution
+
+Wiki says <https://en.wikipedia.org/wiki/Evolution_of_human_intelligence#History>:
+
+A larger brain requires a larger skull, and thus requires the female to have a wider birth canal for the newborn's larger skull to pass through. But if the female's birth canal grew too wide, her pelvis would be so wide that she would lose the ability to run, which was a necessary skill 2 million years ago.[citation needed]
+
+The solution to this was to give birth at an early stage of fetal development, before the skull grew too large to pass through the birth canal. This adaptation enabled the human brain to continue to grow, but it imposed a new discipline. The need to care for helpless infants for long periods of time forced humans to become less mobile[citation needed]. Human bands increasingly stayed in one place for long periods, so that females could care for infants, while males hunted food and fought with other bands that competed for food sources[citation needed]. As a result, humans became even more dependent on tool-making to compete with other animals and other humans, and relied less on body size and strength[citation needed].
+
+## Evolution
+
+- <https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup>

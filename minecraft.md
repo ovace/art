@@ -2,13 +2,14 @@
 
 Inspiration;
 
+-   Game DNA: Minecraft <https://www.youtube.com/watch?v=QUDMAP_TMJ8> List of all precedents.
 -   <https://en.wikipedia.org/wiki/Zachary_Barth#Infiniminer> open source. Why it failed:
     - https://www.rockpapershotgun.com/2011/01/20/proto-minecraft-abandoned-due-to-epic-error/
     - Indieformer The Story of Infiniminer: The Original Minecraft https://www.youtube.com/watch?v=oKYiWb2W97k He forgot to obfuscate, and source leaked.
     - Minecraft creator released a demo on Youtube saying it was a clone of Minecaft: https://youtu.be/oKYiWb2W97k?t=212 Video was removed since.
     - focused more on competition
     - interesting pre-minecraft info: http://danthemanhathaway.com/ProgProjects/BlockEngine/index.html
-    - motherload: https://www.youtube.com/watch?v=yxw5vQ743ss 
+    - motherload: https://www.youtube.com/watch?v=yxw5vQ743ss
     - .NET
     - interviews with creator: https://www.youtube.com/playlist?list=PLEC5091FFC3AD032E&feature=view_all Nice guy. Later employed by Valve.
 -   Dwarf fortress
@@ -49,6 +50,8 @@ Clones:
     Each particle has unique properties on how it interacts with neighbours.
 
     <http://danball.wikia.com/wiki/Powder_Game_2>
+
+-   uses <https://www.lwjgl.org/>
 
 -   <https://www.youtube.com/watch?v=yjWvIU2Cqcw> Minicraft: 2011 top down sketch by Notch himself, made in 2 days
 

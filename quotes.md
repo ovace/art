@@ -1,5 +1,7 @@
 # Quotes
 
+<https://en.wikipedia.org/wiki/Sturgeon's_law>
+
 Live as if you were to die tomorrow. Learn as if you were to live forever. -- Gandhi.
 
 A dictatorship is like a snake. If you put your foot on its tail as you do it, it will just bite you and no body will be helped. You have to strike the head. -- World at war, 1973, ep. 16.

@@ -18,7 +18,8 @@ The option to skip ads after 5 seconds was added in 2010: <https://www.google.co
 
 Borderline:
 
-- <https://www.youtube.com/watch?v=8KXqJS2Puv4>
+- <https://www.youtube.com/watch?v=8KXqJS2Puv4> camera inside vagina for education
+- <https://www.youtube.com/watch?v=IGJ6ZgzYyPM> sexual sounds
 
 ## Alternatives
 
@@ -50,3 +51,15 @@ http://webapps.stackexchange.com/questions/40732/how-to-view-all-the-videos-i-ha
 ## Make a living as youtubber
 
 <https://www.quora.com/How-many-YouTube-subscribers-do-I-need-to-make-2000-a-month>
+
+## Custom caption from video
+
+TODO: use custom caption from the video itself.
+
+<https://productforums.google.com/forum/#!topic/youtube/AFfMEXy-DpU;context-place=forum/youtube>
+
+## Equalize audio
+
+## Make audio louder
+
+TODO.

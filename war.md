@@ -2,6 +2,8 @@
 
 War, espionage, crime, violence, terrorism, revolution, police. In short: violent, fun stuff, which I wish did not happen.
 
+-   <https://en.wikipedia.org/wiki/Conscientious_objector>
+
 -   <https://en.wikipedia.org/wiki/Minimum_metal_mine>
 
 -   <https://en.wikipedia.org/wiki/Quarterstaff>
@@ -197,17 +199,21 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 ### Nuclear
 
-- <http://nuclearsecrecy.com/nukemap/>
+-   <http://nuclearsecrecy.com/nukemap/>
 
-- <https://www.youtube.com/watch?v=LLCF7vPanrY>
+-   <https://www.youtube.com/watch?v=LLCF7vPanrY>
 
-- <https://en.wikipedia.org/wiki/Fizzle_%28nuclear_test%29>
+-   <https://en.wikipedia.org/wiki/Fizzle_%28nuclear_test%29>
 
-- <https://en.wikipedia.org/wiki/Trinity_(nuclear_test)>
+-   <https://en.wikipedia.org/wiki/Trinity_(nuclear_test)>
 
 -   Enriching uranium is the hard part: <https://www.youtube.com/watch?v=OcgKDSwINOA>
 
     Can be done with centrifuges.
+
+-   <https://fas.org/blogs/security/2009/11/locations/>
+
+    <https://www.youtube.com/watch?v=HZXn5Ct0PJg>
 
 ### Historical
 

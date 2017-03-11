@@ -154,3 +154,15 @@ Made by researches from <https://en.wikipedia.org/wiki/University_of_Wisconsin%E
 <https://en.wikipedia.org/wiki/Graphics_Core_Next>
 
 <https://github.com/VerticalResearchGroup/miaow>
+
+## GPU vs CPU
+
+Which program runs faster on each:
+
+- http://stackoverflow.com/questions/7663343/simplest-possible-example-to-show-gpu-outperform-cpu-using-cuda
+- http://scicomp.stackexchange.com/questions/943/what-kinds-of-problems-lend-themselves-well-to-gpu-computing
+- http://stackoverflow.com/questions/13301309/can-should-i-run-this-code-on-a-gpu
+
+Architecture:
+
+- https://www.quora.com/If-a-GPU-has-around-1000-to-2000-cores-then-why-does-a-CPU-still-have-only-12-cores

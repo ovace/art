@@ -283,3 +283,7 @@ We must be brutally practical. Want to learn the heat equation? Write a solver, 
 It is a miracle that I got interested in maths at all. God is the only explanation? If only my memory didn't suck and I remembered when I was little, and where the balance tilted.
 
 Will I ever be able to transmit this feeling to younger people?
+
+## 2017-01-10 Back to England from Brazil
+
+I was sad to leave, but when I got to the Gatwick train, King's Cross, and Cambridge home, I felt really glad I was here! Maybe this wasn't a bad choice after all!

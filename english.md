@@ -4,6 +4,8 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://en.wikipedia.org/wiki/Jumping_the_shark>
+
 -   <https://en.wikipedia.org/wiki/Boffin>
 
 -   <https://en.wikipedia.org/wiki/Watershed_(broadcasting)>

@@ -213,6 +213,7 @@ Sort by name: <http://webapps.stackexchange.com/questions/84965/how-to-sort-by-n
 - <http://localhost.com> <https://www.quora.com/Why-does-http-localhost-com-redirect-to-Google> TODO as of 2016-11-16, it was not redirecting anymore?
 - <https://aiexperiments.withgoogle.com/> <https://accelerate.withgoogle.com/> <https://foobar.withgoogle.com/> (<https://news.ycombinator.com/item?id=8588080>) <https://devart.withgoogle.com/> <https://beyondthemap.withgoogle.com/en-us/> A few of those are from <https://www.google.com/culturalinstitute/beta/> <http://domainnamewire.com/2013/05/20/google-protects-withgoogle-com-third-level-domains-with-second-level-domains/> <https://quickdraw.withgoogle.com/#>
 - <https://domains.google>
+- <https://www.localguidesconnect.com>
 
 ## Chrome
 

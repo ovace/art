@@ -1,5 +1,7 @@
 # Game
 
+-   <https://en.wikipedia.org/wiki/The_Great_Giana_Sisters>
+
 -   <https://en.wikipedia.org/wiki/Christian_video_game>
 
 -   <https://en.wikipedia.org/wiki/Nonviolent_video_game>
@@ -122,33 +124,6 @@
 
 -   <http://nesbox.com/>: emulator as a service!
 
--   <https://www.youtube.com/watch?v=iEn0yjEKnWA>
-
-    Two simultaneous speed runs with one input!
-
--   Crazy guys finding speed runs on video games through amazing glitches.
-
-    There are many rules to speed runs:
-
-    - tool assisted
-    - glitches
-    - no glitches
-
-    And either:
-
-    - 100% completion
-    - not
-
-    Ocarina of time manual 25 min with comments on the history of its glitches: <https://www.youtube.com/watch?v=0M7IINwTFVw>
-
-    There are of course websites for it speedruns: <http://speeddemosarchive.com/>
-
-    And even on specific for Zelda Ocarina of Time: <http://www.zeldaspeedruns.com>
-
-    Specific for Tool Assisted Runs: <http://tasvideos.org>
-
-    Yearly event: <http://tay.kotaku.com/agdq-2014-easy-links-to-every-single-run-1499638499>
-
 ## Nintendo
 
 -   <http://news.cnet.com/Nintendo-offers-glove-to-prevent-joystick-injuries/2100-1040_3-237808.html>
@@ -177,6 +152,8 @@ Super Mario 64 making of:
 <http://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/>
 
 Reversing a One Way Teleport Glitch <https://www.youtube.com/watch?v=GtlpcMZQV0E>
+
+Wireframes shown on emulator: <https://www.youtube.com/watch?v=MzHjJ-guSJg>
 
 ## Toy
 
@@ -277,6 +254,8 @@ Worms FPS CTF.
 -   SMB3 ACE <https://youtu.be/pj7RE2DcRgc?t=3072>
 
 -   Super Metroid ACE <https://www.youtube.com/watch?v=30Lar33xD-g>
+
+-   Shadow leaves one man party FFVI <https://www.youtube.com/watch?v=LPDtoTMwAkY>
 
 ## NES
 
@@ -634,3 +613,47 @@ TODO fails with a nice:
 - <https://www.reddit.com/r/gamedev/comments/1tpmmr/trying_to_create_a_world_for_a_2d_game_that_is/>
 - simply 2D triangle based scenario <https://www.youtube.com/watch?v=zK0IKeAoGDU>
 - <http://stackoverflow.com/questions/11782211/what-collision-detection-method-to-use-with-hand-drawn-surface/11818299>
+
+## Pokemon
+
+Crystal: played 2017. Went until dragon Gym, and got bored. How can those gym leaders be such newbs!!!
+
+## JavaScript
+
+### Js multiplayer
+
+- http://diep.io/
+
+### Js physics
+
+- http://dave.whipp.name/snooker/canvas_pool.html
+
+## Speed running
+
+-   <https://www.youtube.com/watch?v=iEn0yjEKnWA>
+
+    Two simultaneous speed runs with one input!
+
+-   Crazy guys finding speed runs on video games through amazing glitches.
+
+    There are many rules to speed runs:
+
+    - tool assisted
+    - glitches
+    - no glitches
+    - http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfImposedChallenge
+
+    And either:
+
+    - 100% completion
+    - not
+
+    Ocarina of time manual 25 min with comments on the history of its glitches: <https://www.youtube.com/watch?v=0M7IINwTFVw>
+
+    There are of course websites for it speedruns: <http://speeddemosarchive.com/>
+
+    And even on specific for Zelda Ocarina of Time: <http://www.zeldaspeedruns.com>
+
+    Specific for Tool Assisted Runs: <http://tasvideos.org>
+
+    Yearly event: <http://tay.kotaku.com/agdq-2014-easy-links-to-every-single-run-1499638499>
