@@ -1,5 +1,10 @@
 # Computer funny
 
+-   `man telnet` on Ubuntu:
+
+        BUGS
+            The source code is not comprehensible.
+
 -   https://www.x.org/wiki/XorgEVoC/
 
 -   https://en.wikipedia.org/wiki/Layer_8

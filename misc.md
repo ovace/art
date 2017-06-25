@@ -2,6 +2,8 @@
 
 Uncategorized random stuff that I found interesting. Version controlled Twitter.
 
+-   <https://en.wikipedia.org/wiki/Western_dress_codes>
+
 -   <https://en.wikipedia.org/wiki/San_Angeles> I'm here because of an Android NDK demo.
 
 -   <https://en.wikipedia.org/wiki/Grey_goo>

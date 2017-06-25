@@ -38,6 +38,12 @@
 
 -   <http://en.wikipedia.org/wiki/Millennarianism_in_colonial_societies>
 
+## Mormons
+
+<https://en.wikipedia.org/wiki/Utah>
+
+More than half of Utah is Mormon! And it is the headquarters of the religion.
+
 ## Bible
 
 -   <https://en.wikipedia.org/wiki/Parable_of_the_Prodigal_Son>

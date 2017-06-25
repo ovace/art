@@ -4,6 +4,8 @@
 
 As an "advanced" non-native speaker, I always learn a few new terms every month.
 
+-   <https://www.quora.com/Whats-the-origin-of-the-saying-no-good-deed-goes-unpunished>
+
 -   <https://en.wikipedia.org/wiki/Jumping_the_shark>
 
 -   <https://en.wikipedia.org/wiki/Kompromat>

@@ -12,10 +12,11 @@ Powerful desktop GPU connected to a laptop externally.
 
 AMD yes kind of, NVIDIA only higher levels:
 
+- <http://stackoverflow.com/questions/4660974/how-to-create-or-manipulate-gpu-assembler>
 - <http://stackoverflow.com/questions/1697842/do-graphic-cards-have-instruction-sets-of-their-own>
+
 - <http://stackoverflow.com/questions/20341502/what-instruction-set-does-the-nvidia-geforce-6xx-series-use>
 - <http://stackoverflow.com/questions/3677220/is-it-possible-to-put-assembly-instructions-into-cuda-code/7072079#7072079>
-- <http://stackoverflow.com/questions/4660974/how-to-create-or-manipulate-gpu-assembler>
 - <http://superuser.com/questions/668019/how-do-device-driver-instructions-program-the-gpu>
 - <http://stackoverflow.com/questions/9798258/what-is-sass-short-for?lq=1>
 - <http://stackoverflow.com/questions/9798258/what-is-sass-short-for>
@@ -68,14 +69,16 @@ Before GPGPUs, came shading languages, which are compiled C-like languages which
 
 <https://en.wikipedia.org/wiki/PhysX>
 
-## AMD
+## Vendors
+
+### AMD
 
 Top consoles use it instead of NVIDIA, it seems that they license IP:
 
 - <https://en.wikipedia.org/wiki/PlayStation_4> semi custom AMD
 - <https://en.wikipedia.org/wiki/Xbox_One>
 
-### GPUOpen
+#### GPUOpen
 
 <https://en.wikipedia.org/wiki/GPUOpen>
 
@@ -84,6 +87,19 @@ Top consoles use it instead of NVIDIA, it seems that they license IP:
 <http://gpuocelot.gatech.edu/>
 
 Presentation video: <https://www.youtube.com/watch?v=Y0oBFeFUG4w>
+
+## Intel
+
+Two main interests it seems:
+
+- iGPUs
+- Xeon Phi
+
+Assembly apparently documented?
+
+- https://software.intel.com/en-us/articles/introduction-to-gen-assembly
+
+OpenCL SDK comes with a binary for it: `./gt_debugger_2016.0/bin/iga64`
 
 ## Mobile
 
@@ -177,3 +193,7 @@ TODO understand!!! Minimal execution example!!!
 - <http://yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html>
 - <http://stackoverflow.com/questions/3606636/cuda-model-what-is-warp-size>
 - <http://stackoverflow.com/questions/10460742/how-do-cuda-blocks-warps-threads-map-onto-cuda-cores>
+
+## Reverse engineering
+
+- <http://reverseengineering.stackexchange.com/questions/8549/reverse-engineering-a-proprietary-gpu-device-driver>

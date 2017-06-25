@@ -3,13 +3,16 @@
 Safety focused:
 
 - http://thesimplecomputer.info/free-webmail-for-better-privacy
+- https://www.quora.com/Is-there-any-succesful-P2P-e-mail-system
 
 Best ones:
 
+- <https://www.quora.com/What-are-some-free-email-services-that-do-not-ask-for-phone-verification>
+
 - fast account creation
 
-    - https://scramble.io/
-    - https://www.ghostmail.com/ , requires an existing email ?? How is that private ??
+    - https://scramble.io/ Will shut down soon.
+    - https://www.ghostmail.com/ , requires an existing email ?? How is that private ?? Down.
 
 - https://ruggedinbox.com/
 
@@ -22,16 +25,19 @@ Bad:
 
 - mail.com: buggy, acquired by GMX https://www.quora.com/I-cant-seem-to-open-an-account-through-mail-com-I-keep-getting-this-message-Your-registration-could-not-be-processed-at-the-moment-Please-try-again-later-How-can-I-resolve-this
 - https://openmailbox.org buggy
+- yandex: blocked tor with 403
 
 No cell phone required and famous:
 
-- http://www.gmx.com/
+- http://www.gmx.com/ Not working?
 
 Cell phone required:
 
 - gmail. Injections: dots ignored, `+asdf` and `asdf+` suffix prefixes ignored
 - yahoo
 - yandex
+- facebook. Says email is OK, but then locks you out.
+- twitter. Says email is OK, but then locks you out.
 
 Disposable email address providers
 

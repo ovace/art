@@ -199,6 +199,20 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 ### Nuclear
 
+-   <https://www.quora.com/Can-the-USA-defend-against-a-nuclear-attack-by-N-Korea-Iran-Russia-etc-Whats-our-defense-strategy>
+
+-   <https://www.quora.com/What-is-the-actual-physical-size-of-a-modern-thermonuclear-bomb>
+
+-   <https://en.wikipedia.org/wiki/Transporter_erector_launcher>
+
+-   <http://nuclearweaponarchive.org/Usa/Weapons/Allbombs.html> amazing list
+
+-   <https://www.quora.com/How-much-does-it-cost-to-make-one-nuclear-bomb>
+
+-   <https://en.wikipedia.org/wiki/No_first_use>
+
+-   <https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapons#Five_nuclear-weapon_states_under_the_NPT>
+
 -   <http://nuclearsecrecy.com/nukemap/>
 
 -   <https://www.youtube.com/watch?v=LLCF7vPanrY>
@@ -406,8 +420,14 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
 
 ## Torture
 
+- <https://en.wikipedia.org/wiki/Necklacing>
+
 - <https://en.wikipedia.org/wiki/White_torture>
 
 - <https://en.wikipedia.org/wiki/Waterboarding>
 
 - <https://en.wiktionary.org/wiki/tiger_bench>
+
+## Protective
+
+- <https://en.wikipedia.org/wiki/NBC_suit>

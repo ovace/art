@@ -111,3 +111,41 @@ Good episodes;
 Meh:
 
 - The Late Philip J. Fry
+
+## Man in the high castle 2015
+
+Note: 7
+
+Too constructed. Cliche storm.
+
+- "The accident".
+- Girl torn between two guys. <http://tvtropes.org/pmwiki/pmwiki.php/Main/TwoGuysAndAGirl>, <http://tvtropes.org/pmwiki/pmwiki.php/Main/WithAFriendAndAStranger> variety
+- <http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin>
+
+Main German / Japanese dialog is not in native language... which it would obviously be in.
+
+Germans are more evil than the Japanese.
+
+The bounty hunter gives me brain diarrhea.
+
+Juliana gets government job with japs, even though she is trouble with the police?
+
+Joe, after going undercover, goes to family lunch with his operator? Risk of getting caught?
+
+## The Americans 2013
+
+Some very good, others too exaggerated. Just skip exaggeration.
+
+Bad episodes:
+
+- s01e04: car jumping? really?? a bit too risky, no?
+- s01e11: just fill up, nothing happens
+- s02e01: meh
+
+## Rick and Morty 2013
+
+Note: 8
+
+- s02e03
+- s02e06
+- s03e01

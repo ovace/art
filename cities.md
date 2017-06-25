@@ -16,7 +16,7 @@ From Luton Airport:
 
 - bus http://coach.nationalexpress.com/nxbooking/journey-list departs every 2 hours, takes 1h40, costs 18 pounds.
 - train: takes 1h40, costs 38 pounds
-- https://en.wikipedia.org/wiki/Silicon_Fen started with Acorn
+- https://en.wikipedia.org/wiki/Silicon_Fen started with Acorn and CAD center
     - Apple (PinDrop acquisition). Siri job: https://web.archive.org/web/20161020082129/http://stackoverflow.com/jobs/127126/siri-operations-engineer-apple
     - Microsoft have presence there
     - HP Autonomy (acquisition 7 bi)
@@ -42,6 +42,12 @@ Great way to find lettings directly with owners: http://www.brettward.co.uk/canb
 http://www.thehacklab.uk/locations/cambridge/
 
 http://www.cambridgebusinesspark.co.uk/ one of the tech poles. Site contains area, from which we estimate headcounts.
+
+https://en.wikipedia.org/wiki/Aveva (new name for CAD Center)
+
+University:
+
+- <https://en.wikipedia.org/wiki/May_Week>
 
 ### London
 

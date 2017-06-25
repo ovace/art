@@ -2,6 +2,12 @@
 
 Social movements and practices.
 
+-   <https://en.wikipedia.org/wiki/Genderqueer>
+
+    - <https://en.wikipedia.org/wiki/Singular_they#Use_for_specific.2C_known_people>
+
+    - <https://en.wikipedia.org/wiki/Asia_Kate_Dillon>
+
 -   <https://en.wikipedia.org/wiki/Company_town>
 
 -   <https://en.wikipedia.org/wiki/Pinewood_derby>

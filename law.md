@@ -1,5 +1,15 @@
 # Law
 
+-   <https://en.wikipedia.org/wiki/Spousal_privilege>
+
+-   Polygamy
+
+    <https://www.secondwife.com/>
+
+    <https://en.wikipedia.org/wiki/Polygamy_in_North_America>
+
+    <https://en.wikipedia.org/wiki/Polygamy_in_the_United_Kingdom>
+
 -   sale / contract discrimination:
 
     -   race, color, religion or national origin on all states

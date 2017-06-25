@@ -145,7 +145,7 @@ Don't wast too much time stuck on a single point: when you less expect you will 
 
 Whenever you learn something, *write it down*  on your computer and publish it online to help others and make you famous.
 
-Human knowledge is like a forest. First a few pioneers create new trails in that forest. This makes it easier for others to come through, and make the trail more visile. Until some day, the trail becomes a huge highway with millions of people crossing every day.
+Human knowledge is like a forest. First a few pioneers create new trails in that forest. This makes it easier for others to come through, and make the trail more visible. Until some day, the trail becomes a huge highway with millions of people crossing every day.
 
 Search for existing tutorials and contribute to them.
 
@@ -167,11 +167,19 @@ Don't waste your time refreshing the main page, but if you find a better solutio
 
 ### Learn in focused outbursts
 
-Choose small goals that take from one day to one week, ane reach them one by one.
+Choose small goals that take from one day to one week, and reach them one by one.
 
 A goal can be anything that you want to do, e.g.:
 
 - learn X
 - make Y work
 
-Learn all the basis well to achieve the goal. You will often find that it will take way longer because your subgoals multiplied, but it does not matter: learn the basis well, and continue until the original goal is done, or you decide it is too hard for now.
+Learn all the basis well to achieve the goal. You will often find that it will take way longer because your sub goals multiplied, but it does not matter: learn the basis well, and continue until the original goal is done, or you decide it is too hard for now.
+
+### Virtuous loop of success
+
+As your tutorials start getting more and more views, you are more and more constantly reminded that you are doing something awesome.
+
+Just keep monitoring your metrics.
+
+Then this leads you to contribute more, which leads to more upvotes, and so on.

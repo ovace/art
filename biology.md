@@ -262,3 +262,7 @@ The solution to this was to give birth at an early stage of fetal development, b
 ## Evolution
 
 - <https://en.wikipedia.org/wiki/Human_mitochondrial_DNA_haplogroup>
+
+## Closed environments
+
+- Cody's lab shrimp <https://www.youtube.com/watch?v=We_6Sloh90s#t=738.043962>
