@@ -320,6 +320,10 @@ Exuberant tags `man ctags`:
 
 -   <http://durak.org/sean/pubs/kfc/>
 
+## Linux kernel
+
+-   Ugly macros are a way of life.
+
 -   The Linux kernel has `make clean`, but also a more radical clean called:
 
         make mrproper
