@@ -7,3 +7,7 @@
 - <https://en.wikipedia.org/wiki/Public_Ivy>
 
 - <https://en.wikipedia.org/wiki/Government_cheese>
+
+## Politics
+
+- <https://www.forbes.com/sites/timworstall/2015/01/04/solved-why-poor-states-are-red-and-rich-states-are-blue/#7519579d1d60>

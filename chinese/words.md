@@ -370,3 +370,17 @@ Strinct.
 String requirements:
 
 yao1qiu2 hen3 yan2ge2
+
+## 遇到 yu4 dao4
+
+To run into someone, slightly surprising meeting.
+
+你是中国人吧？虽说外国人会中文的很多，但语言组织的这么自然的，你是我遇到的第一个。
+
+## 知识 zhi1 shi4
+
+Knowledge. E.g. technical knowledge.
+
+## 俚语 li3 yu3
+
+Slang language.

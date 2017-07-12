@@ -4,6 +4,14 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
 
 -   <https://en.wikipedia.org/wiki/Conscientious_objector>
 
+-   <https://en.wikipedia.org/wiki/Ruse_de_guerre>
+
+-   <https://en.wikipedia.org/wiki/False_flag>
+
+-   <https://en.wikipedia.org/wiki/Covert_operation>
+
+-   <https://en.wikipedia.org/wiki/Black_operation>
+
 -   <https://en.wikipedia.org/wiki/Minimum_metal_mine>
 
 -   <https://en.wikipedia.org/wiki/Quarterstaff>
@@ -25,8 +33,6 @@ War, espionage, crime, violence, terrorism, revolution, police. In short: violen
 -   <https://en.wikipedia.org/wiki/White_phosphorus>
 
 -   <https://en.wikipedia.org/wiki/Killed_in_action>
-
--   <https://en.wikipedia.org/wiki/False_flag>
 
 -   <https://en.wikipedia.org/wiki/Closed_city>
 
@@ -397,26 +403,6 @@ This one was a sadist, who teamed up with Pinochet to torture people and was thu
     It's at the same time funny and tragic how we even know the names of offices which operate "semi-illegally", and very likely are responsible for human rights violations.
 
 -   <http://en.wikipedia.org/wiki/Chinese_intelligence_operations_in_the_United_States#Spy_cases>
-
--   Chinese defectors:
-
-    -   <http://en.wikipedia.org/wiki/Chen_Yonglin>. Espionage accusations.
-
-    -   <http://en.wikipedia.org/wiki/Jiang_Wenhao> 1989, pilot in the plane to Taiwan. A money prize was paid at the time for defectors. Airplanes also had an anti-defection system, but it did not work very well that time.
-
-    -   <http://en.wikipedia.org/wiki/Wang_Xuecheng> 1983, pilot in plane to Taiwan. Received the standard 3000 taels gold prize by the Taiwan government given to defectors.
-
-        Interesting to see the defection method, in particular how he waited for a chance to leave in an exercice where there were no wingmen, and when he had extra fuel.
-
-        Taiwan and China used different radio requencies, so he had to communicate to the Taiwanese pilots who came to check him that he was a peaceful defector and that he had low fuel only with airplane and hand gestures.
-
-        Also interesting to see how he conserved fuel by firing all of his ammunition.
-
-    It's "fun" to watch how people escape a dictatorship to tell the truth / get money.
-
-    China's reply strategy is to discredit the person as being at a lower Government level than actual, and charges of corruption.
-
-    There are many cold war / dictatorship pilot defection precedents: <http://en.wikipedia.org/wiki/First_MiG_behind_the_Iron_Curtain>
 
 ## Torture
 

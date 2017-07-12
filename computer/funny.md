@@ -5,6 +5,10 @@
         BUGS
             The source code is not comprehensible.
 
+-   `man sem_init`:
+
+    > Bizarrely, POSIX.1-2001 does not specify the value that should be returned by a successful call to sem_init().  POSIX.1-2008 rectifies this, specifying the zero return on success.
+
 -   https://www.x.org/wiki/XorgEVoC/
 
 -   https://en.wikipedia.org/wiki/Layer_8
