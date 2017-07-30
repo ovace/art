@@ -1,5 +1,7 @@
 # Law
 
+-   <https://en.wikipedia.org/wiki/Kennesaw,_Georgia#Gun_law> mandatory weapon law!
+
 -   <https://en.wikipedia.org/wiki/Spousal_privilege>
 
 -   Polygamy

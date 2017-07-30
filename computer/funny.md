@@ -1,5 +1,10 @@
 # Computer funny
 
+
+-   `/* All fields are private - violators will be prosecuted */` QEMU 2.7.0
+
+-   <https://github.com/python/cpython/blob/3.2/Lib/distutils/version.py#L101>
+
 -   `man telnet` on Ubuntu:
 
         BUGS

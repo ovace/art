@@ -149,3 +149,13 @@ Note: 8
 - s02e03
 - s02e06
 - s03e01
+
+## Billions 2016
+
+Note: 8
+
+## American Gods 2017
+
+Note: 8
+
+Weird, great cinematography.

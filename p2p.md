@@ -3,7 +3,7 @@
 - https://blog.openbazaar.org/openbazaar-is-open-for-business/
 - https://www.reddit.com/r/opensource/comments/4dfwij/openbazaar_an_open_source_fully_decentralized/
 
-## Etherum
+## Ethereum
 
 Very good book about it: <https://www.gitbook.com/book/ethereum/frontier-guide/details>
 
@@ -26,3 +26,7 @@ High level programming languages:
 - https://github.com/ethereum/wiki/wiki/Serpent
 
 Execution: https://ethereum.gitbooks.io/frontier-guide/content/opcodes,_costs,_and_gas.html
+
+## Games
+
+- <https://www.reddit.com/r/aoe2/comments/4tuvpo/is_aoe2s_multiplayer_p2p_or_serverbased/>

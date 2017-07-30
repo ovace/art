@@ -320,6 +320,9 @@ Ultra hard SMB mods:
 - https://en.wikipedia.org/wiki/Neverending_Nightmares
 - Her Story
 - <https://www.youtube.com/watch?v=WTcQJXyCXw8> pleas don't touch anything
+- fighting
+    - nidhogg https://www.youtube.com/watch?v=4wOx6N8ufgE
+    - bushido blade https://www.youtube.com/watch?v=VnfNpUEfuWw
 
 New platformers:
 

@@ -628,6 +628,12 @@ Note: 7.
 
 Great, just not my subject matter.
 
+### Transformers
+
+Note: 6.
+
+A cliche storm. Only watchable due to my desire to classify as many cliches as I can.
+
 ### TODO
 
 Sure:

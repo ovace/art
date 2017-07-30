@@ -55,3 +55,5 @@ Dying well is easy, living is not. (Rome, Open City)
 Inspiration is glimpsing an idea. Experience is explaining it. (a friend)
 
 Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
+
+Don’t bend; don’t water it down; don’t try to make it logical; don’t edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly. <http://quoteinvestigator.com/tag/franz-kafka/>
