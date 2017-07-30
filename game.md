@@ -551,8 +551,12 @@ Special relativity:
 
 ## Game of life
 
+Turing complete.
+
 - http://www.conwaylife.com/wiki/Spaceship
 - http://www.conwaylife.com/wiki/Oscillator
+- http://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life/111932
+- http://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life
 
 ## NetHack
 

@@ -6,4 +6,8 @@ To be a cuckold.
 
 Origin: Yuan dynasty when the relatives of prostitutes were forced to wear green hats.
 
-Also 
+## 半斤对八两 ban jin dui ba liang
+
+Two things are "the same".
+
+jin is a modern (modified) unit of measure, liang is an old unit of measure, and half jin == 8 liang.

@@ -1,5 +1,14 @@
 # GPU
 
+## GPU vs CPU
+
+GPU is as Turing complete as CPUs, but harder to program.
+
+For something to be worth on the GPU, it has to either run:
+
+- more computations per dollar (hardware + electricity price)
+- more computations faster (in applications where latency matter a lot)
+
 ## External GPU
 
 Powerful desktop GPU connected to a laptop externally.
@@ -50,6 +59,14 @@ https://en.wikipedia.org/wiki/ARB_assembly_language
 ### AMD-IL
 
 TODO
+
+### GCN
+
+### Graphics core nextw
+
+<https://en.wikipedia.org/wiki/Graphics_Core_Next>
+
+<https://gcc.gnu.org/ml/gcc/2017-03/msg00096.html> GCC backend
 
 ### PTX
 
@@ -116,7 +133,19 @@ Major IP implementations:
 
 - http://www.cnx-software.com/2013/01/19/gpus-comparison-arm-mali-vs-vivante-gcxxx-vs-powervr-sgx-vs-nvidia-geforce-ulp/
 
-## Unified memory architecture
+## Architecture
+
+### Unified shader model
+
+<https://en.wikipedia.org/wiki/Unified_shader_model>
+
+TODO: semi exposed by: <http://www.geeks3d.com/20100727/opengl-4-1-allows-the-use-of-binary-shaders/>
+
+But not standardized of course: <http://stackoverflow.com/questions/15900161/opengl-binary-formats>
+
+<https://community.arm.com/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-3---the-midgard-shader-core>
+
+### Unified memory architecture
 
 <https://devblogs.nvidia.com/parallelforall/unified-memory-in-cuda-6/>
 
@@ -167,8 +196,6 @@ Made by researches from <https://en.wikipedia.org/wiki/University_of_Wisconsin%E
 
 <https://github.com/VerticalResearchGroup/miaow>
 
-<https://en.wikipedia.org/wiki/Graphics_Core_Next>
-
 <https://github.com/VerticalResearchGroup/miaow>
 
 ## GPU vs CPU
@@ -197,3 +224,12 @@ TODO understand!!! Minimal execution example!!!
 ## Reverse engineering
 
 - <http://reverseengineering.stackexchange.com/questions/8549/reverse-engineering-a-proprietary-gpu-device-driver>
+- <https://www.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=onur-740-fall13-module5.1.3-simd-and-gpus-part3-vliw-dae-systolic.pdf>
+
+## Open source drivers
+
+Both NVIDIA and AMD have officially maintained open and closed source Linux drivers.
+
+AMD's are as good as the closed (so TODO, why do they keep the closed at all?), NVIDIA's are way behind.
+
+2017 comparison over various GPUs: <http://www.phoronix.com/scan.php?page=article&item=openclose-amdnv-2017&num=1>
