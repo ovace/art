@@ -40,6 +40,12 @@
 
     - <https://en.wikipedia.org/wiki/Zoophilia_and_the_law_in_the_United_States>
 
+    - <https://en.wikipedia.org/wiki/Human%E2%80%93animal_marriage>
+
+    - <https://en.wikipedia.org/wiki/Enumclaw_horse_sex_case>
+
+    - <https://www.quora.com/Can-humans-fall-in-love-with-other-species>
+
 -   <https://en.wikipedia.org/wiki/Misdemeanor>
 
 -   <https://en.wikipedia.org/wiki/Non_liquet>

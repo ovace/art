@@ -1,5 +1,7 @@
 # Japan
 
+- <https://en.wikipedia.org/wiki/Shuhari>
+
 - <http://en.wikipedia.org/wiki/Kawaii>. Also a porn genre. Weird.
 
 - <https://en.wikipedia.org/wiki/Japanese_idol>

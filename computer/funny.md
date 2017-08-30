@@ -1,5 +1,6 @@
 # Computer funny
 
+-   <https://www.seebs.net/c/c_tcn4e.html>
 
 -   `/* All fields are private - violators will be prosecuted */` QEMU 2.7.0
 

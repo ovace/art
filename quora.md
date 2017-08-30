@@ -10,6 +10,7 @@ Downsides:
 - Hard to see question upvote count
 - Cannot upvote questions: http://www.quora.com/Is-there-a-way-to-vote-questions-up-and-down-on-Quora-If-not-why-not
 - Questions don't show data anywhere by design! https://www.quora.com/Why-doesnt-Quora-show-when-a-question-was-added
+- Question details were removed, lol: <https://www.quora.com/topic/Question-Details-discontinued-Quora-feature> Now your question has to fit into one sentence. I'm just going to link to GitHub issues.
 
 ## Policies
 
