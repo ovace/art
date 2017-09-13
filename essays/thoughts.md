@@ -1,5 +1,7 @@
 # Thoughts
 
+Chuck Norris can parse pseudocode. (After my colleague was doing that in a project.)
+
 If a product of a big company has a name that is too catchy, it is an acquisition. Otherwise, the name would be just "Big Company Product Description".
 
 It's fun being at ARM. I look up some public information, then have an unanswered question, I can just look it up on the internal wiki.

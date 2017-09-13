@@ -1,5 +1,7 @@
 # Law
 
+-   <https://workplace.stackexchange.com/questions/97941/customers-take-issue-with-employees-social-media-posts>
+
 -   <https://en.wikipedia.org/wiki/Kennesaw,_Georgia#Gun_law> mandatory weapon law!
 
 -   <https://en.wikipedia.org/wiki/Spousal_privilege>
