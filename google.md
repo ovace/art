@@ -95,6 +95,11 @@ Utilities / widgets:
 - some latitude longitude pairs show a map: <https://www.google.com/search?client=ubuntu&channel=fs&q=2.3725335+48.8538185&ie=utf-8&oe=utf-8> but not all. TODO which? But you can always enter those in map queries.
 - add to calendar given day: <https://www.google.com/search?client=ubuntu&channel=fs&q=add+to+calendar+next+friday&ie=utf-8&oe=utf-8>
 
+No country redirect:
+
+- <https://google.com/ncr>
+- <http://searchengineland.com/google-ncr-no-country-redirection-feature-stop-working-but-google-may-bring-it-back-239381>
+
 YouTube:
 
 - <https://www.youtube.com/results?search_query=Beam+me+up+scotty>
