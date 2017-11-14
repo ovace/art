@@ -20,8 +20,9 @@ From Luton Airport:
     - Apple (PinDrop acquisition). Siri job: https://web.archive.org/web/20161020082129/http://stackoverflow.com/jobs/127126/siri-operations-engineer-apple
     - Microsoft have presence there
     - HP Autonomy (acquisition 7 bi)
-    - Amazon is testing drone delivery there,
+    - Amazon is testing drone delivery there, part of Amazon Lab126 <https://en.wikipedia.org/wiki/Amazon_Lab126>
     - https://www.quora.com/Is-Alphabet-Google-opening-an-office-in-Cambridge-in-the-UK
+    - Docker bought Xen project related company Unikernel systems: <https://www.cambridgenetwork.co.uk/news/docker-acquires-unikernel/> <https://thenewstack.io/docker-buys-unikernel-systems-plans-bring-unikernels-data-center/>
 
 Driving lessons: 28p / hour.
 
@@ -35,7 +36,7 @@ Enterprises:
 
 - http://www.camclustermap.com/
 
-https://www.cambridgenetwork.co.uk/home/
+https://www.cambridgenetwork.co.uk/home/ Founded by some rich entrepreneurs. That is where you go to get funding around the city.
 
 Great way to find lettings directly with owners: http://www.brettward.co.uk/canb/
 

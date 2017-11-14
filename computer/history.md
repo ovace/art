@@ -1,5 +1,7 @@
 # History
 
+-   <https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot> Mentioned on Halt and Catch Fire S04E01.
+
 -   Early computer displays were Tele Type (TTY!), a machine that typed on paper slips! <https://en.wikipedia.org/wiki/Computer_terminal#Hard-copy_terminals>
 
 -   Chinese type writer 1978 <https://www.reddit.com/r/China/comments/4htjih/chinese_typewriter_%E4%B8%AD%E6%96%87%E6%89%93%E5%AD%97%E6%A9%9F_1978/>

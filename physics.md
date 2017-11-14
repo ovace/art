@@ -33,6 +33,8 @@ Physics, chemistry, astronomy, geology.
 
 ## Mechanics
 
+-   https://en.wikipedia.org/wiki/Rotary_woofer
+
 -   Sand on metallic plate resonance patterns: <https://www.youtube.com/watch?v=YedgubRZva8>
 
 -   Tuning forks

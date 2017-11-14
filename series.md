@@ -18,9 +18,13 @@
 - <https://en.wikipedia.org/wiki/The_Jewel_in_the_Crown_%28TV_series%29>
 - <https://en.wikipedia.org/wiki/Yes_Minister>
 
-| Title           | Year | Note | Hours | Short description                                                                   |
-|-----------------|------|------|-------|-------------------------------------------------------------------------------------|
-| Smiley's people | 1987 | 9    | 6     | Convincing, admiring main character, shows Europe and spy craft with great realism. |
+## Smiley's people 1987
+
+Note: 10
+
+## Tinker Taylor Soldier Spy 1979
+
+Note: 10
 
 ## Episodes worth my time
 

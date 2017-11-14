@@ -29,3 +29,13 @@ Reversed:
 ### Team
 
 - 2012 - 2016 Kevin Hawkins https://www.linkedin.com/in/kevindhawkins CEO of gamedev.net
+
+## History
+
+<https://www.youtube.com/watch?v=EGaG1S4-D6o>
+
+Strong ties to UCSD.
+
+Previously linkabit.
+
+First product: trucks. Mobile was not yet small enough for people. Already required setting up the network around roads.
