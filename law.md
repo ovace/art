@@ -1,5 +1,7 @@
 # Law
 
+-   <https://workplace.stackexchange.com/questions/97941/customers-take-issue-with-employees-social-media-posts>
+
 -   <https://en.wikipedia.org/wiki/Kennesaw,_Georgia#Gun_law> mandatory weapon law!
 
 -   <https://en.wikipedia.org/wiki/Spousal_privilege>
@@ -39,6 +41,12 @@
 -   <https://en.wikipedia.org/wiki/Zoophilia_and_the_law>
 
     - <https://en.wikipedia.org/wiki/Zoophilia_and_the_law_in_the_United_States>
+
+    - <https://en.wikipedia.org/wiki/Human%E2%80%93animal_marriage>
+
+    - <https://en.wikipedia.org/wiki/Enumclaw_horse_sex_case>
+
+    - <https://www.quora.com/Can-humans-fall-in-love-with-other-species>
 
 -   <https://en.wikipedia.org/wiki/Misdemeanor>
 

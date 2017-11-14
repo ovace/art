@@ -1,5 +1,7 @@
 # Quotes
 
+Every problem is trivial given enough observability. Inspiration: programming with debugging, lack of data in natural sciences. Counter argument: economy. Counter counter argument: simple but large state and chaotic.
+
 By self, or people I know.
 
 Science is the reverse engineering of nature.

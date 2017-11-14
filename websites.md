@@ -1,5 +1,7 @@
 # Websites
 
+- <https://deathlist.net/>
+
 - <http://mathnotepad.com/>
 
 - <http://rationalwiki.org/wiki/Whale.to>

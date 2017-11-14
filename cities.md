@@ -60,6 +60,8 @@ University:
 
 Paris train eurostar: 2h30 Gare du Nord, 75 pounds?
 
+Cheaper to buy at: <https://www.voyages-sncf.com/> than on eurostar website.
+
 Cheapest: bus: OUIBUS and megabus. Takes 8 hours, down to 20 euros.
 
 Flight: 1h, 60 euros.
